@@ -35,3 +35,10 @@ Social Media Content Development
 
 ![](/images/4N%20EM%20–%20Building%20Models%20with%203D%20Printer.jpeg)
 4N EM – Building Models with 3D Printer
+
+![](/images/20190618_154130.jpg)
+The Arts of Animation @ Ngee Ann Poly
+
+![](/images/20190620_105932.jpg)
+The Arts of Animation @ Ngee Ann Poly
+
