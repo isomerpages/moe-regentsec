@@ -79,3 +79,20 @@ In Historical Investigations, students explore a range of authentic sources to g
      style="width:70%">
 
 ![](/images/Sec2.png)
+
+### **Conversational Chinese and Malay Language (CCM) Programme**
+
+Conversational Chinese and Malay Language (CCM) Programme  aims to strengthen Singapore’s multiracial identity and expose students to a third language.  Students will have an elementary understanding of a different mother tongue language and have the opportunity to explore cultural aspects of a particular ethnic group. Being able to communicate with others in a different mother tongue language will enable students to expand their cultural consciousness beyond their individual ethnic groups.  At the end of the programme, students will be equipped with basic conversational skills to enable them to interact with native speakers confidently.
+
+**Content:**
+
+*   Introduction to basic vocabulary.
+*   Ways of greetings
+*   Reading aloud
+*   Basic sentence formation
+*   Role-plays
+*   Introduction to festivals and culture
+
+![](/images/ccm1.jpg)
+
+![](/images/ccm2.jpg)
