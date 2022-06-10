@@ -1,0 +1,4 @@
+collections:
+  about-regent:
+    output: true
+    order: []
