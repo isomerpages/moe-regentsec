@@ -20,6 +20,9 @@ School Management Committee & All Staff
 
 ![](/images/V2_Science-Copy-300x200.jpg)
 <center>Science Department</center>
+
+![](/images/V2_Humanities-Copy-scaled.jpg)
+<center>Humanities Department</center>
 	
 	
 #### Form Teachers
