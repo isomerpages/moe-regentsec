@@ -43,9 +43,9 @@ Our teachers and students donned colourful ethnic costumes to commemorate this s
 
 ![](/images/Racial-Harmony-Day-4.jpg)
 
-**National Day**
+### **National Day**
 
-### **Together Our Singapore Spirit**
+#### **Together Our Singapore Spirit**
 
 Regent Secondary School celebrated National Day on 6 August. We started the day by viewing the pre-recorded National Day Observance Ceremony in class. Our uniformed groups donned their uniforms and got into formation to commemorate Singapore’s 56th birthday. As a school, we sang the National Anthem and took the pledge with pride.
 
