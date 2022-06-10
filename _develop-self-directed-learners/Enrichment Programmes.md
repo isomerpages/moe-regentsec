@@ -28,3 +28,8 @@ Science Learning Journeys is a series of activities to enthuse our students to l
 Aem Students Going Out Of Classrooms To Apply What They Have Learnt
 
 ![](/images/NUS-Physics-Camp-participants.png)
+Nus Physics Camp Participants
+
+![](/images/Science-Buskers-performing-in-Audition-Round.png)
+Science Buskers Performing In Audition Round
+
