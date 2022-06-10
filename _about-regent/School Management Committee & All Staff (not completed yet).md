@@ -33,6 +33,8 @@ School Management Committee & All Staff
 ![](/images/v2_Craft-n-Tech-Copy-300x200.jpg)
 <center>Craft N Tech</center>
 
+![](/images/V2_EAS-Copy-scaled.jpg)
+<center>School Admin Team </center>
 
 	
 #### Form Teachers
