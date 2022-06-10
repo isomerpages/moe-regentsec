@@ -2,4 +2,5 @@ collections:
   about-regent:
     output: true
     order:
+      - Vision, Mission, Values & Motto.md
       - Principal's Message.md
