@@ -2,9 +2,9 @@ collections:
   about-regent:
     output: true
     order:
-      - Vision, Mission & Values/School Song.md
-      - Vision, Mission & Values/School Rules.md
-      - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/.keep
+      - Vision, Mission & Values/Vision, Mission, Values & Motto.md
+      - Vision, Mission & Values/School Rules.md
+      - Vision, Mission & Values/School Song.md
       - The School Advisory Committee.md
       - Principal's Message.md
