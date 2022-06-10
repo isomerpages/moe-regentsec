@@ -3,7 +3,7 @@ title: Academic Programmes
 permalink: /develop-self-directed-learners/academic-programmes/
 description: ""
 ---
-### **Academic Support Programme (ASP)/ Consultation/ Night Study**
+![](/images/HUM2.jpg)### **Academic Support Programme (ASP)/ Consultation/ Night Study**
 
 Academic Support Programme is an after-school programme that aims to help students who need intensive support through remediation on selected topics and/or skills.
 
@@ -43,4 +43,14 @@ Application of Trigononometic ratios in real world context- students uses an onl
 
 ##### **Humanities Classroom**
 
+![](/images/HUM2.jpg)
+A Lower Sec Geography Lesson on the topic of Tropical Rainforest.
 
+![](/images/HUM1.jpg)
+_Students_ using google cardboard to extend their learning.
+
+##### **Science (Biology) Classroom**
+
+Infusing ethics into teaching of Upper Secondary Biology
+
+![](/images/Bio1.jpg)
