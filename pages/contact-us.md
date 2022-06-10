@@ -10,7 +10,7 @@ locations:
       - Singapore 689621
     operating_hours: []
     maps_link: ""
-    title: Adress
+    title: Address
   - address:
       - 109 North Bridge Road
       - Singapore 179097
