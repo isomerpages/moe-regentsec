@@ -24,8 +24,9 @@ third_nav_title: Our Achievements
 
 ![](/images/2018ACHIEVEMENT16-1024x576.jpg)
 
-![](/images/2018ACHIEVEMENT15-1024x576.jpg)
+![](/images/2018ACHIEVEMENT14-1024x576.jpg)
 
+![](/images/2018ACHIEVEMENT15-1024x576.jpg)
 
 
 ![](/images/2018ACHIEVEMENT13-1024x576.jpg)
