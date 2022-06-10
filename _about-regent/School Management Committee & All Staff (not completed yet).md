@@ -3,7 +3,6 @@ title: School Management Committee & All Staff (not completed yet)
 permalink: /about-regent/school-management-committee/
 description: ""
 ---
-
 ![](/images/All-Staff-e1581995804727.jpg)
 
 School Management Committee & All Staff
@@ -11,3 +10,39 @@ School Management Committee & All Staff
 #### **Staff Photos**
 
 ![](/images/V2_SMC-300x200.jpg)
+
+#### Form Teachers
+
+| **CLASS** 	| **FORM TEACHER 1** 	| **FORM TEACHER 2** 	|
+|---	|---	|---	|
+| S1 Pride 	| MR CHUA SEE HOW 	| MS LEE CHEONG KHI SARAH 	|
+| S1 Respect 	| MS CHIANG KWEE YOK 	| MDM ZAINAB BANU BINTE HASSAN 	|
+| S1 Integrity 	| MR MUHAMMAD MUSLIHUDDIN B ABDUL RAZA 	| MRS ELSIE MATHEWS 	|
+| S1 Determination 	| MS TAN CHING HSIA JULIE 	| MR ZULKIFLIE ABDUL RAZAK 	|
+| S1 Empathy 	| MS MALATHI D/O MURUGESAN 	| MR KOH ENG HUAT 	|
+| S1 Gratitude 	| MS HAP GUILIAN 	| MR TAN KAI YIK 	|
+| S1 Honour 	| MS ZAHIDAH BINTE A’AIDIL SHARI 	| MS SIOW PEI TIAN JILLYAN 	|
+|  	|  	|  	|
+| S2 Pride 	| MS SNG SEOK HWA SALLY 	| MS CHUA XIN RONG 	|
+| S2 Respect 	| MS LI HUILIN LYDIA 	| MR KELSON SEAH CHENG CHUAN 	|
+| S2 Integrity 	| MDM AISHA YASMIN BINTE ABDUL RAMAN 	| MR KESAVAN S/O VEERAPPEN 	|
+| S2 Determination 	| MS LEONG XIU FEN ELAINE 	| MS NUR HIDAYAH BINTE ABU MANSOR 	|
+| S2 Empathy 	| MR MOHAMMAD SUHAIMI B MOHD SALLEH 	| MS CHERYL SEET HUIXIN 	|
+| S2 Gratitude 	| MS CHEAK YEN HUI 	| MS SHARANJEET KAUR LOCHAM 	|
+|  	|  	|  	|
+| S3 Pride 	| MDM SITI NADZIRAH BTE HAMZAH 	| MR LIM KOK HAW 	|
+| S3 Respect 	| MS TEO CHAI HOON ANNIE 	| MDM SAMSIYAH BTE SAKORYAH 	|
+| S3 Integrity 	| MR JIANG YUHANG ISAAC 	| MS NATALIE SHOONG SHUYI 	|
+| S3 Determination 	| MS LIM YAN LI 	| MR HONG YANG SHAWN 	|
+| S3 Empathy 	| MS KAREN LEE CHAI LIN 	| MR YUNUS BIN MOHAMED 	|
+| S3 Gratitude 	| MR FOO SAY YEW JOHNNY 	| MR HUANG JUNLI 	|
+|  	|  	|  	|
+| S4 Pride 	| MR TAN SEOW MENG THOMAS 	| MS LIM LI LI MELISSA 	|
+| S4 Respect 	| MDM NOR RASIDAH BTE MOHD SALLEH 	| MS GOH RUI QI ADELINE 	|
+| S4 Integrity 	| MS JOAN LIM HUI MIAN 	| MDM DIAN SYAHIDAH BINTE ABDUL AZIZ 	|
+| S4 Determination 	| MR SOO LEY GIO SEBASTIAN 	| MS LAU HUI EN RACHEL 	|
+| S4 Empathy 	| MR MARK CHEE KONG 	| MS LI JING 	|
+| S5 Gratitude 	| MR TEO HOCK SIONG 	|  	|
+
+
+
