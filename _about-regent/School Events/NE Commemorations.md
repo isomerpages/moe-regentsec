@@ -30,3 +30,23 @@ Our NE Ambassadors have also been hard at work. On International Friendship Day,
 ![](/images/International-Friendship-Day-3.jpg)
 
 ![](/images/International-Friendship-Day-4.jpg)
+
+### **Racial Harmony Day**
+
+Our teachers and students donned colourful ethnic costumes to commemorate this special day which marked the importance of maintaining racial and religious harmony in Singapore’s multi-ethnic and multicultural society. With this year’s Racial Harmony Day theme being ‘Common Spaces, Connected Communities’, our group of teachers from the National Education Committee planned meaningful activities to encourage our students to understand the importance of common spaces in Singapore and how such spaces foster cohesion and harmony. A key highlight was the rich discussion in each class about their positive experiences with different ethnic groups. Students had fun sharing their memorable moments with their classmates, while maintaining safe distancing.
+
+![](/images/Racial-Harmony-Day-1.jpg)
+
+![](/images/Racial-Harmony-Day-2.jpg)
+
+![](/images/Racial-Harmony-Day-3.jpg)
+
+![](/images/Racial-Harmony-Day-4.jpg)
+
+**National Day**
+
+### **Together Our Singapore Spirit**
+
+Regent Secondary School celebrated National Day on 6 August. We started the day by viewing the pre-recorded National Day Observance Ceremony in class. Our uniformed groups donned their uniforms and got into formation to commemorate Singapore’s 56th birthday. As a school, we sang the National Anthem and took the pledge with pride.
+
+Our lower secondary students commemorated National Day by playing a fun game of Bingo where they had the opportunity to understand their classmates’ common Singapore experiences! Many of them had a great laugh at some practices that make Singaporeans unique. As for our upper secondary students, they were invited to pen down thoughtful aspirations and hopes for Singapore and to share how they planned to help Singapore achieve these hopes and dreams.
