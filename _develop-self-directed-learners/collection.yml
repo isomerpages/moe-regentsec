@@ -2,7 +2,6 @@ collections:
   develop-self-directed-learners:
     output: true
     order:
-      - Graduation Assembly 2021.md
       - Academic Programmes.md
       - Applied Learning Programme.md
       - Enrichment Programmes.md
@@ -11,3 +10,4 @@ collections:
       - Overseas Learning Journey/2019.md
       - Overseas Learning Journey/2018.md
       - Early Admissions Exercise Programme (EAE).md
+      - Graduation Assembly 2021.md
