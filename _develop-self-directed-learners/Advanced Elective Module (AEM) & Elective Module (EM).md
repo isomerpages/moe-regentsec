@@ -44,3 +44,6 @@ The Arts of Animation @ Ngee Ann Poly
 
 ![](/images/Fighting%20with%20Invisible%20the%20Enemies%20@%20Ngee%20Ann%20Poly.jpeg)
 Fighting with Invisible the Enemies @ Ngee Ann Poly
+
+![](/images/Fighting%20with%20Invisible%20the%20Enemies2.jpeg)
+Fighting with Invisible the Enemies @ Ngee Ann Poly
