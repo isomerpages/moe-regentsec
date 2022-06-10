@@ -14,7 +14,6 @@ Lyrics by Mrs Aslinah Shariff & Mr Gerard Nonis
      style="width:50%">
 
 
-
 Hear the echoes of Regent,  
 Reaching far and wide.  
 With diligence and pride,  
