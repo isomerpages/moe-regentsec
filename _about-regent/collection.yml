@@ -2,7 +2,6 @@ collections:
   about-regent:
     output: true
     order:
-      - Our Achievements/.keep
       - Principal's Message.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
@@ -10,5 +9,6 @@ collections:
       - Vision, Mission & Values/School Song.md
       - The School Advisory Committee.md
       - School Management Committee & All Staff (not completed yet).md
+      - Our Achievements/.keep
       - School Events/.keep
       - School Publication/.keep
