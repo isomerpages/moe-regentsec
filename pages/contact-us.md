@@ -20,13 +20,13 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6765 3828
+      - email: ""
+      - other: ""
+    title: "Tel:"
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: regent_ss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: "Email:"
 ---
