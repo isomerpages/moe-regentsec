@@ -31,4 +31,12 @@ Use of learner centred pedagogy creates opportunities for teachers to enhance ou
 
 Using questions to make student thinking visible in an Upper Sec EL classroom
 
-Students’ using video app to record their group discussions before presenting their ideas their peers in the classroom
+Students’ using video app to record their group discussions before presenting their ideas their peers in the classroom.
+
+**Maths Classroom**
+
+![](/images/Maths1.jpg)
+
+![](/images/Maths2.jpg)
+
+Application of Trigononometic ratios in real world context- students uses an online AFL tool quiz to check for understanding in their learning
