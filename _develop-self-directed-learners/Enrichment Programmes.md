@@ -58,7 +58,8 @@ Types of GI:
 ![](/images/Secondary-1-Fieldtrip.jpg)
 <center> Secondary 1 </center>
 
-![](/images/Secondary-2-Fieldtrip-e1565168839703.jpg)
+<img src="/images/Secondary-2-Fieldtrip-e1565168839703.jpg" 
+     style="width:75%">
 <center> Secondary 2 </center>
 
 ![](/images/Secondary-3.png)
@@ -66,5 +67,3 @@ Types of GI:
 
 ![](/images/Secondary-45-Fieldtrip-e1565749100581.jpg)
 <center> Secondary 4&5 </center>
-
-
