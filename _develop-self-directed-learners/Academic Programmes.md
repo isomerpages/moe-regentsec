@@ -61,4 +61,6 @@ Infusing ethics into teaching of Upper Secondary Biology
 
 ![](/images/Bio3.jpg)
 
-During the lesson, Team coming together to put together their presentation to judges
+During the lesson, Team coming together to put together their presentation to judges.
+
+![](/images/Bio5.jpg)
