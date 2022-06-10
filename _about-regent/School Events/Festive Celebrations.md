@@ -52,3 +52,5 @@ Muslims here, instead of visiting their loved ones, have had to do virtual visit
 ![](/images/20210427_174230-scaled.jpg)
 
 ![](/images/20210427_174000-scaled.jpg)
+
+![](/images/20210427_174117-1024x768.jpg)
