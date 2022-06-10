@@ -12,6 +12,11 @@ School Management Committee & All Staff
 ![](/images/V2_SMC-300x200.jpg)
 <p style="margin : 0; padding-top:0;"><center>School Management Committee</center></p>
 
+![](/images/V2_English-Copy-scaled.jpg)
+<center>English Department</center>
+	
+	
+	
 #### Form Teachers
 
 | **CLASS** 	| **FORM TEACHER 1** 	| **FORM TEACHER 2** 	|
