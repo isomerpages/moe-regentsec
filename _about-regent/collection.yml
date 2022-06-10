@@ -1,4 +1,5 @@
 collections:
   about-regent:
     output: true
-    order: []
+    order:
+      - Principal's Message.md
