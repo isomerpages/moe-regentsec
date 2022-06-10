@@ -15,6 +15,8 @@ School Management Committee & All Staff
 ![](/images/V2_English-Copy-scaled.jpg)
 <center>English Department</center>
 	
+![](/images/v2_Maths-Copy-300x200.jpg)
+<center>Mathematics Department</center>
 	
 	
 #### Form Teachers
