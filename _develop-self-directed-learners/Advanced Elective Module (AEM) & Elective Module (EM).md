@@ -18,3 +18,14 @@ The offering of AEM / EM is to
 
 Through the AEM/EM, we hope that our students will develop a stronger sense of purpose and motivation to acquire knowledge and skills of the subject.
 
+![](/images/WhatsApp-Image.jpeg)
+Video Production
+
+![](/images/WhatsApp-Image-2019-03-25.jpeg)
+Social Media Content Development
+
+![](/images/4N%20EM%20–%20Fun%20with%20Electronics.jpeg)
+4N EM – Fun with Electronics
+
+
+
