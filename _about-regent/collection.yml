@@ -2,6 +2,7 @@ collections:
   about-regent:
     output: true
     order:
+      - School Management Committee & All Staff.md
       - School Events/.keep
       - School Publication/.keep
       - Vision, Mission & Values/.keep
