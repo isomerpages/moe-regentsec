@@ -2,7 +2,7 @@ collections:
   develop-self-directed-learners:
     output: true
     order:
-      - Advanced Elective Module (AEM) & Elective Module (EM).md
       - Academic Programmes.md
       - Applied Learning Programme.md
       - Enrichment Programmes.md
+      - Advanced Elective Module (AEM) & Elective Module (EM).md
