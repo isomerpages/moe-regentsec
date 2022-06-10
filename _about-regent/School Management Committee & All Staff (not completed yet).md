@@ -23,7 +23,11 @@ School Management Committee & All Staff
 
 ![](/images/V2_Humanities-Copy-scaled.jpg)
 <center>Humanities Department</center>
-	
+
+![](/images/V2_MT-Copy-300x200.jpg)
+<center>Mother Tongue Department</center>
+
+
 	
 #### Form Teachers
 
