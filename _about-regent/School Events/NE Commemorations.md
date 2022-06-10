@@ -50,3 +50,11 @@ Our teachers and students donned colourful ethnic costumes to commemorate this s
 Regent Secondary School celebrated National Day on 6 August. We started the day by viewing the pre-recorded National Day Observance Ceremony in class. Our uniformed groups donned their uniforms and got into formation to commemorate Singapore’s 56th birthday. As a school, we sang the National Anthem and took the pledge with pride.
 
 Our lower secondary students commemorated National Day by playing a fun game of Bingo where they had the opportunity to understand their classmates’ common Singapore experiences! Many of them had a great laugh at some practices that make Singaporeans unique. As for our upper secondary students, they were invited to pen down thoughtful aspirations and hopes for Singapore and to share how they planned to help Singapore achieve these hopes and dreams.
+
+![](/images/National-Day-1.jpg)
+
+![](/images/National-Day-2.jpg)
+
+![](/images/National-Day-3.jpg)
+
+![](/images/National-Day-4.jpg)
