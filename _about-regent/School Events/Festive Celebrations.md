@@ -33,4 +33,10 @@ Although, it has been a tradition whereby this day started with a trip to the mo
 
 Unfortunately, Hari Raya this year was celebrated in an unexpected way that left a lasting memory to those that went through it. As they say, this Hari Raya shall be remembered in the history books.
 
-Muslims here, instead of visiting their loved ones, have had to do virtual visits instead which comprised of video conferencing apps such as G.Meet and Zoom. Of course this means all staffs and students of Regent Secondary School have to abide by such rulings due to the safety measures in place. A new normal emerged because instead of asking for forgiveness face- to- face, everyone wished everyone else LIVE but virtually. Everyone tried to cheer everyone else up by giving lots of words of wisdoms but deep down, a tinge of sadness emerged because the act of physical salaam i.e. touching of one hand to the other in a symbol of respect, was missing. Nevertheless, the pandemic does not stop staff and students of Regent Secondary School to build beautiful bonds with their loved ones on the first day of Hari Raya
+Muslims here, instead of visiting their loved ones, have had to do virtual visits instead which comprised of video conferencing apps such as G.Meet and Zoom. Of course this means all staffs and students of Regent Secondary School have to abide by such rulings due to the safety measures in place. A new normal emerged because instead of asking for forgiveness face- to- face, everyone wished everyone else LIVE but virtually. Everyone tried to cheer everyone else up by giving lots of words of wisdoms but deep down, a tinge of sadness emerged because the act of physical salaam i.e. touching of one hand to the other in a symbol of respect, was missing. Nevertheless, the pandemic does not stop staff and students of Regent Secondary School to build beautiful bonds with their loved ones on the first day of Hari Raya.
+
+![](/images/20210506_130136-scaled.jpg)
+
+![](/images/20210506_130052-scaled.jpg)
+
+![](/images/20210506_130023-scaled.jpg)
