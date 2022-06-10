@@ -3,6 +3,9 @@ title: Principal's Message
 permalink: /about-regent/principals-message/
 description: ""
 ---
+![](/images/ebanner-P-message2.jpg)
+
+
 Principal’s Message
 ===================
 
