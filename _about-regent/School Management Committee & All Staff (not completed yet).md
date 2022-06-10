@@ -27,6 +27,9 @@ School Management Committee & All Staff
 ![](/images/V2_MT-Copy-300x200.jpg)
 <center>Mother Tongue Department</center>
 
+![](/images/V2_PE-Copy-scaled.jpg)
+<center>PE Department</center>
+
 
 	
 #### Form Teachers
