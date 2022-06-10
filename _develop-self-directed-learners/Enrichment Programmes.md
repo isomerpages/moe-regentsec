@@ -23,3 +23,8 @@ Science Learning Journeys is a series of activities to enthuse our students to l
 
 *   Enrichment – Learning journey to fusion world, Surprising Science, Forensic Science, Cluster Science for Sec 1, NUS Physics Camp, AEM – Fighting Invisible Enemies
 *   Competitions – Singapore Junior Water Prize, Science Centre Research, Science Busking Festival
+
+![](/images/AEM-students-going-out-of-classrooms-to-apply-what-they-have-learnt.png)
+Aem Students Going Out Of Classrooms To Apply What They Have Learnt
+
+![](/images/NUS-Physics-Camp-participants.png)
