@@ -2,6 +2,7 @@ collections:
   develop-self-directed-learners:
     output: true
     order:
+      - Early Admissions Exercise Programme (EAE).md
       - Overseas Learning Journey/.keep
       - Overseas Learning Journey/2019.md
       - Overseas Learning Journey/2018.md
