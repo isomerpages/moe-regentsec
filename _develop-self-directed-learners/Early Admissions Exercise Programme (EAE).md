@@ -13,8 +13,14 @@ students offered a course of study through EAE.
 
 **Our Key Programmes**
 
-EAE talk at NYP  
-Course Advising workshop at NYP  
-EAE application workshop  
-Interview skills workshop  
-Customised career counselling
+* EAE talk at NYP  
+* Course Advising workshop at NYP  
+* EAE application workshop  
+* Interview skills workshop  
+* Customised career counselling
+
+![](/images/eae-1.jpg)
+<center>EAE talk at NYP</center>
+
+![](/images/eae2.jpg)
+<center>Course Advising workshop at NYP</center>
