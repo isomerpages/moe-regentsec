@@ -30,6 +30,9 @@ School Management Committee & All Staff
 ![](/images/V2_PE-Copy-scaled.jpg)
 <center>PE Department</center>
 
+![](/images/v2_Craft-n-Tech-Copy-300x200.jpg)
+<center>Craft N Tech</center>
+
 
 	
 #### Form Teachers
