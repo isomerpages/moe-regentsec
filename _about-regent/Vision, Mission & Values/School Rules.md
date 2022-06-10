@@ -39,10 +39,9 @@ Pupils who are Singapore Citizens must sing the National anthem and take the Ple
 2.11    Pupils who come to school for any kind of activity during the holidays such as supplementary lessons, CCA, enrichment programmes or to meet the Principal, Vice-Principal or a teacher must dress accordingly as instructed by the person-in-charge.
 
 Acceptable attire during the holidays is
-
-*   *   Full school uniform OR
-    *   School/CCA t-shirt worn with the school pants/skirt. Class T-shirt is not allowed unless during special occasions where permission is given.
-    *   School shoes as described in para 2.1. Other types of footwear are not allowed.
+  *   Full school uniform OR
+  *   School/CCA t-shirt worn with the school pants/skirt. Class T-shirt is not allowed unless during special occasions where permission is given.
+   *   School shoes as described in para 2.1. Other types of footwear are not allowed.
 
  ### **3. Attendance**
     
