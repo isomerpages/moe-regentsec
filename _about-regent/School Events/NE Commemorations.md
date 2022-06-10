@@ -15,3 +15,10 @@ Over the course of the past two weeks, Regent Secondary School commemorated Tota
 ![](/images/Total-Defence-3.jpg)
 
 ![](/images/Total-Defence-4.jpg)
+
+
+### **International Friendship Day**
+
+In the month of April, we celebrated International Friendship Day (IFD) at Regent Secondary School! The theme for this year’s IFD is “Singapore in the World”. From 5th to 9th April, students took part in various activities such as learning about Singapore’s relations with countries around us during our morning assembly programme as well as understanding more about COVAX and Singapore’s contributions to the world during CCE lessons. Our Upper Secondary students have also prepared information sheets to educate their juniors about COVAX. Through this CCE-IFD lesson, students are more aware of the need for countries to offer practical help in ensuring the world is a safer place for all humanity.
+
+Our NE Ambassadors have also been hard at work. On International Friendship Day, our ambassadors led their classmates in completing a Crossword Puzzle as well as a Venn diagram to build on students’ understanding about the different countries around us. We also had some of our foreign students from Vietnam, Malaysia and India take to the screen to share about what life was like back in their home country in terms of food, pastimes, festivals and education system. Through these activities, students got to learn about the countries around Singapore, and realized that beneath the differences we are all very much alike. Finally, we capped off the day by having all staff and students wear yellow to school to commemorate the importance of Singapore developing friendships both within ASEAN as well as with the other countries around the world.
