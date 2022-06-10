@@ -27,5 +27,11 @@ Social Media Content Development
 ![](/images/4N%20EM%20–%20Fun%20with%20Electronics.jpeg)
 4N EM – Fun with Electronics
 
+![](/images/4N%20EM%20–%20Design%20and%20Build%20Your%20Own%20Glider.jpeg)
+4N EM – Design and Build Your Own Glider
 
+![](/images/4N%20EM%20–%20Creating%20A%20Computer%20Game.jpeg)
+4N EM – Creating A Computer Game
 
+![](/images/4N%20EM%20–%20Building%20Models%20with%203D%20Printer.jpeg)
+4N EM – Building Models with 3D Printer
