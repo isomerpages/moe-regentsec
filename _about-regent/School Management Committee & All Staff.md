@@ -9,3 +9,4 @@ School Management Committee & All Staff
 =======================================
 #### **Staff Photos**
 
+![](/images/V2_SMC-300x200.jpg)
