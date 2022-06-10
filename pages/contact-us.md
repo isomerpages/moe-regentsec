@@ -11,13 +11,6 @@ locations:
     operating_hours: []
     maps_link: ""
     title: Address
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: +65 6765 3828
@@ -29,4 +22,9 @@ contacts:
       - email: regent_ss@moe.edu.sg
       - other: ""
     title: "Email:"
+  - content:
+      - phone: +65 6765 3413
+      - email: ""
+      - other: ""
+    title: "Fax:"
 ---
