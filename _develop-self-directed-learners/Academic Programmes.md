@@ -3,7 +3,7 @@ title: Academic Programmes
 permalink: /develop-self-directed-learners/academic-programmes/
 description: ""
 ---
-![](/images/HUM2.jpg)### **Academic Support Programme (ASP)/ Consultation/ Night Study**
+### **Academic Support Programme (ASP)/ Consultation/ Night Study**
 
 Academic Support Programme is an after-school programme that aims to help students who need intensive support through remediation on selected topics and/or skills.
 
@@ -54,3 +54,11 @@ _Students_ using google cardboard to extend their learning.
 Infusing ethics into teaching of Upper Secondary Biology
 
 ![](/images/Bio1.jpg)
+
+![](/images/Bio2.jpg)
+
+![](/images/Bio4-1.jpg)
+
+![](/images/Bio3.jpg)
+
+During the lesson, Team coming together to put together their presentation to judges
