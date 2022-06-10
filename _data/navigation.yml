@@ -1,8 +1,6 @@
 logo: /images/schoolLogo300x131WebLogov4.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Regent
     collection: about-regent
+  - title: Contact Us
+    url: /contact-us/
