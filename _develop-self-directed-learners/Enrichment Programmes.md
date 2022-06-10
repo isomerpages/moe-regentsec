@@ -16,3 +16,10 @@ Judges’ Awards In Secondary Category
 First Place In Secondary Category
 
 ![](/images/Science-Basking.jpg)
+
+#### **Science Learning Journeys**
+
+Science Learning Journeys is a series of activities to enthuse our students to learn science beyond our classroom.  It includes short workshops which allow them to apply what they have learnt in classroom to real world context. There are also research work which requires them to collect data for their experiment during School Holidays.
+
+*   Enrichment – Learning journey to fusion world, Surprising Science, Forensic Science, Cluster Science for Sec 1, NUS Physics Camp, AEM – Fighting Invisible Enemies
+*   Competitions – Singapore Junior Water Prize, Science Centre Research, Science Busking Festival
