@@ -18,3 +18,17 @@ Math Consultation
 
 ![](/images/Science-Consultation.png)
 Science Consultation
+
+#### **Enhancing Student Learning Experiences**
+
+Use of learner centred pedagogy creates opportunities for teachers to enhance our student learning experiences.
+
+**English Language Classroom**
+
+![](/images/EL1.jpg)
+
+![](/images/EL2.jpg)
+
+Using questions to make student thinking visible in an Upper Sec EL classroom
+
+Students’ using video app to record their group discussions before presenting their ideas their peers in the classroom
