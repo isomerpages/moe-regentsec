@@ -15,7 +15,7 @@ School Management Committee & All Staff
 ![](/images/V2_English-Copy-scaled.jpg)
 <center>English Department</center>
 	
-![](/images/v2_Maths-300x200.jpg)
+![](/images/v2_Maths-Copy-scaled.jpg)
 <center>Mathematics Department</center>
 
 ![](/images/V2_Science-Copy-300x200.jpg)
@@ -24,13 +24,13 @@ School Management Committee & All Staff
 ![](/images/V2_Humanities-Copy-scaled.jpg)
 <center>Humanities Department</center>
 
-![](/images/V2_MT-Copy-300x200.jpg)
+![](/images/V2_MT-Copy-scaled.jpg)
 <center>Mother Tongue Department</center>
 
 ![](/images/V2_PE-Copy-scaled.jpg)
 <center>PE Department</center>
 
-![](/images/v2_Craft-n-Tech-Copy-300x200.jpg)
+![](/images/v2_Craft-n-Tech-Copy-scaled.jpg)
 <center>Craft N Tech</center>
 
 ![](/images/V2_EAS-Copy-scaled.jpg)
