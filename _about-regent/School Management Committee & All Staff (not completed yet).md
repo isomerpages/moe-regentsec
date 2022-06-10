@@ -17,6 +17,9 @@ School Management Committee & All Staff
 	
 ![](/images/v2_Maths-Copy-300x200.jpg)
 <center>Mathematics Department</center>
+
+![](/images/V2_Science-Copy-300x200.jpg)
+<center>Science Department</center>
 	
 	
 #### Form Teachers
