@@ -38,3 +38,6 @@ Student Helpers And Participants At Cluster Science Enrichment
 
 ![](/images/Student-participants-for-Singapore-Junior-Water-Prize.png)
 Student Participants For Singapore Junior Water Prize
+
+![](/images/Students-experimenting-with-their-hypothesis-during-Science-Centre-Research-Programme.png)
+Students Experimenting With Their Hypothesis During Science Centre Research Programme
