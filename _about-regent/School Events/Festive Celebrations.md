@@ -23,3 +23,14 @@ After Lion Dance troupe exited from the Hall, students were treated with excitin
 ![](/images/LION-DANCE-2-CNY-2020-scaled.jpg)
 
 ![](/images/LION-DANCE-CNY-2020-scaled.jpg)
+
+
+### **Hari Raya Celebrations**
+
+Hari Raya Aidilfitri this year was celebrated differently, due to the global pandemic caused by the Covid-19 virus. Muslims all over the world, have had to celebrate the day that marked the end of the month-long fasting of Ramadan in a novel way.
+
+Although, it has been a tradition whereby this day started with a trip to the mosque early in the morning when special prayers are performed as an expression of gratitude for being able to fast for the whole month. Traditionally, this is followed by a grand meal with family members to enjoy the delicious traditional dishes such as ‘rendang’, ‘ketupat ‘and not forgetting, the variety of cookies of different flavours.
+
+Unfortunately, Hari Raya this year was celebrated in an unexpected way that left a lasting memory to those that went through it. As they say, this Hari Raya shall be remembered in the history books.
+
+Muslims here, instead of visiting their loved ones, have had to do virtual visits instead which comprised of video conferencing apps such as G.Meet and Zoom. Of course this means all staffs and students of Regent Secondary School have to abide by such rulings due to the safety measures in place. A new normal emerged because instead of asking for forgiveness face- to- face, everyone wished everyone else LIVE but virtually. Everyone tried to cheer everyone else up by giving lots of words of wisdoms but deep down, a tinge of sadness emerged because the act of physical salaam i.e. touching of one hand to the other in a symbol of respect, was missing. Nevertheless, the pandemic does not stop staff and students of Regent Secondary School to build beautiful bonds with their loved ones on the first day of Hari Raya
