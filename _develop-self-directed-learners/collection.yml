@@ -1,4 +1,5 @@
 collections:
   develop-self-directed-learners:
     output: true
-    order: []
+    order:
+      - Academic Programmes.md
