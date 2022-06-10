@@ -2,5 +2,6 @@ collections:
   about-regent:
     output: true
     order:
+      - The School Advisory Committee.md
       - Vision, Mission, Values & Motto.md
       - Principal's Message.md
