@@ -2,6 +2,7 @@ collections:
   develop-self-directed-learners:
     output: true
     order:
+      - Graduation Assembly 2021.md
       - Academic Programmes.md
       - Applied Learning Programme.md
       - Enrichment Programmes.md
