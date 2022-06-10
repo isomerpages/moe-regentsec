@@ -67,3 +67,10 @@ Types of GI:
 
 ![](/images/Secondary-45-Fieldtrip-e1565749100581.jpg)
 <center> Secondary 4&5 </center>
+
+### **Historical Investigations**
+
+In Historical Investigations, students explore a range of authentic sources to glean perspectives of the lives of people in the past and infer on life old Singapore.   Students also navigate through various historical sites in Singapore and encounter authentic learning experiences which help them connect with their learning.
+
+*   Secondary 1- Fort Canning: Students learnt about the history of Singapore before 1819 by analysing sources found at Fort Canning Hill.
+*   Secondary 2 – Battlebox: Battlebox is a former WWII British underground command centre inside Fort Canning Hill in the heart of Singapore City. It was part of the headquarters of Malaya Command, the army which defended Malaya and Singapore in WWII. It was inside the Battlebox that the British made the decision to surrender Singapore to the invading Japanese on 15 February 1942. Students visited the Battlebox which has been converted into a museum to learn stories on the fall of Malaya and Singapore in WWII.
