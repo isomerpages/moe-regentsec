@@ -33,3 +33,8 @@ Nus Physics Camp Participants
 ![](/images/Science-Buskers-performing-in-Audition-Round.png)
 Science Buskers Performing In Audition Round
 
+![](/images/Student-helpers-and-participants-at-Cluster-Science-Enrichment.png)
+Student Helpers And Participants At Cluster Science Enrichment
+
+![](/images/Student-participants-for-Singapore-Junior-Water-Prize.png)
+Student Participants For Singapore Junior Water Prize
