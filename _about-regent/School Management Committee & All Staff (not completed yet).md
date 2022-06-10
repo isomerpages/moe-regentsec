@@ -10,6 +10,7 @@ School Management Committee & All Staff
 #### **Staff Photos**
 
 ![](/images/V2_SMC-300x200.jpg)
+<p style="margin : 0; padding-top:0;"><center>School Management Committee</center></p>
 
 #### Form Teachers
 
