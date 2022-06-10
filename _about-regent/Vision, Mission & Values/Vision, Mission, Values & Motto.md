@@ -4,11 +4,10 @@ permalink: /about-regent/vision-mission-values/
 description: ""
 third_nav_title: Vision, Mission & Values
 ---
-
 Our School Crest
 ----------------
-
-![](/images/Regent-Crest-653x1024.png)
+<img src="/images/Regent-Crest-653x1024.png" 
+     style="width:50%">
 
 Our crest takes the shape of the Regent Torch.
 
