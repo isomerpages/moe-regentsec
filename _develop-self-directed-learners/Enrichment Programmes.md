@@ -17,7 +17,7 @@ First Place In Secondary Category
 
 ![](/images/Science-Basking.jpg)
 
-#### **Science Learning Journeys**
+### **Science Learning Journeys**
 
 Science Learning Journeys is a series of activities to enthuse our students to learn science beyond our classroom.  It includes short workshops which allow them to apply what they have learnt in classroom to real world context. There are also research work which requires them to collect data for their experiment during School Holidays.
 
@@ -41,3 +41,16 @@ Student Participants For Singapore Junior Water Prize
 
 ![](/images/Students-experimenting-with-their-hypothesis-during-Science-Centre-Research-Programme.png)
 Students Experimenting With Their Hypothesis During Science Centre Research Programme
+
+### **Geography Inquiry**
+
+In GI, students investigate a geographical issue relating to specific topics learnt in class.
+
+In the Geographical Investigations, students have to engage in water testing, interview people on the roads based on their experiences and interactions in Singapore, analyse the data obtained and form clear conclusions. Each issue has a GI question and students are tasked to gather, select and present relevant data from the field. Based on their data, students will form their own geographical interpretations regarding the issue and answer the GI question.
+
+Types of GI:
+
+*   Secondary 1 – Testing water quality at Pang Sua Canal
+*   Secondary 2 – Yew Tee Point and Yew Tee MRT station (housing perception)
+*   Secondary 3 – Weather investigation in Regent Sec Sch
+*   Secondary 4/5 – Explore Chinatown and to interview tourists and understand more on tourism trends
