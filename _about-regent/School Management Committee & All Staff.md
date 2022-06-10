@@ -3,3 +3,9 @@ title: School Management Committee & All Staff
 permalink: /about-regent/school-management-committee/
 description: ""
 ---
+![](/images/All-Staff-e1581995804727.jpg)
+
+School Management Committee & All Staff
+=======================================
+#### **Staff Photos**
+
