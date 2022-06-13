@@ -93,3 +93,15 @@ e-CCA
 With the onset of COVID-19 pandemic and safe management measures (SMM) in place, vocal and dance training went online during some periods of the past two years. . One project embarked by students was the **virtual choir project**. They worked in groups using Soundtrap, a cloud studio application, to record, upload and edit their singing tracks. It culminated in the virtual music showcase where students showcased their talents and receive feedback and motivation from their friends, choir instructor, and teachers.
 
 Enjoy listening to a few samples of students’ singing.
+
+**Music Showcase Project 1**
+(vid need to be uploaded onto YT)
+
+**Music Showcase Project 2**
+(vid need to be uploaded onto YT)
+
+**Music Showcase Project 3**
+(vid need to be uploaded onto YT)
+
+**Music Showcase Project 4**
+(vid need to be uploaded onto YT)
