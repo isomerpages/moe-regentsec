@@ -60,3 +60,9 @@ Under the support and guidance of our school leaders, teachers-in-charge and pro
 #### **Singapore Youth Festival Arts Presentation**
 
 Audio recording of “Shine Like Stars”
+
+![](/images/02_SYF-audio-recording-1024x768.jpg)
+
+![](/images/03_SYF-audio-recording-1024x768.jpg)
+
+![](/images/04_SYF-audio-recording-768x1024.jpg)
