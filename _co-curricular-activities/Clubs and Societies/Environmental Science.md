@@ -47,3 +47,10 @@ Upcycling old t-shirts into tote bags
 *   Starhub E-Waste Challenge
 *   NYP Design Thinking and Innovation Boot Camp 2020
 *   Reduce@Northwest 2021
+
+![](/images/env4.jpg)
+Bird watching
+
+![](/images/env3-1024x816.jpg)
+Upcycled pen holders for Teachers’ Day
+
