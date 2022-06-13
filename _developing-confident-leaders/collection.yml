@@ -1,4 +1,5 @@
 collections:
   developing-confident-leaders:
     output: true
-    order: []
+    order:
+      - Sec 1 Orientation 2022.md
