@@ -2,5 +2,6 @@ collections:
   developing-confident-leaders:
     output: true
     order:
+      - Sec 2 Adventure Day Camp 2021.md
       - Sec 1 Adventure Day Camp 2021.md
       - Sec 1 Orientation 2022.md
