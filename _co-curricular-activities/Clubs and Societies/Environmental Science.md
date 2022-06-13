@@ -27,3 +27,10 @@ Our activities emphasise hands-on experience and learning which empowers every m
 We achieved the **Yellow Flame Award** at the School Green Awards 2021. Guided by our mission to equip all students and staff to become responsible advocates of the environment, our environmental programmes seek to promote good environmental habits and involve the wider community in environmental efforts. This year, our school’s project focused on upcycling as a way to “be the change” in working towards sustainable living through conserving resources.
 
 Our students from the Environmental Sciences Club led the school-wide effort to turn used items into new products, including mask holders, tote bags, and coin banks. Ongoing recycling and energy-saving efforts have also helped us become a greener school. Through this, we have effected a positive environmental impact in our school and community.
+
+![](/images/env1.png)
+Students conducted virtual upcycling workshops. In this picture, they are teaching others to make upcycled mask holders from milk cartons.
+
+![](/images/env2-768x1024.jpg)
+Upcycling old t-shirts into tote bags
+
