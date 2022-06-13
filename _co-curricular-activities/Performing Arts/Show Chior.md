@@ -66,3 +66,6 @@ Audio recording of “Shine Like Stars”
 ![](/images/03_SYF-audio-recording-1024x768.jpg)
 
 ![](/images/04_SYF-audio-recording-768x1024.jpg)
+
+The music video: 
+(need to upload on YT)
