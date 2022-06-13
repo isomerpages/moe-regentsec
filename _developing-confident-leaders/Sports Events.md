@@ -15,3 +15,6 @@ The challenge for every class is to clock 193km as a class (FYI: The total dista
 During the two weeks of the challenge, students are to clock their distance using a distance tracking application on his smart phones. Students will then upload their distance clocked during the run and a screenshot of the route that they ran. The upload was seamless and the instructions were easy to follow! Students can keep track of the total distance that they have clocked via the live leaderboard available on the website.
 
 At the end of the challenge, awards are given out to the top 10 male and female students of each level. Awards for best class per level and top 3 staff members were given as well. Overall, our students and staff are enjoyed their runs and explored new places at the same time. Let’s stay healthy during this period of time and we hope this challenge has motivated everyone to continue to stay active and fit!
+
+![](/images/Virtual-Run-Winner-Collage-1024x681.png)
+Best Class Winners
