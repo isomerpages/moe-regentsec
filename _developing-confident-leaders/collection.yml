@@ -2,6 +2,7 @@ collections:
   developing-confident-leaders:
     output: true
     order:
+      - Together Regent Cares 2021.md
       - CCE/.keep
       - CCE/Aspirations Programme.md
       - CCE/Cyber Wellness Programme.md
