@@ -67,3 +67,10 @@ Upcycled paper wallet
 
 ![](/images/env10-1024x931.png)
 Display board for Earth Day
+
+![](/images/env11-1024x768.png)
+
+As part of the Reduce@Northwest initiative by NorthWest CDC, our Environmental Sciences Club members, Environment Champions and Student Councillors came together to encourage our fellow Regenites to make the green pledge and think of ways to reduce our carbon footprint.
+
+![](/images/env11-768x1024.jpg)
+Environment Champions from each class made mask holders for the residents, as part of the RegentCares effort.
