@@ -22,3 +22,7 @@ The seven industries include Healthcare, Banking and Finance, Entrepreneurship (
 
 ![](/images/Banking-and-Finance_Career_Talk_by_Mr_Randy_Toh.jpg)
 Banking And Finance Career Talk By Mr Randy Toh
+
+![](/images/Healthcare_Career_Talk_By_Dr_Dijoni_Huang.jpg)
+Healthcare Career Talk By Dr Dijoni Huang
+
