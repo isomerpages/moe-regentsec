@@ -39,3 +39,12 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scop
 
 **At Regent Secondary School, the following Sexuality Education lessons will be taught in 2022:**
 
+![](/images/SEd-Secondary-1.png)
+
+![](/images/SEd-Secondary-2.png)
+
+![](/images/SEd-Secondary-3.png)
+
+![](/images/SEd-Secondary-4.png)
+
+![](/images/SEd-Secondary-5.png)
