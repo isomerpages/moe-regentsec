@@ -18,3 +18,15 @@ Aside from that, we also carried out the Amazing Race for the Secondary 1 studen
 On a more personal note, this Orientation has been extremely memorable to the planning team. Although the Orientation was held in January, the planners started their preparation way back in November last year! As the planning team, we had to meet up often – physically and virtually. The regular meetings were necessary to ensure that everyone was on the same page, and that our ideas and plans were well-thought of and properly communicated. Due to the evolving nature of COVID-19, we also had to adjust the activities accordingly to ensure that there was social distancing in the activities we planned. For most of the members in the planning team, Orientation 2022 was especially memorable as it was the first time we planned for such a big event! Even though the stakes were high and we encountered various difficulties along the way, everyone was determined to do their best to plan and execute fulfilling and exciting games for the Secondary 1 students. We are so grateful to be given this opportunity to grow as leaders and would like to extend our appreciation to our School Leaders and teachers for their advice, support and care. We truly learnt so much from this unforgettable experience and we hope the Secondary 1 students had as much fun as we did!
 
 Written by Sarah Pang (3-Gratitude), Joeie Neo (3-Gratitude) and Chan Weng Hin (4-Empathy)
+
+![](/images/Sec-Orient-1-2022-4.jpg)
+
+![](/images/Sec-Orient-1-2022-1.jpg)
+
+![](/images/Sec-Orient-1-2022-6.jpg)
+
+![](/images/Sec-Orient-1-2022-2.jpg)
+
+![](/images/Sec-Orient-1-2022-3.jpg)
+
+![](/images/Sec-Orient-1-2022-5-2.jpg)
