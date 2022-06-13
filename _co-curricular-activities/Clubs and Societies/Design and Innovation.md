@@ -35,3 +35,7 @@ Participating competition :
 ![](/images/Design-n-Innovation1.jpg)
 ![](/images/Design-n-Innovation2.jpg)
 ![](/images/Design-n-Innovation3.jpg)
+
+![](/images/WhatsApp-Image-2020-01-22-768x1024.jpeg)
+
+![](/images/WhatsApp-Image-2020-01-22-897x1024.jpeg)
