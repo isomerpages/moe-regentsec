@@ -31,3 +31,5 @@ Our students participate in the annual National Cyber Wellness Advocacy Challeng
 
 **DigiGirlz**   
 Even when school’s out, learning continues for our members as they participate in the annual DigiGirlz programme organised by the Infocomm Media Development Authority (IMDA) and Microsoft. Every year, the young ladies in our CCA to learn about careers in technology, connect with Microsoft employees, and participate in hands-on computer and technology workshops. Working alongside the young ladies in the CCA, the young gentlemen also learn invaluable soft skills in addition to technical skills. For instance, they learn to collaborate on diverse teams and respect individuals with talent.
+
+![](/images/Infocomm-Informal-1024x683.png)
