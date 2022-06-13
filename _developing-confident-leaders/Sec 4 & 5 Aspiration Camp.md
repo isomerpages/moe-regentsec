@@ -68,3 +68,8 @@ Course Advising sessions with Nanyang Polytechnic
 
 ![](/images/NYP-Course-Advising-scaled.jpg)
 Course Advising sessions with Nanyang Polytechnic
+
+![](/images/NYP-Course-Advising%202.jpg)
+Course Advising sessions with Nanyang Polytechnic
+
+
