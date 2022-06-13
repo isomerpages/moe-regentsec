@@ -20,3 +20,5 @@ Industry partners from seven different industries are invited to interact with o
 
 The seven industries include Healthcare, Banking and Finance, Entrepreneurship (Food & Beverage), Hospitality & Tourism, Aerospace, Engineering and Cybersecurity.
 
+![](/images/Banking-and-Finance_Career_Talk_by_Mr_Randy_Toh.jpg)
+Banking And Finance Career Talk By Mr Randy Toh
