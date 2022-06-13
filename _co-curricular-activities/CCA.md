@@ -9,6 +9,3 @@ Each CCA has its specific objectives. For instance, Physical Sports (PS) develop
 
 All CCA emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school.
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vdEJuFm5C0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
