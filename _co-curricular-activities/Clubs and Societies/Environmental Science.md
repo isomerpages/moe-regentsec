@@ -58,3 +58,10 @@ Upcycled pen holders for Teachers’ Day
 
 ![](/images/env7.jpg)
 Upcycling booth where our schoolmates learnt to make paper bags from old newspapers
+
+![](/images/env8-403x1024.png)
+Students prepared posters to pledge their support for the Green Plan!
+
+![](/images/env9.jpg)
+Upcycled paper wallet
+
