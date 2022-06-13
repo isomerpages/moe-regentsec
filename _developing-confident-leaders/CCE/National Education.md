@@ -43,3 +43,17 @@ Schools commemorate IFD for our students to reflect on the importance to Singapo
 • Openness to the international flow of trade, ideas and talent.  
 • Cross-cultural skills and a global orientation.  
 • Mutual respect and understanding to maintain social cohesion in our multi-cultural society.
+
+#### 3) **Racial Harmony Day (commemorated yearly on 21st July)**
+
+![](/images/racial-harmony-day-2019.jpg)
+Students donning traditional costumes for Racial Harmony Day 2019
+
+RHD marks the anniversary of the 1964 racial riots. Schools commemorate RHD for our students to celebrate Singapore as a harmonious society built on a rich diversity of cultures, requiring collaborative efforts from all to promote social cohesion and harmony.
+
+#### 4) **National Day (commemorated yearly on 9th August)**
+
+![](/images/regent-uniform-group-cadets-w-state-flag.jpg)
+Uniformed Group cadets proudly marching in the State Flag for the school’s National Day Observance Ceremony in 2020
+
+National Day marks our separation from Malaysia in 1965, and our emergence as an independent country in a community of nations. Since 1998, schools have commemorated National Day for students to reflect on the historical importance and solemnity of National Day.
