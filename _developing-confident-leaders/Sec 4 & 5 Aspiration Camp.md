@@ -50,3 +50,10 @@ Highlights of Aspirations Day include:
 *   Talks by Nanyang Polytechnic (NYP) and ITE on Polytechnic Early Admissions Exercise (EAE), Poly Foundation Programme and Direct Polytechnic Programme.
 *   Course Advising sessions by NYP. Through this programme, students will get to interact with the Poly lecturers and gain a deeper understanding of their aspired course of choice.
 *   Poly EAE application workshop conducted by our Senior Education Career Guidance Counsellor, where students learn useful tips in their EAE application write-ups.
+
+![](/images/P-address-scaled.jpg)
+Principal’s Address
+
+![](/images/Keynote-address-by-Noel-Ng-Klook-scaled.jpg)
+Keynote Address by Mr Noel Ng, Associate Director, Business Development, Klook
+
