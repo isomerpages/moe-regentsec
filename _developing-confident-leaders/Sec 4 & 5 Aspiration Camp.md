@@ -40,3 +40,13 @@ Cybersecurity Career Talk by Mr David Siah (EXCO member of Association of Inform
 
 ![](/images/Aerospace%20Career%20Talk.jpg)
 Aerospace Career Talk by Mr Chan Jee Siong (Recruitment, Singapore Youth Flying Club)
+
+Aspirations Day 2021
+--------------------
+
+Highlights of Aspirations Day include:
+
+*   A keynote address by Mr Noel Ng, Associate Director, Business Development from Klook, on being future ready as students navigate through their education and career guidance journey.
+*   Talks by Nanyang Polytechnic (NYP) and ITE on Polytechnic Early Admissions Exercise (EAE), Poly Foundation Programme and Direct Polytechnic Programme.
+*   Course Advising sessions by NYP. Through this programme, students will get to interact with the Poly lecturers and gain a deeper understanding of their aspired course of choice.
+*   Poly EAE application workshop conducted by our Senior Education Career Guidance Counsellor, where students learn useful tips in their EAE application write-ups.
