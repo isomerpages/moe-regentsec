@@ -55,3 +55,9 @@ Under the support and guidance of our school leaders, teachers-in-charge and pro
 2017
 
 *   B-Dazzled! Festival – Show Choir of the Year, Diamond Award and Best Showmanship
+
+## 2021
+
+#### **Singapore Youth Festival Arts Presentation**
+
+Audio recording of “Shine Like Stars”
