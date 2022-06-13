@@ -2,6 +2,7 @@ collections:
   developing-confident-leaders:
     output: true
     order:
+      - World Environment Day.md
       - Sports Events.md
       - Together Regent Cares 2021.md
       - CCE/.keep
