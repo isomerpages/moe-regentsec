@@ -2,11 +2,11 @@ collections:
   developing-confident-leaders:
     output: true
     order:
-      - CCE/National Education.md
-      - CCE/Sexuality Education.md
-      - CCE/Cyber Wellness Programme.md
-      - CCE/Aspirations Programme.md
       - CCE/.keep
+      - CCE/Aspirations Programme.md
+      - CCE/Cyber Wellness Programme.md
+      - CCE/Sexuality Education.md
+      - CCE/National Education.md
       - Learning for Life Programme/Community Youth Leadership.md
       - Learning for Life Programme/.keep
       - Sec 4 & 5 Aspiration Camp.md
