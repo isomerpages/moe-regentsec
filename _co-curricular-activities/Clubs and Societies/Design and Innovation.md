@@ -31,3 +31,7 @@ The aim for our members is to instill a positive attitude towards a problem-base
 Participating competition :
 
 *   Design Thinking and Innovative 2 days Boot Camp 2020.
+
+![](/images/Design-n-Innovation1.jpg)
+![](/images/Design-n-Innovation2.jpg)
+![](/images/Design-n-Innovation3.jpg)
