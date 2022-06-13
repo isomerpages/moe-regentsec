@@ -57,3 +57,11 @@ As our motto so aptly goes, _“Dance with your heart, and your feet will follo
 ![](/images/Copy-of-IMG_9374-1024x683.jpg)
 
 ![](/images/Modern-Dance-3.jpeg)
+
+![](/images/teachers-day-dance-2021-1024x577.jpg)
+
+![](/images/Copy-of-Modern-Dance-2-1024x768.jpg)
+
+![](/images/IMG_0660-1024x683.jpg)
+
+(Insert Video - cannot be embedded cos its unlisted)
