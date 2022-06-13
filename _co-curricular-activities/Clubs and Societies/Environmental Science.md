@@ -54,3 +54,7 @@ Bird watching
 ![](/images/env3-1024x816.jpg)
 Upcycled pen holders for Teachers’ Day
 
+![](/images/env6.jpg)
+
+![](/images/env7.jpg)
+Upcycling booth where our schoolmates learnt to make paper bags from old newspapers
