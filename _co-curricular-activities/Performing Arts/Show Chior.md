@@ -126,3 +126,21 @@ unable to embed YT video bc its unlisted
 ![](/images/2019-B-Dazzled-Reflection-using-CCA-Toolkit-2-1350x1013.jpeg)
 
 ![](/images/2019-B-dazzled-Reflection-using-CCA-Toolkit-1024x768.jpeg)
+
+![](/images/2019-EOY-Camp-Bonding-Games-1350x1013.jpeg)
+
+![](/images/2019-Regent-Open-House-1350x1013.jpeg)
+
+![](/images/2019-SYF-Exchange.jpeg)
+
+![](/images/2020-Choir-Photo-1024x768.jpeg)
+
+![](/images/2020-Choir-Photo-Fun-shot-1024x768.jpeg)
+
+![](/images/2020-Choir-Practice-1-1024x768.jpeg)
+
+![](/images/2020-Choir-Practice-2-1024x768.jpeg)
+
+![](/images/2020-Choir-Practice-3.jpeg)
+
+![](/images/2020-Small-Group-Presentation.jpeg)
