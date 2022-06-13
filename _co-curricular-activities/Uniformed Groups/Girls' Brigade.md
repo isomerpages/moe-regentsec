@@ -30,3 +30,11 @@ Every Girl in the Explorer’s Programme will:
 *   Discover their role in the World around them
 *   Discover the needs of others
 *   Discover themselves
+
+**Newsletter - Term 1**
+(on scribd)
+
+**Newsletter - Term 2**
+(on scribd)
+
+**Fun Camp (March)**
