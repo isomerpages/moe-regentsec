@@ -63,7 +63,7 @@ Polytechnic Early Admissions Exercise (EAE) Talk by Ms Sabrina Lim, Nanyang Poly
 ![](/images/NYP-PFP-Talk.jpg)
 Polytechnic Foundation Programme (PFP) Talk by Ms Janice Neo, Nanyang Polytechnic
 
-![](/images/NYP-Course-Advising.jpg)
+![](/images/NYP-Course-Advising4.jpg)
 Course Advising sessions with Nanyang Polytechnic
 
 ![](/images/NYP-Course-Advising-scaled.jpg)
