@@ -26,3 +26,9 @@ Banking And Finance Career Talk By Mr Randy Toh
 ![](/images/Healthcare_Career_Talk_By_Dr_Dijoni_Huang.jpg)
 Healthcare Career Talk By Dr Dijoni Huang
 
+![](/images/Engineering%20Career%20talk.jpg)
+Engineering Career Talk by Mr Ang Wee Beng, (Executive Director, Singapore Semiconductor Industry Association)
+
+![](/images/Tourism%20Career%20Talk.jpg)
+Hospitality & Tourism Talk by Mr Noel Ng (Associate Director, Business Development, Klook)
+
