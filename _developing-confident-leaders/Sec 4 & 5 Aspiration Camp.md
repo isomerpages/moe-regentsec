@@ -72,4 +72,9 @@ Course Advising sessions with Nanyang Polytechnic
 ![](/images/NYP-Course-Advising%202.jpg)
 Course Advising sessions with Nanyang Polytechnic
 
+![](/images/NYP-Course-Advising3.jpg)
+Course Advising sessions with Nanyang Polytechnic
+
+![](/images/EAE%20ECG%20Counsellor.jpg)
+Poly EAE application workshop by Ms Lum, ECG Counsellor
 
