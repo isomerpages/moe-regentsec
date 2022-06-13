@@ -37,3 +37,6 @@ Entrepreneurship (Food & Beverage), Career Talk by Ms Nicol (Managing Director, 
 
 ![](/images/Cybersecurity%20Career%20Talk.jpg)
 Cybersecurity Career Talk by Mr David Siah (EXCO member of Association of Information Security Professionals)
+
+![](/images/Aerospace%20Career%20Talk.jpg)
+Aerospace Career Talk by Mr Chan Jee Siong (Recruitment, Singapore Youth Flying Club)
