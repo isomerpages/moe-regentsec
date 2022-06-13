@@ -2,9 +2,9 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs and Societies/Robotics Club.md
-      - Clubs and Societies/Environmental Science.md
-      - Clubs and Societies/Design and Innovation.md
-      - Clubs and Societies/Infocomm Technology (Media Production).md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Infocomm Technology (Media Production).md
+      - Clubs and Societies/Design and Innovation.md
+      - Clubs and Societies/Environmental Science.md
+      - Clubs and Societies/Robotics Club.md
       - CCA.md
