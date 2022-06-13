@@ -56,3 +56,21 @@ Our school activities include:
 **2017**
 
 *   Singapore Youth Festival – Accomplishment Productions
+
+![](/images/IMG-20191105-WA0001-1024x682.jpg)
+
+![](/images/IMG-20191105-WA0002-1024x917.jpg)
+
+![](/images/IMG-20191105-WA0003-1024x682.jpg)
+
+![](/images/IMG-20191105-WA0004-1024x768.jpg)
+
+![](/images/IMG-20191105-WA0005-1024x768.jpg)
+
+![](/images/IMG-20191105-WA0006-1024x768.jpg)
+
+![](/images/IMG-20191105-WA0007-1024x768.jpg)
+
+![](/images/WhatsApp-Image-2020-09-17-1024x740.jpeg)
+
+![](/images/WhatsApp-Image-2020-09-20-1024x768.jpeg)
