@@ -32,3 +32,5 @@ Engineering Career Talk by Mr Ang Wee Beng, (Executive Director, Singapore Semic
 ![](/images/Tourism%20Career%20Talk.jpg)
 Hospitality & Tourism Talk by Mr Noel Ng (Associate Director, Business Development, Klook)
 
+![](/images/Entrepreneurship%20Career%20Talk.jpg)
+Entrepreneurship (Food & Beverage), Career Talk by Ms Nicol (Managing Director, FoodXervices)
