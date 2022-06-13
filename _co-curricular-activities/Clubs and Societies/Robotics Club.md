@@ -18,3 +18,16 @@ To enrich and develop a group of dedicated individuals who display confidence, m
 
 **Mission**   
 To nurture individuals to maximise their potential in the field of robotics and engineering
+
+![](/images/Robotics-Formal-1024x682.jpg)
+
+In Robotics, members learn basic and intermediate programming skills to control movements of LEGO Mindstorm/Spike. The students also develop an appreciation for the automation world.
+
+Activities:
+
+*   Hands-on skills involving construction of LEGO Mindstorm/Spike Robots.
+*   Hands-on skills on Drone programming (DJI and Parrots).
+*   Participated in FIRST LEGO League Singapore.
+*   Participated in Drone Odyssey organised by the Singapore Science Centre
+*   Service learning and community involvement at Bukit Batok Home for the Aged.
+*   Combine camps in collaboration with other clubs and societies.
