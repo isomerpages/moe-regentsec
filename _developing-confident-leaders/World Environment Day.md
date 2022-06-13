@@ -19,3 +19,11 @@ To reach out to our student population, our Environmental Sciences Club put disp
 All of us can play a part to protect our Earth by making changes to our lifestyle habits. We hope every Regenite would take on the role as Mother Earth’s ambassadors and spread the message of environmental conservation messages to people around us!
 
 Thank you.
+
+![](/images/Picture1.jpg)
+
+![](/images/Picture2.jpg)
+
+![](/images/Picture3.jpg)
+
+![](/images/Picture4.jpg)
