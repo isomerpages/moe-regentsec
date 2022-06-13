@@ -51,3 +51,9 @@ JMF Gold Unit since 2012
 
 ![](/images/The-91st-BB-Company-1350x899.jpg)
 The 91st BB Company – Regent Secondary School
+
+![](/images/BB%2012.jpg)
+![](/images/BB%2013.jpg)
+![](/images/BB%2014.jpg)
+
+The BB and GB of Regent Secondary celebrated their BB & GB Awards and Promotion Ceremony on 21st November 2020. A total of 50 Boys and Girls with a Parents-turnout of 96 were present to celebrate the event at FOUR different venues in school – the ALP room for Sec 3s, Canteen for Sec 2s, BB room for Sec 1 BB Boys and Classroom 1E1 for Sec 1 GB Girls. Parents of Sec 3s view the outdoor parade segment from Level 2 while the rest of the Parents view the marching in along segregated Level 1 corridor.
