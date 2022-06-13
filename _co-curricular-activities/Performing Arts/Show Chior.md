@@ -105,3 +105,11 @@ Enjoy listening to a few samples of students’ singing.
 
 **Music Showcase Project 4**
 (vid need to be uploaded onto YT)
+
+Students also collaborated in groups to choreograph dance moves, practise and showcase their dancing skills. Do enjoy the recording of their dance via Zoom.
+
+Snapshot of dance session via Zoom
+
+![](/images/15_e-CCA-dance-1024x555.jpg)
+
+The e-CCA Dance video:
