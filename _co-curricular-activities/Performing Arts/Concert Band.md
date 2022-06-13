@@ -43,3 +43,21 @@ Our recent highlights and achievements
 
 **_Twitter: @rgtwindsymphony_**  
 **_Youtube channel: rgtwindsymphony_**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zj0nesKZooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/Concert-Band-1-768x1024.jpg)
+
+![](/images/Concert-Band-2-768x1024.jpg)
+
+![](/images/Concert-Band-3.jpg)
+
+![](/images/IMG-20190320-WA0012-1024x576.jpg)
+
+![](/images/IMG-20190709-WA0030-1024x768.jpg)
+
+![](/images/IMG-20190709-WA0031-1024x768.jpg)
+
+![](/images/IMG-20190912-WA0033-1024x576.jpg)
+
+![](/images/IMG-20191105-WA0008-1024x768.jpg)
