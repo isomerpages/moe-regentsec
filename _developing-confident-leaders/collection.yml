@@ -2,18 +2,18 @@ collections:
   developing-confident-leaders:
     output: true
     order:
-      - World Environment Day.md
-      - Sports Events.md
-      - Together Regent Cares 2021.md
+      - Sec 1 Orientation 2022.md
+      - Sec 1 Adventure Day Camp 2021.md
+      - Sec 2 Adventure Day Camp 2021.md
+      - Sec 3 Adventure Day Camp.md
+      - Sec 4 & 5 Aspiration Camp.md
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Community Youth Leadership.md
       - CCE/.keep
       - CCE/Aspirations Programme.md
       - CCE/Cyber Wellness Programme.md
       - CCE/Sexuality Education.md
       - CCE/National Education.md
-      - Learning for Life Programme/Community Youth Leadership.md
-      - Learning for Life Programme/.keep
-      - Sec 4 & 5 Aspiration Camp.md
-      - Sec 3 Adventure Day Camp.md
-      - Sec 2 Adventure Day Camp 2021.md
-      - Sec 1 Adventure Day Camp 2021.md
-      - Sec 1 Orientation 2022.md
+      - Together Regent Cares 2021.md
+      - Sports Events.md
+      - World Environment Day.md
