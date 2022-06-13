@@ -57,3 +57,5 @@ Principal’s Address
 ![](/images/Keynote-address-by-Noel-Ng-Klook-scaled.jpg)
 Keynote Address by Mr Noel Ng, Associate Director, Business Development, Klook
 
+![](/images/NYP-Poly-EAE-Talk.jpg)
+Polytechnic Early Admissions Exercise (EAE) Talk by Ms Sabrina Lim, Nanyang Polytechnic
