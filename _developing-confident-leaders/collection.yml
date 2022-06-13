@@ -2,6 +2,7 @@ collections:
   developing-confident-leaders:
     output: true
     order:
+      - CCE/Aspirations Programme.md
       - CCE/.keep
       - Learning for Life Programme/Community Youth Leadership.md
       - Learning for Life Programme/.keep
