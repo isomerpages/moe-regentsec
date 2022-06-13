@@ -34,3 +34,16 @@ Students conducted virtual upcycling workshops. In this picture, they are teachi
 ![](/images/env2-768x1024.jpg)
 Upcycling old t-shirts into tote bags
 
+**Club Activities:**
+
+*    Every Singaporean a Naturalist (ESN) programme to observe birds in school
+*    Gardening activities
+*   Learning Journey: Learning trail to NTUC, green learning journey at North West CDC
+*   Upcycling workshops (e.g. making of tote bags from old clothes, making of paper wallets, upcycled fabric and plastic bottle holders)
+*   Advocating for different environmental causes in school and at the community level (eg. water and energy conservation, e-waste recycling, public health, reducing food wastage)
+*   National Youth Upcycling Movement
+*   One Less Plastic Campaign
+*   Training of Environment Champions to be advocates in each class
+*   Starhub E-Waste Challenge
+*   NYP Design Thinking and Innovation Boot Camp 2020
+*   Reduce@Northwest 2021
