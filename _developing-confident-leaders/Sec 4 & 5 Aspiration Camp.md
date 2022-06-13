@@ -66,3 +66,5 @@ Polytechnic Foundation Programme (PFP) Talk by Ms Janice Neo, Nanyang Polytechni
 ![](/images/NYP-Course-Advising.jpg)
 Course Advising sessions with Nanyang Polytechnic
 
+![](/images/NYP-Course-Advising-scaled.jpg)
+Course Advising sessions with Nanyang Polytechnic
