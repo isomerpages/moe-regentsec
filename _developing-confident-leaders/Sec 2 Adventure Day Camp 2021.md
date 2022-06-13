@@ -29,3 +29,5 @@ On Day 2 of the camp, we were greeted with a warm and sunny welcome! Our campers
 For the last day of the camp, the campers were challenged to complete a range of challenges in exactly 39 minutes. In the “39 Minutes to Win It” challenge, campers learnt the importance of teamwork and communication as they worked together. The camp was rounded off with a kayaking session at the Pandan Reservoir. As they paddled back to shore, it also marked the end of a beautiful experience for our students who had persevered through the 3-day camp.
 
 ![](/images/image-1.jpg)
+
+All in all, our students seized the opportunities to overcome challenges through the different activities and emerged as physically and mentally stronger individuals. We hope the important lessons learnt will continue to shape them and holistically develop them throughout their remaining time in Regent Secondary School!
