@@ -33,3 +33,5 @@ Students go through various NE experiences such as values-in-action projects, co
 Uniformed Group cadets putting up a parade to commemorate Total Defence Day 2021
 
 Total Defence Day (TDD) marks the fall of Singapore to the Japanese in 1942. Schools commemorate TDD for our students to reflect on how Total Defence remains our best all-round response to threats and challenges that confront Singapore (e.g. terrorism, pandemics, cyber-attacks, influence campaigns, economic crises). They also reflect on the continuing relevance of the six Total Defence pillars (military, civil, economic, social, digital and psychological) and the core message of every Singaporean standing together, with each playing our part to protect Singapore and our shared way of life.
+
+### **2) International Friendship Day (commemorated on the 3rd Friday of Term 2)**
