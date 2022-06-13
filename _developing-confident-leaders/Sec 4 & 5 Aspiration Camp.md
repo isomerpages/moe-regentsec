@@ -34,3 +34,6 @@ Hospitality & Tourism Talk by Mr Noel Ng (Associate Director, Business Developme
 
 ![](/images/Entrepreneurship%20Career%20Talk.jpg)
 Entrepreneurship (Food & Beverage), Career Talk by Ms Nicol (Managing Director, FoodXervices)
+
+![](/images/Cybersecurity%20Career%20Talk.jpg)
+Cybersecurity Career Talk by Mr David Siah (EXCO member of Association of Information Security Professionals)
