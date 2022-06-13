@@ -113,3 +113,16 @@ Snapshot of dance session via Zoom
 ![](/images/15_e-CCA-dance-1024x555.jpg)
 
 The e-CCA Dance video:
+unable to embed YT video bc its unlisted
+
+![](/images/For-school-website-2019-B-dazzled-Festival-1024x768.jpeg)
+
+![](/images/For-school-website-2019-SYF-1350x1013.jpeg)
+
+![](/images/For-school-website-Limbang-YT-New-Year-Countdown-1350x1013.jpeg)
+
+![](/images/For-school-website-Regent_s-2019-National-Day-Celebration-1350x675.jpeg)
+
+![](/images/2019-B-Dazzled-Reflection-using-CCA-Toolkit-2-1350x1013.jpeg)
+
+![](/images/2019-B-dazzled-Reflection-using-CCA-Toolkit-1024x768.jpeg)
