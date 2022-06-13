@@ -59,3 +59,10 @@ Keynote Address by Mr Noel Ng, Associate Director, Business Development, Klook
 
 ![](/images/NYP-Poly-EAE-Talk.jpg)
 Polytechnic Early Admissions Exercise (EAE) Talk by Ms Sabrina Lim, Nanyang Polytechnic
+
+![](/images/NYP-PFP-Talk.jpg)
+Polytechnic Foundation Programme (PFP) Talk by Ms Janice Neo, Nanyang Polytechnic
+
+![](/images/NYP-Course-Advising.jpg)
+Course Advising sessions with Nanyang Polytechnic
+
