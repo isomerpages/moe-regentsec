@@ -78,3 +78,5 @@ Course Advising sessions with Nanyang Polytechnic
 ![](/images/EAE%20ECG%20Counsellor.jpg)
 Poly EAE application workshop by Ms Lum, ECG Counsellor
 
+![](/images/1024x683.jpg)
+ITE Direct Polytechnic Programme (DPP) Ms Alexis Cai, ITE
