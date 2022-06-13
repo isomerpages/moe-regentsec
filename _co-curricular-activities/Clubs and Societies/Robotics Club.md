@@ -31,3 +31,11 @@ Activities:
 *   Participated in Drone Odyssey organised by the Singapore Science Centre
 *   Service learning and community involvement at Bukit Batok Home for the Aged.
 *   Combine camps in collaboration with other clubs and societies.
+
+![](/images/Robotics-1-1024x683.jpg)
+
+![](/images/Robotics-2-1024x683.jpg)
+
+![](/images/Robotics-3-1024x683.jpg)
+
+![](/images/Robotics-4-1024x683.jpg)
