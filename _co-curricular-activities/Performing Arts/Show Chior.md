@@ -69,3 +69,16 @@ Audio recording of “Shine Like Stars”
 
 The music video: 
 (need to upload on YT)
+
+#### **Marsiling-Yew Tee GRC National Day Celebrations 2021**
+
+Recording of the National Anthem and National Day dance
+![](/images/06_National-Day-recording-768x1024.jpg)
+
+![](/images/07_National-Dayrecording-1024x768.jpg)
+
+![](/images/08_National-Day-poster.jpg)
+
+#### **Teachers’ Day Assembly Performance**
+
+Show Choir members saluted the teachers with a dance performance.
