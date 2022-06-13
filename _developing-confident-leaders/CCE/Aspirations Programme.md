@@ -4,6 +4,7 @@ permalink: /developing-confident-leaders/CCE/aspirations-programme/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/Careers-Fair-Areospace-Aviation.jpg)
 
 Aspirations Programme
 =====================
@@ -28,4 +29,3 @@ Regent’s Aspirations programme adopts the 4-D approach to education and career
 ![](/images/aspiration4.jpg)
 
 ![](/images/aspiration5.jpg)
-
