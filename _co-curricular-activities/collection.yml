@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Environmental Science.md
       - Clubs and Societies/Design and Innovation.md
       - Clubs and Societies/Infocomm Technology (Media Production).md
       - Clubs and Societies/.keep
