@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Red Cross Youth.md
       - CCA.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Infocomm Technology (Media Production).md
