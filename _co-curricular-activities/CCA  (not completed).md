@@ -33,3 +33,9 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[Concert Band](/co-curricular-activities/Performing-Arts/concert-band/)**
 ![](/images/Concert-Band-Formal-1024x683.jpg)
+
+**[English Drama](/co-curricular-activities/Performing-Arts/english-drama/)**
+![](/images/English-Drama-Formal-300px%20(1).png) (image too blury)
+
+**[Modern Dance](/co-curricular-activities/Performing-Arts/modern-dance/)**
+![](/images/Modern-Dance-Formal-1024x683.jpg)
