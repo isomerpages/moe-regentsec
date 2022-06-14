@@ -64,4 +64,13 @@ Click on the Newspaper Article’s below to view the achievement which was publi
 
 <img src="/images/republic-poly.jpeg" 
      style="width:25%">
-		 
+
+*   Siti Zaliha Binte Othman with a Diploma a Chemical & Pharmaceutical Technology
+*   Lim Xin Ying Shirlyn with Diploma in Business Informatics
+*   Amanda Ho Qin Yi with Diploma in Supply Chain Management, Republic Award
+*   Lee tin Hwee with Diploma in Biomedical Sciences, Polytechnic Foundation Programe Scholarship
+*   Max Pang Liang Hui with Diploma in Interactive and Digital Media, Diploma Prize
+*   Ang Wei Sheng graduated with a Diploma in Manufacturing Engineering and is the proud recipient of the Siemens Award for Outstanding Project Work
+*   Edmund Chen Chye Chai graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Calyon Creativity Award
+*   Rachael Lum Hui Ting graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Lee Hsien Loong Award, Infinite Frameworks Gold Medal and Infinite Frameworks Award for Outstanding Project Work (MGBD)
+*   Lee Hsien Loong Award presented to Rachael Lum Hui Ting
