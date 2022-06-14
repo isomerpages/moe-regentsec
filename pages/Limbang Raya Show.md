@@ -12,3 +12,21 @@ The event was especially memorable for our Secondary Three students, who in thei
 On top of that, prizes that were given out to winners of stage games, lucky draws, house decoration contest and best dressed individuals enlivened the atmosphere. The delectable buffet spread and goodie bags that awaited after the performance made it an event not to be missed as we celebrated the joyous occasion. Although the month-long Hari Raya celebration was drawing to a close, the festive spirit among guests was very much still ablaze!
 
 Thank you.
+
+![](/images/1-1024x779.jpeg)
+
+![](/images/3-1024x682.jpeg)
+
+![](/images/4-1024x716.jpeg)
+
+![](/images/5-1024x575.jpeg)
+
+![](/images/6-1024x745.jpeg)
+
+![](/images/7-1024x609.jpeg)
+
+![](/images/8-1024x497.jpeg)
+
+![](/images/9-1024x723.jpeg)
+
+![](/images/10-1024x798.jpeg)
