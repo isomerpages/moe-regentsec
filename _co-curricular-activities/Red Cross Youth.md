@@ -3,6 +3,8 @@ title: Red Cross Youth
 permalink: /co-curricular-activities/red-cross/
 description: ""
 ---
+![](/images/redcrossbanner-scaled.jpg)
+
 Red Cross Youth
 ===============
 
@@ -42,3 +44,17 @@ Achievements:
     *   2018: Destya Kusuma Roem
 
 Visit our Instagram page for more: [https://www.instagram.com/regentrcy](https://www.instagram.com/regentrcy)
+
+![](/images/20200805_164554-2048x996-1-1024x498.jpg)
+
+![](/images/52141441_2285797101443439_7399755479987375364_n-1024x768.jpg)
+
+![](/images/53327664_2175074679489571_2506673586513042569_n-1024x475.jpg)
+
+![](/images/175528647_1973746326100097_568824422961095996_n-1024x1024.jpg)
+
+![](/images/231815416_2875642012765781_7883322282306493039_n-819x1024.jpg)
+
+![](/images/233707263_225461139489017_796377312626119648_n.jpg)
+
+![](/images/234492631_444680213333102_1898007449558686016_n-1024x772.jpg)![](/images/vis-1024x912.jpg)
