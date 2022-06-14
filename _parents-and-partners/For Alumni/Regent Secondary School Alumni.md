@@ -165,3 +165,18 @@ Diploma in Industrial Design
 Scanteak Award for Outstanding Project Work
 
 ![](/images/alumni-nyp-2.jpg)
+
+<img src="/images/ajc.jpg" 
+     style="width:50%">
+		 
+##### **Toh Yi An**
+
+GCE A Levels – 5 Distinctions
+
+		 
+<img src="/images/jjc.jpg" 
+     style="width:50%">
+
+##### **Toh Yong Hung**
+
+NTU College Scholarship
