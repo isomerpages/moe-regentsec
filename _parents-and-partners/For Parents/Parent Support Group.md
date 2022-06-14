@@ -18,3 +18,22 @@ Alternatively, scan the QR code below:
 
 <img src="/images/QRCODEPSG.png" 
      style="width:25%">
+		 
+In Regent, the PSG partners and supports the school by volunteering 3 Ts:
+
+![](/images/psg21.png)
+
+The PSG programme in 2021 include:
+
+*   Parenting talks such as Triple P Online and school-based parenting talks
+*   Parent-child bonding activities
+*   Participation in school activities such as Teachers’ Day celebrations
+
+Here are some of the programme planned:
+
+![](/images/PSG_Programme_2021.png)
+
+![](/images/PSG-Gen-Z.png)
+
+For more information on the parenting programme, _Cyber-wellness Tips for Parents “Strategies to Engage a Tech Savvy Gen. Z.”_, please **[click here](/files/PSG-Talk-1.pdf).**
+![](/images/PSG-graphic-1024x405.png)
