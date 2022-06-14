@@ -132,3 +132,25 @@ Diploma in Financial Informatics
 Diploma with Merit
 
 KS Energy Prize
+
+
+<img src="/images/ngee_ann_poly.jpg" 
+     style="width:50%">
+		 
+##### **Adelle Ong Fang Min**
+
+Diploma in Early Childhood Education
+
+Diploma with Merit
+
+PAP Community Foundation Prize
+
+Diploma Plus: Certificate in Business
+
+#### **Michelle Chan Shu Hui**
+
+Diploma in Chinese Media & Communication
+
+Diploma with Merit
+
+Threesixzero Production Prize
