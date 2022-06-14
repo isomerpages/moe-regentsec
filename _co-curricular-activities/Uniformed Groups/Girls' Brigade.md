@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Uniformed-Groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 Girls’ Brigade (Girls only)
 ===========================
 
@@ -64,8 +63,9 @@ Low Guat Tin Challenge
 ![](/images/WhatsApp-Image-2021-11-16-2.jpeg)
 ![](/images/WhatsApp-Image-2021-11-16-3.jpeg)
 ![](/images/WhatsApp-Image-2021-11-16-4.jpeg)
-![](/images/LGT-Trophy.png)
-LGT Trophy
+<img src="/images/LGT-Trophy.png" 
+     style="width:50%">
+
 
 GB Fortnight
 ------------
