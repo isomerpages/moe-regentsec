@@ -65,4 +65,3 @@ Low Guat Tin Challenge
 ![](/images/WhatsApp-Image-2021-11-16-4.jpeg)
 ![](/images/LGT-Trophy.png)
 LGT Trophy
-
