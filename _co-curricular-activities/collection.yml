@@ -2,9 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports & Games/Taekwondo.md
-      - Sports & Games/Football.md
-      - Sports & Games/.keep
       - CCA.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Infocomm Technology (Media Production).md
@@ -21,3 +18,6 @@ collections:
       - Uniformed Groups/Girls' Brigade (not completed yet).md
       - Uniformed Groups/National Police Cadet Corps (NPCC).md
       - Uniformed Groups/Red Cross Youth.md
+      - Sports & Games/.keep
+      - Sports & Games/Taekwondo.md
+      - Sports & Games/Football.md
