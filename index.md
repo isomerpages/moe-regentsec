@@ -13,8 +13,8 @@ sections:
         - title: DSA Application 2023
           description: ""
           url: /useful-links/direct-school-admission-dsa/
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Limbang Raya Show
+          description: ""
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
