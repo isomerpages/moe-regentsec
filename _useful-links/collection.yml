@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - Quick Links (Students).md
-      - Quick Links (Staff) (not completed).md
+      - DSA Application.md
       - Safety Updates/.keep
       - Safety Updates/Haze Updates.md
       - Safety Updates/Dengue Updates.md
-      - DSA Application.md
+      - Quick Links (Staff) (not completed).md
+      - Quick Links (Students).md
