@@ -9,7 +9,7 @@ locations:
       - Choa Chu Kang North 5
       - Singapore 689621
     operating_hours: []
-    maps_link: ""
+    maps_link: https://goo.gl/maps/CAGSNUHqXX812z298
     title: Address
 contacts:
   - content:
