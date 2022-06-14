@@ -18,7 +18,7 @@ sections:
           url: /limbang-raya-show/
         - title: World Environment Day
           description: ""
-          url: /developing-confident-leaders/world-environment-day/
+          url: /confident-leaders/world-environment-day/
   - infopic:
       title: Applied Learning Programme
       button: click here
