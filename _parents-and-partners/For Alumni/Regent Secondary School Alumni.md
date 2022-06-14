@@ -74,3 +74,5 @@ Click on the Newspaper Article’s below to view the achievement which was publi
 *   Edmund Chen Chye Chai graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Calyon Creativity Award
 *   Rachael Lum Hui Ting graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Lee Hsien Loong Award, Infinite Frameworks Gold Medal and Infinite Frameworks Award for Outstanding Project Work (MGBD)
 *   Lee Hsien Loong Award presented to Rachael Lum Hui Ting
+
+![](/images/rachel-768x768.jpg)
