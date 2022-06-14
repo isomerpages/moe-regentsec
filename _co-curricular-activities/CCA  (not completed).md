@@ -50,3 +50,6 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[NPCC](/co-curricular-activities/Uniformed-Groups/npcc/)**
 ![](/images/NPCC-Formal-1024x683.jpg)
+
+[Red Cross Yourh](/co-curricular-activities/red-cross/)
+![](/images/Banner-Photo_Red-Cross-Youth-Formal-scaled.jpg)
