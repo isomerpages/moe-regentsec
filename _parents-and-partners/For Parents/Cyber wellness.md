@@ -30,3 +30,6 @@ We have listed some websites that give parental guidance on some popular social 
 **Helping Your Child Manage Online Scams**
 ![](/images/Cyber-Wellness-for-Parents-Regent-School-Website1024_2-e1606195851724.jpg)
 ![](/images/Cyber-Wellness-for-Parents-Regent-School-Website1.jpg)
+
+**Helping Your Child Manage Cyber Contacts**
+![](/images/Cyber-Wellness-for-Parents-Regent-School-Website1024_4-e1606195983598.jpg)
