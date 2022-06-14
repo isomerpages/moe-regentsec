@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: DSA Application 2023
           description: ""
-          url: https://google.com
+          url: /useful-links/direct-school-admission-dsa/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
