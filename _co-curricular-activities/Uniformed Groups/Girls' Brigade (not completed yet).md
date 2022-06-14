@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Uniformed-Groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 Girls’ Brigade (Girls only)
 ===========================
 
@@ -39,3 +38,6 @@ Every Girl in the Explorer’s Programme will:
 (on scribd)
 
 **Fun Camp (March)**
+![](/images/GB%201.jpg)
+![](/images/GB%202.jpg)
+![](/images/GB%203.jpg)
