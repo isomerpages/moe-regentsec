@@ -4,14 +4,14 @@ title: Regent Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Regent Secondary School
       background: /images/regent sec.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: DSA Application 2023
+          description: ""
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
