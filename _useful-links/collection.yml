@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Quick Links (Staff).md
       - Safety Updates/.keep
       - Safety Updates/Haze Updates.md
       - Safety Updates/Dengue Updates.md
