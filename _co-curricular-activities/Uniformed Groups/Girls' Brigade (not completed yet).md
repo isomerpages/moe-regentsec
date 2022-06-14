@@ -46,3 +46,20 @@ Every Girl in the Explorer’s Programme will:
 ![](/images/GB%206.jpg)
 ![](/images/GB%207.jpg)
 ![](/images/IMG-20210227-WA0001-768x1024.jpg)
+
+**Outdoor Adventure (Archery, outdoor cooking)**
+------------------------------------------------
+
+Promotion and Dedication Ceremony
+---------------------------------
+
+Enrolment & Dedication Ceremony
+-------------------------------
+
+Low Guat Tin Challenge
+----------------------
+
+![](/images/WhatsApp-Image-2021-11-16.jpeg)
+![](/images/WhatsApp-Image-2021-11-16-2.jpeg)
+![](/images/WhatsApp-Image-2021-11-16-3.jpeg)
+![](/images/WhatsApp-Image-2021-11-16-4.jpeg)
