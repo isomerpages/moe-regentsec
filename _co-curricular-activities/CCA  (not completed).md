@@ -24,3 +24,9 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[Robotics Club](/co-curricular-activities/Clubs-and-Societies/robotics-club/)**
 ![](/images/Robotics-Formal.jpg)
+
+
+### Performing Arts
+
+**[Show Choir](/co-curricular-activities/Performing-Arts/choir/)**
+![](/images/Show-Choir-Formal.jpg)
