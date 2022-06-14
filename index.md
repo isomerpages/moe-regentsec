@@ -19,13 +19,13 @@ sections:
         - title: World Environment Day
           description: ""
           url: /developing-confident-leaders/world-environment-day/
-  - infobar:
-      title: Applied Learning Programme
-      button: click here
-      url: /faq/
   - infopic:
       title: Applied Learning Programme
       button: click here
       url: /develop-self-directed-learners/alp/
       image: /images/alp (1).jpg
+  - infobar:
+      title: Regent Gallery
+      button: click here
+      url: https://www.youtube.com/channel/UCMNrgdek_fqR07QP14UL_uA/videos
 ---
