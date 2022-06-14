@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - Safety Updates/Haze Updates.md
       - Safety Updates/.keep
       - DSA Application.md
