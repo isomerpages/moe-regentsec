@@ -17,3 +17,9 @@ Every player a dedicated sportsperson and competent leader.
 
 **Mission:**  
 Team Above Self, Sportsmanship Above All.
+
+![](/images/Football-Formal-1024x683.jpg)
+
+The Regent Football Club aims to nurture a team of dedicated footballers who strive for excellence and uphold the values of good sportsmanship on and off the pitch.  
+
+Training is conducted twice a week in preparation for the National School Games ‘B’ and ‘C’ Division Football Championships, and other competitions.
