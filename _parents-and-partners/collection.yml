@@ -2,6 +2,6 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - For Parents/Parent Support Group.md
-      - For Parents/MOE Financial Assistance Scheme.md
       - For Parents/.keep
+      - For Parents/MOE Financial Assistance Scheme.md
+      - For Parents/Parent Support Group.md
