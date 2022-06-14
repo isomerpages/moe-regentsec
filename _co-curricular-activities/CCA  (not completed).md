@@ -53,3 +53,8 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[Red Cross Youth](/co-curricular-activities/red-cross/)**
 ![](/images/Banner-Photo_Red-Cross-Youth-Formal-scaled.jpg)
+
+### Sports & Games
+
+**[Badminton](/co-curricular-activities/Sports-and-Games/badminton/)**
+![](/images/Badminton-Formal-Ver-2.png)
