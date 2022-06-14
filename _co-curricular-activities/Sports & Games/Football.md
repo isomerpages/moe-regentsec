@@ -28,6 +28,13 @@ Training is conducted twice a week in preparation for the National School Games 
 
 ![](/images/Training-Session-scaled.jpg)
 
+![](/images/217291211_4294225743967063_762331227174802802_n.jpg)
+
+![](/images/Fitness-Training-scaled.jpg)
+
+![](/images/216070982_4294225770633727_3633722409934988182_n.jpg)
+
+
 Beyond the football pitch, our footballers are given the opportunity to actively contribute to the community through CCA-initiated Values-in-Action (VIA) projects.
 
 ![](/images/Football-Fun-scaled.jpg)
