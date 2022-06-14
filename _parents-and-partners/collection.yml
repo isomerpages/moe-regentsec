@@ -2,8 +2,6 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - For Alumni/Regent Secondary School Alumni.md
-      - For Alumni/.keep
       - For Parents/.keep
       - For Parents/MOE Financial Assistance Scheme.md
       - For Parents/Parent Support Group.md
@@ -17,3 +15,5 @@ collections:
       - For Partners/Local Partners.md
       - For Partners/Self Help Groups.md
       - For Partners/International Partners.md
+      - For Alumni/.keep
+      - For Alumni/Regent Secondary School Alumni.md
