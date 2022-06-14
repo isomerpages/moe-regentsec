@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Sports-and-Games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
+![](/images/Soccer-banner-1-scaled.jpg)
+
 Football
 ========
 
@@ -23,3 +25,23 @@ Team Above Self, Sportsmanship Above All.
 The Regent Football Club aims to nurture a team of dedicated footballers who strive for excellence and uphold the values of good sportsmanship on and off the pitch.  
 
 Training is conducted twice a week in preparation for the National School Games ‘B’ and ‘C’ Division Football Championships, and other competitions.
+
+![](/images/Training-Session-scaled.jpg)
+
+![](/images/B-_-C-Boys-_-Teachers--scaled.jpg)
+
+![](/images/B-Boys--1024x768.jpg)
+
+![](/images/B-Boys-and-Teachers--1024x768.jpg)
+
+![](/images/B-Division-Team-2020-1024x768.jpg)
+
+![](/images/Coach-Pep-Talk-scaled.jpg)
+
+![](/images/Fitness-Training-scaled.jpg)
+
+![](/images/Listening-to-Coach--scaled.jpg)
+
+![](/images/Training-Session1-scaled.jpg)
+
+![](/images/Training-Session2-scaled.jpg)
