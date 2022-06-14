@@ -45,3 +45,7 @@ Several activities such as National School Games, team bonding camp and VIA proj
 Caricature was introduced to enable students to appreciate arts. This was conducted in the form of Zoom sessions after the examinations in May 2021.
 
 ![](/images/bbarts.png)
+
+#### CCA Exchange Day
+
+Students from Robotics had an exchange with the Basketball boys. Both CCA groups were introduced to new routines or drills that were exclusive to the CCA. The Basketball boys were given the opportunity to manipulate with the flying of drones and to build vehicles attached to the micro:bit to enable movement. The students from Robotics were exposed to Basketball drills and skill sets.
