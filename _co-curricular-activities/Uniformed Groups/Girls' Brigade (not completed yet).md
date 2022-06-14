@@ -65,3 +65,25 @@ Low Guat Tin Challenge
 ![](/images/WhatsApp-Image-2021-11-16-4.jpeg)
 ![](/images/LGT-Trophy.png)
 LGT Trophy
+
+GB Fortnight
+------------
+
+GB Friendship Day
+-----------------
+
+Learning New Skills (Sign Language)
+-----------------------------------
+
+![](/images/sign-2-1024x683.png)
+
+![](/images/sign-4-1024x683.png)
+
+National Education (NE) Events and Commemoration
+------------------------------------------------
+### Learning Journeys
+
+![](/images/GB%208.jpg)
+![](/images/GB%209.jpg)
+![](/images/GB%2010.jpg)
+![](/images/GB%2011.jpg)
