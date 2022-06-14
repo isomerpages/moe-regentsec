@@ -44,3 +44,24 @@ Click on the Newspaper Article’s below to view the achievement which was publi
 [Newspaper Article 1](/files/Randy.pdf)
 
 “Source:\[Lianhe Wanbao\] © Singapore Press Holdings Limited. Permission required for reproduction”.
+
+##### Republic Polytechnic Graduate 
+![](/images/RP-Grad-Former_12_09_17-e1505192740467.png)
+
+##### ITE College West Graduate
+![](/images/Nurul-Eriyanie-Mohd-Nazri.png)
+
+##### Ngee Ann Polytechnic Graduate
+![](/images/image001.jpg)
+
+#### **Achievements of 2016**
+
+<img src="/images/Siti-zaliha-bte.jpeg" 
+     style="width:25%">
+		 
+<img src="/images/lim-xin-ying-1.jpeg" 
+     style="width:25%">
+
+<img src="/images/republic-poly.jpeg" 
+     style="width:25%">
+		 
