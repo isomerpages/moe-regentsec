@@ -47,3 +47,6 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[Girls' Brigade](/co-curricular-activities/Uniformed-Groups/girls-brigade/)**
 ![](/images/Girls-Brigade-Formal-300px%20(1).png) (image too blurry)
+
+**[NPCC](/co-curricular-activities/Uniformed-Groups/npcc/)**
+![](/images/NPCC-Formal-1024x683.jpg)
