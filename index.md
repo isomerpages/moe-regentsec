@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: Applied Learning Programme
       button: click here
-      url: /develop-self-directed-learners/alp/
+      url: /self-directed-learners/alp/
       image: /images/alp (1).jpg
       alt: Applied Learning Programme
   - infopic:
