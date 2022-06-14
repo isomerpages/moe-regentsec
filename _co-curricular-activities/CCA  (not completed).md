@@ -3,7 +3,6 @@ title: CCA  (not completed)
 permalink: /co-curricular-activities/cca/
 description: ""
 ---
-
 # **CCA**
 
 The CCA Programme provides students with a platform to discover their interests and talents to allow an individual to have a life-long love for a particular activity. This helps the individual to lead a balanced life in adulthood. It is one of the key Student Development Experiences that contribute towards the holistic development of our students. 
@@ -12,3 +11,7 @@ Each CCA has its specific objectives. For instance, Physical Sports (PS) develop
 
 All CCA emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school.
 
+### Club and Societies
+
+[Infocomm Technology](/co-curricular-activities/Clubs-and-Societies/infocomm-technology/)
+![](/images/Infocomm-Formal-1024x683.png)
