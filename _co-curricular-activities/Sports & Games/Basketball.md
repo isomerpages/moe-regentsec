@@ -49,3 +49,11 @@ Caricature was introduced to enable students to appreciate arts. This was conduc
 #### CCA Exchange Day
 
 Students from Robotics had an exchange with the Basketball boys. Both CCA groups were introduced to new routines or drills that were exclusive to the CCA. The Basketball boys were given the opportunity to manipulate with the flying of drones and to build vehicles attached to the micro:bit to enable movement. The students from Robotics were exposed to Basketball drills and skill sets.
+
+![](/images/bb1-768x517.png)
+
+Basketball boys @ work under the guidance of the Robotic Club members
+
+![](/images/bb2.png)
+
+Students from Robotics Club warming up on the Basketball court
