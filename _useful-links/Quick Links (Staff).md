@@ -20,3 +20,4 @@ https://www.opal2.moe.edu.sg/ (link cannot be found)
 https://scmobile.moe.edu.sg/login
 
 ### Parent Gateway
+https://pg.moe.edu.sg/
