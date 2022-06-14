@@ -157,3 +157,11 @@ Threesixzero Production Prize
 
 <img src="/images/ny_poly.jpg" 
      style="width:50%">
+		 
+##### **Nora Fong Jianyi**
+
+Diploma in Industrial Design
+
+Scanteak Award for Outstanding Project Work
+
+![](/images/alumni-nyp-2.jpg)
