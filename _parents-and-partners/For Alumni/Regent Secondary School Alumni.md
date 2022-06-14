@@ -76,3 +76,30 @@ Click on the Newspaper Article’s below to view the achievement which was publi
 *   Lee Hsien Loong Award presented to Rachael Lum Hui Ting
 
 ![](/images/rachel-768x768.jpg)
+
+(video need to be uploaded on YT)
+
+Edmund Ang Jun Yan studied Diploa of Material Science (School of Applied Science) and has awarded Republic Award
+
+![](/images/Edmund-ang.jpg)
+[https://www.rp.edu.sg/](https://www.rp.edu.sg/)
+
+#### **Achievements of 2015**
+
+![](/images/2015-RP.jpg)
+
+#### **Achievements of 2014**
+
+Nanyang Polytechnic
+
+Outstanding Graduands 2014
+
+*   **Jonathan Lian Junwen**  
+    _Diploma In Sports & Wellness Management_  
+    The Singapore Sports Council Bronze Medal
+*   **Tay Guek Cheng Sandra**  
+    Diploma In Visual Communication_Starlite Silver Medal
+*   **Wang Chenhao**  
+    Diploma In Biomedical Engineering_Bd Medical Bronze Medal
+*   **Wynne Celina Effendy**  
+    Diploma In Digital Visual Effects_Lucasfilm Singapore Silver Medal
