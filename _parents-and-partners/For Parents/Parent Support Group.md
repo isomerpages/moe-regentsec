@@ -44,3 +44,11 @@ For more information on the parent and child bonding programme, _Build Supporti
 For more information on the upcoming parenting programme, _How to Talk so your Teen will Listen_, please **[click here](/files/PSG-Talk-3.pdf)**
 
 To find out more about Triple P Online, please **[click here](/files/EDM-Level-2-Seminars-for-parents.pdf)**
+
+![](/images/PSG-EXCO-2022-2023-1024x576.png)
+
+**The functions of the PSG EXCO**
+
+![](/images/psg5.png)
+![](/images/psg6.png)
+![](/images/psg7.png)
