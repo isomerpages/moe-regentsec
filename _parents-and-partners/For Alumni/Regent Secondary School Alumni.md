@@ -103,3 +103,17 @@ Outstanding Graduands 2014
     Diploma In Biomedical Engineering_Bd Medical Bronze Medal
 *   **Wynne Celina Effendy**  
     Diploma In Digital Visual Effects_Lucasfilm Singapore Silver Medal
+
+#### **Achievements of 2013**
+
+![](/images/Gradposter2013-regent-758x1024.jpg)
+
+![](/images/123.png)
+
+#### **Achievements of 2012**
+
+![](/images/alumni_banner.jpg)
+
+<img src="/images/sg_poly.jpg" 
+     style="width:50%">
+
