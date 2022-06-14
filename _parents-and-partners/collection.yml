@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - For Partners/International Partners.md
       - For Partners/.keep
       - For Parents/.keep
       - For Parents/MOE Financial Assistance Scheme.md
