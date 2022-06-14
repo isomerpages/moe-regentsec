@@ -7,8 +7,7 @@ description: ""
 
 ### ICon Mail
 
-### School Cockpit Internal
-https://schoolcockpit.moe.gov.sg/
+# [School Cockpit Internal](https://schoolcockpit.moe.gov.sg/)
 
 ### HRP
 
