@@ -24,6 +24,7 @@ sections:
       button: click here
       url: /develop-self-directed-learners/alp/
       image: /images/alp (1).jpg
+      alt: Applied Learning Programme
   - infobar:
       title: Regent Gallery
       button: click here
