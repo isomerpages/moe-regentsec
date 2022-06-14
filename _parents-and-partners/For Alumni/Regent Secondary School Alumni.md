@@ -116,4 +116,19 @@ Outstanding Graduands 2014
 
 <img src="/images/sg_poly.jpg" 
      style="width:50%">
+		 
+##### **Lim Hong Yi**
 
+Diploma in Maritime Transportation Management
+
+Singapore Shipping Association Prize
+
+Diploma with Merit
+
+##### **Yong Lynn**
+
+Diploma in Financial Informatics
+
+Diploma with Merit
+
+KS Energy Prize
