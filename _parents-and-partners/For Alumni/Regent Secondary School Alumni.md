@@ -27,3 +27,20 @@ Like us on Regent Secondary School’s Facebook page [https://www.facebook.com/
 
 ### **Achievements of Alumni**
 #### Achievements of 2018
+
+![](/images/37370425_1945674552155539_8707109778100322304_n.jpg)
+
+![](/images/Siddiq-Amsyar_Regent.jpg)
+
+#### **Achievements of 2017**
+
+##### **Ex Regenite Graduates with an Honours Degree**
+
+
+_Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Buisness Management and Accontancy under the University Scholars Programme. He is working with Visa as a buisness consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements._
+
+Click on the Newspaper Article’s below to view the achievement which was published in the Lianhe Wanbao
+
+[Newspaper Article 1](/files/Randy.pdf)
+
+“Source:\[Lianhe Wanbao\] © Singapore Press Holdings Limited. Permission required for reproduction”.
