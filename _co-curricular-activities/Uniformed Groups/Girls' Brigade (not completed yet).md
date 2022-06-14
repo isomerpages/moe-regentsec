@@ -44,3 +44,5 @@ Every Girl in the Explorer’s Programme will:
 ![](/images/GB%204.jpg)
 ![](/images/GB%205.jpg)
 ![](/images/GB%206.jpg)
+![](/images/GB%207.jpg)
+![](/images/IMG-20210227-WA0001-768x1024.jpg)
