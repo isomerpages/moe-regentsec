@@ -26,3 +26,6 @@ We have listed some websites that give parental guidance on some popular social 
 | Snapchat 	| https://www.connectsafely.org/wp-content/uploads/snapchat_guide.pdf 	|
 | Twitter 	| https://about.twitter.com/safety/families 	|
 | YouTube 	| https://www.commonsensemedia.org/blog/a-parents-ultimate-guide-to-youtube 	|
+
+**Helping Your Child Manage Online Scams**
+![](/images/Cyber-Wellness-for-Parents-Regent-School-Website1024_2-e1606195851724.jpg)
