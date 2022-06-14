@@ -3,6 +3,8 @@ title: Limbang Raya Show
 permalink: /limbang-raya-show/
 description: ""
 ---
+# Limbang Raya Show
+
 On the 21st May 2022, Choa Chu Kang residents attended the Limbang Raya Show, organised by the Limbang Malay Activity Executive Committee (MAEC), held in our school hall. The event, graced by the Grassroots Adviser, Mr Lawrence Wong, saw guests streaming into the hall donning their best Hari Raya outfits.
 
 Members of the audience were serenaded by live singing performances by members of the MAEC as well as local talents Sufie Rashid, Rozaimi and our very own Secondary 5 student Sarah Syazlina, who belted out songs such _Suasana Hari Raya_ by Sharifah Ainiand _Hari Raya_ by Najwa Latif.
