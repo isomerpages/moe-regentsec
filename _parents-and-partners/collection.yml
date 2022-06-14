@@ -2,10 +2,6 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - For Partners/Local Partners.md
-      - For Partners/Self Help Groups.md
-      - For Partners/International Partners.md
-      - For Partners/.keep
       - For Parents/.keep
       - For Parents/MOE Financial Assistance Scheme.md
       - For Parents/Parent Support Group.md
@@ -15,3 +11,7 @@ collections:
       - For Parents/Education Tips and Features.md
       - For Parents/Parenting Support Programmes.md
       - For Parents/Consent for Photography and Videos for Publicity.md
+      - For Partners/.keep
+      - For Partners/Local Partners.md
+      - For Partners/Self Help Groups.md
+      - For Partners/International Partners.md
