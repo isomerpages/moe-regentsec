@@ -30,3 +30,6 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[Show Choir](/co-curricular-activities/Performing-Arts/choir/)**
 ![](/images/Show-Choir-Formal.jpg)
+
+**[Concert Band](/co-curricular-activities/Performing-Arts/concert-band/)**
+![](/images/Concert-Band-Formal-1024x683.jpg)
