@@ -154,3 +154,6 @@ Diploma in Chinese Media & Communication
 Diploma with Merit
 
 Threesixzero Production Prize
+
+<img src="/images/ny_poly.jpg" 
+     style="width:50%">
