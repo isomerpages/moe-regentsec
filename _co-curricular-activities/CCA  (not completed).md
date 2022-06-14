@@ -20,7 +20,7 @@ All CCA emphasise social interaction by providing a common space for friendships
 ![](/images/Design-n-Innovation-Formal-1024x683.jpg)
 
 **[Environmental Science ](/co-curricular-activities/Clubs-and-Societies/environmental-science/)**
-![](/images/Environmental-Science-Formal-300px.png) (image too blury)
+![](/images/Environmental-Science-Formal-300px.png) (image too blurry)
 
 **[Robotics Club](/co-curricular-activities/Clubs-and-Societies/robotics-club/)**
 ![](/images/Robotics-Formal.jpg)
@@ -35,7 +35,7 @@ All CCA emphasise social interaction by providing a common space for friendships
 ![](/images/Concert-Band-Formal-1024x683.jpg)
 
 **[English Drama](/co-curricular-activities/Performing-Arts/english-drama/)**
-![](/images/English-Drama-Formal-300px%20(1).png) (image too blury)
+![](/images/English-Drama-Formal-300px%20(1).png) (image too blurry)
 
 **[Modern Dance](/co-curricular-activities/Performing-Arts/modern-dance/)**
 ![](/images/Modern-Dance-Formal-1024x683.jpg)
