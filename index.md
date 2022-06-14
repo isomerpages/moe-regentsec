@@ -20,9 +20,7 @@ sections:
           description: ""
           url: /developing-confident-leaders/world-environment-day/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Applied Learning Programme
+      button: click here
       url: /faq/
 ---
