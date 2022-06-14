@@ -26,7 +26,7 @@ Register to join the Regent Sec Alumni by scanning the QR code below!
 Like us on Regent Secondary School’s Facebook page [https://www.facebook.com/RGTSecondary/](https://www.facebook.com/RGTSecondary/) to be updated on school events and programmes.
 
 ### **Achievements of Alumni**
-#### Achievements of 2018
+#### **Achievements of 2018**
 
 ![](/images/37370425_1945674552155539_8707109778100322304_n.jpg)
 
