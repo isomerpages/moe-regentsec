@@ -39,3 +39,8 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[Modern Dance](/co-curricular-activities/Performing-Arts/modern-dance/)**
 ![](/images/Modern-Dance-Formal-1024x683.jpg)
+
+### Uniformed Group
+
+**[Boys' Brigade](/co-curricular-activities/Uniformed-Groups/boys-brigade/)**
+![](/images/The-Boys_-Brigade-1024x608.jpg)
