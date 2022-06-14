@@ -48,8 +48,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Achievements & Accolades
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      description: 2018-2021
       button: Click Here
       url: /about-regent/Our-Achievements/2021-achievements/
       image: /images/Achievements-and-Accolades-1.jpg
