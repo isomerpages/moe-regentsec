@@ -38,3 +38,9 @@ Here are some of the programme planned:
 For more information on the parenting programme, _Cyber-wellness Tips for Parents “Strategies to Engage a Tech Savvy Gen. Z.”_, please **[click here](/files/PSG-Talk-1.pdf).**
 
 ![](/images/PSG-graphic-1024x405.png)
+
+For more information on the parent and child bonding programme, _Build Supportive Family Relationships_, please **[click here](/files/PSG-Talk-2.pdf)**
+
+For more information on the upcoming parenting programme, _How to Talk so your Teen will Listen_, please **[click here](/files/PSG-Talk-3.pdf)**
+
+To find out more about Triple P Online, please **[click here](/files/EDM-Level-2-Seminars-for-parents.pdf)**
