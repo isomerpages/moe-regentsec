@@ -15,3 +15,11 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 **[Infocomm Technology](/co-curricular-activities/Clubs-and-Societies/infocomm-technology/)**
 ![](/images/Infocomm-Formal-1024x683.png)
+
+**[Design and Innovation](/co-curricular-activities/Clubs-and-Societies/design-and-innovation/)**
+![](/images/Design-n-Innovation-Formal-1024x683.jpg)
+
+
+
+**[Robotics Club](/co-curricular-activities/Clubs-and-Societies/robotics-club/)**
+![](/images/Robotics-Formal.jpg)
