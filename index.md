@@ -23,4 +23,9 @@ sections:
       title: Applied Learning Programme
       button: click here
       url: /faq/
+  - infopic:
+      title: Applied Learning Programme
+      button: Button Text
+      url: /develop-self-directed-learners/alp/
+      alt: Image alt text
 ---
