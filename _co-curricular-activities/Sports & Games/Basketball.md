@@ -38,3 +38,10 @@ Teamwork is essential for the students to do well in the sport. Ideally, we want
 
 Several activities such as National School Games, team bonding camp and VIA project cannot be conducted. Face-to-face training sessions were conducted with Safe Management Measures (SMM). However, e-CCA sessions were conducted when face-to-face interactions were not possible. Some e-CCA sessions were conducted by the student leaders to emphasize on the desired traits of a sportsperson.
 
+![](/images/bbcovid.png)
+
+#### Arts Enrichment Programme
+
+Caricature was introduced to enable students to appreciate arts. This was conducted in the form of Zoom sessions after the examinations in May 2021.
+
+![](/images/bbarts.png)
