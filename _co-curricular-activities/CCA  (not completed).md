@@ -19,7 +19,8 @@ All CCA emphasise social interaction by providing a common space for friendships
 **[Design and Innovation](/co-curricular-activities/Clubs-and-Societies/design-and-innovation/)**
 ![](/images/Design-n-Innovation-Formal-1024x683.jpg)
 
-
+**[Environmental Science ](/co-curricular-activities/Clubs-and-Societies/environmental-science/)**
+![](/images/Environmental-Science-Formal-300px.png) (image too blury)
 
 **[Robotics Club](/co-curricular-activities/Clubs-and-Societies/robotics-club/)**
 ![](/images/Robotics-Formal.jpg)
