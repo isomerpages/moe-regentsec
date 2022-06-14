@@ -65,3 +65,12 @@ All CCA emphasise social interaction by providing a common space for friendships
 **[Netball](/co-curricular-activities/Sports-and-Games/netball/)**
 ![](/images/Netball-Formal-300px%20(1).png)
 
+**[Taekwondo](/co-curricular-activities/Sports-and-Games/taekwondo/)**
+![](/images/Taekwondo-Formal-scaled.jpg)
+
+**[Football](/co-curricular-activities/Sports-and-Games/football/)**
+![](/images/Football-Formal-1024x683.jpg)
+
+### Student Leaders Investiture 2021 Highlights
+
+(yt video cannot be embedded)
