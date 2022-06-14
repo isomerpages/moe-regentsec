@@ -11,13 +11,13 @@ description: ""
 https://schoolcockpit.moe.gov.sg/ (link cannot be found)
 
 ### HRP
-https://www.hrp.gov.sg/hrp/#/
+[https://www.hrp.gov.sg/hrp/#/](https://www.hrp.gov.sg/hrp/#/)
 
 ### OPAL2.0
 https://www.opal2.moe.edu.sg/ (link cannot be found)
 
 ### SC Mobile
-https://scmobile.moe.edu.sg/login
+[https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)
 
 ### Parent Gateway
-https://pg.moe.edu.sg/
+[https://pg.moe.edu.sg/](https://pg.moe.edu.sg/)
