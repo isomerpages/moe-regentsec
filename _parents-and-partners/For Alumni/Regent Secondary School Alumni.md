@@ -182,3 +182,22 @@ GCE A Levels – 5 Distinctions
 NTU College Scholarship
 
 ### **Our Successful Students**
+
+![](/images/successful-student-1.png)
+![](/images/successful-student-2.png)
+![](/images/successful-student-3.png)
+![](/images/successful-student-4.png)
+![](/images/successful-student-5.png)
+![](/images/successful-student-6.png)
+![](/images/successful-student-7.png)
+![](/images/successful-student-8.png)
+![](/images/successful-student-9.png)
+![](/images/successful-student-10.png)
+![](/images/successful-student-11.png)
+![](/images/successful-student-12.png)
+![](/images/successful-student-13.png)
+![](/images/successful-student-14.png)
+![](/images/successful-student-15.png)
+![](/images/successful-student-16.png)
+![](/images/successful-student-17.png)
+![](/images/successful-student-18.png)
