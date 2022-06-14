@@ -25,6 +25,35 @@ sections:
       url: /develop-self-directed-learners/alp/
       image: /images/alp (1).jpg
       alt: Applied Learning Programme
+  - infopic:
+      title: Lifelong Learning Programme
+      description: Community Youth Leadership
+      button: click here
+      url: /confident-leaders/Learning-for-Life-Programme/community-youth-leadership/
+      image: /images/llp.jpg
+      alt: Lifelong Learning Programme
+  - infopic:
+      title: School Events
+      description: Festival Celebrations, NE Commemorations
+      button: Click here
+      url: /about-regent/School-Events/festive-celebrations/
+      image: /images/Sch-events.jpg
+      alt: Image alt text
+  - infopic:
+      title: Echoes of Regent
+      description: 2018-2021
+      button: Click Here
+      url: /permalink/
+      image: /images/echoes-1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Achievements & Accolades
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      url: /about-regent/Our-Achievements/2021-achievements/
+      image: /images/Achievements-and-Accolades-1.jpg
+      alt: Image alt text
   - infobar:
       title: Regent Gallery
       button: click here
