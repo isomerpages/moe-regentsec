@@ -56,7 +56,7 @@ Acceptable attire during the holidays is
 
 3.4      Attendance for CCA is compulsory. If a pupil is unwell, the CCA teacher in charge must be informed and a Medical Certificate must be given to the teacher the next working day. If a pupil is unable to attend due to other school commitments, he/she must inform the teacher in-charge before the session and seek approval.
 
-### **4. Latecoming**
+#### **4. Latecoming**
     
 
 4.1      All pupils have to be punctual for school, lessons, CCA and other committed school activities.
