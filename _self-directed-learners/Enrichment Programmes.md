@@ -84,7 +84,6 @@ In Historical Investigations, students explore a range of authentic sources to g
 
 <img src="/images/Sec2.png" 
      style="width:50%">
-![](/images/Sec2.png)
 
 ### **Conversational Chinese and Malay Language (CCM) Programme**
 
@@ -99,6 +98,8 @@ Conversational Chinese and Malay Language (CCM) Programme  aims to strengthen S
 *   Role-plays
 *   Introduction to festivals and culture
 
-![](/images/ccm1.jpg)
+<img src="/images/ccm1.jpg" 
+     style="width:70%">
 
-![](/images/ccm2.jpg)
+<img src="/images/ccm2.jpg" 
+     style="width:70%">
