@@ -69,7 +69,7 @@ Acceptable attire during the holidays is
 
 4.5      It is the responsibility of the pupils who are late to submit the ‘Latecomers Slip’ to their respective Form Teachers for attendance updating.
 
-### **5. Show Care and Respect**
+#### **5. Show Care and Respect**
     
 
 5.1      Pupils must show respect and appreciation to speakers/performers at assemblies by maintaining silence and paying attention.
@@ -80,7 +80,7 @@ Acceptable attire during the holidays is
 
 5.4      Pupils must take pride in their work and submit work assigned on time.
 
-### **6. Banned / Controlled Items**
+#### **6. Banned / Controlled Items**
     
 
 6.1      Pupils are not allowed to bring to school any item considered undesirable by the school. This includes electronic games, cards of any sort, chewing gum or any other item that contradicts the school values.
