@@ -8,7 +8,10 @@ locations:
       - "50"
       - Choa Chu Kang North 5
       - Singapore 689621
-    operating_hours: []
+    operating_hours:
+      - days: Mon-Fri
+        time: 7am - 5pm
+        description: ""
     maps_link: https://goo.gl/maps/CAGSNUHqXX812z298
     title: Address
 contacts:
