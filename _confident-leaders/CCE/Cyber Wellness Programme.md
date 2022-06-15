@@ -4,7 +4,6 @@ permalink: /confident-leaders/CCE/cyber-wellness-programme/
 description: ""
 third_nav_title: CCE
 ---
-
 ![](/images/CW.jpg)
 
 Cyber Wellness Programme
@@ -20,14 +19,21 @@ The Cyber Wellness curriculum aims to equip students with life-long social-emoti
 *   Cyber Wellness assembly talks
 *   Cyber Wellness outreach to the community
 
-![](/images/CW1.jpg)
+<img src="/images/CW1.jpg" 
+     style="width:50%">
 
-![](/images/CW2.jpg)
+<img src="/images/CW2.jpg" 
+     style="width:50%">
 
-![](/images/CW3.jpg)
 
-![](/images/CW4.jpg)
+<img src="/images/CW3.jpg" 
+     style="width:50%">
 
-![](/images/CW5.jpg)
+<img src="/images/CW4.jpg" 
+     style="width:50%">
 
-![](/images/CW6.jpg)
+<img src="/images/CW5.jpg" 
+     style="width:50%">
+
+<img src="/images/CW6.jpg" 
+     style="width:50%">
