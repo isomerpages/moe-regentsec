@@ -7,7 +7,7 @@ third_nav_title: Vision, Mission & Values
 Our School Crest
 ----------------
 <img src="/images/Regent-Crest-653x1024.png" 
-     style="width:50%">
+     style="width:25%">
 
 Our crest takes the shape of the Regent Torch.
 
