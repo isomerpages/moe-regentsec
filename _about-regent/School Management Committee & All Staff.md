@@ -3,7 +3,6 @@ title: School Management Committee & All Staff
 permalink: /about-regent/school-management-committee/
 description: ""
 ---
-
 ![](/images/All-Staff-e1581995804727.jpg)
 
 School Management Committee & All Staff
@@ -38,7 +37,7 @@ School Management Committee & All Staff
 <center>School Admin Team </center>
 
 	
-#### Form Teachers
+#### **Form Teachers**
 
 | **CLASS** 	| **FORM TEACHER 1** 	| **FORM TEACHER 2** 	|
 |---	|---	|---	|
@@ -72,7 +71,7 @@ School Management Committee & All Staff
 | S5 Gratitude 	| MR TEO HOCK SIONG 	|  	|
 
 
-#### Learning Support & Administration
+#### **Learning Support & Administration**
 
 |  	|  	|
 |---	|---	|
