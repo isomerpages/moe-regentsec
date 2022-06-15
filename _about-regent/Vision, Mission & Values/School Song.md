@@ -11,7 +11,7 @@ third_nav_title: Vision, Mission & Values
 Lyrics by Mrs Aslinah Shariff & Mr Gerard Nonis
 
 <img src="/images/Regent-Crest-653x1024.png" 
-     style="width:50%">
+     style="width:25%">
 
 
 Hear the echoes of Regent,  
