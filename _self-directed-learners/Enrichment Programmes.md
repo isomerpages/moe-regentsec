@@ -3,7 +3,6 @@ title: Enrichment Programmes
 permalink: /self-directed-learners/enrichment-programmes/
 description: ""
 ---
-
 ### **Sec 2 Science Busking**
 
 Science Busking is a hands-on, interactive way of learning and sharing about Science. Students use the knowledge learnt in books and classroom activities and apply the concepts to real life experiences and situations. Busking comprises students engaged in live demonstrations (using everyday objects) which convey to people how Science can be interpreted, transferred and applied to real life. In Science Busking, students communicate complex Scientific Concepts through skillful, live demonstrations and make Science come alive.
@@ -56,17 +55,21 @@ Types of GI:
 *   Secondary 3 – Weather investigation in Regent Sec Sch
 *   Secondary 4/5 – Explore Chinatown and to interview tourists and understand more on tourism trends
 
-![](/images/Secondary-1-Fieldtrip.jpg)
+<img src="/images/Secondary-1-Fieldtrip.jpg" 
+     style="width:50%">
 <center> Secondary 1 </center>
 
 <img src="/images/Secondary-2-Fieldtrip-e1565168839703.jpg" 
-     style="width:75%">
+     style="width:50%">
 <center> Secondary 2 </center>
 
-![](/images/Secondary-3.png)
+<img src="/images/Secondary-3.png" 
+     style="width:50%">
+
 <center> Secondary 3 </center>
 
-![](/images/Secondary-45-Fieldtrip-e1565749100581.jpg)
+<img src="/images/Secondary-45-Fieldtrip-e1565749100581.jpg" 
+     style="width:50%">
 <center> Secondary 4&5 </center>
 
 ### **Historical Investigations**
