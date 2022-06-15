@@ -6,7 +6,7 @@ third_nav_title: Vision, Mission & Values
 ---
 ## School Song
 
-### Blaze Forth to Glory
+### **Blaze Forth to Glory**
 
 Lyrics by Mrs Aslinah Shariff & Mr Gerard Nonis
 
