@@ -80,8 +80,10 @@ In Historical Investigations, students explore a range of authentic sources to g
 *   Secondary 2 – Battlebox: Battlebox is a former WWII British underground command centre inside Fort Canning Hill in the heart of Singapore City. It was part of the headquarters of Malaya Command, the army which defended Malaya and Singapore in WWII. It was inside the Battlebox that the British made the decision to surrender Singapore to the invading Japanese on 15 February 1942. Students visited the Battlebox which has been converted into a museum to learn stories on the fall of Malaya and Singapore in WWII.
 
 <img src="/images/Sec1-300x225.png" 
-     style="width:70%">
+     style="width:50%">
 
+<img src="/images/Sec2.png" 
+     style="width:50%">
 ![](/images/Sec2.png)
 
 ### **Conversational Chinese and Malay Language (CCM) Programme**
