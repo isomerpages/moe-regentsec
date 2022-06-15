@@ -64,7 +64,6 @@ As our motto so aptly goes, _“Dance with your heart, and your feet will follo
 
 ![](/images/IMG_0660-1024x683.jpg)
 
-**Teachers’ Day Performance 2021**
-----------------------------------
+### **Teachers’ Day Performance 2021**
 
 (Insert Video - cannot be embedded cos its unlisted)
