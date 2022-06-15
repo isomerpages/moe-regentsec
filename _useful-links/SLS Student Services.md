@@ -9,7 +9,9 @@ description: ""
 
 ### SLS Helpline
 
-![](/images/SLS_Helpline.jpg)
+<img src="/images/SLS_Helpline.jpg" 
+     style="width:50%">
+
 
 **School Helpline (7.30am to 4pm):**  
 67653828  
