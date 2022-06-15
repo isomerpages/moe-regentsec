@@ -4,14 +4,14 @@ permalink: /about-regent/Vision-Mission-and-Values/school-rules/
 description: ""
 third_nav_title: Vision, Mission & Values
 ---
-### School Rules
+### **School Rules**
 
-### **1. Citizenship**
+#### **1. Citizenship**
     
 
 Pupils who are Singapore Citizens must sing the National anthem and take the Pledge with the right fist over the heart.
 
-### **2. Attire and Grooming**
+#### **2. Attire and Grooming**
     
 
 2.1     Pupils are to wear the prescribed school uniform and modification to the uniform is not allowed. Proper school attire consists of:
@@ -43,7 +43,9 @@ Acceptable attire during the holidays is
   *   School/CCA t-shirt worn with the school pants/skirt. Class T-shirt is not allowed unless during special occasions where permission is given.
    *   School shoes as described in para 2.1. Other types of footwear are not allowed.
 
- ### **3. Attendance**
+
+
+#### **3. Attendance**
     
 
 3.1     Daily attendance in school during term time is compulsory. A student must have at least 90% attendance before he/she will be allowed to sit for his/her examinations.
