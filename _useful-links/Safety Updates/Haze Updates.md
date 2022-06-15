@@ -6,7 +6,7 @@ third_nav_title: Safety Updates
 ---
 Haze Updates
 ============
-* **[School’s Commitment in Safeguarding Students’ Well-being in Light of the Haze Situation](https://regentsec.moe.edu.sg/schools-commitment-in-safeguarding-students-well-being-in-light-of-the-haze-situation/) (updated 16 Sept 2015)**
+* **School’s Commitment in Safeguarding Students’ Well-being in Light of the Haze Situation (updated 16 Sept 2015)**
 
 16th September 2015
 
