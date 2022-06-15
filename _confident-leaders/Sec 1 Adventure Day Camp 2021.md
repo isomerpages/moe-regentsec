@@ -3,6 +3,7 @@ title: Sec 1 Adventure Day Camp 2021
 permalink: /confident-leaders/secondary-one-outdoor-adventure-camp-28-to-30-january/
 description: ""
 ---
+![](/images/WhatsApp-Image-2021-01-29%20(1).jpeg)
 
 # Secondary 1 Outdoor Adventure Camp 2021 – 28 to 30 January
 
