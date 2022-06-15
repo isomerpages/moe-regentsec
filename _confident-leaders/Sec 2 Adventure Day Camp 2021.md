@@ -3,8 +3,6 @@ title: Sec 2 Adventure Day Camp 2021
 permalink: /confident-leaders/secondary-2-adventure-camp-2021/
 description: ""
 ---
-
-
 Secondary 2 Adventure Camp 2021
 ===============================
 
