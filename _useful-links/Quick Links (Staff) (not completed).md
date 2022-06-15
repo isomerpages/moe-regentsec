@@ -10,7 +10,7 @@ description: ""
 [https://icon.moe.edu.sg/](https://icon.moe.edu.sg/) (link cannot be found)
 
 ### School Cockpit Internal
-https://schoolcockpit.moe.gov.sg/ (link cannot be found)
+[https://schoolcockpit.moe.gov.sg/](https://schoolcockpit.moe.gov.sg/) (link forbidden)
 
 ### HRP
 [https://www.hrp.gov.sg/hrp/#/](https://www.hrp.gov.sg/hrp/#/)
