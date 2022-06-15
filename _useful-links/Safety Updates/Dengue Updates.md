@@ -18,3 +18,5 @@ We would like to invite your school to join us in the collective action by clear
 ### _“Protect our families and loved ones against dengue. Do the 5-Step #MozzieWipeout.”_
 
 for more info, click below: [http://www.dengue.gov.sg/](http://www.dengue.gov.sg/)
+
+(image cannot be found)
