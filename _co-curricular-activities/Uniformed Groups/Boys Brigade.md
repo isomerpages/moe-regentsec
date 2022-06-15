@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Uniformed-Groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/BBBannerwebsite-scaled.jpg)
+
 Boys’ Brigade (Boys only)
 =========================
 
