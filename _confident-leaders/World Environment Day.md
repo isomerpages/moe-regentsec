@@ -3,8 +3,6 @@ title: World Environment Day
 permalink: /confident-leaders/world-environment-day/
 description: ""
 ---
-
-
 World Environment Day
 =====================
 
@@ -24,7 +22,9 @@ Thank you.
 
 ![](/images/Picture1.jpg)
 
-![](/images/Picture2.jpg)
+<img src="/images/Picture2.jpg" 
+     style="width:50%">
+
 
 ![](/images/Picture3.jpg)
 
