@@ -73,9 +73,12 @@ The music video:
 #### **Marsiling-Yew Tee GRC National Day Celebrations 2021**
 
 Recording of the National Anthem and National Day dance
-![](/images/06_National-Day-recording-768x1024.jpg)
+<img src="/images/06_National-Day-recording-768x1024.jpg" 
+     style="width:50%">
 
-![](/images/07_National-Dayrecording-1024x768.jpg)
+<img src="/images/07_National-Dayrecording-1024x768.jpg" 
+     style="width:50%">
+
 
 ![](/images/08_National-Day-poster.jpg)
 
