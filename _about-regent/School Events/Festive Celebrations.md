@@ -4,6 +4,8 @@ permalink: /about-regent/School-Events/festive-celebrations/
 description: ""
 third_nav_title: School Events
 ---
+![](/images/Festive%20Celebrations.jpg)
+
 ### **Chinese New Year Celebrations**
 
  The all year-round Chinese New Year concert which was held in January, gave the students exposure to the Chinese festivities. Chinese New Year celebration offers a showcase to how Chinese New Year is being celebrated by the Chinese people here in Singapore. For the first segment of the concert, the principal kick-start the Chinese New Year concert by painting a Chinese letter on the piece of paper with a Chinese paintbrush. This was followed by a short speech.
