@@ -3,9 +3,7 @@ title: Applied Learning Programme
 permalink: /self-directed-learners/alp/
 description: ""
 ---
-
-
-(insert picture, file exceeds 5MB)
+![](/images/Applied%20Learning%20Programme.jpg) 
 
 #### **APPLIED LEARNING PROGRAMME(ALP)**
 
