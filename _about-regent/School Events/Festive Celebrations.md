@@ -45,3 +45,24 @@ I love the performances because of the different elements of music compiled toge
 
 Personally, I am grateful because it was the first time in two years that all Regenites were able to gather in the school hall once again. It touched my heart as we could finally come together to celebrate Hari Raya as a school once again. I look forward to more celebrations and performances put together for our Regenites in the years to come. Selamat Hari Raya everyone!”
 
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-1.jpg)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-2.jpg)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-3.jpg)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-4.png)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-5.jpg)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-6.jpg)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-7.jpg)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-8.png)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-10.jpg)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-11.png)
+
+![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-12.png)
