@@ -7,8 +7,9 @@ third_nav_title: Clubs and Societies
 ![](/images/Media-tech-banner-1-scaled.jpg)
 
 **Teachers-in-charge:**  
-Ms Julie Tan  
-Mr Lim Kok Haw
+Mr Muhammad Fauzan Bin Sapuan  
+Mdm Zainab Banu Binte Hassan  
+Mdm Susi Haryani Binti Sutara
 
 **Our Vision**                                  
 To develop Regenites to be a future-ready and responsible digital learner.
@@ -16,7 +17,7 @@ To develop Regenites to be a future-ready and responsible digital learner.
 **Mission**  
 To cultivate the students’ passion for different forms of Digital Media and to train them to be technology savvy and competent in the use of audio and visual equipment
 
-![](/images/Infocomm-Formal-1024x683.png)
+![](/images/CCA/2022%20Infocomm%20Formal.jpg)
 
 Sound, lights, cameras, ACTION! Regent Infocomm Technology (Media Production) is the space where we make dreams come to (reel) life. We provide experiential opportunities for students who are interested in photography, audio visual technology and media production. Our core duty is to support the school community with photography, videography and assistance in using audio-visual equipment. We also educate our members on Cyber Wellness and participate in the National Cyber Wellness Advocacy Challenge (NCAC) annually. Our members get our creative juices flowing while working on website designing and  filmmaking. Our members develop  a flair for story telling and a passion for the screen.
 
@@ -34,4 +35,5 @@ Our students participate in the annual National Cyber Wellness Advocacy Challeng
 **DigiGirlz**   
 Even when school’s out, learning continues for our members as they participate in the annual DigiGirlz programme organised by the Infocomm Media Development Authority (IMDA) and Microsoft. Every year, the young ladies in our CCA to learn about careers in technology, connect with Microsoft employees, and participate in hands-on computer and technology workshops. Working alongside the young ladies in the CCA, the young gentlemen also learn invaluable soft skills in addition to technical skills. For instance, they learn to collaborate on diverse teams and respect individuals with talent.
 
-![](/images/Infocomm-Informal-1024x683.png)
+![](/images/CCA/2022%20Infocomm%20Fun.jpg)
+
