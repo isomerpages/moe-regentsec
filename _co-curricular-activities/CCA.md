@@ -3,7 +3,6 @@ title: CCA
 permalink: /co-curricular-activities/cca/
 description: ""
 ---
-
 # **CCA**
 
 The CCA Programme provides students with a platform to discover their interests and talents to allow an individual to have a life-long love for a particular activity. This helps the individual to lead a balanced life in adulthood. It is one of the key Student Development Experiences that contribute towards the holistic development of our students. 
@@ -14,64 +13,64 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 ### Club and Societies
 
-**[Infocomm Technology](/co-curricular-activities/Clubs-and-Societies/infocomm-technology/)**
-![](/images/Infocomm-Formal-1024x683.png)
+##### **[Infocomm Technology](/co-curricular-activities/Clubs-and-Societies/infocomm-technology/)**
+![](/images/CCA/2022%20Infocomm%20Formal.jpg)
 
-**[Design and Innovation](/co-curricular-activities/Clubs-and-Societies/design-and-innovation/)**
-![](/images/Design-n-Innovation-Formal-1024x683.jpg)
+##### **[Design and Innovation](/co-curricular-activities/Clubs-and-Societies/design-and-innovation/)**
+![](/images/CCA/2022%20Design%20n%20Innovation%20Formal.jpg)
 
-**[Environmental Science ](/co-curricular-activities/Clubs-and-Societies/environmental-science/)**
-![](/images/Environmental-Science-Formal-300px.png) (image too blurry)
+##### **[Environmental Science ](/co-curricular-activities/Clubs-and-Societies/environmental-science/)**
+![](/images/CCA/2022%20Environmental%20Science%20Formal.jpg)
 
-**[Robotics Club](/co-curricular-activities/Clubs-and-Societies/robotics-club/)**
-![](/images/Robotics-Formal.jpg)
+##### **[Robotics Club](/co-curricular-activities/Clubs-and-Societies/robotics-club/)**
+![](/images/CCA/2022%20Robotics%20Formal.jpg)
 
 
 ### Performing Arts
 
-**[Show Choir](/co-curricular-activities/Performing-Arts/choir/)**
-![](/images/Show-Choir-Formal.jpg)
+##### **[Show Choir](/co-curricular-activities/Performing-Arts/choir/)**
+![](/images/CCA/2022%20Show%20Choir%20Formal.jpg)
 
-**[Concert Band](/co-curricular-activities/Performing-Arts/concert-band/)**
-![](/images/Concert-Band-Formal-1024x683.jpg)
+##### **[Concert Band](/co-curricular-activities/Performing-Arts/concert-band/)**
+![](/images/CCA/2022%20Concert%20Band%20Formal.jpg)
 
-**[English Drama](/co-curricular-activities/Performing-Arts/english-drama/)**
-![](/images/English-Drama-Formal-300px%20(1).png) (image too blurry)
+##### **[English Drama](/co-curricular-activities/Performing-Arts/english-drama/)**
+![](/images/CCA/2022%20English%20Drama%20Formal.jpg)
 
-**[Modern Dance](/co-curricular-activities/Performing-Arts/modern-dance/)**
-![](/images/Modern-Dance-Formal-1024x683.jpg)
+##### **[Modern Dance](/co-curricular-activities/Performing-Arts/modern-dance/)**
+![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
 
 ### Uniformed Group
 
-**[Boys' Brigade](/co-curricular-activities/Uniformed-Groups/boys-brigade/)**
-![](/images/The-Boys_-Brigade-1024x608.jpg)
+##### **[Boys' Brigade](/co-curricular-activities/Uniformed-Groups/boys-brigade/)**
+![](/images/CCA/2022%20Boys%20Brigade%20Formal.jpg)
 
-**[Girls' Brigade](/co-curricular-activities/Uniformed-Groups/girls-brigade/)**
-![](/images/Girls-Brigade-Formal-300px%20(1).png) (image too blurry)
+##### **[Girls' Brigade](/co-curricular-activities/Uniformed-Groups/girls-brigade/)**
+![](/images/CCA/2022%20Girls%20Brigade%20Formal.jpg)
 
-**[NPCC](/co-curricular-activities/Uniformed-Groups/npcc/)**
-![](/images/NPCC-Formal-1024x683.jpg)
+##### **[National Police Cadet Corp (NPCC)](/co-curricular-activities/Uniformed-Groups/npcc/)**
+![](/images/CCA/2022%20NPCC%20Formal.jpg)
 
-**[Red Cross Youth](/co-curricular-activities/red-cross/)**
-![](/images/Banner-Photo_Red-Cross-Youth-Formal-scaled.jpg)
+##### **[Red Cross Youth](/co-curricular-activities/red-cross/)**
+![](/images/CCA/2022%20Red%20Cross%20Formal.jpg)
 
 ### Sports & Games
 
-**[Badminton](/co-curricular-activities/Sports-and-Games/badminton/)**
-![](/images/Badminton-Formal-Ver-2.png)
+##### **[Badminton](/co-curricular-activities/Sports-and-Games/badminton/)**
+![](/images/CCA/2022%20Badminton%20Formal.jpg)
 
-**[Basketball](/co-curricular-activities/Sports-and-Games/basketball/)**
-![](/images/Basketball-Formal-300px%20(1).png)
+##### **[Basketball](/co-curricular-activities/Sports-and-Games/basketball/)**
+![](/images/CCA/2022%20Basketball%20Formal.jpg)
 
-**[Netball](/co-curricular-activities/Sports-and-Games/netball/)**
-![](/images/Netball-Formal-300px%20(1).png)
+##### **[Netball](/co-curricular-activities/Sports-and-Games/netball/)**
+![](/images/CCA/2022%20Netball%20Formal.jpg)
 
-**[Taekwondo](/co-curricular-activities/Sports-and-Games/taekwondo/)**
-![](/images/Taekwondo-Formal-scaled.jpg)
+##### **[Taekwondo](/co-curricular-activities/Sports-and-Games/taekwondo/)**
+![](/images/CCA/2022%20Taekwondo%20Formal.jpg)
 
-**[Football](/co-curricular-activities/Sports-and-Games/football/)**
-![](/images/Football-Formal-1024x683.jpg)
+##### **[Football](/co-curricular-activities/Sports-and-Games/football/)**
+![](/images/CCA/2022%20Football%20Formal.jpg)
 
-### Student Leaders Investiture 2021 Highlights
+### CCA Highlights
 
 (yt video cannot be embedded)
