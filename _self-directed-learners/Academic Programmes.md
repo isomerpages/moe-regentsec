@@ -3,22 +3,21 @@ title: Academic Programmes
 permalink: /self-directed-learners/academic-programmes/
 description: ""
 ---
+### **Student Sign-Up Learning (SSUL)**
 
-### **Academic Support Programme (ASP)/ Consultation/ Night Study**
+In Regent, one of the ways students demonstrate self-directedness is by taking pride in their learning and actively approaching their teachers for consultation sessions to clarify their doubts through the Student Sign-Up Learning (SSUL) approach. Students will take the initiative to ask questions and monitor their progress in learning.
 
-Academic Support Programme is an after-school programme that aims to help students who need intensive support through remediation on selected topics and/or skills.
+![](/images/Academic%20Programmes/ssul1.jpg)
 
-We provide additional support for our graduating students in the form of Subject Consultation and Night Study in the evening of Semester 2.
+![](/images/Academic%20Programmes/ssul2.jpg)
 
-![](/images/ASP1.png)
+![](/images/Academic%20Programmes/ssul3.jpg)
 
-![](/images/ASP2.png)
+![](/images/Academic%20Programmes/ssul4.jpg)
 
-![](/images/Math-Consultation.png)
-Math Consultation
+![](/images/Academic%20Programmes/ssul5.jpg)
 
-![](/images/Science-Consultation.png)
-Science Consultation
+![](/images/Academic%20Programmes/ssul6.jpg)
 
 #### **Enhancing Student Learning Experiences**
 
