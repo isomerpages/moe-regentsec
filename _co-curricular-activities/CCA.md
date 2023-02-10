@@ -73,5 +73,6 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 ### CCA Highlights
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rvKLjlGl1sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qrqtHoB-aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 (yt video cannot be embedded)
