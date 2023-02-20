@@ -41,14 +41,12 @@ sections:
       alt: Image alt text
   - infopic:
       title: Echoes of Regent
-      description: 2019-2021
       button: Click Here
       url: /permalink/
       image: /images/echoes-1.jpg
       alt: Image alt text
   - infopic:
       title: Achievements & Accolades
-      description: 2018-2021
       button: Click Here
       url: /about-regent/Our-Achievements/2021-achievements/
       image: /images/Achievements-and-Accolades-1.jpg
