@@ -27,7 +27,7 @@ School Management Committee & All Staff
 
 ![](/images/LST_2023.png)
 
-![](/images/EAS_2023.png)
+![](/images/EAS_2023_v2.png)
 
 	
 #### **Form Teachers**
