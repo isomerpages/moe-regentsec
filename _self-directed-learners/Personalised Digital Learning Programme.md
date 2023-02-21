@@ -36,3 +36,21 @@ Researching and building a prototype in Science often requires much collaboratio
 
 ![](/images/PDLP/PDLP_5-SCI.jpg)
 
+#### **Learning and Perfecting Technique in Physical Education**
+
+The use of a Blended Learning approach in PE lessons enables students build conceptual understanding of game concepts in sports. To learn more about how the Drop Shot and Smash are used to create and attack space in Badminton, our Secondary Two students worked on bite-sized theory lessons on SLS that they then learnt to apply during hands-on sessions in PE. This helped to bridge the theory-practice gap and allowed for more face-to-face instructional time to be spent on honing students’ skills and confidence in the sport.
+
+![](/images/PDLP/PDLP_6-PE.png)
+
+#### **Student Quotes**
+
+> ‘I enjoy using the Chromebook as it is better than writing with pen & paper. The lessons are interesting because we get to do our own research using our devices. It is such a dream to be able use our devices in class!’ (Chester, 1-Pride) 
+
+
+> ‘Having inquiry-based lessons with our Chromebooks in class is interesting. I think that with these lessons, we are able to better understand how the concepts learnt are used in real life and this helps us to better appreciate the lesson material.’ (Weng Hin, 3-Empathy)
+
+
+-------------------------------------------------------------
+
+### **Personal Learning Devices (PLD) Distribution**
+
