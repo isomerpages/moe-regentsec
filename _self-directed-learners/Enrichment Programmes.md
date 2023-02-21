@@ -7,7 +7,7 @@ description: ""
 
 Each year, our students have the opportunity to take part in Science Buskers, an annual competition organised by A\*STAR and Science Centre Singapore. As a hands-on, interactive way of learning and sharing about Science, Science Busking sees students applying scientific concepts learnt to real-world situations and showcasing their ideas through skillful, live demonstrations using everyday objects. It is here that Science comes alive for our students, who experience first-hand just how powerful the subject is in undergirding all aspects of life!
 
-
+![](/images/Enrichment%20Programmes/EnrichmentProg_1-SciBuskers.jpg)
 
 ### **Science Learning Journeys**
 
@@ -16,14 +16,7 @@ Science Learning Journeys is a series of activities to enthuse our students to l
 *   Enrichment – Learning journey to fusion world, Surprising Science, Forensic Science, Cluster Science for Sec 1, NUS Physics Camp, AEM – Fighting Invisible Enemies
 *   Competitions – Singapore Junior Water Prize, Science Centre Research, Science Busking Festival
 
-![](/images/AEM-students-going-out-of-classrooms-to-apply-what-they-have-learnt.png)
-Aem Students Going Out Of Classrooms To Apply What They Have Learnt
 
-![](/images/NUS-Physics-Camp-participants.png)
-Nus Physics Camp Participants
-
-![](/images/Science-Buskers-performing-in-Audition-Round.png)
-Science Buskers Performing In Audition Round
 
 ![](/images/Student-helpers-and-participants-at-Cluster-Science-Enrichment.png)
 Student Helpers And Participants At Cluster Science Enrichment
@@ -36,33 +29,23 @@ Students Experimenting With Their Hypothesis During Science Centre Research Prog
 
 ### **Geography Inquiry**
 
-In GI, students investigate a geographical issue relating to specific topics learnt in class.
+The study of Geography helps us explore and better understand the world we live in. At Regent Secondary School, we make Geography accessible to all students through our experiential learning curriculum, which incorporates Geographical Investigation (G.I.) across all levels. Such learning experiences enable our students to connect what they are learning to the world around them and to discover the real-world applications of various geographical concepts.
 
-In the Geographical Investigations, students have to engage in water testing, interview people on the roads based on their experiences and interactions in Singapore, analyse the data obtained and form clear conclusions. Each issue has a GI question and students are tasked to gather, select and present relevant data from the field. Based on their data, students will form their own geographical interpretations regarding the issue and answer the GI question.
+Examples of Geographical Investigation (G.I.) projects include:
 
-Types of GI:
+*   Secondary 1 – Testing water quality at Pang Sua Canal / Tropical rainforest exploration @ Singapore Botanic Gardens
+*   Secondary 2 – Housing perception and transport studies @ Yew Tee Point and Yew Tee MRT Station
+*   Secondary 3/4/5 – Everyday Geography Studies @ Downtown Singapore
 
-*   Secondary 1 – Testing water quality at Pang Sua Canal
-*   Secondary 2 – Yew Tee Point and Yew Tee MRT station (housing perception)
-*   Secondary 3 – Weather investigation in Regent Sec Sch
-*   Secondary 4/5 – Explore Chinatown and to interview tourists and understand more on tourism trends
+Our students are also given the opportunity to participate in the following enrichment programmes and competitions:
 
-<img src="/images/Secondary-1-Fieldtrip.jpg" 
-     style="width:50%">
-<center> Secondary 1 </center>
+*   NUS Geography Challenge
+*   Tourism Competition
+*   Tourism modules at Ngee Ann Polytechnic
 
-<img src="/images/Secondary-2-Fieldtrip-e1565168839703.jpg" 
-     style="width:50%">
-<center> Secondary 2 </center>
+Above all, we hope for our young Geographers at Regent to be informed and concerned citizens who are able to tap on their geographical skills and knowledge to create a better, more sustainable future.
 
-<img src="/images/Secondary-3.png" 
-     style="width:50%">
 
-<center> Secondary 3 </center>
-
-<img src="/images/Secondary-45-Fieldtrip-e1565749100581.jpg" 
-     style="width:50%">
-<center> Secondary 4&5 </center>
 
 ### **Historical Investigations**
 
