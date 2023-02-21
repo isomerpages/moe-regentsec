@@ -5,28 +5,19 @@ description: ""
 ---
 ![](/images/Applied%20Learning%20Programme.jpg) 
 
-#### **APPLIED LEARNING PROGRAMME(ALP)**
+In a world where technology has become pervasive in our daily lives, it is critical for students to be equipped with skills that will enable them to thrive in our Smart Nation. At Regent Secondary School, we prepare our students to be future-ready through our Applied Learning Programme (ALP) on Emerging Technologies.
 
-Over the past few years, the advent of technology has seen Singapore placing heavy emphasis on research and technology. As our country moves towards becoming a smart nation, it is important to teach and equip our student with the relevant skills that will give them a head start in their future careers. In Regent Secondary School, we aim to do this through our Applied Learning Programme (ALP), which serves as a platform to guide and expose our students in the area of STEM (Science, Technology, Engineering and Math). Our theme for ALP is Emerging Technology. Through our programme, students will be able to appreciate the relevance and value of what they learn in their academic curriculum.
+Regent’s ALP seeks to imbue in students a deeper appreciation of developments in the field of Science, Technology, Engineering, and Mathematics (STEM) through an array of hands-on activities. Our exciting curriculum will provide students with the opportunity to:
 
-Coding is one of the fundamental skills that is needed to integrate into a digital world. In the first half of the year, Secondary 1 students will have the opportunity to build an Underwater Remotely Operated Vehicle from scratch. Students will be exposed to collaborative learning and thinking as they work together to complete this project. At the same time, students are taught block programming to control the Remotely Operated Vehicle using Micro:Bits. In the second half of the year, students will progress from controlling the vehicle to incorporating sensors into a Micro:Bits vehicle, where they will learn how to move the vehicle autonomously. This encourages self-directed learning, and builds their critical thinking, problem-solving and decision-making skills. Through this project, students will be able to appreciate Singapore’s efforts in moving towards a digital nation, such as our introduction of driverless vehicles.
+*   Conceptualise, construct, and programme their own Remote-Controlled vehicles using micro:bit, a block programming tool
 
-In Secondary 2, students will have the opportunity to work with Amazon Web Services (AWS). The ALP programme is spearheaded by AWS and Cloud Tech to equip our students with technical literacy in coding and cloud computing. Cloud computing is the on-demand availability of computer system resources, such as Alexa. Our students will learn how to use AWS services and Python programming language to create websites, chatbots and Alexa & Deeplens applications, in order to provide solutions for real-life problems. Students first learn Python programming through playing a game called Code Combat. This hands-on activity will allow them to pick up the required skills they need in a fun and interactive way. Experienced facilitators from Cloud Tech are engaged by AWS to guide and mentor our students to create their final product. Each group of students will produce a personalised quiz using Alexa by the end of their Secondary 2 ALP journey.
+*   Design Smart Home device applications and sensors using cloud computing software like the M5GO Internet of Things (IoT) kit
 
-![](/images/IMG_9313-1024x683.jpg)
+*   Collaborate with their peers on projects that showcase how technology may be used for good in solving real-world problems
 
-![](/images/Screenshot-16-1024x576.png)
+*   Learn more about STEM industries through Learning Journeys, Elective Modules and Advanced Elective Modules
 
-![](/images/Screenshot-15-1024x576.png)
+Overall, Regent’s ALP will develop students’ critical thinking, problem-solving, and inquiry skills, which will stand them in good stead for life and learning in our digital age.
 
-![](/images/Screenshot-14-1024x576.png)
-
-![](/images/IMG_9308-683x1024.jpg)
-
-![](/images/IMG_0166-1024x575.jpg)
-
-![](/images/IMG_0679-1024x768.jpg)
-
-![](/images/Screenshot-17-1024x576.png)
-
-![](/images/IMG_0090-1024x683.jpg)
+![](/images/Applied%20Learning%20Programme/ALP_2023-1A.jpg)
+![](/images/Applied%20Learning%20Programme/ALP_2023_3.png)
