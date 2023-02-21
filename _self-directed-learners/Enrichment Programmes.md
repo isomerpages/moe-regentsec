@@ -16,16 +16,13 @@ Science Learning Journeys is a series of activities to enthuse our students to l
 *   Enrichment – Learning journey to fusion world, Surprising Science, Forensic Science, Cluster Science for Sec 1, NUS Physics Camp, AEM – Fighting Invisible Enemies
 *   Competitions – Singapore Junior Water Prize, Science Centre Research, Science Busking Festival
 
-
+![](/images/Enrichment%20Programmes/EnrichmentProg_2a-SciLJ.jpg)
 
 ![](/images/Student-helpers-and-participants-at-Cluster-Science-Enrichment.png)
-Student Helpers And Participants At Cluster Science Enrichment
-
-![](/images/Student-participants-for-Singapore-Junior-Water-Prize.png)
-Student Participants For Singapore Junior Water Prize
+Student helpers and participants at Cluster Science Enrichment
 
 ![](/images/Students-experimenting-with-their-hypothesis-during-Science-Centre-Research-Programme.png)
-Students Experimenting With Their Hypothesis During Science Centre Research Programme
+Students experimenting with their hypothesis during Science Centre Research Programme
 
 ### **Geography Inquiry**
 
@@ -45,7 +42,7 @@ Our students are also given the opportunity to participate in the following enri
 
 Above all, we hope for our young Geographers at Regent to be informed and concerned citizens who are able to tap on their geographical skills and knowledge to create a better, more sustainable future.
 
-
+![](/images/Enrichment%20Programmes/EnrichmentProg_3-GeoInvestig.jpg)
 
 ### **Historical Investigations**
 
@@ -54,11 +51,7 @@ In Historical Investigations, students explore a range of authentic sources to g
 *   Secondary 1- Fort Canning: Students learnt about the history of Singapore before 1819 by analysing sources found at Fort Canning Hill.
 *   Secondary 2 – Battlebox: Battlebox is a former WWII British underground command centre inside Fort Canning Hill in the heart of Singapore City. It was part of the headquarters of Malaya Command, the army which defended Malaya and Singapore in WWII. It was inside the Battlebox that the British made the decision to surrender Singapore to the invading Japanese on 15 February 1942. Students visited the Battlebox which has been converted into a museum to learn stories on the fall of Malaya and Singapore in WWII.
 
-<img src="/images/Sec1-300x225.png" 
-     style="width:50%">
-
-<img src="/images/Sec2.png" 
-     style="width:50%">
+![](/images/Enrichment%20Programmes/EnrichmentProg_4_HistInvestig.jpg)
 
 ### **Conversational Chinese and Malay Language (CCM) Programme**
 
@@ -73,8 +66,4 @@ Conversational Chinese and Malay Language (CCM) Programme  aims to strengthen S
 *   Role-plays
 *   Introduction to festivals and culture
 
-<img src="/images/ccm1.jpg" 
-     style="width:70%">
-
-<img src="/images/ccm2.jpg" 
-     style="width:70%">
+![](/images/Enrichment%20Programmes/EnrichmentProg_5_CCM.jpg)
