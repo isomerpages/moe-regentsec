@@ -5,17 +5,9 @@ description: ""
 ---
 ### **Sec 2 Science Busking**
 
-Science Busking is a hands-on, interactive way of learning and sharing about Science. Students use the knowledge learnt in books and classroom activities and apply the concepts to real life experiences and situations. Busking comprises students engaged in live demonstrations (using everyday objects) which convey to people how Science can be interpreted, transferred and applied to real life. In Science Busking, students communicate complex Scientific Concepts through skillful, live demonstrations and make Science come alive.
+Each year, our students have the opportunity to take part in Science Buskers, an annual competition organised by A\*STAR and Science Centre Singapore. As a hands-on, interactive way of learning and sharing about Science, Science Busking sees students applying scientific concepts learnt to real-world situations and showcasing their ideas through skillful, live demonstrations using everyday objects. It is here that Science comes alive for our students, who experience first-hand just how powerful the subject is in undergirding all aspects of life!
 
-![](/images/Picture1.png)
 
-![](/images/Science-Basking3.png)
-Judges’ Awards In Secondary Category
-
-![](/images/Science-Basking4.png)
-First Place In Secondary Category
-
-![](/images/Science-Basking.jpg)
 
 ### **Science Learning Journeys**
 
