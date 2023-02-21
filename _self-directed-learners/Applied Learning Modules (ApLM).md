@@ -3,16 +3,14 @@ title: Applied Learning Modules (ApLM)
 permalink: /self-directed-learners/applied-learning-modules-aplm/
 description: ""
 ---
-## **Advanced Elective Module (AEM) & Elective Module (EM)**
-
-**Purpose:**
+##### Purpose:
 
 The offering of AEM / EM is to
 
 *   broaden the learning experiences of students
 *   complement the secondary school curriculum with a focus on the practical application of knowledge.
 
-**Objectives :**
+##### Objectives:
 
 *   ****Joy of Learning:**** To provide our students with Applied Learning opportunities – learning that involves doing and applying, learning about the real world, and learning for life.
 *   ****Aspiration:**** To allow our students to discover their interests and make informed education and career choices through the experience and learning in the polytechnic.
