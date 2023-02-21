@@ -54,3 +54,26 @@ The use of a Blended Learning approach in PE lessons enables students build conc
 
 ### **Personal Learning Devices (PLD) Distribution**
 
+![](/images/PDLP/PLD_1.jpg)
+
+The MOE National Literacy Programme aims to equip all students with the necessary skills and competencies to thrive in the digital age.
+
+In line with this initiative, Regent Secondary School was selected to be one of the pilot schools to embark on the **Personal Digital Literacy Programme (PDLP) in 2020**.
+
+Since August 2020, the school has been intensively preparing both teachers and students for the use of the Personal device in teaching and learning.
+
+Regent’s PDLP Vision for Students are to develop them into:
+
+1.  Self-directed learners who **Manage and monitor their own learning with confidence**
+2.  Critical thinkers who **Navigate for information with discernment**
+3.  Collaborative learners who **Connect with peers to co-construct knowledge**
+
+![](/images/PDLP/PLD_2.jpg)
+
+On 26 to 27 April 2021, all Secondary 1 to 3 students receive their **ACER Chromebook Spin 511.**
+
+With the Students On boarding programme completed, both students and teachers will enhance teaching and learning with the use of personal devices for more active, collaborative lessons based on sound e-pedagogical principles.
+
+![](/images/PDLP/PLD_3.jpg)
+
+Regent Secondary school is well on its way to prepare Regenites to become future ready learners.
