@@ -2,15 +2,15 @@ collections:
   self-directed-learners:
     output: true
     order:
-      - Academic Achievements.md
       - Academic Programmes.md
       - Personalised Digital Learning Programme.md
       - Applied Learning Programme.md
       - Enrichment Programmes.md
       - Applied Learning Modules (ApLM).md
-      - Overseas Learning Journey/2022.md
       - Overseas Learning Journey/.keep
+      - Overseas Learning Journey/2022.md
       - Overseas Learning Journey/2019.md
       - Overseas Learning Journey/2018.md
       - Early Admissions Exercise Programme (EAE).md
       - Graduation Assembly 2021.md
+      - Academic Achievements.md
