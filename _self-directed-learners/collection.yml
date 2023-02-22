@@ -2,7 +2,6 @@ collections:
   self-directed-learners:
     output: true
     order:
-      - Graduation Ceremony.md
       - Academic Programmes.md
       - Personalised Digital Learning Programme (PDLP).md
       - Applied Learning Programme (ALP).md
@@ -14,4 +13,5 @@ collections:
       - Overseas Learning Journey/2018.md
       - Early Admissions Exercise Programme (EAE).md
       - Graduation Assembly 2021.md
+      - Graduation Ceremony.md
       - Academic Achievements.md
