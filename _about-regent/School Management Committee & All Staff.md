@@ -3,31 +3,31 @@ title: School Management Committee & All Staff
 permalink: /about-regent/school-management-committee/
 description: ""
 ---
-![](/images/SMC_ALLSTAFF_2023_banner.jpeg)
+![](/images/SMC%20&%20All%20Staff/SMC_ALLSTAFF_2023_banner.jpeg)
 
 School Management Committee & All Staff
 =======================================
 #### **Staff Photos**
 
-![](/images/SL_2023.jpg)
+![](/images/SMC%20&%20All%20Staff/SL_2023.jpg)
 
-![](/images/SDT_2023_v2.jpg)
+![](/images/SMC%20&%20All%20Staff/SDT_2023_v2.jpg)
 
-![](/images/ACT_2023_v2.jpg)
+![](/images/SMC%20&%20All%20Staff/ACT_2023_v2.jpg)
 
-![](/images/TLT_2023_v2.jpg)
+![](/images/SMC%20&%20All%20Staff/TLT_2023_v2.jpg)
 
-![](/images/S1%20FT_2023.png)
+![](/images/SMC%20&%20All%20Staff/S1%20FT_2023.png)
 
-![](/images/S2%20FT_2023.png)
+![](/images/SMC%20&%20All%20Staff/S2%20FT_2023.png)
 
-![](/images/S3%20FT_2023.png)
+![](/images/SMC%20&%20All%20Staff/S3%20FT_2023.png)
 
-![](/images/S4%20FT_2023.png)
+![](/images/SMC%20&%20All%20Staff/S4%20FT_2023.png)
 
-![](/images/LST_2023.png)
+![](/images/SMC%20&%20All%20Staff/LST_2023.png)
 
-![](/images/EAS_2023_v2.png)
+![](/images/SMC%20&%20All%20Staff/EAS_2023_v2.png)
 
 	
 #### **Form Teachers**
