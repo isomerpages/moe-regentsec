@@ -3,6 +3,7 @@ title: Graduation Ceremony
 permalink: /self-directed-learners/graduation-ceremony/
 description: ""
 ---
+![](/images/Graduation%20Ceremony/School%20Sec%204%20Banner-3_downscale.jpg)
 ## Graduation Ceremony 2022
 
 Part of the journey is the end.
@@ -13,3 +14,6 @@ As they busy themselves in the month ahead with preparing for the National Exami
 
 Blaze forth to glory!
 
+![](/images/Graduation%20Ceremony/Grad2022_-1.jpg)
+![](/images/Graduation%20Ceremony/Grad2022_-2.jpg)
+![](/images/Graduation%20Ceremony/Grad2022_-3.jpg)
