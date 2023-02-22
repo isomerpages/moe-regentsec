@@ -10,8 +10,7 @@ academic grades.
 
 In Regent Secondary, the EAE programme serves as a platform to encapsulate the school’s 4-D (Discover, Decide, Develop, Dream) approach to education and career guidance. Secondary 4 Express (4E) and Secondary 5 Normal Academic (5N) students are provided guidance in their EAE application.
 
-In 2021, 82% of 4E5N students who applied for EAE are selected for interviews, with 47% of the  
-students offered a course of study through EAE.
+In 2022, 59% of 4E5N students who applied for EAE are selected for interviews, with 61% of the  students offered a course of study through EAE.
 
 **Our Key Programmes**
 
@@ -25,4 +24,4 @@ students offered a course of study through EAE.
 <center>EAE talk at NYP</center>
 
 ![](/images/eae2.jpg)
-<center>Course Advising workshop at NYP</center>
+<center>Course advising workshop at NYP</center>
