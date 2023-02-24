@@ -11,4 +11,4 @@ Our PSLs are trained in the three domains of peer support and relationships, to 
 
 We look forward to seeing our friendly PSLs helping to better Regent’s vibrant and uplifting student community in their spheres of influence as student advocates for general wellbeing!
 
-![](/images/PeerSupLdr-1.jpg)
+![](/images/Peer%20Support%20Leaders/PeerSupLdr-1.jpg)
