@@ -36,36 +36,32 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scop
 
 ##### At Regent Secondary School, the following Sexuality Education lessons will be taught in 2023:
 
-![](/images/SEd-Secondary-1.png)
+![](/images/Sexuality%20Education/2023%20SEd-Secondary-1.jpg)
 
-![](/images/SEd-Secondary-2.png)
+![](/images/Sexuality%20Education/2023%20SEd-Secondary-2.jpg)
 
-![](/images/SEd-Secondary-3.png)
+![](/images/Sexuality%20Education/2023%20SEd-Secondary-3.jpg)
 
-![](/images/SEd-Secondary-4.png)
+![](/images/Sexuality%20Education/2023%20SEd-Secondary-4.jpg)
 
-![](/images/SEd-Secondary-5.png)
+![](/images/Sexuality%20Education/2023%20SEd-Secondary-5.jpg)
 
-_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”_
-
-**_eTeens_** **Programme**:
+##### _eTeens_ Programme:
 
 8.         _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
 9.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Regent Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+##### At Regent Secondary School, the _eTeens_ programme will be implemented as follows in 2022:
 
-![](/images/eTeens.png)
+![](/images/Sexuality%20Education/2023%20eTeens.jpg)
 
-**Information for Parents**
+##### Information for Parents
 
 10.       Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality-Education-Parents-Opt-Out-Form-2022.pdf). The completed form is to be submitted by 31/01/2022.
+11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality-Education-Parents-Opt-Out-Form-2022.pdf). The completed form is to be submitted by 19/01/2023.
 
-12.       Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens-Parents-Opt-out-Form-Sec-2022.pdf). The completed form is to be submitted by 31/01/2022.
+12.       Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens-Parents-Opt-out-Form-Sec-2022.pdf). The completed form is to be submitted by 19/01/2023.
 
 13.       Parents can contact the school at [regent\_ss@moe.edu.sg](mailto:regent_ss@moe.edu.sg) or 67653828 for discussion or to seek clarification about the school’s sexuality education programme.
-
-14.       Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
