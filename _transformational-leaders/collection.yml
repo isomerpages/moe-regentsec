@@ -2,7 +2,6 @@ collections:
   transformational-leaders:
     output: true
     order:
-      - Peer Support Leaders.md
       - Secondary 1 Orientation 2023.md
       - Sec 1 Basic Leadership Training.md
       - Sec 2 Advanced Leadership Training.md
@@ -17,4 +16,5 @@ collections:
       - CCE/National Education.md
       - Together Regent Cares.md
       - Sports Events.md
+      - Peer Support Leaders.md
       - World Environment Day.md
