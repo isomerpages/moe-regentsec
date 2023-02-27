@@ -12,13 +12,14 @@ third_nav_title: Clubs and Societies
 Ms Karen Lee Chai Lin  
 Mr Kesavan S/O Veerappen
 
-**Vision**  
+**Vision:**  
 Everyone in the community is an environment advocate
 
-**Mission**   
+**Mission:**   
 To advocate environment conservation and sustainability to school and community
 
-![](/images/Environmental-Science-Fun-scaled.jpg)
+![](/images/CCA/2022%20Environmental%20Science%20Formal.jpg)
+![](/images/CCA/2022%20Environmental%20Science%20Fun.jpg)
 
 Our activities emphasise hands-on experience and learning which empowers every member to be creative and innovative green leaders.
 
@@ -36,17 +37,19 @@ Upcycling old t-shirts into tote bags
 
 **Club Activities:**
 
-*    Every Singaporean a Naturalist (ESN) programme to observe birds in school
-*    Gardening activities
-*   Learning Journey: Learning trail to NTUC, green learning journey at North West CDC
+*   Every Singaporean a Naturalist (ESN) programme to observe birds in school
 *   Upcycling workshops (e.g. making of tote bags from old clothes, making of paper wallets, upcycled fabric and plastic bottle holders)
-*   Advocating for different environmental causes in school and at the community level (eg. water and energy conservation, e-waste recycling, public health, reducing food wastage)
-*   National Youth Upcycling Movement
-*   One Less Plastic Campaign
+*   Nature Journaling
+*   Litter Picking
+*   Gardening activities
+*   Learning Journey
+*   Advocating for different environmental causes in school and at the community level (e.g. water and energy conservation, e-waste recycling, public health, reducing food wastage)
+*   National Youth Upcycling Movement (Sec 3)
 *   Training of Environment Champions to be advocates in each class
-*   Starhub E-Waste Challenge
+*   Reduce@Northwest
 *   NYP Design Thinking and Innovation Boot Camp 2020
-*   Reduce@Northwest 2021
+*   Starhub E-Waste Challenge 2021
+*   Limbang PassionArts 2022
 
 ![](/images/env4.jpg)
 Bird watching
