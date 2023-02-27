@@ -11,10 +11,10 @@ Mr Muhammad Fauzan Bin Sapuan
 Mdm Zainab Banu Binte Hassan  
 Mdm Susi Haryani Binti Sutara
 
-**Our Vision**                                  
+**Vision:**                                  
 To develop Regenites to be a future-ready and responsible digital learner.
 
-**Mission**  
+**Mission:**  
 To cultivate the students’ passion for different forms of Digital Media and to train them to be technology savvy and competent in the use of audio and visual equipment
 
 ![](/images/CCA/2022%20Infocomm%20Formal.jpg)
