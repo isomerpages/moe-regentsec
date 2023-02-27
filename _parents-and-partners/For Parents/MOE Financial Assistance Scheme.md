@@ -7,18 +7,18 @@ third_nav_title: For Parents
 MOE Financial Assistance Scheme (FAS)
 =====================================
 
-The MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses. The eligibility criteria and benefits of the scheme are as shown in the infographic below.
+The MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 
-![](/images/MOE_FAS_Pamphlet_2022-scaled.jpg)
+You may also check your eligibility for the MOE FAS via the eligibility calculator available on the MOE Website ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)) before submitting your application.
 
-Parents who wish to apply for MOE FAS may submit their e-application by clicking on the link: [https://go.gov.sg/moe-fas-regent-sec](https://go.gov.sg/moe-fas-regent-sec)
+### Application Procedure
 
-Or QR code:
+**\[Option 1\] Electronic Submission via eFAS** ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas))
 
-![](/images/FAS-2022-QR-Code.png)
+**\[Option 2\] Hardcopy Form Submission**
 
-Alternatively, parents may download the Application Form via the link below:
+The hardcopy of the MOE FAS application form is to be submitted directly to school, together with copies of the supporting documents as indicated in the attached MOE FAS application form
 
-[Application Form for MOE FAS](/files/MOE-FAS-Application-Form-Sep-21.pdf)
+[Application Form for MOE FAS](https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/GGAS_Application-Form.pdf)
 
 For enquiries regarding the scheme, please contact the General Office at 67653828.
