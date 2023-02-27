@@ -4,3 +4,13 @@ permalink: /parents-and-partners/For-Parents/personal-accident-insurance-for-stu
 description: ""
 third_nav_title: For Parents
 ---
+Parents may download the fact sheet via the link below:
+
+[GPA Product Fact Sheet](/files/GPA-Product-Fact-Sheet-Year-2022_Sep-2022.pdf)
+
+Parents who wish to apply for personal accident insurance may submit their e-application by clicking on the link: [https://studentgpa.incomegroupins.com.sg/](https://studentgpa.incomegroupins.com.sg/)
+
+Or scan QR code:
+![](/images/studentgpa-incomegroupins-2022_QR-Code.png)
+
+For enquiries regarding the scheme, please contact the General Office at 67653828.
