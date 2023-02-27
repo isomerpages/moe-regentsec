@@ -11,7 +11,7 @@ The MOE FAS is to help financially needy Singaporean students in Government and 
 
 You may also check your eligibility for the MOE FAS via the eligibility calculator available on the MOE Website ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)) before submitting your application.
 
-### Application Procedure
+#### **Application Procedure**
 
 **\[Option 1\] Electronic Submission via eFAS** ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas))
 
