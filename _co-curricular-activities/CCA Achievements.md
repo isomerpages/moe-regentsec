@@ -3,7 +3,7 @@ title: CCA Achievements
 permalink: /co-curricular-activities/cca-achievements/
 description: ""
 ---
-### 2022
+# **2022 CCA Achievements**
 
 ![](/images/CCA%20Achievements/2022%20CCA%20Achievements_1.jpeg)
 
