@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/design-and-innovation/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/Entrepreneur-banner-scaled.jpg)
+![](/images/CCA/Design%20and%20Innovation/DESINVBanner%20-%202023.jpg)
 
 Design and Innovation
 =====================
@@ -32,10 +32,7 @@ The aim for our members is to instill a positive attitude towards a problem-base
 
 *   Design Thinking and Innovative 2 days Boot Camp 2020.
 
-![](/images/Design-n-Innovation1.jpg)
-![](/images/Design-n-Innovation2.jpg)
-![](/images/Design-n-Innovation3.jpg)
-
-![](/images/WhatsApp-Image-2020-01-22-768x1024.jpeg)
-
-![](/images/WhatsApp-Image-2020-01-22-897x1024.jpeg)
+![](/images/CCA/Design%20and%20Innovation/DESINV-1.jpg)
+![](/images/CCA/Design%20and%20Innovation/DESINV-2.jpg)
+![](/images/CCA/Design%20and%20Innovation/DESINV-3.jpg)
+![](/images/CCA/Design%20and%20Innovation/DESINV-4.jpg)
