@@ -11,6 +11,7 @@ Parents may download the fact sheet via the link below:
 Parents who wish to apply for personal accident insurance may submit their e-application by clicking on the link: [https://studentgpa.incomegroupins.com.sg/](https://studentgpa.incomegroupins.com.sg/)
 
 Or scan QR code:
-![](/images/studentgpa-incomegroupins-2022_QR-Code.png)
+<img src="/images/studentgpa-incomegroupins-2022_QR-Code.png" 
+     style="width:25%">
 
 For enquiries regarding the scheme, please contact the General Office at 67653828.
