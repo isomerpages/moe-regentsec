@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/infocomm-technology/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/CCA/Infocomm/INFOCOMBannerwebsite%20-%202023.jpg)
+![](/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg)
 
 **Teachers-in-charge:**  
 Mr Muhammad Fauzan Bin Sapuan  
@@ -36,3 +36,9 @@ Our students participate in the annual National Cyber Wellness Advocacy Challeng
 Even when school’s out, learning continues for our members as they participate in the annual DigiGirlz programme organised by the Infocomm Media Development Authority (IMDA) and Microsoft. Every year, the young ladies in our CCA to learn about careers in technology, connect with Microsoft employees, and participate in hands-on computer and technology workshops. Working alongside the young ladies in the CCA, the young gentlemen also learn invaluable soft skills in addition to technical skills. For instance, they learn to collaborate on diverse teams and respect individuals with talent.
 
 ![](/images/CCA/2022%20Infocomm%20Fun.jpg)
+![](/images/CCA/Infocomm%20Technology/INFOCOM-1.jpg)
+![](/images/CCA/Infocomm%20Technology/INFOCOM-2.jpg)
+![](/images/CCA/Infocomm%20Technology/INFOCOM-3.jpg)
+![](/images/CCA/Infocomm%20Technology/INFOCOM-4.jpg)
+![](/images/CCA/Infocomm%20Technology/INFOCOM-5.jpg)
+![](/images/CCA/Infocomm%20Technology/INFOCOM-6.jpg)
