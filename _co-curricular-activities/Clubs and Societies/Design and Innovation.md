@@ -10,17 +10,17 @@ Design and Innovation
 =====================
 
 **Teachers-In-Charge:**  
-Mr Koh Eng Huat  
 Ms Cheak Yen Hui  
 Ms Aisha Yasmin Binte Abdul Raman
 
-**Vision**  
+**Vision:**  
 Moulding Entrepreneurs of Tomorrow
 
-**Mission**  
+**Mission:**  
 Ignite the entrepreneurship flame in students and grow their awareness of their own entreprenuer skills as well as their strengths and weaknesses
 
-![](/images/Design-n-Innovation-Formal-scaled.jpg)
+![](/images/CCA/2022%20Design%20n%20Innovation%20Formal.jpg)
+![](/images/CCA/2022%20Design%20_%20Innovation%20Fun.jpg)
 
 The Design and Innovation Club was started with the vision of nurturing young minds through design thinking to develop critical thinking and developing confidence in generating, conceptualizing and communicating their ideas to their teammates and consumers.
 
@@ -28,7 +28,7 @@ With this exposure, our young design entrepreneurs are able to identify present 
 
 The aim for our members is to instill a positive attitude towards a problem-based learning and to grow their interest for innovation. Student abilities are further explored with the submission of their ideas and prototypes for competitions such as the Tan Kah Kee Young Inventor’s Award.
 
-Participating competition :
+**Participating competition:**
 
 *   Design Thinking and Innovative 2 days Boot Camp 2020.
 
