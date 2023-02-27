@@ -19,6 +19,6 @@ You may also check your eligibility for the MOE FAS via the eligibility calculat
 
 The hardcopy of the MOE FAS application form is to be submitted directly to school, together with copies of the supporting documents as indicated in the attached MOE FAS application form
 
-[Application Form for MOE FAS](https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/GGAS_Application-Form.pdf)
+Click to download [Application Form for MOE FAS](/files/GGAS_Application%20Form.pdf)
 
 For enquiries regarding the scheme, please contact the General Office at 67653828.
