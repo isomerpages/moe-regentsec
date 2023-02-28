@@ -3,9 +3,9 @@ title: Sec 1 Basic Leadership Training
 permalink: /confident-leaders/sec-1-basic-leadership-training/
 description: ""
 ---
-## Sec 1 Basic Leadership Training
+# **Sec 1 Basic Leadership Training**
 
-##### Day 1: Regent Goes to Camp!
+#### Day 1: Regent Goes to Camp!
 
 On Thursday, 12 May 2022, our Secondary 1 students embarked on the 3-day Cohort Camp at Changi Coast Outdoor Adventure Learning Centre (OALC). The camp gave our students the opportunity to apply the knowledge and skills learnt during their Outdoor Education (OE) in PE, and Character and Citizenship Education (CCE) lessons.
 
@@ -13,7 +13,7 @@ After learning basic map-reading and navigation skills during their PE lessons i
 
 While some of our Regenites were in action on land, another group of them were splashing and paddling in the bay just off the campsite. For many of our students, kayaking was an entirely new experience. Some of them were nervous about being out in the open sea for the very first time in their lives but they overcame their anxiety and steadily paddled around the bay under the supervision of the instructors. Through this activity, the students pushed the boundaries of their comfort zones and learnt that courage is not the absence of fear, but the ability to overcome one’s fears.
 
-##### Day 2: Regent Goes to Camp!
+#### Day 2: Regent Goes to Camp!
 
 Tomatoes, chicken franks, butter, eggs…what delectable dish could our Regent Masterchefs cook up with these simple ingredients? Unlike the contestants on Masterchef, our students had to rely on the most rudimentary means of starting a fire and cooking in the outdoors! For our students, the most enjoyable part of the outdoor cooking activity was savouring every bite of their own cooking!
 
@@ -21,7 +21,7 @@ Although this was a non-residential camp, our students had the opportunity to le
 
 As the second day of the camp drew to a close, our students gained a greater appreciation of the importance of learning basic outdoor survival skills and looked forward to another day of outdoor adventure tomorrow.
 
-##### Day 3: Regent Goes to Camp!
+#### Day 3: Regent Goes to Camp!
 
 Over the past two days, the emphasis and focus of the learning experiences were on two of the school’s values: Gratitude and Empathy. The focus for today’s learning experiences was on the third value: Determination. At this point of the camp, many of our students were feeling the strain of two days of intense physical activities and being nudged out of their comfort zones. To make it through the final day of camp, our students needed to dig deep into their reserves and find the inner strength and determination to clear the final hurdles just before the finish-line.
 
