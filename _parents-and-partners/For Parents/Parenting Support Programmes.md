@@ -17,7 +17,7 @@ Regent Secondary School has partnered with Fei Yue Community Services, the appoi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OktQSOzQ0oY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLEsignup2022](https://go.fycs.org/FLEsignup2022).
+Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLE2023](https://go.fycs.org/FLE2023).
 
 For enquiries, please contact Fei Yue’s staff, Ms Clara Ang, at [claraang@fycs.org](mailto:claraang@fycs.org) or 84282433.
 
