@@ -10,12 +10,12 @@ sections:
       title: Regent Secondary School
       background: /images/regent sec.gif
       key_highlights:
-        - title: DSA Application 2023
+        - title: NKF School Outreach Programme
           description: ""
-          url: /useful-links/direct-school-admission-dsa/
-        - title: Limbang Raya Show
+          url: /nkf-school-outreach-programme/
+        - title: Learning Journey to Science Centre
           description: ""
-          url: /limbang-raya-show/
+          url: learning-journey-to-science-centre/
         - title: Total Defence Day 2023
           description: ""
           url: /total-defence-day-2023/
