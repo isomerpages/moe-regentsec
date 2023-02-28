@@ -7,4 +7,4 @@ third_nav_title: For Parents
 Education Tips and Features
 ===========================
 
-Click the [https://schoolbag.sg/](https://schoolbag.sg/) to find out more info  on education tips and features
+Click the URL [https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/) to find out more info  on education tips and features.
