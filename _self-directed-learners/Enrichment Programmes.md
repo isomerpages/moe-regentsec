@@ -19,10 +19,10 @@ Science Learning Journeys is a series of activities to enthuse our students to l
 ![](/images/Enrichment%20Programmes/EnrichmentProg_2a-SciLJ.jpg)
 
 ![](/images/Student-helpers-and-participants-at-Cluster-Science-Enrichment.png)
-Student helpers and participants at Cluster Science Enrichment
+<center>Student helpers and participants at Cluster Science Enrichment</center>
 
 ![](/images/Students-experimenting-with-their-hypothesis-during-Science-Centre-Research-Programme.png)
-Students experimenting with their hypothesis during Science Centre Research Programme
+<center>Students experimenting with their hypothesis during Science Centre Research Programme</center>
 
 ### **Geography Inquiry**
 
