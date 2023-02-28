@@ -22,7 +22,7 @@ As stated in MOE’s website on Haze Management Measures, the Ministry will cons
 
 Unless official notification is issued from MOE to close schools, schools will remain open (including school-based Student Care Centres), and all activities including examinations will continue. Parents will be given adequate notice.
 
-For more information of MOE’s Haze Management Measures, please refer to [http://www.moe.gov.sg/haze/](http://www.moe.gov.sg/haze/).
+For more information of MOE’s Haze Management Measures, please refer to [http://www.moe.gov.sg/haze/](https://www.moe.gov.sg/about-us/emergency-preparedness/haze-management).
 
 We thank you for your support in this period and hope to continue to work with you to ensure that your child is safe and healthy when they are in school.
 
@@ -30,8 +30,8 @@ Mr Phua Huat Chuan
 
 Principal
 
-* **[Click here for PSI Readings Update](http://www.nea.gov.sg/)**
+* **[Click here for PSI Readings Update](https://www.haze.gov.sg/)**
 
-* **[Updates from Ministry of Health](http://www.moh.gov.sg/haze)**
+* **[Updates from Ministry of Health](https://www.moh.gov.sg/resources-statistics/educational-resources/haze)**
 
-* **[Updates from Ministry of Education](http://www.moe.gov.sg/haze/)**
+* **[Updates from Ministry of Education](https://www.moe.gov.sg/about-us/emergency-preparedness/haze-management)**
