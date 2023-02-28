@@ -16,9 +16,9 @@ sections:
         - title: Limbang Raya Show
           description: ""
           url: /limbang-raya-show/
-        - title: World Environment Day
+        - title: Total Defence Day 2023
           description: ""
-          url: /transformational-leaders/world-environment-day/
+          url: /total-defence-day-2023
   - infopic:
       title: Applied Learning Programme
       button: click here
