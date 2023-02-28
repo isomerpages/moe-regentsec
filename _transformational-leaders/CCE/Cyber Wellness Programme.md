@@ -25,7 +25,6 @@ The Cyber Wellness curriculum aims to equip students with life-long social-emoti
 <img src="/images/Cyber%20Wellness%20Programme/CW2.jpg" 
      style="width:50%">
 
-
 <img src="/images/Cyber%20Wellness%20Programme/CW3.jpg" 
      style="width:50%">
 
