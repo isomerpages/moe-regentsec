@@ -20,17 +20,17 @@ Regent’s Aspirations programme adopts the 4-D approach to education and career
 *   Motivational talks by alumni
 *   Education and Career Guidance counselling
 
-<img src="/images/aspiration1.jpg" 
+<img src="/images/Aspirations%20Programme/aspiration1.jpg" 
      style="width:50%">
 
-<img src="/images/aspiration2.jpg" 
+<img src="/images/Aspirations%20Programme/aspiration2.jpg" 
      style="width:50%">
 
-<img src="/images/aspiration3.jpg" 
+<img src="/images/Aspirations%20Programme/aspiration3.jpg" 
      style="width:50%">
 
-<img src="/images/aspiration4.jpg" 
+<img src="/images/Aspirations%20Programme/aspiration4.jpg" 
      style="width:50%">
 
-<img src="/images/aspiration5.jpg" 
+<img src="/images/Aspirations%20Programme/aspiration5.jpg" 
      style="width:50%">
