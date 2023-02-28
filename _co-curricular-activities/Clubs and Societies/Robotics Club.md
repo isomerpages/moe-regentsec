@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/robotics-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/robotic-banner-scaled.jpg)
+![](/images/CCA/Robotics%20Club/ROBOTBanner%20-%202023.jpg)
 
 ## **Robotics Club**
 
@@ -33,3 +33,5 @@ In Robotics, members learn basic and intermediate programming skills to control 
 
 ![](/images/CCA/2022%20Robotics%20Fun.jpg)
 
+![](/images/CCA/Robotics%20Club/ROBOT-1.jpg)
+![](/images/CCA/Robotics%20Club/ROBOT-2.jpg)
