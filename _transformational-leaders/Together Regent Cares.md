@@ -3,7 +3,7 @@ title: Together Regent Cares
 permalink: /confident-leaders/together-regent-cares/
 description: ""
 ---
-## Together Regent Cares 2022
+## **Together Regent Cares 2022**
 
 Each time we sing the lines in the chorus of our National Anthem, “Majulah Singapura”, we are filled with a strong sense of patriotism and hope for Singapore. The theme for this year’s National Day, “Stronger Together, Majulah” aptly brought out the spirit of the nation as we commemorated the event on 8 August 2022. “Stronger Together” reminds Singaporeans that unity in our diversity is what makes us stronger, whereas “majulah”, which means “onward”, encapsulates our hopes and spirit as a nation since our independence 57 years ago.
 
