@@ -4,7 +4,7 @@ permalink: /parents-and-partners/For-Alumni/alumni/
 description: ""
 third_nav_title: For Alumni
 ---
-Regent Secondary School Alumni
+**Regent Secondary School Alumni**
 ==============================
 
 Regent Secondary School values our relationship with the Alumni and welcomes you to stay connected with us. We believe our Alumni can continuously add-value to current and future generations of Regenites.
@@ -79,7 +79,7 @@ Click on the Newspaper Article’s below to view the achievement which was publi
 
 (video need to be uploaded on YT)
 
-Edmund Ang Jun Yan studied Diploa of Material Science (School of Applied Science) and has awarded Republic Award
+Edmund Ang Jun Yan studied Diploma of Material Science (School of Applied Science) and has awarded Republic Award
 
 ![](/images/Edmund-ang.jpg)
 [https://www.rp.edu.sg/](https://www.rp.edu.sg/)
@@ -90,19 +90,18 @@ Edmund Ang Jun Yan studied Diploa of Material Science (School of Applied Science
 
 #### **Achievements of 2014**
 
-Nanyang Polytechnic
+##### **Nanyang Polytechnic**
 
 Outstanding Graduands 2014
 
 *   **Jonathan Lian Junwen**  
-    _Diploma In Sports & Wellness Management_  
-    The Singapore Sports Council Bronze Medal
+    *Diploma In Sports & Wellness Management* | The Singapore Sports Council Bronze Medal
 *   **Tay Guek Cheng Sandra**  
-    Diploma In Visual Communication_Starlite Silver Medal
+    *Diploma In Visual Communication* | Starlite Silver Medal
 *   **Wang Chenhao**  
-    Diploma In Biomedical Engineering_Bd Medical Bronze Medal
+    *Diploma In Biomedical Engineering* | Bd Medical Bronze Medal
 *   **Wynne Celina Effendy**  
-    Diploma In Digital Visual Effects_Lucasfilm Singapore Silver Medal
+    *Diploma In Digital Visual Effects* | Lucasfilm Singapore Silver Medal
 
 #### **Achievements of 2013**
 
