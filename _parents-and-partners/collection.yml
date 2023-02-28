@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/MOE Financial Assistance Scheme.md
+      - For Parents/MOE Financial Assistance Scheme (FAS).md
       - For Parents/Personal Accident Insurance for Student.md
       - For Parents/Parent Support Group.md
       - For Parents/Cyber Wellness.md
