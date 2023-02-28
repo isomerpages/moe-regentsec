@@ -23,7 +23,7 @@ To advocate environment conservation and sustainability to school and community
 
 Our activities emphasise hands-on experience and learning which empowers every member to be creative and innovative green leaders.
 
-![](/images/WhatsApp-Image-2021-09-21.jpeg)
+![](/images/CCA/Environmental%20Science/ENVSCI_SGA2021.jpeg)
 
 We achieved the **Yellow Flame Award** at the School Green Awards 2021. Guided by our mission to equip all students and staff to become responsible advocates of the environment, our environmental programmes seek to promote good environmental habits and involve the wider community in environmental efforts. This year, our school’s project focused on upcycling as a way to “be the change” in working towards sustainable living through conserving resources.
 
