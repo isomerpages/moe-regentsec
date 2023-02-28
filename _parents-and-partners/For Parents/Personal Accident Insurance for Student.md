@@ -4,6 +4,8 @@ permalink: /parents-and-partners/For-Parents/personal-accident-insurance-for-stu
 description: ""
 third_nav_title: For Parents
 ---
+# **Personal Accident Insurance for Student**
+
 Parents may download the fact sheet via the link below:
 
 [GPA Product Fact Sheet](/files/GPA-Product-Fact-Sheet-Year-2022_Sep-2022.pdf)
