@@ -4,9 +4,9 @@ permalink: /co-curricular-activities/Clubs-and-Societies/environmental-science/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/environment2-scaled.jpg)
+![](/images/CCA/Environmental%20Science/ENVSCIBanner%20-%202023.jpg)
 
-# Environmental Science
+## Environmental Science
 
 **Teachers-in-charge:**   
 Ms Karen Lee Chai Lin  
@@ -29,11 +29,8 @@ We achieved the **Yellow Flame Award** at the School Green Awards 2021. Guided
 
 Our students from the Environmental Sciences Club led the school-wide effort to turn used items into new products, including mask holders, tote bags, and coin banks. Ongoing recycling and energy-saving efforts have also helped us become a greener school. Through this, we have effected a positive environmental impact in our school and community.
 
-![](/images/env1.png)
-Students conducted virtual upcycling workshops. In this picture, they are teaching others to make upcycled mask holders from milk cartons.
-
-![](/images/env2-768x1024.jpg)
-Upcycling old t-shirts into tote bags
+![](/images/CCA/Environmental%20Science/ENVSCI-1.jpg)
+![](/images/CCA/Environmental%20Science/ENVSCI-2.jpg)
 
 **Club Activities:**
 
@@ -51,29 +48,5 @@ Upcycling old t-shirts into tote bags
 *   Starhub E-Waste Challenge 2021
 *   Limbang PassionArts 2022
 
-![](/images/env4.jpg)
-Bird watching
-
-![](/images/env3-1024x816.jpg)
-Upcycled pen holders for Teachers’ Day
-
-![](/images/env6.jpg)
-
-![](/images/env7.jpg)
-Upcycling booth where our schoolmates learnt to make paper bags from old newspapers
-
-![](/images/env8-403x1024.png)
-Students prepared posters to pledge their support for the Green Plan!
-
-![](/images/env9.jpg)
-Upcycled paper wallet
-
-![](/images/env10-1024x931.png)
-Display board for Earth Day
-
-![](/images/env11-1024x768.png)
-
-As part of the Reduce@Northwest initiative by NorthWest CDC, our Environmental Sciences Club members, Environment Champions and Student Councillors came together to encourage our fellow Regenites to make the green pledge and think of ways to reduce our carbon footprint.
-
-![](/images/env11-768x1024.jpg)
-Environment Champions from each class made mask holders for the residents, as part of the RegentCares effort.
+![](/images/CCA/Environmental%20Science/ENVSCI-3.jpg)
+![](/images/CCA/Environmental%20Science/ENVSCI-4.jpg)
