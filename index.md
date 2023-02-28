@@ -18,7 +18,7 @@ sections:
           url: /limbang-raya-show/
         - title: Total Defence Day 2023
           description: ""
-          url: /total-defence-day-2023
+          url: /total-defence-day-2023/
   - infopic:
       title: Applied Learning Programme
       button: click here
