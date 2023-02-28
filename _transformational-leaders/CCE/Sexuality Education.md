@@ -52,7 +52,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-#### At Regent Secondary School, the _eTeens_ programme will be implemented as follows in 2022:
+#### At Regent Secondary School, the _eTeens_ programme will be implemented as follows in 2023:
 
 ![](/images/Sexuality%20Education/2023%20eTeens.jpg)
 
