@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/Sec%202%20Camp/S2%20Camp%202022%20Banner.JPG)
 
-## Sec 2 Advanced Leadership Training
+# **Sec 2 Advanced Leadership Training**
 
-##### Day 1: We’re Heading Off to Camp, At Last!
+#### Day 1: We’re Heading Off to Camp, At Last!
 
 On Thursday, 20 October 2022, our Secondary 2 students embarked on their first residential camp since the COVID pandemic. at the MOE Jalan Bahtera Outdoor Adventure Learning Centre (JBOALC). The 3-day/2-night camp gave our students the opportunity to apply the knowledge and skills learnt during their Outdoor Education (OE) in PE, and Character and Citizenship Education (CCE) lessons. The activities were specially designed to nurture the Habits of Mind, like Self-Management, Working with Others, Effective Communication and Action Management.
 
@@ -15,7 +15,7 @@ The campers were divided into their respective tribes and began their 3-day adve
 
 While some of our Regenites were in action on land, another group of them were out in the waters of Lower Seletar Reservoir for Dragon-boating. For many of our students, Dragon-boating was an entirely new experience. Some of them were nervous about being out in the open water for the very first time in their lives but they overcame their anxiety and learnt to paddle as a team under the supervision of the instructors. Through this activity, the students pushed the boundaries of their comfort zones and learnt that courage is not the absence of fear, but the ability to overcome one’s fears.
 
-##### Day 2: What’s Cooking and Do You Smell Something Burning?
+#### Day 2: What’s Cooking and Do You Smell Something Burning?
 
 After dinner last night, our campers competed against the other tribes in the Tribal Challenge. The tribes were tasked to complete a series of 10 Challenges in under 39 minutes. Our campers demonstrated teamwork and creative thinking to accomplish the challenges in record time!
 
@@ -27,7 +27,7 @@ To burn off the calories from the delectable dishes cooked up by our Regent Mast
 
 Over the past two days, the campers spent their free time enthusiastically practicing and preparing for their performance for the Bonfire. What could these creative and ingenious young minds conjure up? We’ll find out soon enough during tonight’s Bonfire!
 
-##### Day 3: Reflection and Appreciation
+#### Day 3: Reflection and Appreciation
 
 As the stars came out on the final night of the camp and the flames of the campfire illuminated the night sky, our very own Stars of Regent performed to the appreciative applause and cheers of their peers! As the campfire drew to a close, the campers gave our out-going Principal a standing ovation in appreciation of his care and concern in bringing out the best in each and every Regenite.
 
