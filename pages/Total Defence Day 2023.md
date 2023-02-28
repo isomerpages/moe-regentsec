@@ -3,7 +3,7 @@ title: Total Defence Day 2023
 permalink: /permalink/
 description: ""
 ---
-# **Total Defence Day 2023**
+## **Total Defence Day 2023**
 
 We commemorated Total Defence Day this year with a slew of activities aimed at rallying Regenites together in responding to challenges that may threaten Singapore’s stability.
 
