@@ -6,8 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ![](/images/robotic-banner-scaled.jpg)
 
-Robotics Club
-=============
+## **Robotics Club**
 
 **Teachers-in-charge:**  
 Mr Mark Chee Kong  
@@ -32,10 +31,5 @@ In Robotics, members learn basic and intermediate programming skills to control 
 *   Service learning and community involvement at Bukit Batok Home for the Aged.
 *   Combine camps in collaboration with other clubs and societies.
 
-![](/images/Robotics-1-1024x683.jpg)
+![](/images/CCA/2022%20Robotics%20Fun.jpg)
 
-![](/images/Robotics-2-1024x683.jpg)
-
-![](/images/Robotics-3-1024x683.jpg)
-
-![](/images/Robotics-4-1024x683.jpg)
