@@ -3,8 +3,6 @@ title: Sec 1 Basic Leadership Training
 permalink: /confident-leaders/sec-1-basic-leadership-training/
 description: ""
 ---
-# **Sec 1 Basic Leadership Training**
-
 #### Day 1: Regent Goes to Camp!
 
 On Thursday, 12 May 2022, our Secondary 1 students embarked on the 3-day Cohort Camp at Changi Coast Outdoor Adventure Learning Centre (OALC). The camp gave our students the opportunity to apply the knowledge and skills learnt during their Outdoor Education (OE) in PE, and Character and Citizenship Education (CCE) lessons.
