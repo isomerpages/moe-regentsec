@@ -33,8 +33,6 @@ The Boys’ Brigade is the world’s first uniformed organisation for youth. The
 
 Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is spelt with a capital “B”.
 
-JMF Gold Unit since 2012
-
 ![](/images/BB%201.jpg)
 ![](/images/BB%202.jpg)
 ![](/images/BB%203.jpg)
