@@ -6,8 +6,6 @@ third_nav_title: CCE
 ---
 ![](/images/Cyber%20Wellness%20Programme/CW.jpg)
 
-## **Cyber Wellness Programme**
-
 The Cyber Wellness curriculum aims to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information and Communication Technology (ICT).
 
 **Our Key Programmes**
