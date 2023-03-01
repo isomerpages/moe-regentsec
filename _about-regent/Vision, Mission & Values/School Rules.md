@@ -4,14 +4,12 @@ permalink: /about-regent/Vision-Mission-and-Values/school-rules/
 description: ""
 third_nav_title: Vision, Mission & Values
 ---
-### **School Rules**
-
-#### **1. Citizenship**
+#### 1. Citizenship
     
 
 Pupils who are Singapore Citizens must sing the National anthem and take the Pledge with the right fist over the heart.
 
-#### **2. Attire and Grooming**
+#### 2. Attire and Grooming
     
 
 2.1     Pupils are to wear the prescribed school uniform and modification to the uniform is not allowed. Proper school attire consists of:
@@ -45,7 +43,7 @@ Acceptable attire during the holidays is
 
 
 
-#### **3. Attendance**
+#### 3. Attendance
     
 
 3.1     Daily attendance in school during term time is compulsory. A student must have at least 90% attendance before he/she will be allowed to sit for his/her examinations.
@@ -56,7 +54,7 @@ Acceptable attire during the holidays is
 
 3.4      Attendance for CCA is compulsory. If a pupil is unwell, the CCA teacher in charge must be informed and a Medical Certificate must be given to the teacher the next working day. If a pupil is unable to attend due to other school commitments, he/she must inform the teacher in-charge before the session and seek approval.
 
-#### **4. Latecoming**
+#### 4. Latecoming
     
 
 4.1      All pupils have to be punctual for school, lessons, CCA and other committed school activities.
@@ -69,7 +67,7 @@ Acceptable attire during the holidays is
 
 4.5      It is the responsibility of the pupils who are late to submit the ‘Latecomers Slip’ to their respective Form Teachers for attendance updating.
 
-#### **5. Show Care and Respect**
+#### 5. Show Care and Respect
     
 
 5.1      Pupils must show respect and appreciation to speakers/performers at assemblies by maintaining silence and paying attention.
@@ -80,7 +78,7 @@ Acceptable attire during the holidays is
 
 5.4      Pupils must take pride in their work and submit work assigned on time.
 
-#### **6. Banned / Controlled Items**
+#### 6. Banned / Controlled Items
     
 
 6.1      Pupils are not allowed to bring to school any item considered undesirable by the school. This includes electronic games, cards of any sort, chewing gum or any other item that contradicts the school values.
