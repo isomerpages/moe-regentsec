@@ -6,13 +6,12 @@ third_nav_title: Performing Arts
 ---
 ![](/images/Mdbannerwebsite-scaled.jpg)
 
-Modern Dance
-============
+## Modern Dance
 
 **Teachers-in-charge:**  
-Ms Cheryl Seet Huixin  
-Ms Chiang Kwee Yok  
-Mr Yunus B Mohamed
+Mr Yunus B Mohamed  
+Mdm Koh Huey Min
+Ms Yee Jia Min Josephine
 
 **Vision:**  
 All students are passionate in the arts, and able to create and appreciate different dance forms
@@ -20,7 +19,7 @@ All students are passionate in the arts, and able to create and appreciate diffe
 **Mission:**  
 Spread knowledge and appreciation of dance to the school and community as passionate advocates
 
-![](/images/Modern-Dance-Formal-1024x683.jpg)
+![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
 
 One of the most famous lines in the film ‘Ratatouille’ is that ‘anyone can cook’. In Regent Modern Dance, we believe that anyone can dance. This is why we welcome anyone who is interested in dance and challenge each member to reach their personal goals in their performing arts journey. 
 
@@ -33,6 +32,8 @@ With the support of our school leaders, teachers-in-charge, and resident choreog
 In Regent Modern Dance, we truly believe that anyone can dance. It is not talent, but sheer determination and passion, that shines on stage.
 
 As our motto so aptly goes, _“Dance with your heart, and your feet will follow”._
+
+![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
 
 ![](/images/2020-CNY-Concert-Performance1-1024x768.jpg)
 
