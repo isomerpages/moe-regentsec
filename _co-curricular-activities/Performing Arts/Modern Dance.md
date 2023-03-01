@@ -33,37 +33,18 @@ In Regent Modern Dance, we truly believe that anyone can dance. It is not talent
 
 As our motto so aptly goes, _“Dance with your heart, and your feet will follow”._
 
-![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
+![](/images/CCA/2022%20Modern%20Dance%20Fun.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-1.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-2.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-3.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-4.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-5.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-6.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-7.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-8.jpg)
+![](/images/CCA/Modern%20Dance/MODDN-9.jpg)
 
-![](/images/2020-CNY-Concert-Performance1-1024x768.jpg)
-
-![](/images/2020-CNY-Concert-Performance2-1024x768.jpg)
-
-![](/images/2020-CNY-Concert-Performance-1024x768.jpg)
-
-![](/images/2020-Hand-Over-_-Take-Over-HOTO-Ceremony1-1024x578.jpg)
-
-![](/images/2020-Hand-Over-_-Take-Over-HOTO-Ceremony-1024x578.jpg)
-
-![](/images/2020-Modern-Dance-1024x683.jpg)
-
-![](/images/Modern-Dance-VIA-1-1024x768.jpg)
-
-![](/images/Modern-Dance-1.png)
-
-![](/images/Copy-of-IMG_1494-1024x683.jpg)
-
-![](/images/Copy-of-IMG_1464-1024x683.jpg)
-
-![](/images/Copy-of-IMG_9374-1024x683.jpg)
-
-![](/images/Modern-Dance-3.jpeg)
-
-![](/images/teachers-day-dance-2021-1024x577.jpg)
-
-![](/images/Copy-of-Modern-Dance-2-1024x768.jpg)
-
-![](/images/IMG_0660-1024x683.jpg)
+---
 
 ### **Teachers’ Day Performance 2021**
 
