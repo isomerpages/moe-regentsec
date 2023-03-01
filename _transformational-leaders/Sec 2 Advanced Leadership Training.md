@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/Sec%202%20Camp/S2%20Camp%202022%20Banner.JPG)
 
-# **Sec 2 Advanced Leadership Training**
-
 #### Day 1: We’re Heading Off to Camp, At Last!
 
 On Thursday, 20 October 2022, our Secondary 2 students embarked on their first residential camp since the COVID pandemic. at the MOE Jalan Bahtera Outdoor Adventure Learning Centre (JBOALC). The 3-day/2-night camp gave our students the opportunity to apply the knowledge and skills learnt during their Outdoor Education (OE) in PE, and Character and Citizenship Education (CCE) lessons. The activities were specially designed to nurture the Habits of Mind, like Self-Management, Working with Others, Effective Communication and Action Management.
