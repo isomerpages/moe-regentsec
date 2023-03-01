@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/SMC%20&%20All%20Staff/SMC_ALLSTAFF_2023_banner.jpeg)
 
-School Management Committee & All Staff
-=======================================
 #### **Staff Photos**
 
 ![](/images/SMC%20&%20All%20Staff/SL_2023.jpg)
