@@ -6,14 +6,12 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/BBBannerwebsite-scaled.jpg)
 
-## Boys’ Brigade
-
-**Teachers-in-charge:**  
+#### Teachers-in-charge:  
 Ms Sally Sng  
 Mr Sebastian Soo  
 BB Captain: Lt Lim Yu Sheng
 
-**Vision**:  
+#### Vision:  
 Every Boy a Mentor to others
 
 The Boys’ Brigade Object seeks to :
@@ -24,7 +22,7 @@ The Boys’ Brigade Object seeks to :
 
 Our motto is Sure and Steadfast.
 
-**Mission:**  
+#### Mission:  
 To Nurture Boys to Lead and Serve
 
 ![](/images/CCA/2022%20Boys%20Brigade%20Formal.jpg)
@@ -32,6 +30,26 @@ To Nurture Boys to Lead and Serve
 The Boys’ Brigade is the world’s first uniformed organisation for youth. The impact of The Boys’ Brigade led to the establishment of other uniformed organisations: Girls’ Life Brigade (1902), Boy Scouts (1908) and Girl Guides (1910). Its founder Sir William Alexander Smith lived by this: “If I am to be remembered by posterity, I should like it to be as the man who taught people to spell Boy with a capital B.”
 
 Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is spelt with a capital “B”.
+
+#### Highlights and Achievements in 2022
+
+
+| S/N | Highlights / Achievements |
+| -------- | -------- |
+| 1     | JM Fraser Unit Award – Gold Honour Roll |
+| 2     | Total Defense Celebration – Parade Segment with BB as IC |
+| 3     | BB Week Competition – Silver Honour Roll |
+| 4     | UG Passing Out Parade – with UG Head (BB) leading |
+| 5     | BB Blaze Competition – Gold Honour Roll |
+| 6     | Enrolment and Dedication Ceremony with 100 parents who turn up to support |
+| 7     | Founder’s Man Recipient @ Orchid Country Club – SSGT Jenson Chan |
+| 8     | National Day Parade @Floating Platform – 20 Boys represent BBHQ Contingent |
+| 9     | BB Cares @St Luke’s Eldercare Keat Hong on 16th Sept and 21st Oct |
+| 10     | BB Character Quest @ St Hilda’s Secondary on 17th Sept – Gold Honour Roll |
+| 11     | BB Cycling cum Expedition on 29th Oct |
+| 12     | BB Awards and Promotion Ceremony on 19th Nov |
+
+(BB NDP video to upload on YT)
 
 ![](/images/BB%201.jpg)
 ![](/images/BB%202.jpg)
@@ -45,17 +63,16 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 ![](/images/BB%2010.jpg)
 ![](/images/BB%2011.jpg)
 
-### 2020 Activities
+---
+
+#### Past Activities
 
 ![](/images/The-91st-BB-Company-1350x899.jpg)
-The 91st BB Company – Regent Secondary School
+<center>The 91st BB Company – Regent Secondary School</center>
 
 ![](/images/BB%2012.jpg)
 ![](/images/BB%2013.jpg)
 ![](/images/BB%2014.jpg)
-
-The BB and GB of Regent Secondary celebrated their BB & GB Awards and Promotion Ceremony on 21st November 2020. A total of 50 Boys and Girls with a Parents-turnout of 96 were present to celebrate the event at FOUR different venues in school – the ALP room for Sec 3s, Canteen for Sec 2s, BB room for Sec 1 BB Boys and Classroom 1E1 for Sec 1 GB Girls. Parents of Sec 3s view the outdoor parade segment from Level 2 while the rest of the Parents view the marching in along segregated Level 1 corridor.
-
 ![](/images/BB%2015.jpg)
 ![](/images/BB%2016.jpg)
 ![](/images/BB%2017.jpg)
