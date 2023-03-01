@@ -4,16 +4,14 @@ permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ![](/images/show-choir.jpg)
 
-Show Choir
-==========
+## Show Choir
 
 **Teachers-in-charge**:  
 Mrs Elsie Mathews  
-Mdm Siti Nadzirah  
-Mdm Dian Syahidah
+Mdm Dian Syahidah  
+Mdm Li Jing
 
 **Vision:**  
 All students are enthusiastic performers and appreciators of all forms of music and dance.
@@ -31,33 +29,33 @@ Under the support and guidance of our school leaders, teachers-in-charge and pro
 
 **Key Activities**:
 
-2021
+**2021**
 
 *   Singapore Youth Festival Arts Presentation
 *   Youth Day Assembly Performance
 *   Marsiling-Yew Tee GRC National Day Celebrations 2021
 *   Teachers’ Day Assembly Performance
 
-2020
+**2020**
 
 *   Participated in National Teachers’ Day Virtual Choir Video (Wong Jing En, 3-Empathy)
 
-2019
+**2019**
 
 *   Singapore Youth Festival Arts Presentation – Accomplishment
 *    B-Dazzled! Festival – Diamond Award, Best Showmanship and Best Choreography
 *   Limbang-Yew Tee 2020 New Year Countdown
 *   NDP Heartlands 2019 @ North West District
 
-2018
+**2018**
 
 *    B-Dazzled! Festival – Diamond Award and Best Showmanship
 
-2017
+**2017**
 
 *   B-Dazzled! Festival – Show Choir of the Year, Diamond Award and Best Showmanship
 
-## **2021**
+### **2021**
 #### **Singapore Youth Festival Arts Presentation**
 
 Audio recording of “Shine Like Stars”
@@ -91,8 +89,9 @@ Show Choir members saluted the teachers with a dance performance.
 
 ![](/images/10_Teachers-Day.jpg)
 
-e-CCA
------
+---
+
+### e-CCA
 
 With the onset of COVID-19 pandemic and safe management measures (SMM) in place, vocal and dance training went online during some periods of the past two years. . One project embarked by students was the **virtual choir project**. They worked in groups using Soundtrap, a cloud studio application, to record, upload and edit their singing tracks. It culminated in the virtual music showcase where students showcased their talents and receive feedback and motivation from their friends, choir instructor, and teachers.
 
