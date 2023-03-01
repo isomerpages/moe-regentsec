@@ -4,16 +4,14 @@ permalink: /co-curricular-activities/Performing-Arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/band-scaled%20(1).jpg)
 
-Concert Band
-============
+
+## Concert Band
 
 **Teachers-in-charge:**  
-Ms Elaine Leong  
 Ms Nur Zahidah  
-Ms Lee Cheong Khi  
-Ms Jillyan Siow Pei Tian
+Ms Jillyan Siow
+Mdm Malathi Murugesan
 
 **Vision:**  
 Every band member is a passionate musician
@@ -21,11 +19,12 @@ Every band member is a passionate musician
 **Mission:**  
 To advocate the love and appreciation for music within the school and community
 
-![](/images/Concert-Band-Formal-1024x683.jpg)
+![](/images/CCA/2022%20Concert%20Band%20Formal.jpg)
+![](/images/CCA/2022%20Concert%20Band%20Fun.jpg)
 
 Under the baton of Mr Nigel Leong and Ms Ng Siang Yee, the Regent Concert Band aims to provide a nurturing environment for our members to acquire good musical knowledge and proficiency in playing musical instruments. We nurture our students to be self-directed learners and confident leaders while they take on various responsibilities in the band. We also provide ample opportunities for our members to take on leadership roles and learn through competitions, camps, and exchanges with schools from Singapore and overseas.
 
-Our recent highlights and achievements
+**Our recent highlights and achievements:**
 
 *   Limbang Virtual Mid-Autumn Celebration Sep 2021
 *   Inter-school collaboration with Pasir Ris Crest Secondary School January 2021
@@ -46,10 +45,11 @@ Our recent highlights and achievements
 **_Twitter: @rgtwindsymphony_**  
 **_Youtube channel: rgtwindsymphony_**
 
+---
+
 ### Regent Percussion Ensemble
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zj0nesKZooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Scroll down to see some of our photos**
 
 ![](/images/Concert-Band-1-768x1024.jpg)
 
