@@ -3,8 +3,6 @@ title: Secondary 1 Orientation 2023
 permalink: /transformational-leaders/secondary-1-orientation-2023/
 description: ""
 ---
-# **Secondary 1 Orientation 2023**
-
 A blazing start to the year.
 
 We welcome our Regenites back to school, including our Sec 1 students to the Regent Family.
