@@ -3,13 +3,13 @@ title: Enrichment Programmes
 permalink: /self-directed-learners/enrichment-programmes/
 description: ""
 ---
-### **Sec 2 Science Busking**
+## Sec 2 Science Busking
 
 Each year, our students have the opportunity to take part in Science Buskers, an annual competition organised by A\*STAR and Science Centre Singapore. As a hands-on, interactive way of learning and sharing about Science, Science Busking sees students applying scientific concepts learnt to real-world situations and showcasing their ideas through skillful, live demonstrations using everyday objects. It is here that Science comes alive for our students, who experience first-hand just how powerful the subject is in undergirding all aspects of life!
 
 ![](/images/Enrichment%20Programmes/EnrichmentProg_1-SciBuskers.jpg)
 
-### **Science Learning Journeys**
+## Science Learning Journeys
 
 Science Learning Journeys is a series of activities to enthuse our students to learn science beyond our classroom.  It includes short workshops which allow them to apply what they have learnt in classroom to real world context. There are also research work which requires them to collect data for their experiment during School Holidays.
 
@@ -24,7 +24,7 @@ Science Learning Journeys is a series of activities to enthuse our students to l
 ![](/images/Students-experimenting-with-their-hypothesis-during-Science-Centre-Research-Programme.png)
 <center>Students experimenting with their hypothesis during Science Centre Research Programme</center>
 
-### **Geography Inquiry**
+## Geography Inquiry
 
 The study of Geography helps us explore and better understand the world we live in. At Regent Secondary School, we make Geography accessible to all students through our experiential learning curriculum, which incorporates Geographical Investigation (G.I.) across all levels. Such learning experiences enable our students to connect what they are learning to the world around them and to discover the real-world applications of various geographical concepts.
 
@@ -44,7 +44,7 @@ Above all, we hope for our young Geographers at Regent to be informed and concer
 
 ![](/images/Enrichment%20Programmes/EnrichmentProg_3-GeoInvestig.jpg)
 
-### **Historical Investigations**
+## Historical Investigations
 
 In Historical Investigations, students explore a range of authentic sources to glean perspectives of the lives of people in the past and infer on life old Singapore.   Students also navigate through various historical sites in Singapore and encounter authentic learning experiences which help them connect with their learning.
 
@@ -53,7 +53,7 @@ In Historical Investigations, students explore a range of authentic sources to g
 
 ![](/images/Enrichment%20Programmes/EnrichmentProg_4_HistInvestig.jpg)
 
-### **Conversational Chinese and Malay Language (CCM) Programme**
+## Conversational Chinese and Malay Language (CCM) Programme
 
 Conversational Chinese and Malay Language (CCM) Programme  aims to strengthen Singapore’s multiracial identity and expose students to a third language.  Students will have an elementary understanding of a different mother tongue language and have the opportunity to explore cultural aspects of a particular ethnic group. Being able to communicate with others in a different mother tongue language will enable students to expand their cultural consciousness beyond their individual ethnic groups.  At the end of the programme, students will be equipped with basic conversational skills to enable them to interact with native speakers confidently.
 
