@@ -3,8 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /self-directed-learners/alp/
 description: ""
 ---
-
-![](/images/Applied%20Learning%20Programme.jpg) 
+![](/images/Applied%20Learning%20Programme/Applied%20Learning%20Programme.jpg)
 
 In a world where technology has become pervasive in our daily lives, it is critical for students to be equipped with skills that will enable them to thrive in our Smart Nation. At Regent Secondary School, we prepare our students to be future-ready through our Applied Learning Programme (ALP) on Emerging Technologies.
 
