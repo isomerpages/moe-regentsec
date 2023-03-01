@@ -19,7 +19,8 @@ All students are enthusiastic performers and appreciators of all forms of music 
 **Mission**:  
 Spread knowledge and appreciation of Show Choir to the school and community as passionate advocates.
 
-![](/images/Show-Choir-Formal-1024x683.jpg)
+![](/images/CCA/2022%20Show%20Choir%20Formal.jpg)
+![](/images/CCA/2022%20Show%20Choir%20Fun.jpg)
 
 Known for clinching the Best Showmanship award, Regent Revolution never fails to mesmerise the audience with our high impact production. We have dazzled the crowd performing as high school zombies and circus clowns, and always look forward to pull an element of surprise in our performances.
 
