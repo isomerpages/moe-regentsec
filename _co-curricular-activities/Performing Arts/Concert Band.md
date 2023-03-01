@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
+![](/images/CCA/Concert%20Band/BANDBanner%20-%202023.jpg)
 
 ## Concert Band
 
@@ -45,24 +45,11 @@ Under the baton of Mr Nigel Leong and Ms Ng Siang Yee, the Regent Concert Band a
 **_Twitter: @rgtwindsymphony_**  
 **_Youtube channel: rgtwindsymphony_**
 
+![](/images/CCA/Concert%20Band/BAND-1.jpg)
+![](/images/CCA/Concert%20Band/BAND-2.jpg)
+![](/images/CCA/Concert%20Band/BAND-3.jpg)
+![](/images/CCA/Concert%20Band/BAND-4.jpg)
+
 ---
-
-### Regent Percussion Ensemble
+#### Regent Percussion Ensemble
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zj0nesKZooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-![](/images/Concert-Band-1-768x1024.jpg)
-
-![](/images/Concert-Band-2-768x1024.jpg)
-
-![](/images/Concert-Band-3.jpg)
-
-![](/images/IMG-20190320-WA0012-1024x576.jpg)
-
-![](/images/IMG-20190709-WA0030-1024x768.jpg)
-
-![](/images/IMG-20190709-WA0031-1024x768.jpg)
-
-![](/images/IMG-20190912-WA0033-1024x576.jpg)
-
-![](/images/IMG-20191105-WA0008-1024x768.jpg)
