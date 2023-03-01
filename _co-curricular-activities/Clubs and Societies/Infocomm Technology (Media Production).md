@@ -6,6 +6,8 @@ third_nav_title: Clubs and Societies
 ---
 ![](/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg)
 
+## InfoComm Technology (Media Production)
+
 **Teachers-in-charge:**  
 Mr Muhammad Fauzan Bin Sapuan  
 Mdm Zainab Banu Binte Hassan  
