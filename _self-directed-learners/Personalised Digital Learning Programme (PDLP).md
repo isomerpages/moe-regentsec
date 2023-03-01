@@ -41,7 +41,7 @@ The use of a Blended Learning approach in PE lessons enables students build conc
 
 ![](/images/PDLP/PDLP_6-PE.png)
 
-#### **Student Quotes**
+### **Student Quotes**
 
 > I enjoy using the Chromebook as it is better than writing with pen & paper. The lessons are interesting because we get to do our own research using our devices. It is such a dream to be able use our devices in class! - (Chester, 1-Pride) 
 > 
