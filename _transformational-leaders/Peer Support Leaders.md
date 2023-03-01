@@ -3,7 +3,7 @@ title: Peer Support Leaders
 permalink: /transformational-leaders/peer-support-leaders/
 description: ""
 ---
-## **Peer Support Leaders**
+## Peer Support Leaders
 
 The school is a place where our students forge strong friendships, for whom peers are paramount. Positive peer relationships facilitate the provision of care and a sense of belonging amongst students. Such relationships can also be powerful channels of positive influence—just take a look at our Peer Support Leaders (PSL)!
 
