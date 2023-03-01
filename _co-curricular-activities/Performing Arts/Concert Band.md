@@ -6,17 +6,15 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA/Concert%20Band/BANDBanner%20-%202023.jpg)
 
-## Concert Band
-
-**Teachers-in-charge:**  
+#### Teachers-in-charge:  
 Ms Nur Zahidah  
 Ms Jillyan Siow
 Mdm Malathi Murugesan
 
-**Vision:**  
+#### Vision:  
 Every band member is a passionate musician
 
-**Mission:**  
+#### Mission:  
 To advocate the love and appreciation for music within the school and community
 
 ![](/images/CCA/2022%20Concert%20Band%20Formal.jpg)
