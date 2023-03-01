@@ -3,8 +3,6 @@ title: Early Admissions Exercise Programme (EAE)
 permalink: /self-directed-learners/early-admissions-exercise-programme-eae/
 description: ""
 ---
-## Early Admissions Exercise Programme (EAE)
-
 The Polytechnic Early Admissions Exercise (EAE) allows students to apply for and receive conditional offers for admission prior to their GCE O-Level Examinations. Students applying through the Poly EAE are considered for admission on the basis of demonstrated aptitude and interest, beyond just  
 academic grades.
 
