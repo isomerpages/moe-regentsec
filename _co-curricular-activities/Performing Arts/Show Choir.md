@@ -4,9 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/show-choir.jpg)
-
-## Show Choir
+![](/images/CCA/Show%20Choir/SWCHRBanner%20-%202023.jpg)
 
 **Teachers-in-charge**:  
 Mrs Elsie Mathews  
@@ -22,13 +20,13 @@ Spread knowledge and appreciation of Show Choir to the school and community as p
 ![](/images/CCA/2022%20Show%20Choir%20Formal.jpg)
 ![](/images/CCA/2022%20Show%20Choir%20Fun.jpg)
 
-Known for clinching the Best Showmanship award, Regent Revolution never fails to mesmerise the audience with our high impact production. We have dazzled the crowd performing as high school zombies and circus clowns, and always look forward to pull an element of surprise in our performances.
+Having consistently attained the Best Showmanship Award, Regent Revolution Show Choir never fails to mesmerise audiences with our high-impact productions. We have dazzled crowds, performed as high school zombies and circus clowns, and we always look forward to incorporating an element of surprise in our performances.
 
-Regent Revolution Show Choir has come a long way and over the past few years, it has won numerous accolades, including the Certificate of Accomplishment at the 2019 SYF Arts Presentation (Choir) and numerous awards at the B-Dazzled Festival. The Regent Revolution Show Choir was also awarded the Show Choir of the Year for five consecutive years from 2013 to 2017.
+We have won numerous accolades, including the Certificate of Accomplishment at the 2019 Singapore Youth Festival Arts Presentation and numerous awards at the B-Dazzled Music and Dance Festival. As a five-time Show Choir of the Year awardee, Regent Revolution Show Choir maintains its commitment to delivering show-stopping musical performances that seek to delight audiences young and old.
 
-Under the support and guidance of our school leaders, teachers-in-charge and professional instructors from John & Deniece Glee Studios, Regent Revolution Show Choir hopes to continue to develop itself in the aspects of singing and dancing by exposing the members to the Arts and providing them platforms to showcase their talents.
+With the support and guidance of our school leaders, teachers, and professional instructors, Mr John Khoo and Mr Azizi, members of the Show Choir can look forward to honing their singing and dancing skills and to showcase their talents through various platforms.
 
-**Key Activities**:
+**Key Activities**
 
 **2021**
 
@@ -56,43 +54,43 @@ Under the support and guidance of our school leaders, teachers-in-charge and pro
 
 *   B-Dazzled! Festival – Show Choir of the Year, Diamond Award and Best Showmanship
 
+---
+
+### **2022**
+#### B-Dazzled Music & Dance Festival
+
+![](/images/CCA/Show%20Choir/SHWCHR-1.jpg)
+
+---
+
 ### **2021**
-#### **Singapore Youth Festival Arts Presentation**
+#### Singapore Youth Festival Arts Presentation
 
 Audio recording of “Shine Like Stars”
 
-![](/images/02_SYF-audio-recording-1024x768.jpg)
-
-![](/images/03_SYF-audio-recording-1024x768.jpg)
-
-![](/images/04_SYF-audio-recording-768x1024.jpg)
+![](/images/CCA/Show%20Choir/SHWCHR-2.jpg)
 
 The music video: 
 (need to upload on YT)
 
-#### **Marsiling-Yew Tee GRC National Day Celebrations 2021**
+#### Marsiling-Yew Tee GRC National Day Celebrations 2021
 
 Recording of the National Anthem and National Day dance
-<img src="/images/06_National-Day-recording-768x1024.jpg" 
-     style="width:50%">
 
-<img src="/images/07_National-Dayrecording-1024x768.jpg" 
-     style="width:50%">
+![](/images/CCA/Show%20Choir/SHWCHR-3.jpg)
+
+![](/images/CCA/Show%20Choir/SHWCHR-4.jpg)
 
 
-![](/images/08_National-Day-poster.jpg)
-
-#### **Teachers’ Day Assembly Performance**
+#### Teachers’ Day Assembly Performance
 
 Show Choir members saluted the teachers with a dance performance.
 
-![](/images/09_Teachers-Day.jpg)
-
-![](/images/10_Teachers-Day.jpg)
+![](/images/CCA/Show%20Choir/SHWCHR-5.jpg)
 
 ---
 
-### e-CCA
+### **e-CCA**
 
 With the onset of COVID-19 pandemic and safe management measures (SMM) in place, vocal and dance training went online during some periods of the past two years. . One project embarked by students was the **virtual choir project**. They worked in groups using Soundtrap, a cloud studio application, to record, upload and edit their singing tracks. It culminated in the virtual music showcase where students showcased their talents and receive feedback and motivation from their friends, choir instructor, and teachers.
 
@@ -112,41 +110,18 @@ Enjoy listening to a few samples of students’ singing.
 
 Students also collaborated in groups to choreograph dance moves, practise and showcase their dancing skills. Do enjoy the recording of their dance via Zoom.
 
-Snapshot of dance session via Zoom
-
-![](/images/15_e-CCA-dance-1024x555.jpg)
+![](/images/CCA/Show%20Choir/SHWCHR-6.jpg)
+<center>Snapshot of dance session via Zoom</center>
 
 The e-CCA Dance video:
-unable to embed YT video bc its unlisted
+(unable to embed YT video bc its unlisted)
 
-![](/images/For-school-website-2019-B-dazzled-Festival-1024x768.jpeg)
+---
+### **Past Events**
 
-![](/images/For-school-website-2019-SYF-1350x1013.jpeg)
-
-![](/images/For-school-website-Limbang-YT-New-Year-Countdown-1350x1013.jpeg)
-
-![](/images/For-school-website-Regent_s-2019-National-Day-Celebration-1350x675.jpeg)
-
-![](/images/2019-B-Dazzled-Reflection-using-CCA-Toolkit-2-1350x1013.jpeg)
-
-![](/images/2019-B-dazzled-Reflection-using-CCA-Toolkit-1024x768.jpeg)
-
-![](/images/2019-EOY-Camp-Bonding-Games-1350x1013.jpeg)
-
-![](/images/2019-Regent-Open-House-1350x1013.jpeg)
-
-![](/images/2019-SYF-Exchange.jpeg)
-
-![](/images/2020-Choir-Photo-1024x768.jpeg)
-
-![](/images/2020-Choir-Photo-Fun-shot-1024x768.jpeg)
-
-![](/images/2020-Choir-Practice-1-1024x768.jpeg)
-
-![](/images/2020-Choir-Practice-2-1024x768.jpeg)
-
-![](/images/2020-Choir-Practice-3.jpeg)
-
-![](/images/2020-Small-Group-Presentation.jpeg)
+![](/images/CCA/Show%20Choir/SHWCHR-7.jpg)
+![](/images/CCA/Show%20Choir/SHWCHR-8.jpg)
+![](/images/CCA/Show%20Choir/SHWCHR-9.jpg)
+![](/images/CCA/Show%20Choir/SHWCHR-10.jpg)
 
 (4 videos to be uploaded on YT)
