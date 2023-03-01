@@ -6,8 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/BBBannerwebsite-scaled.jpg)
 
-Boys’ Brigade (Boys only)
-=========================
+## Boys’ Brigade
 
 **Teachers-in-charge:**  
 Ms Sally Sng  
@@ -28,8 +27,7 @@ Our motto is Sure and Steadfast.
 **Mission:**  
 To Nurture Boys to Lead and Serve
 
-The Boys Brigade
-![](/images/The-Boys_-Brigade-1024x608.jpg)
+![](/images/CCA/2022%20Boys%20Brigade%20Formal.jpg)
 
 The Boys’ Brigade is the world’s first uniformed organisation for youth. The impact of The Boys’ Brigade led to the establishment of other uniformed organisations: Girls’ Life Brigade (1902), Boy Scouts (1908) and Girl Guides (1910). Its founder Sir William Alexander Smith lived by this: “If I am to be remembered by posterity, I should like it to be as the man who taught people to spell Boy with a capital B.”
 
