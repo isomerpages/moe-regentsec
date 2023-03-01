@@ -4,21 +4,17 @@ permalink: /co-curricular-activities/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![](/images/redcrossbanner-scaled.jpg)
 
-Red Cross Youth
-===============
-
-**Teachers-in-Charge:**  
+#### Teachers-in-Charge:  
 Ms Rachel Lau  
 Mr Shawn Hong  
 Ms Natalie Soong
 
-**Vision:**  
+#### Vision:  
 Every cadet a confident and competent youth leader in service to the community.
 
-**Mission:**  
+#### Mission:  
 To uphold the values of compassion, passion, and professionalism as members of Singapore’s Red Cross Youth.
 
 ![](/images/Banner-Photo_Red-Cross-Youth-Formal-scaled.jpg)
@@ -31,7 +27,7 @@ Through their four years with Regent Red Cross Youth, cadets will:
 *   Develop key leadership competencies and organisational skills
 *   Engage in a wide range of local community service and overseas humanitarian projects
 
-Achievements:
+#### Achievements:
 
 *   Excellent Unit Award (Gold) – 2018, 2019
 *   Disaster Risk Reduction Championship (Silver) – 2021
@@ -45,7 +41,11 @@ Achievements:
     *   2019: Tang Fu Gui
     *   2018: Destya Kusuma Roem
 
-Visit our Instagram page for more: [https://www.instagram.com/regentrcy](https://www.instagram.com/regentrcy)
+#### Connect With Us
+
+Stay in touch with us on Instagram ([@regentrcy](https://www.instagram.com/regentrcy)) for the latest news and happenings in our unit.
+
+![](/images/CCA/2022%20Red%20Cross%20Fun.jpg)
 
 ![](/images/20200805_164554-2048x996-1-1024x498.jpg)
 
