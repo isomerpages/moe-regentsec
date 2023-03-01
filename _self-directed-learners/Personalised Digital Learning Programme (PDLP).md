@@ -3,7 +3,7 @@ title: Personalised Digital Learning Programme (PDLP)
 permalink: /self-directed-learners/pdlp/
 description: ""
 ---
-## **Enriching School Experience – Developing Digital Learners**
+## Enriching School Experience – Developing Digital Learners
 
 ### **Gathering Information and Digital Preparation in Art**
 
@@ -50,7 +50,7 @@ The use of a Blended Learning approach in PE lessons enables students build conc
 
 -------------------------------------------------------------
 
-## **Personal Learning Devices (PLD) Distribution**
+## Personal Learning Devices (PLD) Distribution
 
 ![](/images/PDLP/PLD_1.jpg)
 
