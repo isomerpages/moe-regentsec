@@ -6,8 +6,7 @@ third_nav_title: CCE
 ---
 ![](/images/Careers-Fair-Areospace-Aviation.jpg)
 
-Aspirations Programme
-=====================
+## **Aspirations Programme**
 
 Regent’s Aspirations programme adopts the 4-D approach to education and career guidance: Discover, Decide, Develop and Dream. Through a 4/5-year developmental programme, students’ awareness of their strengths and passions are enhanced, and guidance given in their pursuits of their aspired educational pathways, courses and careers.
 
