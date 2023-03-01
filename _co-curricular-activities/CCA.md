@@ -3,7 +3,7 @@ title: CCA
 permalink: /co-curricular-activities/cca/
 description: ""
 ---
-# **CCA**
+![](/images/CCA/CCA%20Leaders/2022%20CCA%20Leaders-3.jpg)
 
 The CCA Programme provides students with a platform to discover their interests and talents to allow an individual to have a life-long love for a particular activity. This helps the individual to lead a balanced life in adulthood. It is one of the key Student Development Experiences that contribute towards the holistic development of our students. 
 
