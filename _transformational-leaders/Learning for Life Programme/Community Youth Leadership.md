@@ -4,8 +4,6 @@ permalink: /confident-leaders/Learning-for-Life-Programme/community-youth-leader
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-## **Community Youth Leadership**
-
 Youths are regarded as the future leaders of society as they possess enormous and multi-dimensional talents and creative abilities which can moulded and harnessed in a conducive atmosphere. At Regent, our Learning for Life Programme (LLP) is on Community Youth Leadership (CYL). Guided by the school’s vision and mission, the LLP is undergirded by a real-world experience learning pedagogy. We believe that every students can be developed as a leader. The CYL programmes aim to develop student’s character, leadership and spirit for volunteering to become a responsible and confident leader who is committed to excellence. This is achieved through our school’s Student Leadership Programme and the Values-in-Action Programme.
 
 The Student Leadership programme equips our students with the attitude, knowledge and Communication, Action Management and Facilitation skills in either the classroom setting, the CCA or in the Student Council to lead self, peers and community. The Values-in-Action (VIA) programme provides our students with the platforms and opportunities to take action to reach out and make a difference in the school and community.These include cohort-wide programmes to develop the students’ understanding of leadership principles and communication skills to equip them to become confident leaders who are able to lead themselves and others:
