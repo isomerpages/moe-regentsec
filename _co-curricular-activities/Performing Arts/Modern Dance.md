@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 
 **Teachers-in-charge:**  
 Mr Yunus B Mohamed  
-Mdm Koh Huey Min
+Mdm Koh Huey Min  
 Ms Yee Jia Min Josephine
 
 **Vision:**  
