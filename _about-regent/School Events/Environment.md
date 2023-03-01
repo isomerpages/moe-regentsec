@@ -8,11 +8,11 @@ third_nav_title: School Events
 
 World Environment Day falls on 5th June 2022. To commemorate this momentous day and do our part for Mother Earth, Regent held an Environment Week starting from 23 to 27 May!
 
-### **Student Collaboration**
+#### **Student Collaboration**
 
 Several CCAs came onboard to contribute with the common goal of advocating for changes we can make by tweaking our lifestyle. Students from the Show Choir came up with their very own music jiggle to spread environmental messages while our Drama Club collaborated with InfoComm Club and produced 2 videos on reducing carbon footprint in and outside of school. The Robotics Club made use of Blockie to design a structure to house potted plants and coded a device to monitor the humidity of the plants. Our Student Council is partnering with Northwest CDC to conduct an online zoom workshop for Yew Tee residents on the fundamentals of 5Rs and to share tips on how to upcycle old clothes into tote bags.
 
-### **Showcase Boards**
+#### **Showcase Boards**
 
 To reach out to our student population, our Environmental Sciences Club put display boards showcasing ways to recycle right and share information on the nature of biodiversity in school and Singapore at large. Through this, students learnt the names of the common birds sighted in school. Together with the Class Environment Champions, students also had the chance to try out hands-on activities like upcycling empty plastic bottles into zipper containers and folding paper box origami which can be used to place their items or waste.  
   
@@ -20,6 +20,8 @@ All of us can play a part to protect our Earth by making changes to our lifestyl
 
 ![](/images/School%20Events/Environment/Envir2022-1.jpg)
 ![](/images/School%20Events/Environment/Envir2022-2.jpg)
+
+---
 
 ## Environmental Science Photography Workshop
 
@@ -35,6 +37,8 @@ Seeing our world through the lens of a camera, we often look more critically, ev
 ![](/images/School%20Events/Environment/Envir2022-4.jpg)
 ![](/images/School%20Events/Environment/Envir2022-5.jpg)
 
+---
+
 ## Earth Day
 
 Have you ever wondered where the waste that we throw goes once it leaves our homes? How knowledgeable are you in sustainable fashion, compost and carbon food print?
@@ -47,6 +51,8 @@ Let’s all do our part and invest in our planet to keep it sustainable for futu
 
 ![](/images/School%20Events/Environment/Envir2022-6.jpg)
 ![](/images/School%20Events/Environment/Envir2022-7.jpg)
+
+---
 
 ## World Water Day 2022
 
