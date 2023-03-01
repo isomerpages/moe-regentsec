@@ -4,8 +4,8 @@ permalink: /about-regent/vision-mission-values/
 description: ""
 third_nav_title: Vision, Mission & Values
 ---
-Our School Crest
-----------------
+# Our School Crest
+
 <img src="/images/Regent-Crest-653x1024.png" 
      style="width:25%">
 
