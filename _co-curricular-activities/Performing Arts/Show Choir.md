@@ -6,15 +6,15 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA/Show%20Choir/SWCHRBanner%20-%202023.jpg)
 
-**Teachers-in-charge**:  
+#### Teachers-in-charge:  
 Mrs Elsie Mathews  
 Mdm Dian Syahidah  
 Mdm Li Jing
 
-**Vision:**  
+#### Vision:  
 All students are enthusiastic performers and appreciators of all forms of music and dance.
 
-**Mission**:  
+#### Mission:  
 Spread knowledge and appreciation of Show Choir to the school and community as passionate advocates.
 
 ![](/images/CCA/2022%20Show%20Choir%20Formal.jpg)
@@ -26,7 +26,7 @@ We have won numerous accolades, including the Certificate of Accomplishment at t
 
 With the support and guidance of our school leaders, teachers, and professional instructors, Mr John Khoo and Mr Azizi, members of the Show Choir can look forward to honing their singing and dancing skills and to showcase their talents through various platforms.
 
-**Key Activities**
+##### Key Activities
 
 **2021**
 
