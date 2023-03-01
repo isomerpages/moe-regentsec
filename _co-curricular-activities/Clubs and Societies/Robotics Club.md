@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ![](/images/CCA/Robotics%20Club/ROBOTBanner%20-%202023.jpg)
 
-## **Robotics Club**
+## Robotics Club
 
 **Teachers-in-charge:**  
 Mr Mark Chee Kong  
