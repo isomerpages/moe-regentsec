@@ -6,17 +6,15 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA/Modern%20Dance/MODDNBanner%20-%202023.jpg)
 
-## Modern Dance
-
-**Teachers-in-charge:**  
+#### Teachers-in-charge:  
 Mr Yunus B Mohamed  
 Mdm Koh Huey Min  
 Ms Yee Jia Min Josephine
 
-**Vision:**  
+#### Vision:  
 All students are passionate in the arts, and able to create and appreciate different dance forms
 
-**Mission:**  
+#### Mission:  
 Spread knowledge and appreciation of dance to the school and community as passionate advocates
 
 ![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
@@ -46,6 +44,6 @@ As our motto so aptly goes, _“Dance with your heart, and your feet will follo
 
 ---
 
-### **Teachers’ Day Performance 2021**
+### Teachers’ Day Performance 2021
 
 (Insert Video - cannot be embedded cos its unlisted)
