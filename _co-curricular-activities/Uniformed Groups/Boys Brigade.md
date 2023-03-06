@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/BBBannerwebsite-scaled.jpg)
+![](/images/CCA/Boys%20Brigade/BBBanner%20-%202023.jpg)
 
 #### Teachers-in-charge:  
 Ms Sally Sng  
@@ -25,14 +25,13 @@ Our motto is Sure and Steadfast.
 #### Mission:  
 To Nurture Boys to Lead and Serve
 
-![](/images/CCA/2022%20Boys%20Brigade%20Formal.jpg)
+![](/images/CCA/2022%20Boys%20Brigade%20Fun.jpg)
 
 The Boys’ Brigade is the world’s first uniformed organisation for youth. The impact of The Boys’ Brigade led to the establishment of other uniformed organisations: Girls’ Life Brigade (1902), Boy Scouts (1908) and Girl Guides (1910). Its founder Sir William Alexander Smith lived by this: “If I am to be remembered by posterity, I should like it to be as the man who taught people to spell Boy with a capital B.”
 
 Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is spelt with a capital “B”.
 
 #### Highlights and Achievements in 2022
-
 
 | S/N | Highlights / Achievements |
 | -------- | -------- |
@@ -50,6 +49,9 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | 12     | BB Awards and Promotion Ceremony on 19th Nov |
 
 (BB NDP video to upload on YT)
+
+![](/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg)<center>BB 91st Company</center>
+
 
 ![](/images/BB%201.jpg)
 ![](/images/BB%202.jpg)
