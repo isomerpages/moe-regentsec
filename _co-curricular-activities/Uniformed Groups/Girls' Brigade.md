@@ -4,12 +4,12 @@ permalink: /co-curricular-activities/Uniformed-Groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/gb-banner-scaled.jpg)
+![](/images/CCA/Girls%20Brigade/GBBanner%20-%202023.jpg)
 
 #### Teachers-in-charge:  
 Mdm Annie Teo  
 Ms Joan Lim  
-GB Captain: Goh ZhiQing
+GB Captain: Goh Zhi Qing
 
 #### Mission:  
 Developing each girl and officer to her fullest potential by equipping, empowering and enabling
@@ -40,7 +40,7 @@ Every Girl in the Explorer’s Programme will:
 
 ---
 
-**Fun Camp (March)**
+### Fun Camp (March)
 ![](/images/GB%201.jpg)
 ![](/images/GB%202.jpg)
 ![](/images/GB%203.jpg)
