@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Regent Secondary School
       background: /images/regent sec.gif
       key_highlights:
         - title: NKF School Outreach Programme
