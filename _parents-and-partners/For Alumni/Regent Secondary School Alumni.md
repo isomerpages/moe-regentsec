@@ -4,9 +4,6 @@ permalink: /parents-and-partners/For-Alumni/alumni/
 description: ""
 third_nav_title: For Alumni
 ---
-**Regent Secondary School Alumni**
-==============================
-
 Regent Secondary School values our relationship with the Alumni and welcomes you to stay connected with us. We believe our Alumni can continuously add-value to current and future generations of Regenites.
 
 ### **Purpose of Regent Secondary Alumni**
