@@ -6,15 +6,15 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA/Concert%20Band/BANDBanner%20-%202023.jpg)
 
-#### Teachers-in-charge:  
+#### Teachers-in-charge  
 Ms Nur Zahidah  
 Ms Jillyan Siow
 Mdm Malathi Murugesan
 
-#### Vision:  
+#### Vision  
 Every band member is a passionate musician
 
-#### Mission:  
+#### Mission  
 To advocate the love and appreciation for music within the school and community
 
 ![](/images/CCA/2022%20Concert%20Band%20Formal.jpg)
@@ -22,7 +22,7 @@ To advocate the love and appreciation for music within the school and community
 
 Under the baton of Mr Nigel Leong and Ms Ng Siang Yee, the Regent Concert Band aims to provide a nurturing environment for our members to acquire good musical knowledge and proficiency in playing musical instruments. We nurture our students to be self-directed learners and confident leaders while they take on various responsibilities in the band. We also provide ample opportunities for our members to take on leadership roles and learn through competitions, camps, and exchanges with schools from Singapore and overseas.
 
-**Our recent highlights and achievements:**
+#### Highlights and Achievements
 
 *   Limbang Virtual Mid-Autumn Celebration Sep 2021
 *   Inter-school collaboration with Pasir Ris Crest Secondary School January 2021
