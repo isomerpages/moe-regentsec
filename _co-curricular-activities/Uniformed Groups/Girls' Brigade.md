@@ -6,15 +6,15 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/CCA/Girls%20Brigade/GBBanner%20-%202023.jpg)
 
-#### Teachers-in-charge:  
+#### Teachers-in-charge  
 Mdm Annie Teo  
 Ms Joan Lim  
 GB Captain: Goh Zhi Qing
 
-#### Mission:  
+#### Mission  
 Developing each girl and officer to her fullest potential by equipping, empowering and enabling
 
-#### Vision:  
+#### Vision  
 Every Girl a leader
 
 Every Officer a Servant Leader
@@ -42,7 +42,7 @@ Click on this link to view [Girls Brigade Regent 81st Termly Newsletter Term 2](
 
 ---
 
-### Fun Camp (March)
+#### Fun Camp (March)
 ![](/images/GB%201.jpg)
 ![](/images/GB%202.jpg)
 ![](/images/GB%203.jpg)
@@ -54,7 +54,7 @@ Click on this link to view [Girls Brigade Regent 81st Termly Newsletter Term 2](
 
 ---
 
-### Low Guat Tin Challenge
+#### Low Guat Tin Challenge
 
 ![](/images/WhatsApp-Image-2021-11-16.jpeg)
 ![](/images/WhatsApp-Image-2021-11-16-2.jpeg)
@@ -65,15 +65,14 @@ Click on this link to view [Girls Brigade Regent 81st Termly Newsletter Term 2](
 
 ---
 
-### Learning New Skills (Sign Language)
+#### Learning New Skills (Sign Language)
 
 ![](/images/sign-2-1024x683.png)
-
 ![](/images/sign-4-1024x683.png)
 
 ---
 
-### Learning Journeys
+#### Learning Journeys
 
 ![](/images/GB%208.jpg)
 ![](/images/GB%209.jpg)
