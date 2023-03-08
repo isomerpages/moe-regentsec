@@ -6,15 +6,15 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA/Modern%20Dance/MODDNBanner%20-%202023.jpg)
 
-#### Teachers-in-charge:  
+#### Teachers-in-charge  
 Mr Yunus B Mohamed  
 Mdm Koh Huey Min  
 Ms Yee Jia Min Josephine
 
-#### Vision:  
+#### Vision 
 All students are passionate in the arts, and able to create and appreciate different dance forms
 
-#### Mission:  
+#### Mission 
 Spread knowledge and appreciation of dance to the school and community as passionate advocates
 
 ![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
@@ -32,6 +32,7 @@ In Regent Modern Dance, we truly believe that anyone can dance. It is not talent
 As our motto so aptly goes, _“Dance with your heart, and your feet will follow”._
 
 ![](/images/CCA/2022%20Modern%20Dance%20Fun.jpg)
+
 ![](/images/CCA/Modern%20Dance/MODDN-1.jpg)
 ![](/images/CCA/Modern%20Dance/MODDN-2.jpg)
 ![](/images/CCA/Modern%20Dance/MODDN-3.jpg)
@@ -44,6 +45,6 @@ As our motto so aptly goes, _“Dance with your heart, and your feet will follo
 
 ---
 
-### Teachers’ Day Performance 2021
+#### Teachers’ Day Performance 2021
 
 (Insert Video - cannot be embedded cos its unlisted)
