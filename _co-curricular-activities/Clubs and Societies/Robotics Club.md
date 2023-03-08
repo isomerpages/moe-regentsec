@@ -6,21 +6,21 @@ third_nav_title: Clubs and Societies
 ---
 ![](/images/CCA/Robotics%20Club/ROBOTBanner%20-%202023.jpg)
 
-#### Teachers-in-charge:  
+#### Teachers-in-charge  
 Mr Mark Chee Kong  
 Ms Crystal Tay Yen Yen
 
-#### Vision:  
+#### Vision  
 To enrich and develop a group of dedicated individuals who display confidence, mental fitness and perseverance in adverse and challenging environments.
 
-#### Mission:   
+#### Mission   
 To nurture individuals to maximise their potential in the field of robotics and engineering.
 
 ![](/images/CCA/2022%20Robotics%20Formal.jpg)
 
 In Robotics, members learn basic and intermediate programming skills to control movements of LEGO Mindstorm/Spike. The students also develop an appreciation for the automation world.
 
-##### Activities:
+#### Activities
 
 *   Hands-on skills involving construction of LEGO Mindstorm/Spike Robots.
 *   Hands-on skills on Drone programming (DJI and Parrots).
