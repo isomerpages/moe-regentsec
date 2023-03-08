@@ -6,20 +6,20 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA/English%20Drama/ELDABanner%20-%202023.jpg)
 
-#### Teachers-in-charge:  
+#### Teachers-in-charge  
 Ms Goh Rui Qi Adeline  
 Ms Lim Hui Min Vanessa  
 Mdm Nor Rashidah
 
-#### Vision:  
+#### Vision  
 To be expressive and creative speakers with a passion for Drama
 
-#### Mission:  
+#### Mission  
 To create awareness of and spread meaningful ideas through productions
 
 Regent’s English Drama aims to empower students with the skills to become expressive and creative speakers with a passion for the arts and drama in Singapore. We also strive to mould our students to be able to create awareness and spread meaningful ideas through drama productions.
 
-Our school activities include:
+#### Activities
 
 *   NAC-AEP Drama Workshops
 *   Improvisation
