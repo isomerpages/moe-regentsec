@@ -4,42 +4,50 @@ permalink: /co-curricular-activities/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/redcrossbanner-scaled.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCYBanner%20-%202023.jpg)
 
-#### Teachers-in-Charge:  
-Ms Rachel Lau  
-Mr Shawn Hong  
-Ms Natalie Soong
+#### Teachers-in-Charge  
+Mr  Shawn Hong Yang  
+Ms Rachel Lau Hui En  
+Mr Lim Wenhao Joshua Augustine
 
-#### Vision:  
+#### Vision  
 Every cadet a confident and competent youth leader in service to the community.
 
-#### Mission:  
+#### Mission 
 To uphold the values of compassion, passion, and professionalism as members of Singapore’s Red Cross Youth.
 
-![](/images/Banner-Photo_Red-Cross-Youth-Formal-scaled.jpg)
+![](/images/CCA/2022%20Red%20Cross%20Formal.jpg)
 
-At Regent Red Cross Youth, we strive to instil a spirit of compassion and dedication in our cadets, and empower them to become confident leaders of tomorrow with a strong service ethos.
+#### About Us
+
+At Regent Red Cross Youth, we strive to instil a spirit of compassion and dedication in our cadets, and empower them to become confident leaders of tomorrow with a strong service ethos
 
 Through their four years with Regent Red Cross Youth, cadets will:
 
 *   Acquire essential life-saving and disaster management skills
 *   Develop key leadership competencies and organisational skills
-*   Engage in a wide range of local community service and overseas humanitarian projects
+*   Engage in a wide range of local community service and overseas humanitarian projectse in a wide range of local community service and overseas humanitarian projects
 
-#### Achievements:
+#### Achievements
 
-*   Excellent Unit Award (Gold) – 2018, 2019
-*   Disaster Risk Reduction Championship (Silver) – 2021
-*   Ambassadors of Blood Competition (Silver & Bronze) – 2021
-*   First Aid Championship (Junior Awareness Category) (Silver) – 2020
-*   First Aid Championship (Senior & Junior) (Gold) – 2019
-*   Trailblazers Competition (Gold) – 2019, 2020
-*   RCY Director’s Award
-    *   2021: Lydia Lee En Xuan
-    *   2020: Jasnita Binte Mohammad Firdaus
-    *   2019: Tang Fu Gui
-    *   2018: Destya Kusuma Roem
+* Excellent Unit Award (2018 – 2021) : **Gold**
+* RCY Director’s Award  
+	* 2022 : **WO Chua Kong Chuan**
+	* 2021 : **WO Lydia Lee En Xuan**
+	* 2020 : **WO Jasnita Binte Mohammad Firdaus**
+	* 2019 : **WO Tang Fu Gui**
+	* 2018 : **WO Destya Kusuma Roem**
+* First Aid Championships
+	* 2022 : **Gold & Commendation Award**
+	* 2020 – 2021 : **Silver**
+	* 2019 : **Gold**
+* Trailblazers Championships
+	* 2022 : **Silver, Bronze, & Commendation Award**
+	* 2019 & 2020 : **Gold**
+* Ambassadors of Blood Donation Competition (2021 – 2022) : **Silver & Bronze**
+* Disaster Risk Reduction Championships (2021) : **Silver**
+
 
 #### Connect With Us
 
@@ -47,16 +55,11 @@ Stay in touch with us on Instagram ([@regentrcy](https://www.instagram.com/regen
 
 ![](/images/CCA/2022%20Red%20Cross%20Fun.jpg)
 
-![](/images/20200805_164554-2048x996-1-1024x498.jpg)
-
-![](/images/52141441_2285797101443439_7399755479987375364_n-1024x768.jpg)
-
-![](/images/53327664_2175074679489571_2506673586513042569_n-1024x475.jpg)
-
-![](/images/175528647_1973746326100097_568824422961095996_n-1024x1024.jpg)
-
-![](/images/231815416_2875642012765781_7883322282306493039_n-819x1024.jpg)
-
-![](/images/233707263_225461139489017_796377312626119648_n.jpg)
-
-![](/images/234492631_444680213333102_1898007449558686016_n-1024x772.jpg)![](/images/vis-1024x912.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-1.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-2.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-3.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-4.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-5.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-6.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-7.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-8.jpg)
