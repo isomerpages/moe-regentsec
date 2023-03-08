@@ -4,8 +4,6 @@ permalink: /parents-and-partners/For-Parents/moe-financial-assistance-scheme-fas
 description: ""
 third_nav_title: For Parents
 ---
-# **MOE Financial Assistance Scheme (FAS)**
-
 The MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 
 You may also check your eligibility for the MOE FAS via the eligibility calculator available on the MOE Website ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)) before submitting your application.
