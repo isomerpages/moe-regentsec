@@ -6,12 +6,12 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/CCA/Boys%20Brigade/BBBanner%20-%202023.jpg)
 
-#### Teachers-in-charge:  
+#### Teachers-in-charge  
 Ms Sally Sng  
 Mr Sebastian Soo  
 BB Captain: Lt Lim Yu Sheng
 
-#### Vision:  
+#### Vision  
 Every Boy a Mentor to others
 
 The Boys’ Brigade Object seeks to :
@@ -22,7 +22,7 @@ The Boys’ Brigade Object seeks to :
 
 Our motto is Sure and Steadfast.
 
-#### Mission:  
+#### Mission  
 To Nurture Boys to Lead and Serve
 
 ![](/images/CCA/2022%20Boys%20Brigade%20Fun.jpg)
