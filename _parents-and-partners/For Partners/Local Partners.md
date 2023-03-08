@@ -4,9 +4,6 @@ permalink: /parents-and-partners/For-Partners/local-partners/
 description: ""
 third_nav_title: For Partners
 ---
-**Local Partners**
-==============
-
 ### Business Partners
 
 *   Partners include OCBC Bank, JUMBO Group of Restaurants, Singapore Science Centre, Zingrill, Singapore Law Association, Propnex, Jurong Bird Park, Tai Hing Pte Ltd, Far East Orchid Pte Ltd
