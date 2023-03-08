@@ -4,11 +4,12 @@ permalink: /co-curricular-activities/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-![](/images/CCA-Featured-Banner-scaled.jpg)
+![](/images/CCA/Badminton/BMTBanner%20-%202023.jpg)
 
 #### Teachers-in-charge 
 Ms Hap Guilian  
-Mr Kelson Seah
+Mr Koh Eng Huat  
+Mr Kwek Liang Wei Shawn
 
 #### Vision  
 To instill character building through positive competition and to achieve excellence in competitions
