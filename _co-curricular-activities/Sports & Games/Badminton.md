@@ -6,22 +6,20 @@ third_nav_title: Sports & Games
 ---
 ![](/images/CCA-Featured-Banner-scaled.jpg)
 
-Badminton
-=========
-
-**Teachers-in-charge**:  
+#### Teachers-in-charge 
 Ms Hap Guilian  
 Mr Kelson Seah
 
-**CCA Vision**:  
+#### Vision  
 To instill character building through positive competition and to achieve excellence in competitions
 
-**CCA Mission**:  
+#### Mission
 To promote camaraderie, friendship and the development of fitness and health, so that all players may become physically fit, emotionally mature, mentally well and morally upright through Badminton as a sport
 
-![](/images/Badminton-Formal-Ver-2.png)
+![](/images/CCA/2022%20Badminton%20Formal.jpg)
+![](/images/CCA/2022%20Badminton%20Fun.jpg)
 
-#### **Highlights** 
+#### Highlights
 
 Badminton practices are held twice a week at our school’s Indoor Sports Hall. Players are taught various badminton techniques by our coach during training sessions. In addition, physical training activities are incorporated into our sessions. We participated in the ‘B’ and ‘C’ Division (Boys and Girls) West Zone National Inter-School Badminton Championships 2020 and have gained invaluable insight through this experience. We also have friendly matches with other schools to enhance our players’ skills.
 
