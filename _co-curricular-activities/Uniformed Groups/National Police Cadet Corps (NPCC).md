@@ -6,15 +6,15 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/CCA/NPCC/NPCCBanner%20-%202023.jpg)
 
-#### Teachers-in-charge:   
+#### Teachers-in-charge   
 Ms Lydia Li  
 Ms Chua Xin Rong  
 Mr Zulkifllie Bin Abd Razak
 
-#### Vision:  
+#### Vision  
 To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
 
-#### Mission:  
+#### Mission  
 To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
 
 ![](/images/CCA/2022%20NPCC%20Formal.jpg)
