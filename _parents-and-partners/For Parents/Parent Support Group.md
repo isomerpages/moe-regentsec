@@ -6,8 +6,6 @@ third_nav_title: For Parents
 ---
 ![](/images/2018-Banner_PSG-header.jpg)
 
-# **Parent Support Group**
-
 ![](/images/PSG-1024x206.png)
 
 The Parent Support Group (PSG) provides a great opportunity for parents to partner the school to support their children in their education journey, give the children the best educational experience.
