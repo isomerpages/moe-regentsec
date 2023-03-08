@@ -6,14 +6,14 @@ third_nav_title: Clubs and Societies
 ---
 ![](/images/CCA/Design%20and%20Innovation/DESINVBanner%20-%202023.jpg)
 
-#### Teachers-In-Charge:  
+#### Teachers-In-Charge  
 Ms Cheak Yen Hui  
 Ms Aisha Yasmin Binte Abdul Raman
 
-#### Vision:  
+#### Vision  
 Moulding Entrepreneurs of Tomorrow
 
-#### Mission: 
+#### Mission 
 Ignite the entrepreneurship flame in students and grow their awareness of their own entreprenuer skills as well as their strengths and weaknesses
 
 ![](/images/CCA/2022%20Design%20n%20Innovation%20Formal.jpg)
