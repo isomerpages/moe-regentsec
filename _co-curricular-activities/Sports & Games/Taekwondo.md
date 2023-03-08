@@ -28,6 +28,9 @@ As a team, the members of Regent Taekwondo upholds the culture of respect to fun
 *   Annual National Taekwondo Championship.
 *   Annual Taekwondo Camp.
 
+![](/images/CCA/Taekwondo/TKD-10.jpg)
+![](/images/CCA/Taekwondo/TKD-9.jpg)
+
 ![](/images/CCA/Taekwondo/TKD-1.jpg)
 ![](/images/CCA/Taekwondo/TKD-2.jpg)
 ![](/images/CCA/Taekwondo/TKD-8.jpg)
@@ -36,3 +39,4 @@ As a team, the members of Regent Taekwondo upholds the culture of respect to fun
 ![](/images/CCA/Taekwondo/TKD-5.jpg)
 ![](/images/CCA/Taekwondo/TKD-6.jpg)
 ![](/images/CCA/Taekwondo/TKD-7.jpg)
+
