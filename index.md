@@ -54,4 +54,7 @@ sections:
       title: Regent Gallery
       button: click here
       url: https://www.youtube.com/channel/UCMNrgdek_fqR07QP14UL_uA/videos
+  - resources:
+      subtitle: Latest Announcement
+      button: More
 ---
