@@ -2,6 +2,7 @@ collections:
   self-directed-learners:
     output: true
     order:
+      - Graduation Ceremony/Graduation Ceremony.md
       - Graduation Ceremony/Graduation Assembly 2021.md
       - Graduation Ceremony/.keep
       - Academic Programmes.md
