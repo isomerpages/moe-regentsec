@@ -6,7 +6,7 @@ third_nav_title: School Events
 ---
 ![](/images/Festive%20Celebrations.jpg)
 
-### Chinese New Year 2023
+## **Chinese New Year 2023**
 
 Today, Regent ushered in the Lunar New Year of the Rabbit with a hybrid mode of celebrations!
 
@@ -36,7 +36,7 @@ The celebrations concluded with a finale comprising Chinese New Year-themed vide
 
 ---
 
-### Hari Raya Celebrations 2022
+## **Hari Raya Celebrations 2022**
 
 It has been two years our last Hari Raya mass celebrations in school and this year we are grateful for the chance to come together once more to enjoy the festivities celebrated by our Muslim teachers and peers. Nur ‘iliyin binte Joemarino from 4-Respect shares more about her experience of this special event.
 
