@@ -16,20 +16,5 @@ The Cyber Wellness curriculum aims to equip students with life-long social-emoti
 *   Cyber Wellness assembly talks
 *   Cyber Wellness outreach to the community
 
-<img src="/images/Cyber%20Wellness%20Programme/CW1.jpg" 
-     style="width:50%">
-
-<img src="/images/Cyber%20Wellness%20Programme/CW2.jpg" 
-     style="width:50%">
-
-<img src="/images/Cyber%20Wellness%20Programme/CW3.jpg" 
-     style="width:50%">
-
-<img src="/images/Cyber%20Wellness%20Programme/CW4.jpg" 
-     style="width:50%">
-
-<img src="/images/Cyber%20Wellness%20Programme/CW5.jpg" 
-     style="width:50%">
-
-<img src="/images/Cyber%20Wellness%20Programme/CW6.jpg" 
-     style="width:50%">
+![](/images/Cyber%20Wellness%20Programme/CWProg-1.jpg)
+![](/images/Cyber%20Wellness%20Programme/CWProg-2.jpg)
