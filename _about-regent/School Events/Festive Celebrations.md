@@ -6,7 +6,7 @@ third_nav_title: School Events
 ---
 ![](/images/Festive%20Celebrations.jpg)
 
-## Chinese New Year 2023
+### Chinese New Year 2023
 
 Today, Regent ushered in the Lunar New Year of the Rabbit with a hybrid mode of celebrations!
 
@@ -36,7 +36,7 @@ The celebrations concluded with a finale comprising Chinese New Year-themed vide
 
 ---
 
-## Hari Raya Celebrations 2022
+### Hari Raya Celebrations 2022
 
 It has been two years our last Hari Raya mass celebrations in school and this year we are grateful for the chance to come together once more to enjoy the festivities celebrated by our Muslim teachers and peers. Nur ‘iliyin binte Joemarino from 4-Respect shares more about her experience of this special event.
 
@@ -46,24 +46,7 @@ I love the performances because of the different elements of music compiled toge
 
 Personally, I am grateful because it was the first time in two years that all Regenites were able to gather in the school hall once again. It touched my heart as we could finally come together to celebrate Hari Raya as a school once again. I look forward to more celebrations and performances put together for our Regenites in the years to come. Selamat Hari Raya everyone!”
 
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-1.jpg)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-2.jpg)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-3.jpg)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-4.png)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-5.jpg)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-6.jpg)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-7.jpg)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-8.png)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-10.jpg)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-11.png)
-
-![](/images/Hari%20Raya%20Celebration%202022/HariRaya_2022-12.png)
+![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-1.jpg)
+![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-2.jpg)
+![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-3.jpg)
+![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-4.jpg)
