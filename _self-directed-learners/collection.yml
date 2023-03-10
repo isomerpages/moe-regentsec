@@ -2,9 +2,6 @@ collections:
   self-directed-learners:
     output: true
     order:
-      - Graduation Ceremony/Graduation Ceremony 2022.md
-      - Graduation Ceremony/Graduation Assembly 2021.md
-      - Graduation Ceremony/.keep
       - Academic Programmes.md
       - Personalised Digital Learning Programme (PDLP).md
       - Applied Learning Programme (ALP).md
@@ -15,4 +12,7 @@ collections:
       - Overseas Learning Journey/2019.md
       - Overseas Learning Journey/2018.md
       - Early Admissions Exercise Programme (EAE).md
+      - Graduation Ceremony/.keep
+      - Graduation Ceremony/Graduation Ceremony 2022.md
+      - Graduation Ceremony/Graduation Assembly 2021.md
       - Academic Achievements.md
