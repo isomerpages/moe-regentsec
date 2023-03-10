@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-regentsec-staging.netlify.app
 prod: https://moe-regentsec-prod.netlify.app
-resources_name: latest-annoucement
+resources_name: latest-announcement
