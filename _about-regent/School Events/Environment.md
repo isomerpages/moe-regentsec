@@ -4,7 +4,7 @@ permalink: /about-regent/School-Events/Environment/
 description: ""
 third_nav_title: School Events
 ---
-## World Environment Day
+## **World Environment Day**
 
 World Environment Day falls on 5th June 2022. To commemorate this momentous day and do our part for Mother Earth, Regent held an Environment Week starting from 23 to 27 May!
 
@@ -23,7 +23,7 @@ All of us can play a part to protect our Earth by making changes to our lifestyl
 
 ---
 
-## Environmental Science Photography Workshop
+## **Environmental Science Photography Workshop**
 
 In partnership with Canon Imaging Academy and PUB, our Environmental Science CCA attended a Photography Workshop on 27 April 2022.
 
@@ -39,7 +39,7 @@ Seeing our world through the lens of a camera, we often look more critically, ev
 
 ---
 
-## Earth Day
+## **Earth Day**
 
 Have you ever wondered where the waste that we throw goes once it leaves our homes? How knowledgeable are you in sustainable fashion, compost and carbon food print?
 
@@ -54,7 +54,7 @@ Let’s all do our part and invest in our planet to keep it sustainable for futu
 
 ---
 
-## World Water Day 2022
+## **World Water Day 2022**
 
 World Water Day is held annually on 22 March, a day designated by the United Nations (UN) to commemorate the importance of water as a resource for humankind.
 
