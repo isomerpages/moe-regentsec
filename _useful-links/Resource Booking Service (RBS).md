@@ -1,6 +1,6 @@
 ---
 title: Resource Booking Service (RBS)
-permalink: /useful-links/resource-booking-service-rbs
+permalink: /useful-links/resource-booking-service-rbs/
 description: ""
 ---
 ### Resource Booking Service (RBS)

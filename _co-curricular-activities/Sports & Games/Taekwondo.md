@@ -1,6 +1,6 @@
 ---
 title: Taekwondo
-permalink: /co-curricular-activities/Sports-and-Games/taekwondo/
+permalink: /co-curricular-activities/sports-and-games/taekwondo/
 description: ""
 third_nav_title: Sports & Games
 ---

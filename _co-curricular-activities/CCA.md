@@ -13,39 +13,39 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 ### Club and Societies
 
-##### **[Infocomm Technology](/co-curricular-activities/Clubs-and-Societies/infocomm-technology/)**
+##### **[Infocomm Technology](/co-curricular-activities/clubs-and-societies/infocomm-technology/)**
 ![](/images/CCA/2022%20Infocomm%20Formal.jpg)
 
-##### **[Design and Innovation](/co-curricular-activities/Clubs-and-Societies/design-and-innovation/)**
+##### **[Design and Innovation](/co-curricular-activities/clubs-and-societies/design-and-innovation/)**
 ![](/images/CCA/2022%20Design%20n%20Innovation%20Formal.jpg)
 
-##### **[Environmental Science ](/co-curricular-activities/Clubs-and-Societies/environmental-science/)**
+##### **[Environmental Science ](/co-curricular-activities/clubs-and-societies/environmental-science/)**
 ![](/images/CCA/2022%20Environmental%20Science%20Formal.jpg)
 
-##### **[Robotics Club](/co-curricular-activities/Clubs-and-Societies/robotics-club/)**
+##### **[Robotics Club](/co-curricular-activities/clubs-and-societies/robotics-club/)**
 ![](/images/CCA/2022%20Robotics%20Formal.jpg)
 
 
 ### Performing Arts
 
-##### **[Show Choir](/co-curricular-activities/Performing-Arts/choir/)**
+##### **[Show Choir](/co-curricular-activities/performing-arts/choir/)**
 ![](/images/CCA/2022%20Show%20Choir%20Formal.jpg)
 
-##### **[Concert Band](/co-curricular-activities/Performing-Arts/concert-band/)**
+##### **[Concert Band](/co-curricular-activities/performing-arts/concert-band/)**
 ![](/images/CCA/2022%20Concert%20Band%20Formal.jpg)
 
-##### **[English Drama](/co-curricular-activities/Performing-Arts/english-drama/)**
+##### **[English Drama](/co-curricular-activities/performing-arts/english-drama/)**
 ![](/images/CCA/2022%20English%20Drama%20Formal.jpg)
 
-##### **[Modern Dance](/co-curricular-activities/Performing-Arts/modern-dance/)**
+##### **[Modern Dance](/co-curricular-activities/performing-arts/modern-dance/)**
 ![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
 
 ### Uniformed Group
 
-##### **[Boys' Brigade](/co-curricular-activities/Uniformed-Groups/boys-brigade/)**
+##### **[Boys' Brigade](/co-curricular-activities/uniformed-groups/boys-brigade/)**
 ![](/images/CCA/2022%20Boys%20Brigade%20Formal.jpg)
 
-##### **[Girls' Brigade](/co-curricular-activities/Uniformed-Groups/girls-brigade/)**
+##### **[Girls' Brigade](/co-curricular-activities/uniformed-groups/girls-brigade/)**
 ![](/images/CCA/2022%20Girls%20Brigade%20Formal.jpg)
 
 ##### **[National Police Cadet Corp (NPCC)](/co-curricular-activities/Uniformed-Groups/npcc/)**
@@ -56,19 +56,19 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 ### Sports & Games
 
-##### **[Badminton](/co-curricular-activities/Sports-and-Games/badminton/)**
+##### **[Badminton](/co-curricular-activities/sports-and-games/badminton/)**
 ![](/images/CCA/2022%20Badminton%20Formal.jpg)
 
-##### **[Basketball](/co-curricular-activities/Sports-and-Games/basketball/)**
+##### **[Basketball](/co-curricular-activities/sports-and-games/basketball/)**
 ![](/images/CCA/2022%20Basketball%20Formal.jpg)
 
-##### **[Netball](/co-curricular-activities/Sports-and-Games/netball/)**
+##### **[Netball](/co-curricular-activities/sports-and-games/netball/)**
 ![](/images/CCA/2022%20Netball%20Formal.jpg)
 
-##### **[Taekwondo](/co-curricular-activities/Sports-and-Games/taekwondo/)**
+##### **[Taekwondo](/co-curricular-activities/sports-and-games/taekwondo/)**
 ![](/images/CCA/2022%20Taekwondo%20Formal.jpg)
 
-##### **[Football](/co-curricular-activities/Sports-and-Games/football/)**
+##### **[Football](/co-curricular-activities/sports-and-games/football/)**
 ![](/images/CCA/2022%20Football%20Formal.jpg)
 
 ### CCA Highlights

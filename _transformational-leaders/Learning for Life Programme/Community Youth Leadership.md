@@ -1,6 +1,6 @@
 ---
 title: Community Youth Leadership
-permalink: /confident-leaders/Learning-for-Life-Programme/community-youth-leadership/
+permalink: /confident-leaders/learning-for-life-programme/community-youth-leadership/
 description: ""
 third_nav_title: Learning for Life Programme
 ---

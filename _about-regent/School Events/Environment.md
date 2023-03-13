@@ -1,6 +1,6 @@
 ---
 title: Environment
-permalink: /about-regent/School-Events/Environment/
+permalink: /about-regent/school-events/environment/
 description: ""
 third_nav_title: School Events
 ---

@@ -1,6 +1,6 @@
 ---
 title: Festive Celebrations
-permalink: /about-regent/School-Events/festive-celebrations/
+permalink: /about-regent/school-events/festive-celebrations/
 description: ""
 third_nav_title: School Events
 ---

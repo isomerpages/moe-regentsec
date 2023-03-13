@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /about-regent/Vision-Mission-and-Values/school-rules/
+permalink: /about-regent/vision-mission-and-values/school-rules/
 description: ""
 third_nav_title: Vision, Mission & Values
 ---

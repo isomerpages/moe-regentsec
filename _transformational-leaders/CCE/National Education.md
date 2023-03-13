@@ -1,6 +1,6 @@
 ---
 title: National Education
-permalink: /confident-leaders/CCE/ne/
+permalink: /confident-leaders/cce/ne/
 description: ""
 third_nav_title: CCE
 ---

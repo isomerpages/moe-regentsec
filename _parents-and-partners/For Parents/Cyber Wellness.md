@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /parents-and-partners/For-Parents/cyberwellness/
+permalink: /parents-and-partners/for-parents/cyberwellness/
 description: ""
 third_nav_title: For Parents
 ---

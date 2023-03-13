@@ -1,6 +1,6 @@
 ---
 title: Show Choir
-permalink: /co-curricular-activities/Performing-Arts/choir/
+permalink: /co-curricular-activities/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---

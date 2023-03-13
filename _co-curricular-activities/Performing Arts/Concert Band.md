@@ -1,6 +1,6 @@
 ---
 title: Concert Band
-permalink: /co-curricular-activities/Performing-Arts/concert-band/
+permalink: /co-curricular-activities/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---

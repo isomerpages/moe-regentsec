@@ -1,6 +1,6 @@
 ---
 title: Aspirations Programme
-permalink: /confident-leaders/CCE/aspirations-programme/
+permalink: /confident-leaders/cce/aspirations-programme/
 description: ""
 third_nav_title: CCE
 ---

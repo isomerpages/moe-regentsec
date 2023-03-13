@@ -1,6 +1,6 @@
 ---
 title: Haze Updates
-permalink: /useful-links/Safety-Updates/haze-update/
+permalink: /useful-links/safety-updates/haze-update/
 description: ""
 third_nav_title: Safety Updates
 ---

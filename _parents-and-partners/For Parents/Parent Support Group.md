@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /parents-and-partners/For-Parents/parent-support-group/
+permalink: /parents-and-partners/for-parents/parent-support-group/
 description: ""
 third_nav_title: For Parents
 ---

@@ -1,6 +1,6 @@
 ---
 title: Education Tips and Features
-permalink: /parents-and-partners/For-Parents/education-tips-and-features/
+permalink: /parents-and-partners/for-parents/education-tips-and-features/
 description: ""
 third_nav_title: For Parents
 ---

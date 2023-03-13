@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness Programme
-permalink: /confident-leaders/CCE/cyber-wellness-programme/
+permalink: /confident-leaders/cce/cyber-wellness-programme/
 description: ""
 third_nav_title: CCE
 ---

@@ -1,6 +1,6 @@
 ---
 title: NE Commemorations
-permalink: /about-regent/School-Events/ne-commemorations/
+permalink: /about-regent/school-events/ne-commemorations/
 description: ""
 third_nav_title: School Events
 ---
