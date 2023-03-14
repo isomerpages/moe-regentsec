@@ -106,7 +106,7 @@ Click [**here**](https://youtu.be/CwrDSUVT3Zk) to watch the video.
 Click [**here**](https://youtu.be/hlXQWLNT_Ws) to watch the video.
 
 * 📹 **Music Showcase Project 3**  
-Click **[here**](https://youtu.be/8RxiMKXR3Ns) to watch the video.
+Click [**here**](https://youtu.be/8RxiMKXR3Ns) to watch the video.
 
 * 📹 **Music Showcase Project 4**  
 Click [**here**](https://youtu.be/8xLE88W5KWM) to watch the video.
@@ -116,7 +116,7 @@ Students also collaborated in groups to choreograph dance moves, practise and sh
 ![](/images/CCA/Show%20Choir/SHWCHR-6.jpg)
 <center><i>Snapshot of dance session via Zoom</i></center>
 
-* 📹 **e-CCA Dance**  
+📹 **e-CCA Dance**  
 Click [**here**](https://youtu.be/55yHKuAzHsI) to watch the video.
 
 ---
