@@ -127,7 +127,11 @@ Click [**here**](https://youtu.be/55yHKuAzHsI) to watch the video.
 ![](/images/CCA/Show%20Choir/SHWCHR-9.jpg)
 ![](/images/CCA/Show%20Choir/SHWCHR-10.jpg)
 
-* **Show Choir - Sec 1 Dance Training** | Click [here](https://youtu.be/P4dYVlPdzSQ) to watch the video.
-* **Show Choir - Sec 3 Dance Training** | Click [here](https://youtu.be/9VJe0gZBx50) to watch the video.
-* **Show Choir Reasons** | Click [here](https://youtu.be/LuH_OuM2cuQ) to watch the video.
-* **Show Choir 2020** | Click [here](https://youtu.be/H0FNn4ti5sM) to watch the video.
+* 📹 **Show Choir - Sec 1 Dance Training**  
+Click [here](https://youtu.be/P4dYVlPdzSQ) to watch the video.
+* 📹 **Show Choir - Sec 3 Dance Training**  
+Click [here](https://youtu.be/9VJe0gZBx50) to watch the video.
+* 📹 **Show Choir Reasons**  
+Click [here](https://youtu.be/LuH_OuM2cuQ) to watch the video.
+* 📹 **Show Choir 2020**  
+Click [here](https://youtu.be/H0FNn4ti5sM) to watch the video.
