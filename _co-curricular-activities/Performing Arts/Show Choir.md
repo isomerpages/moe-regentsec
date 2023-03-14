@@ -97,7 +97,8 @@ With the onset of COVID-19 pandemic and safe management measures (SMM) in place,
 Enjoy listening to a few samples of students’ singing.
 
 **Music Showcase Project 1**
-(vid need to be uploaded onto YT)
+![](/images/CCA/Show%20Choir/Show%20Choir%20-%20Music%20Showcase%20Project%201_tbn.png) 
+Click [here](https://youtu.be/CwrDSUVT3Zk) to watch the video.
 
 **Music Showcase Project 2**
 (vid need to be uploaded onto YT)
