@@ -3,20 +3,6 @@ title: CCA Achievements
 permalink: /co-curricular-activities/cca-achievements/
 description: ""
 ---
-## 2022 CCA Achievements
+## **2022 CCA Achievements**
 
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_1.jpeg)
-
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_2.jpeg)
-
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_3.jpeg)
-
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_4.jpg)
-
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_5.jpeg)
-
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_6.jpeg)
-
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_7.jpeg)
-
-![](/images/CCA%20Achievements/2022%20CCA%20Achievements_8.jpeg)
+<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxY8cN6qgQLw0-x8whk8g4T42iuv27mV1SjlrSWBNt-IDPjA9fI1JeWszqBEBCjgeaHW9-JC1nSkge/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
