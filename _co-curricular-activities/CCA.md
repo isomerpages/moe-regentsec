@@ -11,67 +11,31 @@ Each CCA has its specific objectives. For instance, Physical Sports (PS) develop
 
 All CCA emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school.
 
-### Club and Societies
+#### **Clubs and Societies**
 
-##### **[Infocomm Technology](/co-curricular-activities/clubs-and-societies/infocomm-technology/)**
-![](/images/CCA/2022%20Infocomm%20Formal.jpg)
+|  |  |  |  |
+| -------- | -------- | -------- | -------- |
+| [Infocomm Technology](/co-curricular-activities/clubs-and-societies/infocomm-technology/)     | [Design and Innovation](/co-curricular-activities/clubs-and-societies/design-and-innovation/)     | [Environmental Science ](/co-curricular-activities/clubs-and-societies/environmental-science/)     | [Robotics Club](/co-curricular-activities/clubs-and-societies/robotics-club/)
 
-##### **[Design and Innovation](/co-curricular-activities/clubs-and-societies/design-and-innovation/)**
-![](/images/CCA/2022%20Design%20n%20Innovation%20Formal.jpg)
+#### **Performing Arts**
 
-##### **[Environmental Science ](/co-curricular-activities/clubs-and-societies/environmental-science/)**
-![](/images/CCA/2022%20Environmental%20Science%20Formal.jpg)
+|  |  |  |  |
+| -------- | -------- | -------- | -------- |
+| [Show Choir](/co-curricular-activities/performing-arts/choir/)     | [Concert Band](/co-curricular-activities/performing-arts/concert-band/)     | [English Drama](/co-curricular-activities/performing-arts/english-drama/)     | [Modern Dance](/co-curricular-activities/performing-arts/modern-dance/) |
 
-##### **[Robotics Club](/co-curricular-activities/clubs-and-societies/robotics-club/)**
-![](/images/CCA/2022%20Robotics%20Formal.jpg)
+#### **Uniformed Group**
 
+|  |  |  |  |
+| -------- | -------- | -------- | -------- |
+| [Boys' Brigade](/co-curricular-activities/uniformed-groups/boys-brigade/)     | [Girls' Brigade](/co-curricular-activities/uniformed-groups/girls-brigade/)     | [National Police Cadet Corp (NPCC)](/co-curricular-activities/Uniformed-Groups/npcc/)     | [Red Cross Youth](/co-curricular-activities/red-cross/)     |
 
-### Performing Arts
+#### **Sports & Games**
 
-##### **[Show Choir](/co-curricular-activities/performing-arts/choir/)**
-![](/images/CCA/2022%20Show%20Choir%20Formal.jpg)
-
-##### **[Concert Band](/co-curricular-activities/performing-arts/concert-band/)**
-![](/images/CCA/2022%20Concert%20Band%20Formal.jpg)
-
-##### **[English Drama](/co-curricular-activities/performing-arts/english-drama/)**
-![](/images/CCA/2022%20English%20Drama%20Formal.jpg)
-
-##### **[Modern Dance](/co-curricular-activities/performing-arts/modern-dance/)**
-![](/images/CCA/2022%20Modern%20Dance%20Formal.jpg)
-
-### Uniformed Group
-
-##### **[Boys' Brigade](/co-curricular-activities/uniformed-groups/boys-brigade/)**
-![](/images/CCA/2022%20Boys%20Brigade%20Formal.jpg)
-
-##### **[Girls' Brigade](/co-curricular-activities/uniformed-groups/girls-brigade/)**
-![](/images/CCA/2022%20Girls%20Brigade%20Formal.jpg)
-
-##### **[National Police Cadet Corp (NPCC)](/co-curricular-activities/Uniformed-Groups/npcc/)**
-![](/images/CCA/2022%20NPCC%20Formal.jpg)
-
-##### **[Red Cross Youth](/co-curricular-activities/red-cross/)**
-![](/images/CCA/2022%20Red%20Cross%20Formal.jpg)
-
-### Sports & Games
-
-##### **[Badminton](/co-curricular-activities/sports-and-games/badminton/)**
-![](/images/CCA/2022%20Badminton%20Formal.jpg)
-
-##### **[Basketball](/co-curricular-activities/sports-and-games/basketball/)**
-![](/images/CCA/2022%20Basketball%20Formal.jpg)
-
-##### **[Netball](/co-curricular-activities/sports-and-games/netball/)**
-![](/images/CCA/2022%20Netball%20Formal.jpg)
-
-##### **[Taekwondo](/co-curricular-activities/sports-and-games/taekwondo/)**
-![](/images/CCA/2022%20Taekwondo%20Formal.jpg)
-
-##### **[Football](/co-curricular-activities/sports-and-games/football/)**
-![](/images/CCA/2022%20Football%20Formal.jpg)
+|  |  |  |  |  |
+| -------- | -------- | -------- | -------- | -------- |
+| [Badminton](/co-curricular-activities/sports-and-games/badminton/)     | [Basketball](/co-curricular-activities/sports-and-games/basketball/)     | [Football](/co-curricular-activities/sports-and-games/football/)  |
+[Netball](/co-curricular-activities/sports-and-games/netball/)    | [Taekwondo](/co-curricular-activities/sports-and-games/taekwondo/)   | 
 
 ### CCA Highlights
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7qrqtHoB-aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-(yt video cannot be embedded)
+Click [**here**](https://youtu.be/_Xcdl-ea4dM) to watch CCA Highlights video.
