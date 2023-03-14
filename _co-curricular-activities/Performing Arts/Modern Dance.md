@@ -47,4 +47,5 @@ As our motto so aptly goes, _“Dance with your heart, and your feet will follo
 
 #### Teachers’ Day Performance 2021
 
-(Insert Video - cannot be embedded cos its unlisted)
+![](/images/CCA/Modern%20Dance/Teachers'%20Day%20-%20Modern%20Dance_YT.png)
+Click [here](https://youtu.be/TMqu2Y-x_jU) to watch the video. 
