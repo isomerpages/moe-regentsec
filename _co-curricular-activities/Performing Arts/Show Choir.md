@@ -96,26 +96,23 @@ With the onset of COVID-19 pandemic and safe management measures (SMM) in place,
 
 Enjoy listening to a few samples of students’ singing.
 
-**Music Showcase Project 1**
-![](/images/CCA/Show%20Choir/Show%20Choir%20-%20Music%20Showcase%20Project%201_tbn.png) 
-Click [here](https://youtu.be/CwrDSUVT3Zk) to watch the video.
+![](/images/CCA/Show%20Choir/SHWCHR-11.jpg)
+<center><i>Snapshot of virtual choir projects via Soundtrap</i></center>
 
-**Music Showcase Project 2**
-(vid need to be uploaded onto YT)
+* **Music Showcase Project 1** | Click [here](https://youtu.be/CwrDSUVT3Zk) to watch the video.
 
-**Music Showcase Project 3**
-(vid need to be uploaded onto YT)
+* **Music Showcase Project 2** | Click [here](https://youtu.be/hlXQWLNT_Ws) to watch the video.
 
-**Music Showcase Project 4**
-(vid need to be uploaded onto YT)
+* **Music Showcase Project 3** | Click [here](https://youtu.be/8RxiMKXR3Ns) to watch the video.
+
+* **Music Showcase Project 4** | Click [here](https://youtu.be/8xLE88W5KWM) to watch the video.
 
 Students also collaborated in groups to choreograph dance moves, practise and showcase their dancing skills. Do enjoy the recording of their dance via Zoom.
 
 ![](/images/CCA/Show%20Choir/SHWCHR-6.jpg)
-<center>Snapshot of dance session via Zoom</center>
+<center><i>Snapshot of dance session via Zoom</i></center>
 
-The e-CCA Dance video:
-(unable to embed YT video bc its unlisted)
+* **e-CCA Dance** | Click [here](https://youtu.be/55yHKuAzHsI) to watch the video.
 
 ---
 #### **Past Events**
