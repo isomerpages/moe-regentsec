@@ -122,4 +122,4 @@ Students also collaborated in groups to choreograph dance moves, practise and sh
 ![](/images/CCA/Show%20Choir/SHWCHR-9.jpg)
 ![](/images/CCA/Show%20Choir/SHWCHR-10.jpg)
 
-(4 videos to be uploaded on YT)
+* **Show Choir - Sec 1 Dance Training** | Click [here](https://youtu.be/P4dYVlPdzSQ) to watch the video.
