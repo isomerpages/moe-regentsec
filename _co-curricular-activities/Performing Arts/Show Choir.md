@@ -70,8 +70,8 @@ Audio recording of “Shine Like Stars”
 
 ![](/images/CCA/Show%20Choir/SHWCHR-2.jpg)
 
-The music video: 
-(need to upload on YT)
+**Show Choir - Shine Like Stars**  
+Click [**here**](https://youtu.be/jsTwxfiJ5wE) to watch 'Show Choir - Shine Like Stars' music video.
 
 #### Marsiling-Yew Tee GRC National Day Celebrations 2021
 
@@ -99,20 +99,25 @@ Enjoy listening to a few samples of students’ singing.
 ![](/images/CCA/Show%20Choir/SHWCHR-11.jpg)
 <center><i>Snapshot of virtual choir projects via Soundtrap</i></center>
 
-* **Music Showcase Project 1** | Click [here](https://youtu.be/CwrDSUVT3Zk) to watch the video.
+* **Music Showcase Project 1**  
+Click [here](https://youtu.be/CwrDSUVT3Zk) to watch the video.
 
-* **Music Showcase Project 2** | Click [here](https://youtu.be/hlXQWLNT_Ws) to watch the video.
+* **Music Showcase Project 2**  
+Click [here](https://youtu.be/hlXQWLNT_Ws) to watch the video.
 
-* **Music Showcase Project 3** | Click [here](https://youtu.be/8RxiMKXR3Ns) to watch the video.
+* **Music Showcase Project 3**  
+Click [here](https://youtu.be/8RxiMKXR3Ns) to watch the video.
 
-* **Music Showcase Project 4** | Click [here](https://youtu.be/8xLE88W5KWM) to watch the video.
+* **Music Showcase Project 4**  
+Click [here](https://youtu.be/8xLE88W5KWM) to watch the video.
 
 Students also collaborated in groups to choreograph dance moves, practise and showcase their dancing skills. Do enjoy the recording of their dance via Zoom.
 
 ![](/images/CCA/Show%20Choir/SHWCHR-6.jpg)
 <center><i>Snapshot of dance session via Zoom</i></center>
 
-* **e-CCA Dance** | Click [here](https://youtu.be/55yHKuAzHsI) to watch the video.
+* **e-CCA Dance**  
+Click [here](https://youtu.be/55yHKuAzHsI) to watch the video.
 
 ---
 #### **Past Events**
