@@ -34,13 +34,11 @@ Like us on Regent Secondary School’s Facebook page [https://www.facebook.com/
 ##### **Ex Regenite Graduates with an Honours Degree**
 
 
-_Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Buisness Management and Accontancy under the University Scholars Programme. He is working with Visa as a buisness consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements._
+_Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Buisness Management and Accountancy under the University Scholars Programme. He is working with Visa as a business consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements._
 
-Click on the Newspaper Article’s below to view the achievement which was published in the Lianhe Wanbao
+Click 📰 [Newspaper Article 1](/files/Randy.pdf) to view the achievement which was published in the Lianhe Wanbao
 
-[Newspaper Article 1](/files/Randy.pdf)
-
-“Source:\[Lianhe Wanbao\] © Singapore Press Holdings Limited. Permission required for reproduction”.
+“Source: \[Lianhe Wanbao\] © Singapore Press Holdings Limited. Permission required for reproduction”.
 
 ##### Republic Polytechnic Graduate 
 ![](/images/RP-Grad-Former_12_09_17-e1505192740467.png)
@@ -74,7 +72,7 @@ Click on the Newspaper Article’s below to view the achievement which was publi
 
 ![](/images/rachel-768x768.jpg)
 
-(video need to be uploaded on YT)
+📹 Click [**here**](https://youtu.be/9Fd9I2U06Ko) to watch the video of Lee Hsien Loong Award recipient Rachael Lum.
 
 Edmund Ang Jun Yan studied Diploma of Material Science (School of Applied Science) and has awarded Republic Award
 
