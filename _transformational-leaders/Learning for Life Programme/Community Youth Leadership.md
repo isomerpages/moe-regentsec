@@ -8,7 +8,7 @@ Youths are regarded as the future leaders of society as they possess enormous an
 
 The Student Leadership programme equips our students with the attitude, knowledge and Communication, Action Management and Facilitation skills in either the classroom setting, the CCA or in the Student Council to lead self, peers and community. The Values-in-Action (VIA) programme provides our students with the platforms and opportunities to take action to reach out and make a difference in the school and community.These include cohort-wide programmes to develop the students’ understanding of leadership principles and communication skills to equip them to become confident leaders who are able to lead themselves and others:
 
-##### **Sec 1: Readers’ Theatre and Leadership Workshops** 
+#### **Sec 1: Readers’ Theatre and Leadership Workshops** 
 
 **Readers’ Theatre**
 
@@ -19,7 +19,7 @@ The Student Leadership programme equips our students with the attitude, knowledg
 
 *   The leadership workshops focus on highlighting fundamental principles of Servant Leadership and provides opportunities for students to know themselves.
 
-##### **Sec 2: Speech & Drama and Leadership Workshops** 
+#### **Sec 2: Speech & Drama and Leadership Workshops** 
 
 **Speech & Drama** 
 
@@ -31,7 +31,7 @@ The Student Leadership programme equips our students with the attitude, knowledg
 
 *   The leadership workshops focus on highlighting fundamental principles of Servant Leadership and provides opportunities for the students to understand more about team dynamics and how to give feedback constructively to their peers. 
 
-##### **Sec 3: Public Speaking Programme** 
+#### **Sec 3: Public Speaking Programme** 
 
 *   The Public Speaking programme aims to develop skills for the students to prepare and deliver speeches and engage in conversations with a large audience. 
 *   They will also gain greater awareness of current and global affairs and increased self-awareness and self-confidence skills.
