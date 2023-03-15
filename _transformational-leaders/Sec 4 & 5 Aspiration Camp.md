@@ -3,7 +3,7 @@ title: Sec 4 & 5 Aspiration Camp
 permalink: /confident-leaders/aspirations-day-2021/
 description: ""
 ---
-## Aspirations Day 2022
+## **Aspirations Day 2022**
 
 Walt Disney once said, ‘All our dreams can come true, if we have the courage to pursue them.’ Indeed, our Secondary Four and Five students took a step closer towards pursuing their aspirations with the exciting array of industry and career talks on Regent’s Aspirations Day, held recently on 16 March!
 
