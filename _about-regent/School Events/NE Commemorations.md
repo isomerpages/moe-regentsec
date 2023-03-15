@@ -4,7 +4,7 @@ permalink: /about-regent/school-events/ne-commemorations/
 description: ""
 third_nav_title: School Events
 ---
-## Total Defence Day
+## **Total Defence Day**
 
 Over the course of the past two weeks, Regent Secondary School commemorated Total Defence Day 2021. Some of the activities that our students were involved in include a pop-up display showing the Total Defence Puzzle, which showcases the many items that the public can do to put Total Defence in action. Our Uniformed Groups cadets also came into action, conducting lessons which imbue skills and knowledge such as First Aid to the whole school, as well as putting up a parade to demonstrate their commitment to Total Defence. Students in school were also involved in the “Find the Suspicious Package” Activity, which aimed to hone students’ vigilance in looking out for dubious items which looked out of place. To cap off the whole series of activities, the school invited several veteran SAF soldiers and NSmen to share their experiences with the school via Zoom. These engaging speakers took the opportunity to impart valuable lessons about how Total Defence can aid Singapore in its fight against Covid-19, as well as how National Service serves as a strong pillar of defence for Singapore. Overall, these whole suite of activities served to educate our students about Total Defence, and how “together, we keep Singapore strong!”
 
@@ -18,7 +18,7 @@ Over the course of the past two weeks, Regent Secondary School commemorated Tota
 
 ---
 
-## International Friendship Day
+## **International Friendship Day**
 
 In the month of April, we celebrated International Friendship Day (IFD) at Regent Secondary School! The theme for this year’s IFD is “Singapore in the World”. From 5th to 9th April, students took part in various activities such as learning about Singapore’s relations with countries around us during our morning assembly programme as well as understanding more about COVAX and Singapore’s contributions to the world during CCE lessons. Our Upper Secondary students have also prepared information sheets to educate their juniors about COVAX. Through this CCE-IFD lesson, students are more aware of the need for countries to offer practical help in ensuring the world is a safer place for all humanity.
 
@@ -32,7 +32,7 @@ Our NE Ambassadors have also been hard at work. On International Friendship Day,
 
 ![](/images/International-Friendship-Day-4.jpg)
 
-## Racial Harmony Day
+## **Racial Harmony Day**
 
 Our teachers and students donned colourful ethnic costumes to commemorate this special day which marked the importance of maintaining racial and religious harmony in Singapore’s multi-ethnic and multicultural society. With this year’s Racial Harmony Day theme being ‘Common Spaces, Connected Communities’, our group of teachers from the National Education Committee planned meaningful activities to encourage our students to understand the importance of common spaces in Singapore and how such spaces foster cohesion and harmony. A key highlight was the rich discussion in each class about their positive experiences with different ethnic groups. Students had fun sharing their memorable moments with their classmates, while maintaining safe distancing.
 
@@ -44,7 +44,7 @@ Our teachers and students donned colourful ethnic costumes to commemorate this s
 
 ![](/images/Racial-Harmony-Day-4.jpg)
 
-## National Day
+## **National Day**
 
 #### Together Our Singapore Spirit
 
