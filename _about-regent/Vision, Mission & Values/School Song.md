@@ -4,7 +4,7 @@ permalink: /about-regent/vision-mission-and-values/regent-sec-school-song/
 description: ""
 third_nav_title: Vision, Mission & Values
 ---
-### **Blaze Forth to Glory**
+## **Blaze Forth to Glory**
 
 Lyrics by Mrs Aslinah Shariff & Mr Gerard Nonis
 
