@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 #### Teachers-in-charge  
 Ms Nur Zahidah  
-Ms Jillyan Siow
+Ms Jillyan Siow  
 Mdm Malathi Murugesan
 
 #### Vision  
@@ -40,8 +40,8 @@ Under the baton of Mr Nigel Leong and Ms Ng Siang Yee, the Regent Concert Band a
 
 **To know more about us, follow us on our social medias!**
 
-**_Twitter: @rgtwindsymphony_**  
-**_Youtube channel: rgtwindsymphony_**
+***Twitter: [@rgtwindsymphony](https://twitter.com/rgtwindsymphony)***  
+***Youtube channel: [rgtwindsymphony](https://www.youtube.com/@regentwindsymphony9217)***
 
 ![](/images/CCA/Concert%20Band/BAND-1.jpg)
 ![](/images/CCA/Concert%20Band/BAND-2.jpg)
