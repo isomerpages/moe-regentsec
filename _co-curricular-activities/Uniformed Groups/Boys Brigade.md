@@ -48,7 +48,9 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | 11     | BB Cycling cum Expedition on 29th Oct |
 | 12     | BB Awards and Promotion Ceremony on 19th Nov |
 
-(BB NDP video to upload on YT)
+📹 **BB at National Day Parade 2022**  
+Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
+
 
 ![](/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg)<center>BB 91st Company</center>
 
@@ -78,7 +80,7 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 #### Past Activities
 
 ![](/images/The-91st-BB-Company-1350x899.jpg)
-<center>The 91st BB Company – Regent Secondary School</center>
+<center><i>The 91st BB Company – Regent Secondary School</i></center>
 
 ![](/images/BB%2012.jpg)
 ![](/images/BB%2013.jpg)
