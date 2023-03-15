@@ -38,4 +38,4 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 ### CCA Highlights
 
-Click [**here**](https://youtu.be/_Xcdl-ea4dM) to watch CCA Highlights video.
+📹 Click [**here**](https://youtu.be/_Xcdl-ea4dM) to watch CCA Highlights video.
