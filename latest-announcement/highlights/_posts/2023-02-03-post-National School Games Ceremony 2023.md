@@ -16,3 +16,6 @@ The ceremony culminated with the presentation of the school jerseys by our Princ
 
 We would like to wish our Sports and Games CCAs the very best as they compete in this year’s National School Games. May they “Blaze Forth To Glory”!
 
+![](/images/Highlights%20Post/NSGCeremony2023-1.jpg)
+![](/images/Highlights%20Post/NSGCeremony2023-2.jpg)
+![](/images/Highlights%20Post/NSGCeremony2023-3.jpeg)
