@@ -4,10 +4,8 @@ permalink: /self-directed-learners/graduation-ceremony-2022/
 description: ""
 third_nav_title: Graduation Ceremony
 ---
-
-
 ![](/images/Graduation%20Ceremony/School%20Sec%204%20Banner-3_downscale.jpg)
-## Graduation Ceremony 2022
+## **Graduation Ceremony 2022**
 
 Part of the journey is the end.
 
