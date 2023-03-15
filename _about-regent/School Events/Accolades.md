@@ -39,6 +39,9 @@ Thank you, NWDC, for the recognition, and our heartiest congratulations to Regen
 
 We are pleased to announce that our National Police Cadet Corps (NPCC) unit has clinched the Gold Unit Overall Proficiency Award (UOPA) for the year 2021! The UOPA is awarded to school units each year to promote excellence and proficiency at all levels. Thanks to the hard work and “heart work” of its cadets and officers, the Regent NPCC unit has been able rise above the challenges brought about by the pandemic, and to uphold its exceptional track record of robust and spirited training sessions. As unit leaders Staff Sergeants Eason and Farahin shared, “Our NPCC unit has worked hard by persevering together, and we have all demonstrated the NPCC values as a unit. We are grateful and proud that we have achieved this award together. May we continue to strive for greater heights!”
 
+![](/images/School%20Events/Accolades/NPCCUOPA2021-1.jpg)
+![](/images/School%20Events/Accolades/NPCCUOPA2021-2.jpg)
+
 ---
 
 ## **‘O’ Level Examination Results Release 2022**
@@ -55,19 +58,30 @@ Think Opportunities as you chart your next lap.
 
 We congratulate the batch of 2021 for their achievements and we wish them all the best as they go on to seek and climb greater heights.
 
+![](/images/School%20Events/Accolades/OLvlResults2021-1.jpg)
+![](/images/School%20Events/Accolades/OLvlResults2021-2.jpg)
+
 ---
 
 ## **School Green Awards 2021**
 
+![](/images/School%20Events/Accolades/SchGreenAwards2021-1.jpeg)
+![](/images/School%20Events/Accolades/SchGreenAwards2021-2.jpeg)
+
 We are proud to announce that Regent Secondary School has achieved the Yellow Flame Award at the School Green Awards 2021!
 
 Guided by our mission to equip all students and staff to become responsible advocates of the environment, Regent’s environmental programmes seek to promote good environmental habits and involve the wider community in environmental efforts. This year, our school’s project focused on upcycling as a way to “be the change” in working towards sustainable living through conserving resources.
+
+![](/images/School%20Events/Accolades/SchGreenAwards2021-3.jpg)
+![](/images/School%20Events/Accolades/SchGreenAwards2021-4.jpeg)
 
 This year, our students from the Environmental Sciences Club led the school-wide effort to turn used items into new products, including mask holders, tote bags, and coin banks. Ongoing recycling and energy-saving efforts have also helped us become a greener school. Through this, we have effected a positive environmental impact in our school and community. Let’s continue to do our part for the environment!
 
 ---
 
 ## **Accolades from Regent Red Cross Youth**
+
+![](/images/School%20Events/Accolades/RCY-Accolades_30-July.png)
 
 Our Regent Red Cross Youth cadets recently participated in two inter-school competitions organised by the Singapore Red Cross Youth.
 
