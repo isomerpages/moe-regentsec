@@ -3,7 +3,7 @@ title: Academic Programmes
 permalink: /self-directed-learners/academic-programmes/
 description: ""
 ---
-## Student Sign-Up Learning (SSUL)
+## **Student Sign-Up Learning (SSUL)**
 
 In Regent, one of the ways students demonstrate self-directedness is by taking pride in their learning and actively approaching their teachers for consultation sessions to clarify their doubts through the Student Sign-Up Learning (SSUL) approach. Students will take the initiative to ask questions and monitor their progress in learning.
 
@@ -11,7 +11,7 @@ In Regent, one of the ways students demonstrate self-directedness is by taking p
 
 ---
 
-## Enhancing Student Learning Experiences
+## **Enhancing Student Learning Experiences**
 
 Use of learner centred pedagogy creates opportunities for teachers to enhance our student learning experiences.
 
