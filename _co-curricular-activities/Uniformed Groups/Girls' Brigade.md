@@ -32,13 +32,11 @@ Every Girl in the Explorer’s Programme will:
 
 ![](/images/CCA/2022%20Girls%20Brigade%20Fun.jpg)
 
-**Newsletter - Term 1**
+📖 **Newsletter - Term 1**  
+Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 1**](https://www.scribd.com/document/539968074/Girls-Brigade-Regent-81st-Termly-Newsletter-Term-1)
 
-Click on this link to view [Girls Brigade Regent 81st Termly Newsletter Term 1](https://www.scribd.com/document/539968074/Girls-Brigade-Regent-81st-Termly-Newsletter-Term-1)
-
-**Newsletter - Term 2**
-
-Click on this link to view [Girls Brigade Regent 81st Termly Newsletter Term 2](https://www.scribd.com/document/539968073/Girls-Brigade-Regent-81st-Termly-Newsletter-Term-2)
+📖 **Newsletter - Term 2**  
+Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 2**](https://www.scribd.com/document/539968073/Girls-Brigade-Regent-81st-Termly-Newsletter-Term-2)
 
 ---
 
