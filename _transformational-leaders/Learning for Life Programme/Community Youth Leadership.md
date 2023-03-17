@@ -39,10 +39,8 @@ The Student Leadership programme equips our students with the attitude, knowledg
 
 The Head, Heart and Hands process is adopted to provide students with opportunities to develop their leadership potential and cater to students’ needs, interests and talents. The ‘Head’ element provides formal, informal and service-learning training for all students. In 2019, Student Leaders have participated in Hwa Chong Integrated Leadership Boarding Programme, Leadership Training Camp @ Keat Hong and North West Youth Assembly Programme – Young Leaders’ Camp. The ‘Hands’ element provides students with the opportunities in both instructional and co-curricular programmes so that students can gain experience in leading others. For example, students are involved in the North West Community Development programmes such as Care & Repair, Silver Care and Reduce @ North West programmes as well as engaging the seniors in the Lions Befrienders and the Fei Yue Senior Activity Centre. The ‘Heart’ element seeks to provide feedback to students on their leadership development and enables them to reflect deeply on their role as leaders.
 
-![](/images/Community%20Youth%20Leadership/Youth%20Community%20Programme.jpg)
-
-![](/images/Community%20Youth%20Leadership/Youth%20Community%20Programme%201.jpg)
-
-![](/images/Community%20Youth%20Leadership/Youth%20Community%20Programme%202.jpg)
-
-![](/images/Community%20Youth%20Leadership/Youth%20Community%20Programme%203.jpg)
+![](/images/Community%20Youth%20Leadership/CYL-1.jpg)
+![](/images/Community%20Youth%20Leadership/CYL-2.jpg)
+![](/images/Community%20Youth%20Leadership/CYL-3.jpg)
+![](/images/Community%20Youth%20Leadership/CYL-4.jpg)
+![](/images/Community%20Youth%20Leadership/CYL-5.jpg)
