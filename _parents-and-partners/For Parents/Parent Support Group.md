@@ -14,7 +14,7 @@ Do join us by registering via this **[link](https://forms.gle/osqwqBwsAHDpzpsW7
 
 Alternatively, scan the QR code below:
 
-<img src="/images/QRCODEPSG.png" 
+<img src="/images/For%20Parents/QRCODEPSG.png" 
      style="width:25%">
 		 
 In Regent, the PSG partners and supports the school by volunteering 3 Ts:
