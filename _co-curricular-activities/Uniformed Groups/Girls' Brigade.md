@@ -41,38 +41,39 @@ Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 2**](https://w
 ---
 
 #### Fun Camp (March)
-![](/images/GB%201.jpg)
-![](/images/GB%202.jpg)
-![](/images/GB%203.jpg)
-![](/images/GB%204.jpg)
-![](/images/GB%205.jpg)
-![](/images/GB%206.jpg)
-![](/images/GB%207.jpg)
-![](/images/IMG-20210227-WA0001-768x1024.jpg)
+![](/images/CCA/Girls%20Brigade/GB%201.jpg)
+![](/images/CCA/Girls%20Brigade/GB%201.jpg)
+![](/images/CCA/Girls%20Brigade/GB%202.jpg)
+![](/images/CCA/Girls%20Brigade/GB%203.jpg)
+![](/images/CCA/Girls%20Brigade/GB%204.jpg)
+![](/images/CCA/Girls%20Brigade/GB%205.jpg)
+![](/images/CCA/Girls%20Brigade/GB%206.jpg)
+![](/images/CCA/Girls%20Brigade/GB%207.jpg)
+![](/images/CCA/Girls%20Brigade/IMG-20210227-WA0001-768x1024.jpg)
 
 ---
 
 #### Low Guat Tin Challenge
 
-![](/images/WhatsApp-Image-2021-11-16.jpeg)
-![](/images/WhatsApp-Image-2021-11-16-2.jpeg)
-![](/images/WhatsApp-Image-2021-11-16-3.jpeg)
-![](/images/WhatsApp-Image-2021-11-16-4.jpeg)
-<img src="/images/LGT-Trophy.png" 
+![](/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16.jpeg)
+![](/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-2.jpeg)
+![](/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-3.jpeg)
+![](/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-4.jpeg)
+<img src="/images/CCA/Girls%20Brigade/LGT-Trophy.png" 
      style="width:50%">
 
 ---
 
 #### Learning New Skills (Sign Language)
 
-![](/images/sign-2-1024x683.png)
-![](/images/sign-4-1024x683.png)
+![](/images/CCA/Girls%20Brigade/sign-2-1024x683.png)
+![](/images/CCA/Girls%20Brigade/sign-4-1024x683.png)
 
 ---
 
 #### Learning Journeys
 
-![](/images/GB%208.jpg)
-![](/images/GB%209.jpg)
-![](/images/GB%2010.jpg)
-![](/images/GB%2011.jpg)
+![](/images/CCA/Girls%20Brigade/GB%208.jpg)
+![](/images/CCA/Girls%20Brigade/GB%209.jpg)
+![](/images/CCA/Girls%20Brigade/GB%2010.jpg)
+![](/images/CCA/Girls%20Brigade/GB%2011.jpg)
