@@ -4,11 +4,11 @@ permalink: /self-directed-learners/graduation-ceremony/graduation-assembly-2021/
 description: ""
 third_nav_title: Graduation Ceremony
 ---
-![](/images/Cohort-Banner-1024x424.jpg)
+![](/images/Graduation%20Ceremony/Cohort-Banner-1024x424.jpg)
 
 ## **Happy Graduation to the Class of 2021!**
 
-![](/images/Grad-photo-1024x768.jpg)
+![](/images/Graduation%20Ceremony/Grad-photo-1024x768.jpg)
 
 The Class of 2021 has conquered many challenges that came their way.
 
@@ -18,4 +18,4 @@ We welcome them as new members of our alumni and to the Class of 2021, we wish y
 
 Blaze forth to glory!
 
-![](/images/grad-crest-1024x890.jpg)
+![](/images/Graduation%20Ceremony/grad-crest-1024x890.jpg)
