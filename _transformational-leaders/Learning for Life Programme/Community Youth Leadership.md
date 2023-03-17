@@ -44,3 +44,4 @@ The Head, Heart and Hands process is adopted to provide students with opportunit
 ![](/images/Community%20Youth%20Leadership/CYL-3.jpg)
 ![](/images/Community%20Youth%20Leadership/CYL-4.jpg)
 ![](/images/Community%20Youth%20Leadership/CYL-5.jpg)
+![](/images/Community%20Youth%20Leadership/CYL-6.jpg)
