@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/regent sec.gif
       key_highlights:
         - title: NKF School Outreach Programme
           description: ""
