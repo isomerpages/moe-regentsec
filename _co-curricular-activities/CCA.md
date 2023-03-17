@@ -15,26 +15,25 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Infocomm Technology](/co-curricular-activities/clubs-and-societies/infocomm-technology/)     | [Design and Innovation](/co-curricular-activities/clubs-and-societies/design-and-innovation/)     | [Environmental Science ](/co-curricular-activities/clubs-and-societies/environmental-science/)     | [Robotics Club](/co-curricular-activities/clubs-and-societies/robotics-club/)
+| [**Infocomm Technology**](/co-curricular-activities/clubs-and-societies/infocomm-technology/) | [**Design and Innovation**](/co-curricular-activities/clubs-and-societies/design-and-innovation/) | [**Environmental Science**](/co-curricular-activities/clubs-and-societies/environmental-science/) | [**Robotics Club**](/co-curricular-activities/clubs-and-societies/robotics-club/)
 
 #### **Performing Arts**
 
 |  |  |  |  |
-| -------- | -------- | -------- | -------- |
-| [Show Choir](/co-curricular-activities/performing-arts/choir/)     | [Concert Band](/co-curricular-activities/performing-arts/concert-band/)     | [English Drama](/co-curricular-activities/performing-arts/english-drama/)     | [Modern Dance](/co-curricular-activities/performing-arts/modern-dance/) |
+| -------- | -------- | -------- | ------- |
+| [**Show Choir**](/co-curricular-activities/performing-arts/choir/) | [**Concert Band**](/co-curricular-activities/performing-arts/concert-band/) | [**English Drama**](/co-curricular-activities/performing-arts/english-drama/) | [**Modern Dance**](/co-curricular-activities/performing-arts/modern-dance/) |
 
 #### **Uniformed Group**
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [Boys' Brigade](/co-curricular-activities/uniformed-groups/boys-brigade/)     | [Girls' Brigade](/co-curricular-activities/uniformed-groups/girls-brigade/)     | [National Police Cadet Corp (NPCC)](/co-curricular-activities/Uniformed-Groups/npcc/)     | [Red Cross Youth](/co-curricular-activities/red-cross/)     |
+| [**Boys' Brigade**](/co-curricular-activities/uniformed-groups/boys-brigade/) | [**Girls' Brigade**](/co-curricular-activities/uniformed-groups/girls-brigade/) | [**National Police Cadet Corp (NPCC)**](/co-curricular-activities/Uniformed-Groups/npcc/) | [**Red Cross Youth**](/co-curricular-activities/red-cross/) |
 
 #### **Sports & Games**
 
 |  |  |  |  |  |
 | -------- | -------- | -------- | -------- | -------- |
-| [Badminton](/co-curricular-activities/sports-and-games/badminton/)     | [Basketball](/co-curricular-activities/sports-and-games/basketball/)     | [Football](/co-curricular-activities/sports-and-games/football/)  |
-[Netball](/co-curricular-activities/sports-and-games/netball/)    | [Taekwondo](/co-curricular-activities/sports-and-games/taekwondo/)   | 
+| [**Badminton**](/co-curricular-activities/sports-and-games/badminton/) | [**Basketball**](/co-curricular-activities/sports-and-games/basketball/) | [**Football**](/co-curricular-activities/sports-and-games/football/) |[**Netball**](/co-curricular-activities/sports-and-games/netball/) |[**Taekwondo**](/co-curricular-activities/sports-and-games/taekwondo/) | 
 
 ### CCA Highlights
 
