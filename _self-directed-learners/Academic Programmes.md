@@ -42,6 +42,6 @@ Infusing ethics into teaching of Upper Secondary Biology
 
 During the lesson, Team coming together to put together their presentation to judges.
 
-![](/images/Bio5.jpg)
+![](/images/Academic%20Programmes/Bio5.jpg)
 
 At the consolidation stage, the judges deliberating over final decision
