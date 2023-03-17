@@ -26,12 +26,12 @@ Badminton practices are held twice a week at our school’s Indoor Sports Hall. 
 
 Apart from gaining badminton skills, our members are also introduced to other sports such as bowling, rock-climbing and trampoline. Badminton student leaders also plan annual overnight camps where the students take charge of the entire programme. Our CCA members had been actively involved in VIA projects such as the Passion Arts community sing-along session and SG50 Small Actions, Big Impact fund-raising activity. We also carry out student-initiated VIA projects, hosting badminton mixed doubles tournaments for Yew Tee residents, our own students and the Regent Badminton alumni.
 
-![](/images/Badminton-Practice-Ahmad.jpg)
+![](/images/CCA/Badminton/Badminton-Practice-Ahmad.jpg)
 
-![](/images/Badminton-Practice-girls.jpg)
+![](/images/CCA/Badminton/Badminton-Practice-girls.jpg)
 
-![](/images/Seniors-Farewell-1024x724.jpeg)
+![](/images/CCA/Badminton/Seniors-Farewell-1024x724.jpeg)
 
-![](/images/SEP-Rock-Climbing-1024x768.jpg)
+![](/images/CCA/Badminton/SEP-Rock-Climbing-1024x768.jpg)
 
-![](/images/Zonals-B-Girls-1024x768.jpeg)
+![](/images/CCA/Badminton/Zonals-B-Girls-1024x768.jpeg)
