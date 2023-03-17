@@ -30,6 +30,8 @@ Like us on Regent Secondary School’s Facebook page [https://www.facebook.com/
 
 ![](/images/For%20Alumni/Siddiq-Amsyar_Regent.jpg)
 
+---
+
 #### **Achievements of 2017**
 
 ##### **Ex Regenite Graduates with an Honours Degree**
@@ -37,7 +39,7 @@ Like us on Regent Secondary School’s Facebook page [https://www.facebook.com/
 
 _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Buisness Management and Accountancy under the University Scholars Programme. He is working with Visa as a business consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements._
 
-Click 📰 [Newspaper Article 1](/files/Randy.pdf) to view the achievement which was published in the Lianhe Wanbao
+📰 Click  [Newspaper Article 1](/files/Randy.pdf) to view the achievement which was published in the Lianhe Wanbao
 
 “Source: \[Lianhe Wanbao\] © Singapore Press Holdings Limited. Permission required for reproduction”.
 
@@ -50,45 +52,50 @@ Click 📰 [Newspaper Article 1](/files/Randy.pdf) to view the achievement which
 ##### Ngee Ann Polytechnic Graduate
 ![](/images/For%20Alumni/image001.jpg)
 
+---
+
 #### **Achievements of 2016**
 
 <img src="/images/For%20Alumni/Siti-zaliha-bte.jpeg" 
-     style="width:25%">
+     style="width:50%">
 		 
 <img src="/images/For%20Alumni/lim-xin-ying-1.jpeg" 
-     style="width:25%">
-
-<img src="/images/For%20Alumni/republic-poly.jpeg" 
-     style="width:25%">
+     style="width:50%">
 
 *   Siti Zaliha Binte Othman with a Diploma a Chemical & Pharmaceutical Technology
 *   Lim Xin Ying Shirlyn with Diploma in Business Informatics
-*   Amanda Ho Qin Yi with Diploma in Supply Chain Management, Republic Award
-*   Lee tin Hwee with Diploma in Biomedical Sciences, Polytechnic Foundation Programe Scholarship
-*   Max Pang Liang Hui with Diploma in Interactive and Digital Media, Diploma Prize
 *   Ang Wei Sheng graduated with a Diploma in Manufacturing Engineering and is the proud recipient of the Siemens Award for Outstanding Project Work
 *   Edmund Chen Chye Chai graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Calyon Creativity Award
 *   Rachael Lum Hui Ting graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Lee Hsien Loong Award, Infinite Frameworks Gold Medal and Infinite Frameworks Award for Outstanding Project Work (MGBD)
-*   Lee Hsien Loong Award presented to Rachael Lum Hui Ting
 
 ![](/images/For%20Alumni/rachel-768x768.jpg)
+<center><i>Lee Hsien Loong Award presented to Rachael Lum Hui Ting</i></center>
 
 📹 Click [**here**](https://youtu.be/9Fd9I2U06Ko) to watch the video of Lee Hsien Loong Award recipient Rachael Lum.
 
-Edmund Ang Jun Yan studied Diploma of Material Science (School of Applied Science) and has awarded Republic Award
-
+<img src="/images/For%20Alumni/republic-poly.jpeg" 
+     style="width:75%">
+		 
 ![](/images/For%20Alumni/Edmund-ang.jpg)
-[https://www.rp.edu.sg/](https://www.rp.edu.sg/)
+
+*   Amanda Ho Qin Yi with Diploma in Supply Chain Management, Republic Award
+*   Lee Tin Hwee with Diploma in Biomedical Sciences, Polytechnic Foundation Programe Scholarship
+*   Max Pang Liang Hui with Diploma in Interactive and Digital Media, Diploma Prize
+* Edmund Ang Jun Yan studied Diploma of Material Science (School of Applied Science) and has awarded Republic Award
+
+---
 
 #### **Achievements of 2015**
 
 ![](/images/For%20Alumni/2015-RP.jpg)
 
+---
+
 #### **Achievements of 2014**
 
 ##### **Nanyang Polytechnic**
 
-Outstanding Graduands 2014
+**Outstanding Graduands 2014**
 
 *   **Jonathan Lian Junwen**  
     *Diploma In Sports & Wellness Management* | The Singapore Sports Council Bronze Medal
@@ -99,11 +106,15 @@ Outstanding Graduands 2014
 *   **Wynne Celina Effendy**  
     *Diploma In Digital Visual Effects* | Lucasfilm Singapore Silver Medal
 
+---
+
 #### **Achievements of 2013**
 
 ![](/images/For%20Alumni/Gradposter2013-regent-758x1024.jpg)
 
 ![](/images/For%20Alumni/123.png)
+
+---
 
 #### **Achievements of 2012**
 
@@ -113,51 +124,36 @@ Outstanding Graduands 2014
      style="width:50%">
 		 
 ##### **Lim Hong Yi**
-
-Diploma in Maritime Transportation Management
-
-Singapore Shipping Association Prize
-
-Diploma with Merit
+*Diploma in Maritime Transportation Management* 
+* Singapore Shipping Association Prize
+* Diploma with Merit
 
 ##### **Yong Lynn**
-
-Diploma in Financial Informatics
-
-Diploma with Merit
-
-KS Energy Prize
+*Diploma in Financial Informatics*
+* Diploma with Merit
+* KS Energy Prize
 
 
 <img src="/images/For%20Alumni/ngee_ann_poly.jpg" 
      style="width:50%">
 		 
 ##### **Adelle Ong Fang Min**
-
-Diploma in Early Childhood Education
-
-Diploma with Merit
-
-PAP Community Foundation Prize
-
-Diploma Plus: Certificate in Business
+*Diploma in Early Childhood Education*
+* Diploma with Merit
+* PAP Community Foundation Prize
+* Diploma Plus: Certificate in Business
 
 #### **Michelle Chan Shu Hui**
-
-Diploma in Chinese Media & Communication
-
-Diploma with Merit
-
-Threesixzero Production Prize
+*Diploma in Chinese Media & Communication*
+* Diploma with Merit
+* Threesixzero Production Prize
 
 <img src="/images/For%20Alumni/ny_poly.jpg" 
      style="width:50%">
 		 
 ##### **Nora Fong Jianyi**
-
-Diploma in Industrial Design
-
-Scanteak Award for Outstanding Project Work
+*Diploma in Industrial Design*
+* Scanteak Award for Outstanding Project Work
 
 ![](/images/For%20Alumni/alumni-nyp-2.jpg)
 
@@ -165,7 +161,6 @@ Scanteak Award for Outstanding Project Work
      style="width:50%">
 		 
 ##### **Toh Yi An**
-
 GCE A Levels – 5 Distinctions
 
 		 
@@ -173,7 +168,6 @@ GCE A Levels – 5 Distinctions
      style="width:50%">
 
 ##### **Toh Yong Hung**
-
 NTU College Scholarship
 
 ### **Our Successful Students**
