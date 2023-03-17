@@ -19,7 +19,7 @@ In 2022, 59% of 4E5N students who applied for EAE are selected for interviews, w
 * Customised career counselling
 
 ![](/images/EAE/eae-1.jpg)
-<center>EAE talk at NYP</center>
+<center><i>EAE talk at NYP</i></center>
 
 ![](/images/EAE/eae2.jpg)
-<center>Course advising workshop at NYP</center>
+<center><i>Course advising workshop at NYP</i></center>
