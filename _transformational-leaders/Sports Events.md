@@ -3,7 +3,7 @@ title: Sports Events
 permalink: /confident-leaders/sports-events-2/
 description: ""
 ---
-## Sec 4 & 5 Sports Carnival
+## **Sec 4 & 5 Sports Carnival**
 
 Sec 4 & 5 Sports Carnival (Ultimate Frisbee)
 
@@ -29,7 +29,7 @@ Looking forward to the Sec 1-3 Sports Carnival in Semester Two!
 
 ---
 
-## Virtual Run 2022
+## **Virtual Run 2022**
 
 _“When your legs get tired, run with your heart.”_
 
@@ -43,7 +43,7 @@ Congratulations to all our award winners, and we hope to see all Regenites conti
 
 ---
 
-## Regent Around Singapore Virtual Challenge 2021
+## **Regent Around Singapore Virtual Challenge 2021**
 
 
 ![](/images/Sports%20Events/Virtual-Run-Banner-1024x582.png)
