@@ -42,7 +42,6 @@ Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 2**](https://w
 
 #### Fun Camp (March)
 ![](/images/CCA/Girls%20Brigade/GB%201.jpg)
-![](/images/CCA/Girls%20Brigade/GB%201.jpg)
 ![](/images/CCA/Girls%20Brigade/GB%202.jpg)
 ![](/images/CCA/Girls%20Brigade/GB%203.jpg)
 ![](/images/CCA/Girls%20Brigade/GB%204.jpg)
