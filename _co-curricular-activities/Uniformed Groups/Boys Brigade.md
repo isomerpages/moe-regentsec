@@ -73,11 +73,12 @@ Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
 ![](/images/CCA/Boys%20Brigade/BB-17.jpg)
 ![](/images/CCA/Boys%20Brigade/BB-18.jpg)
 ![](/images/CCA/Boys%20Brigade/BB-19.jpg)
+![](/images/CCA/Boys%20Brigade/BB-20.jpg)
 ![](/images/CCA/Boys%20Brigade/BB-21.jpg)
 
 ---
 
-#### Past Activities
+#### **Past Activities**
 
 ![](/images/The-91st-BB-Company-1350x899.jpg)
 <center><i>The 91st BB Company – Regent Secondary School</i></center>
