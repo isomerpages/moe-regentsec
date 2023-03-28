@@ -17,6 +17,7 @@ sections:
         - title: Total Defence Day 2023
           description: ""
           url: /total-defence-day-2023/
+      background: /images/Isomer-Hero-BG-Banner_GIF.gif
   - infopic:
       title: Applied Learning Programme
       button: click here
