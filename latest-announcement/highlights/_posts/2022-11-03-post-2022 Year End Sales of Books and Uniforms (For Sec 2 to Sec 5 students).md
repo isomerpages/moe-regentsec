@@ -31,13 +31,13 @@ Note: For students on the Financial Assistance Scheme (FAS), online purchase wil
 
 |  |  |
 | -------- | -------- |
-| **School Uniform Vendor**<br>**Asencio Pte Ltd**<br>120 Hillview Avenue<br>#05-02 Kewalram Hillview<br>Singapore 669594<br>Tel: 6764 3102<br>Online Sales: [https://www.asencio.com.sg](https://www.asencio.com.sg)<br>Email: [sales@asencio.com.sg](mailto:sales@asencio.com.sg)     | **School Bookshop Vendor**<br>**Overseas Associates Pte Ltd**<br>24 Lim Teck Boo Road<br>#03-01 Nanyang Centre<br>Singapore 537003<br>Tel: 6382 6789<br>Online Sales: [https://www.oapl.sg](https://www.oapl.sg)<br>Email: [sales@oapl.sg](mailto:sales@oapl.sg)     |
+| **School Uniform Vendor**<br>**Asencio Pte Ltd**<br>120 Hillview Avenue<br>#05-02 Kewalram Hillview<br>Singapore 669594<br>Tel: 6764 3102<br>Online Sales: [https://www.asencio.com.sg](https://www.asencio.com.sg)<br>Email: [sales@asencio.com.sg](mailto:sales@asencio.com.sg)     | **School Bookshop Vendor**<br>**Overseas Associates Pte Ltd**<br>24 Lim Teck Boo Road<br>#03-01 Nanyang Centre<br>Singapore 537003<br>Tel: 6382 6789<br>Online Sales: [https://www.oapl.sg](https://www.oapl.sg)<br>Email: [sales@oapl.sg](mailto:sales@oapl.sg)<br>Operating Hours of School Bookshop: 7am to 3pm     |
 
 ### **Self-Collection Dates for Uniforms and Books at School**
 
 (Strictly by appointment with the suppliers only)
 
-| Date |  | Level | Timing
+| *Date* |  | *Level* | *Timing*
 | -------- | -------- | -------- | -------- |
 | 16/11/2022    | Wed     | All Levels     | 9am - 3pm     |
 | 17/11/2022    | Thu     | All Levels     | 9am - 3pm     |
