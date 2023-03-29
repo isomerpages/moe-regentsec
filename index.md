@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: ""
+        - title: NKF School Outreach Programme
           description: ""
           url: ""
-        - title: ""
+        - title: Learning Journey To Science Centre
           description: ""
           url: ""
       background: /images/Isomer-Hero-BG-Bannerv2_GIF.gif
