@@ -31,26 +31,26 @@ sections:
       title: Lifelong Learning Programme
       description: Community Youth Leadership
       button: click here
-      url: /confident-leaders/Learning-for-Life-Programme/community-youth-leadership/
+      url: /confident-leaders/learning-for-life-programme/community-youth-leadership/
       image: /images/llp.jpg
       alt: Lifelong Learning Programme
   - infopic:
       title: School Events
       description: Festival Celebrations, NE Commemorations
       button: Click here
-      url: /about-regent/School-Events/festive-celebrations/
+      url: about-regent/school-events/festive-celebrations/
       image: /images/Sch-events.jpg
       alt: Image alt text
   - infopic:
       title: Echoes of Regent
       button: Click Here
-      url: /permalink/
+      url: /permalink/about-regent/sch-publication/echoes-of-regent-2022/
       image: /images/echoes-1.jpg
       alt: Image alt text
   - infopic:
       title: Achievements & Accolades
       button: Click Here
-      url: /about-regent/Our-Achievements/2021-achievements/
+      url: /about-regent/self-directed-learners/academic-achievements/
       image: /images/Achievements-and-Accolades-1.jpg
       alt: Image alt text
   - infobar:
