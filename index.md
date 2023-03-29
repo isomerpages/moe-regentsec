@@ -8,15 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: NKF School Outreach Programme
+        - title: ""
           description: ""
-          url: /nkf-school-outreach-programme/
-        - title: Learning Journey to Science Centre
+          url: ""
+        - title: ""
           description: ""
-          url: learning-journey-to-science-centre/
-        - title: Total Defence Day 2023
-          description: ""
-          url: /total-defence-day-2023/
+          url: ""
       background: /images/Isomer-Hero-BG-Bannerv2_GIF.gif
   - infopic:
       title: Applied Learning Programme
