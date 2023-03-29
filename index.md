@@ -9,11 +9,17 @@ sections:
   - hero:
       key_highlights:
         - title: Sec 2 Learning Journey To Science Centre
-          description: Read More
+          description: Sec 2 students visited the Singapore Science Centre for a Science
+            and Geography Learning Journey.
           url: /latest-announcement/highlights/sec-2-learning-journey-to-science-centre/
         - title: NKF School Outreach Programme
           description: Read More
           url: latest-announcement/highlights/nkf-school-outreach-programme/
+        - title: Total Defence Day 2023
+          description: We commemorated Total Defence Day this year with a slew of
+            activities aimed at rallying Regenites together in responding to
+            challenges that may threaten Singapore’s stability.
+          url: latest-announcement/highlights/total-defence-day-2023/
       background: /images/Isomer-Hero-BG-Bannerv2_GIF.gif
   - infopic:
       title: Applied Learning Programme
