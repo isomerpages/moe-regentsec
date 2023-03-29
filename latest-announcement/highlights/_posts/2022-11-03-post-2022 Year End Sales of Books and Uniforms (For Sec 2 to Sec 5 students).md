@@ -29,9 +29,11 @@ Note: For students on the Financial Assistance Scheme (FAS), online purchase wil
 
 ### **Contact Information of Vendors**
 
-<!-- wp:table {"hasFixedLayout":true,"className":"is-style-regular"} -->
-<figure class="wp-block-table is-style-regular"><table class="has-fixed-layout"><tbody><tr><td><strong>School Uniform Vendor</strong><br><strong>Asencio Pte Ltd&nbsp;</strong><br>120 Hillview Avenue&nbsp;<br>#05-02 Kewalram Hillview&nbsp;<br>Singapore 669594&nbsp;<br>Tel: 6764 3102&nbsp;<br>Online Sales:&nbsp; <a href="https://www.asencio.com.sg/">https://www.asencio.com.sg</a><br>Email:&nbsp; <a href="mailto:sales@asencio.com.sg">sales@asencio.com.sg</a></td><td><strong>School Bookshop Vendor</strong><br><strong>Overseas Associates Pte Ltd&nbsp;</strong><br>24 Lim Teck Boo Road&nbsp;<br>#03-01 Nanyang Centre&nbsp;<br>Singapore 537003<br>Tel: 6382 6789&nbsp;<br>Online Sales:&nbsp; <a href="https://www.oapl.sg/">https://www.oapl.sg</a><br>Email:&nbsp; <a href="mailto:sales@oapl.sg">sales@oapl.sg</a><br>Operating Hours of School Bookshop: 7am to 3pm</td></tr></tbody></table></figure>
-<!-- /wp:table -->
+
+
+|  |  |
+| -------- | -------- |
+| **School Uniform Vendor**<br>**Asencio Pte Ltd**<br>120 Hillview Avenue<br>#05-02 Kewalram Hillview<br>Singapore 669594<br>Tel: 6764 3102<br>Online Sales: [https://www.asencio.com.sg](https://www.asencio.com.sg)<br>Email: [sales@asencio.com.sg](mailto:sales@asencio.com.sg)     | **School Bookshop Vendor**<br>**Overseas Associates Pte Ltd**<br>24 Lim Teck Boo Road<br>#03-01 Nanyang Centre<br>Singapore 537003<br>Tel: 6382 6789<br>Online Sales: [https://www.oapl.sg](https://www.oapl.sg)<br>Email: [sales@oapl.sg](mailto:sales@oapl.sg)     |
 
 ### **Self-Collection Dates for Uniforms and Books at School**
 
