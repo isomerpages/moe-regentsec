@@ -6,29 +6,20 @@ layout: post
 description: ""
 image: ""
 ---
-<!-- wp:heading {"style":{"color":{"text":"#3366ff"}}} -->
-<h2 class="has-text-color" style="color:#3366ff">Sales of Books</h2>
-<!-- /wp:heading -->
+### **Sales of Books**
 
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><strong>Click for:</strong> <span style="text-decoration: underline;"><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/YE-Book-Sales_Instruction-RGS-S2-5.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/YE-Book-Sales_Instruction-RGS-S2-5.pdf">Instruction from Bookshop Vendor</a></span></p>
-<!-- /wp:paragraph -->
+Click for: [Instruction from Bookshop Vendor](/files/YE%20Book%20Sales_Instruction%20(RGS%20S2-5).pdf)
 
-<!-- wp:heading {"level":3} -->
-<h3>Booklist</h3>
-<!-- /wp:heading -->
+#### **Booklist**
 
-<!-- wp:table {"hasFixedLayout":true,"className":"is-style-regular"} -->
-<figure class="wp-block-table is-style-regular"><table class="has-fixed-layout"><tbody><tr><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S2Exp.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S2Exp.pdf">Sec 2Exp</a></td><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S2NA.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S2NA.pdf">Sec 2NA</a></td></tr><tr><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S2NT.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S2NT.pdf">Sec 2NT</a></td><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S3Exp.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S3Exp.pdf">Sec 3Exp</a></td></tr><tr><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S3NA.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S3NA.pdf">Sec 3NA</a></td><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S4Exp.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S4Exp.pdf">Sec 4Exp</a></td></tr><tr><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S4NA.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S4NA.pdf">Sec 4NA</a></td><td><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S5.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/Booklist-2023_RGS-S5.pdf">Sec 5NA</a></td></tr></tbody></table></figure>
-<!-- /wp:table -->
+|  |  |
+| -------- | -------- |
+| [Sec 2Exp](/files/Booklist%202023_RGS%20S2Exp.pdf)     | [Sec 2NA](/files/Booklist%202023_RGS%20S2NA.pdf)     |
+| [Sec 2NT](/files/Booklist%202023_RGS%20S2NT.pdf)     | [Sec 3Exp](/files/Booklist%202023_RGS%20S3Exp.pdf)     |
+| [Sec 3NA](/files/Booklist%202023_RGS%20S3NA.pdf)     | [Sec 4Exp](/files/Booklist%202023_RGS%20S4Exp.pdf)     |
+| [Sec 4NA](/files/Booklist%202023_RGS%20S4NA.pdf)     | [Sec 5NA](/files/Booklist%202023_RGS%20S5.pdf)     |
 
-<!-- wp:spacer {"height":20} -->
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"style":{"color":{"text":"#3366ff"}}} -->
-<h2 class="has-text-color" style="color:#3366ff">Sales of Uniforms</h2>
-<!-- /wp:heading -->
+### **Sales of Uniforms**
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size"><strong>Click for:</strong> <span style="text-decoration: underline;"><a href="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/updated-online-uniform-purchase-info-2022-Regent-Sec-Sch.pdf" data-type="URL" data-id="https://regentsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/11/updated-online-uniform-purchase-info-2022-Regent-Sec-Sch.pdf">Instruction for online purchase</a></span></p>
