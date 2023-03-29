@@ -16,6 +16,8 @@ The session ended with our Cyber-Wellness community pledging to help make Regent
 
 ‘I pledge to help make the cyber world a positive environment for my peers and I will help to educate others who might need help understanding the importance of staying safe on the Internet.’ (Nur Hadirah, 2-Pride)
 
+![](/images/School%20Events/CCE/CCE-schoolevent-1.jpg)
+
 ---
 
 ## **PSL Anti-Bullying Advocacy**
@@ -25,6 +27,9 @@ At Regent Secondary School, our Peer Support Leaders play an important role in h
 On 24 February 2022, our PSLs led their classmates in an advocacy project against bullying. They carried out a slew of interesting activities aimed at helping to raise awareness about and rally their peers to take a strong stand against bullying. Some of our PSLs engaged their classmates using Kahoot and facilitated lively discussions on the importance of being an “upstander” against bullying, while others shared practical tips with their classmates on how to address bullying within their spheres of influence. Our students also came together to use their artistic talents for good, creating anti-bullying posters and other artefacts that were displayed beautifully in their classrooms.
 
 Overall, the message is clear: Regenites will stand up and speak out against bullying!
+
+![](/images/School%20Events/CCE/CCE-schoolevent-2.jpg)
+![](/images/School%20Events/CCE/CCE-schoolevent-3.jpg)
 
 ---
 
