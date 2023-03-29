@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Sec 2 Learning Journey To Science Centre
+          description: Read More
+          url: /latest-announcement/highlights/sec-2-learning-journey-to-science-centre/
         - title: NKF School Outreach Programme
-          description: ""
-          url: ""
-        - title: Learning Journey To Science Centre
-          description: ""
-          url: ""
+          description: Read More
+          url: latest-announcement/highlights/nkf-school-outreach-programme/
       background: /images/Isomer-Hero-BG-Bannerv2_GIF.gif
   - infopic:
       title: Applied Learning Programme
