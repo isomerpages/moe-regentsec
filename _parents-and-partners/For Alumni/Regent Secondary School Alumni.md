@@ -43,13 +43,13 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 
 “Source: \[Lianhe Wanbao\] © Singapore Press Holdings Limited. Permission required for reproduction”.
 
-##### Republic Polytechnic Graduate 
+##### **Republic Polytechnic Graduate**
 ![](/images/For%20Alumni/RP-Grad-Former_12_09_17-e1505192740467.png)
 
-##### ITE College West Graduate
+##### **ITE College West Graduate**
 ![](/images/For%20Alumni/Nurul-Eriyanie-Mohd-Nazri.png)
 
-##### Ngee Ann Polytechnic Graduate
+##### **Ngee Ann Polytechnic Graduate**
 ![](/images/For%20Alumni/image001.jpg)
 
 ---
@@ -62,11 +62,11 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 <img src="/images/For%20Alumni/lim-xin-ying-1.jpeg" 
      style="width:50%">
 
-*   Siti Zaliha Binte Othman with a Diploma a Chemical & Pharmaceutical Technology
-*   Lim Xin Ying Shirlyn with Diploma in Business Informatics
-*   Ang Wei Sheng graduated with a Diploma in Manufacturing Engineering and is the proud recipient of the Siemens Award for Outstanding Project Work
-*   Edmund Chen Chye Chai graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Calyon Creativity Award
-*   Rachael Lum Hui Ting graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Lee Hsien Loong Award, Infinite Frameworks Gold Medal and Infinite Frameworks Award for Outstanding Project Work (MGBD)
+*   **Siti Zaliha Binte Othman** with a Diploma a Chemical & Pharmaceutical Technology
+*   **Lim Xin Ying Shirlyn** with Diploma in Business Informatics
+*   **Ang Wei Sheng** graduated with a Diploma in Manufacturing Engineering and is the proud recipient of the Siemens Award for Outstanding Project Work
+*   **Edmund Chen Chye Chai** graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Calyon Creativity Award
+*   **Rachael Lum Hui Ting** graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Lee Hsien Loong Award, Infinite Frameworks Gold Medal and Infinite Frameworks Award for Outstanding Project Work (MGBD)
 
 ![](/images/For%20Alumni/rachel-768x768.jpg)
 <center><i>Lee Hsien Loong Award presented to Rachael Lum Hui Ting</i></center>
@@ -78,9 +78,9 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 		 
 ![](/images/For%20Alumni/Edmund-ang.jpg)
 
-*   Amanda Ho Qin Yi with Diploma in Supply Chain Management, Republic Award
-*   Lee Tin Hwee with Diploma in Biomedical Sciences, Polytechnic Foundation Programe Scholarship
-*   Max Pang Liang Hui with Diploma in Interactive and Digital Media, Diploma Prize
+*   **Amanda Ho Qin Yi** with Diploma in Supply Chain Management, Republic Award
+*   **Lee Tin Hwee** with Diploma in Biomedical Sciences, Polytechnic Foundation Programe Scholarship
+*   **Max Pang Liang Hui** with Diploma in Interactive and Digital Media, Diploma Prize
 * Edmund Ang Jun Yan studied Diploma of Material Science (School of Applied Science) and has awarded Republic Award
 
 ---
