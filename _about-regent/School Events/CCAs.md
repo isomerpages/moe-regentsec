@@ -12,6 +12,9 @@ Cadets from the two Uniformed Groups mingled freely with one another and were in
 
 All in all, it was a truly fitting way to end the week; and we look forward to more delightful inter-UG activities to come!
 
+![](/images/School%20Events/CCA/CCA-schoolevent-1.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-2.jpg)
+
 ---
 
 ### **Girls Brigade Commemoration Day 2022**
@@ -21,6 +24,10 @@ On 15 July 2022, cadets from the Girls’ Brigade (GB) came together to commemor
 They applied the skills acquired in their Design and Technology lessons to fix shoe racks for the elderly, and then ventured out into the neighbourhood to personally deliver these to the elderly residents and to interact with them. Although it was initially awkward meeting the residents for the first time, it proved to be a meaningful time of bonding for our girls and a lesson in empathy and servant leadership.
 
 May our Girls’ Brigade cadets continue to grow in love for another and to serve others in a greater way!
+
+![](/images/School%20Events/CCA/CCA-schoolevent-3.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-4.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-5.jpg)
 
 ---
 
@@ -36,6 +43,10 @@ The ceremony culminated with the presentation of the school jerseys by our Princ
 
 We would like to wish our Sports and Games CCAs the very best as they compete in their remaining games. May they “Blaze Forth To Glory”!
 
+![](/images/School%20Events/CCA/CCA-schoolevent-6.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-7.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-8.jpg)
+
 ---
 
 ### **Sec 4 UG Passing-Out Parade**
@@ -47,6 +58,9 @@ Although initial plans for the parade were quite abruptly changed due to the wet
 Reflecting on this significant milestone, Red Cross Youth Chairperson Warrant Officer Chua Kong Chuan commented, ‘It was surreal handing the drill cane over to my successor, but I was also comforted to know that the unit would be in good hands’.
 
 Indeed, we would like to thank our graduating batch of UG leaders and cadets for their selfless contributions to the CCA and school community. Taking the helm of our three key UGs are: Corporal Xavier Oh (BB), Corporal Chaw Shao Xuan (NPCC), and Corporal Edmund Teo (RCY). Congratulations!
+
+![](/images/School%20Events/CCA/CCA-schoolevent-9.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-10.jpg)
 
 ---
 
@@ -60,6 +74,10 @@ It was truly a day of fun in the sun for many of our boys and girls. For Tan Hao
 
 There’s never a dull moment at CCA for our BB and GB cadets, and they can certainly look forward to many more exciting adventures in the weeks to come!
 
+![](/images/School%20Events/CCA/CCA-schoolevent-11.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-12.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-13.jpg)
+
 ---
 
 ### **Secondary One CCA Orientation – CCA Experience 2022**
@@ -67,6 +85,9 @@ There’s never a dull moment at CCA for our BB and GB cadets, and they can cert
 On 7 January 2022, our newest members to the Regent family—our Secondary One students—had their first introduction to the vibrant CCA programme at Regent Secondary School.
 
 Led by our student leaders, the Secondary Ones participated in a wide range of exciting CCA activities specially organized by their energetic seniors. Our students will, over the next two weeks, have a taste of all 17 CCA programmes that Regent has to offer—Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. Kudos to our CCA student leaders, and we warmly welcome our Secondary Ones to the CCA Family at Regent! May the next three sessions of CCA Experience be meaningful for all!
+
+![](/images/School%20Events/CCA/CCA-schoolevent-14.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-15.jpg)
 
 ---
 
@@ -121,6 +142,10 @@ A huge thank you to the teachers and coaches, and well done, Regenites!
 Boys’ Brigade (BB) Founder’s Award ceremony was held on Friday, 23 July 2021.
 
 The Founder’s Award is the highest and most honourable award a Boy can attain in the Seniors Programme. Achieving it indicates that the person exemplifies the traits and ideals of the movement, such as perseverance and commitment.
+
+![](/images/School%20Events/CCA/bbfoundersday2021-1.jpg)
+
+![](/images/School%20Events/CCA/bbfoundersday2021-2.jpg)
 
 WO Zavier Wong and WO Hugo Teo of 91st Singapore Company (Regent Secondary School) are awarded the Founder’s Award. Both Boys have shown outstanding leadership abilities and character befitting that of a model BB Boy.
 
