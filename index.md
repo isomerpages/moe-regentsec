@@ -11,15 +11,17 @@ sections:
         - title: Purposeful Pursuits – Course Advising Session
           description: Read More
           url: latest-announcement/highlights/purposeful-pursuits-course-advising-session/
-        - title: Sec 2 Learning Journey To Science Centre
-          description: Sec 2 students visited the Singapore Science Centre for a Science
-            and Geography Learning Journey.
-          url: /latest-announcement/highlights/sec-2-learning-journey-to-science-centre/
-        - title: Total Defence Day 2023
-          description: We commemorated Total Defence Day this year with a slew of
-            activities aimed at rallying Regenites together in responding to
-            challenges that may threaten Singapore’s stability.
-          url: latest-announcement/highlights/total-defence-day-2023/
+        - title: Secondary 3 Leadership Workshop
+          description: our Secondary Three students underwent a Leadership workshop to
+            prepare them to lead and plan for their Values-In-Action project.
+          url: /latest-announcement/highlights/secondary-3-leadership-workshop/
+        - title: Awards Day 2023
+          description: We wrapped up Term 1 on a high note with Awards Day 2023, an annual
+            event to celebrate the academic and co-curricular achievements of
+            our students. Partners and friends of Regent Secondary School were
+            also in attendance, where they received awards to recognise and
+            thank them for their valuable contributions to the school.
+          url: latest-announcement/highlights/awards-day-2023/
       background: /images/Isomer-Hero-BG-Bannerv2_GIF.gif
   - infopic:
       title: Applied Learning Programme
