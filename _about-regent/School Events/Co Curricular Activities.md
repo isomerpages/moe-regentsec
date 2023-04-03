@@ -4,8 +4,7 @@ permalink: /about-regent/school-events/cca-schoolevents/
 description: ""
 third_nav_title: School Events
 ---
-
-### **NPCC & RCY Dragon Boating SEP**
+## **NPCC &amp; RCY Dragon Boating SEP**
 
 Clear skies greeted our National Police Cadet Corps (NPCC) and Red Cross Youth (RCY) cadets on 12 August 2022 as they arrived at Lower Seletar Water Sports Centre for their Sports Enrichment Programme activity: dragon boating!
 
@@ -18,7 +17,7 @@ All in all, it was a truly fitting way to end the week; and we look forward to m
 
 ---
 
-### **Girls Brigade Commemoration Day 2022**
+## **Girls Brigade Commemoration Day 2022**
 
 On 15 July 2022, cadets from the Girls’ Brigade (GB) came together to commemorate GB Day with a parade and presentation at Assembly. ‘To rise above, venture forward, and journey onward’ is the theme of GB Day this year; and our girls certainly lived that out in their work with Lions Befrienders on GB Friendship Day, where they set out to fulfil the wishes of twenty elderly persons in the community.
 
@@ -32,7 +31,7 @@ May our Girls’ Brigade cadets continue to grow in love for another and to serv
 
 ---
 
-### **NSG Ceremony 2022**
+## **NSG Ceremony 2022**
 
 On 14 April 2022, our school held a National School Games (NSG) Ceremony for our student athletes to celebrate the return of the NSG in full swing. It will be the first time our students will be able to participate in the NSG again, after it was disrupted by the COVID-19 pandemic the past two years.
 
@@ -42,7 +41,7 @@ The highlight of the ceremony focused on the motto, “Character in Sporting Exc
 
 The ceremony culminated with the presentation of the school jerseys by our Principal, Mr Leong, to the captains of each team. The jersey presentation symbolises our school values of Passion, Respect, Integrity, Determination and Empathy (P.R.I.D.E.), which our student athletes will embody as they don the school colours for each game.
 
-We would like to wish our Sports and Games CCAs the very best as they compete in their remaining games. May they “Blaze Forth To Glory”!
+We&nbsp;would like to wish our Sports and Games CCAs the very best as they compete in their remaining games. May they “Blaze Forth To Glory”!
 
 ![](/images/School%20Events/CCA/CCA-schoolevent-6.jpg)
 ![](/images/School%20Events/CCA/CCA-schoolevent-7.jpg)
@@ -50,7 +49,7 @@ We would like to wish our Sports and Games CCAs the very best as they compete i
 
 ---
 
-### **Sec 4 UG Passing-Out Parade**
+## **Sec 4 UG Passing-Out Parade**
 
 Lightning Risk Alerts and COVID-19 Safe Management Measures did not deter our Uniformed Group leaders from taking centre stage at our annual Passing-Out Parade (POP), held on 13 April. Incidentally, the parade was the school’s first live event this year, which made it extra special.
 
@@ -65,7 +64,7 @@ Indeed, we would like to thank our graduating batch of UG leaders and cadets for
 
 ---
 
-### **BB & GB Outdoor Activities**
+## **BB &amp; GB Outdoor Activities**
 
 School’s out… Adventure’s in!
 
@@ -81,28 +80,28 @@ There’s never a dull moment at CCA for our BB and GB cadets, and they can cert
 
 ---
 
-### **Secondary One CCA Orientation – CCA Experience 2022**
+## **Secondary One CCA Orientation – CCA Experience 2022**
 
 On 7 January 2022, our newest members to the Regent family—our Secondary One students—had their first introduction to the vibrant CCA programme at Regent Secondary School.
 
-Led by our student leaders, the Secondary Ones participated in a wide range of exciting CCA activities specially organized by their energetic seniors. Our students will, over the next two weeks, have a taste of all 17 CCA programmes that Regent has to offer—Sports & Games, Uniformed Groups, Performing Arts, and Clubs & Societies. Kudos to our CCA student leaders, and we warmly welcome our Secondary Ones to the CCA Family at Regent! May the next three sessions of CCA Experience be meaningful for all!
+Led by our student leaders, the Secondary Ones participated in a wide range of exciting CCA activities specially organized by their energetic seniors. Our students will, over the next two weeks, have a taste of all 17 CCA programmes that Regent has to offer—Sports &amp; Games, Uniformed Groups, Performing Arts, and Clubs &amp; Societies. Kudos to our CCA student leaders, and we warmly welcome our Secondary Ones to the CCA Family at Regent! May the next three sessions of CCA Experience be meaningful for all!
 
 ![](/images/School%20Events/CCA/CCA-schoolevent-14.jpg)
 ![](/images/School%20Events/CCA/CCA-schoolevent-15.jpg)
 
 ---
 
-### **Regent Taekwondo Team participated in the National School Games**
+## **Regent Taekwondo Team participated in the National School Games**
 
 This year, our Regent Taekwondo Team participated in the National School Games (‘B’ Division).
 
 The National Taekwondo Championships is the culmination of our Taekwondo members’ four-year journey with the CCA and a key platform for our members to put their skills to the test. We are proud to announce that our Taekwondo team has managed to clinch a total of 4 medals at the 2021 ‘B’ Division Taekwondo Poomsae individual and team events!
 
-Additionally, two of our Secondary Four students, Darren Tan Bo Cong and Norfasarie Binte Noor Haizat, were awarded the Best Sportsmanship Award, one of the highest honours at the Games.
+Additionally, two of our Secondary Four students, Darren Tan Bo Cong and Norfasarie&nbsp;Binte Noor Haizat, were awarded the Best Sportsmanship Award, one of the highest honours at the Games.
 
 Our Taekwondo team’s wonderful results are indeed a testament to the respect, dedication, and resilience that they have demonstrated in their rigorous training sessions. They have persevered against all odds, despite the challenges brought on by the pandemic.
 
-Reflecting on the experience, Chloe Phua, who was awarded a Gold medal at the Poomsae Individual (Girls) event, shared that she has learnt the importance of determination and having a strong mentality in order to overcome any difficulties in life. This was also echoed by our Best Sportsmanship awardees, Darren and Fasarie, who said that the experience of participating in this competition was certainly valuable, and winning the award has taught them that it is important to always show respect to their opponents when competing.
+Reflecting on the experience, Chloe Phua, who was awarded a Gold medal at the Poomsae Individual (Girls) event, shared that she has&nbsp;learnt the importance of determination and having a strong mentality in order to overcome any difficulties in life. This was also echoed by our Best Sportsmanship awardees, Darren and Fasarie, who said that the experience of participating in this competition was certainly valuable, and winning the award has taught them that it is important to always show respect to their opponents when competing.
 
 A huge thank you to the teachers and coaches, and well done, Regenites!
 
@@ -138,7 +137,7 @@ A huge thank you to the teachers and coaches, and well done, Regenites!
 
 ---
 
-### **Boys’ Brigade Founders Day 2021**
+## **Boys’ Brigade Founders Day 2021**
 
 Boys’ Brigade (BB) Founder’s Award ceremony was held on Friday, 23 July 2021.
 
@@ -158,9 +157,9 @@ We are proud of both of them and look forward to their active contribution in th
 
 ---
 
-### **Regent Singapore Youth Festival (SYF) 2021**
+## **Regent Singapore Youth Festival (SYF) 2021**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YhJvwyq5L6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YhJvwyq5L6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 The Singapore Youth Festival – SYF Arts Presentation (Secondary School) is a biannual event organised to celebrate the vitality of our youth and their diverse arts talents.
 
@@ -176,6 +175,6 @@ Let us take a look at how Regent Secondary School’s Performing Arts students p
 
 **SYF Arts Presentation Dates:**
 
-*   Concert Band (1st and 5th April 2021)
-*   English Drama (14th April 2021)
-*   Modern Dance (15th April 2021)
+*   Concert Band (1st&nbsp;and 5th&nbsp;April 2021)
+*   English Drama (14th&nbsp;April 2021)
+*   Modern Dance (15th&nbsp;April 2021)
