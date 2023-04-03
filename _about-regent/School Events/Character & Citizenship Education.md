@@ -4,7 +4,7 @@ permalink: /about-regent/school-events/cce-schoolevents/
 description: ""
 third_nav_title: School Events
 ---
-### **Cyber Wellness Ambassadors Induction Programme**
+## **Cyber Wellness Ambassadors Induction Programme**
 
 On 21 February 2022, our newly-appointed Cyber-Wellness Ambassadors participated in a fruitful induction programme organised by the Cyber-Wellness Committee.
 
@@ -20,7 +20,7 @@ The session ended with our Cyber-Wellness community pledging to help make Regent
 
 ---
 
-### **PSL Anti-Bullying Advocacy**
+## **PSL Anti-Bullying Advocacy**
 
 At Regent Secondary School, our Peer Support Leaders play an important role in helping to make the school a safe haven for all students. As positive “influencers” within the student body, our PSLs also take great pride in advocating for causes they believe in.
 
@@ -33,7 +33,7 @@ Overall, the message is clear: Regenites will stand up and speak out against bul
 
 ---
 
-### **Peer Support Leaders**
+## **Peer Support Leaders**
 
 The school is a place where our students forge strong friendships, for whom peers are paramount. Positive peer relationships facilitate the provision of care and a sense of belonging amongst students. Such relationships can also be powerful channels of positive influence—just take a look at our Peer Support Leaders (PSL)!
 
@@ -45,7 +45,7 @@ We look forward to seeing our friendly PSLs helping to better Regent’s vibrant
 
 ---
 
-### **Singa the Courtesy Lion Bench**
+## **Singa the Courtesy Lion Bench**
 
 Singa comes to school!
 
