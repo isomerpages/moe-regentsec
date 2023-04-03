@@ -8,6 +8,8 @@ third_nav_title: School Events
 
 Our Concert Band, Show Choir and Student Leaders participated in Limbang National Day Dinner on 8th August 2022. Thank you Limbang for this opportunity to bring joy and happiness to our community! Happy 57th National Day Singapore!
 
+![](/images/School%20Events/Community%20Events/CommunityEvents-1.jpg)
+
 ---
 
 ### **Limbang PAssionArts Festival 2022**
@@ -22,6 +24,9 @@ Marion Tye (3-Gratitude) also shared that from this event, he has learnt to step
 
 Thank you Limbang for this opportunity for our students to contribute to the community!
 
+![](/images/School%20Events/Community%20Events/CommunityEvents-2.jpg)
+![](/images/School%20Events/Community%20Events/CommunityEvents-3.jpg)
+
 ---
 
 ### **Limbang Raya Show**
@@ -34,6 +39,9 @@ The event was especially memorable for our Secondary Three students, who in thei
 
 On top of that, prizes that were given out to winners of stage games, lucky draws, house decoration contest and best dressed individuals enlivened the atmosphere. The delectable buffet spread and goodie bags that awaited after the performance made it an event not to be missed as we celebrated the joyous occasion. Although the month-long Hari Raya celebration was drawing to a close, the festive spirit among guests was very much still ablaze!
 
+![](/images/School%20Events/Community%20Events/CommunityEvents-4.jpg)
+![](/images/School%20Events/Community%20Events/CommunityEvents-5.jpg)
+
 ---
 
 ### **Hari Raya Celebration 2022**
@@ -45,6 +53,8 @@ It has been two years our last Hari Raya mass celebrations in school and this ye
 I love the performances because of the different elements of music compiled together back from 1950s to 2000s. It brought back memories for me as we reminisced the traditional Hari Raya songs I grew up listening to. Not only that, I contributed by being part of the ‘Regent Pop Band’ as one of the singers alongside with my band mates. We had covered the song Selamat Hari Raya by Saloma. It was a fruitful experience, singing together and rehearsing our parts to produce the whole Regent Pop Band music video. Even our Malay ‘cikgus’ serenaded us with a song or two!
 
 Personally, I am grateful because it was the first time in two years that all Regenites were able to gather in the school hall once again. It touched my heart as we could finally come together to celebrate Hari Raya as a school once again. I look forward to more celebrations and performances put together for our Regenites in the years to come. Selamat Hari Raya everyone!”
+
+
 
 ---
 
