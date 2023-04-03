@@ -14,7 +14,7 @@ For Tay Jin Yi (3-Empathy), the momentous occasion has helped shape her understa
 
 Indeed, John F. Kennedy once said, ‘Ask not what your country can do for you—ask what you can do for your country.’ It is our hope that our Regenites grow to become responsible men and women who take great pride in defending and shaping our nation through civic action and public service.
 
-[]
+![](/images/School%20Events/National%20Education/NRICPresentation2022.jpg)
 *<center>In class Padlet responses</center>*
 
 ---
@@ -35,8 +35,13 @@ The day ended in a high note as we were once again serenaded by Regent Pop Band 
 
 All in all, Regent Secondary School would like to wish Singapore a Happy 57th birthday and we are proud and exhilarated to celebrate this significant day with the nation!
 
-[]
-
+![](/images/School%20Events/National%20Education/ND2022-1.jpg)
+![](/images/School%20Events/National%20Education/ND2022-2.jpg)
+![](/images/School%20Events/National%20Education/ND2022-3.jpg)
+![](/images/School%20Events/National%20Education/ND2022-4.jpg)
+![](/images/School%20Events/National%20Education/ND2022-5.jpeg)
+![](/images/School%20Events/National%20Education/ND2022-6.jpeg)
+![](/images/School%20Events/National%20Education/ND2022-7.jpeg)
 
 ---
 
@@ -54,8 +59,9 @@ Finally, our students continued discussing the issue of race during their weekly
 
 Celebrating Racial Harmony Day 2022 was a poignant reminder that all of us play a critical role in maintaining social cohesion in Singapore.
 
-[]
-
+![](/images/School%20Events/National%20Education/RHD2022-1.jpg)
+![](/images/School%20Events/National%20Education/RHD2022-2.jpg)
+![](/images/School%20Events/National%20Education/RHD2022-3.jpg)
 
 ---
 
@@ -85,8 +91,9 @@ I really liked learning all of the new information about Singapore and their way
 
 In conclusion, as it was a first for us, we were very pleased to hear positive comments from both schools. Though we were on a tight schedule, it was a good start to allow our students to connect with students from another side of the world. It was heartening to see the students expressing interests in having another ZOOM meeting with their new friends, exchanging emails and Instagram accounts to keep in touch and maintain this new friendship.
 
-[]
-
+![](/images/School%20Events/National%20Education/EInternationalisation-1.jpg)
+![](/images/School%20Events/National%20Education/EInternationalisation-2.jpg)
+![](/images/School%20Events/National%20Education/EInternationalisation-3.jpg)
 
 ---
 
@@ -102,8 +109,8 @@ Our NE Ambassadors also led their classmates to facilitate an engaging activity 
 
 Overall, our students had a blast learning about International Friendship Day whilst promoting the spirit of friendship and collaboration. All of us have an active role in fostering people-to-people ties and celebrate the region's diversity and vibrancy!
 
-[]
-
+![](/images/School%20Events/National%20Education/IFD2022-1.jpg)
+![](/images/School%20Events/National%20Education/IFD2022-2.jpg)
 
 ---
 
@@ -121,14 +128,13 @@ Overall, we had a memorable TDD which enhanced our four key citizenship disposit
 
 Together, we keep Singapore strong!
 
-[]
-
+![](/images/School%20Events/National%20Education/TDD2022-1.jpg)
 
 ---
 
 ## **NRIC Presentation Ceremony 2021**
 
-[]
+![](/images/School%20Events/National%20Education/NRICPresentation2021.jpg)
 
 23 September 2021 was a momentous occasion for our Secondary Three students, who received their National Registration Identity Cards (NRIC)!
 
@@ -148,20 +154,22 @@ With safe management measures in place, the exercise was carried out in an effic
 
 ## **International Friendship Day (IFD) at Regent 2021**
 
-[]
+![](/images/School%20Events/National%20Education/IFD2021-1.jpg)
 
 In the month of April, we celebrated International Friendship Day (IFD) at Regent Secondary School! The theme for this year’s IFD is "Singapore in the World". From 5th to 9th April, students took part in various activities such as learning about Singapore's relations with countries around us during our morning assembly programme as well as understanding more about COVAX and Singapore’s contributions to the world during CCE lessons.
 
-[]
+![](/images/School%20Events/National%20Education/IFD2021-2.png)
+
+![](/images/School%20Events/National%20Education/IFD2021-3.png)
 
 Our Upper Secondary students have also prepared information sheets to educate their juniors about COVAX. Through this CCE-IFD lesson, students are more aware of the need for countries to offer practical help in ensuring the world is a safer place for all humanity.
 
 Our NE Ambassadors have also been hard at work. On International Friendship Day, our ambassadors led their classmates in completing a Crossword Puzzle as well as a Venn diagram to build on students’ understanding about the different countries around us.
 
-[]
+![](/images/School%20Events/National%20Education/IFD2021-4.jpg)
 
 We also had some of our foreign students from Vietnam, Malaysia and India take to the screen to share about what life was like back in their home country in terms of food, pastimes, festivals and education system. Through these activities, students got to learn about the countries around Singapore, and realized that beneath the differences we are all very much alike. Finally, we capped off the day by having all staff and students wear yellow to school to commemorate the importance of Singapore developing friendships both within ASEAN as well as with the other countries around the world.
 
-[]
+![](/images/School%20Events/National%20Education/IFD2021-5.jpg)
 
 Happy International Friendship Day 2021!
