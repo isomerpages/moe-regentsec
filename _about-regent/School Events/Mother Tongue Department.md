@@ -12,13 +12,15 @@ MT Fortnight in Regent is a valuable learning opportunity where Regenites are im
 
 These activities have provided authentic opportunities for students to experience the various culture and heritage. Well done to all the participants of the MT Fortnight and to the Mother Tongue Department for such an engaging and educational exhibition of culture!
 
-[]
+![](/images/School%20Events/Mother%20Tongue%20Department/MTDept-1_MTFortnight2022-1.jpg)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTDept-2_MTFortnight2022-2.jpg)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTDept-3_MTFortnight2022-3.jpg)
 
 ---
 
 ## **Bingkisan Aidilfitri**
 
-[]
+![](/images/School%20Events/Mother%20Tongue%20Department/MTDept-4_BingkisanAidilfitri2021.jpg)
 
 In the spirit of giving and sharing in the month of Syawal, Regent’s Malay Language Unit has embarked on project ‘Bingkisan Aidilfitri’. ‘Bingkisan Aidilfitri’ is a collaboration between the Muslim staff of Regent Secondary School and our graduating students to express our sincere appreciation to our school support staff for their relentless effort in ensuring a safe and conducive environment for all staff and students.
 
@@ -34,15 +36,15 @@ A wide range of activities, both within and beyond the classrooms, were conducte
 
 Secondary 1 students had the opportunity to learn one form of handicraft, namely Wau Batik Painting and a Virtual Tour Programme of Kampung Glam.
 
-[]
+![](/images/School%20Events/Mother%20Tongue%20Department/MTDept-5_MTFortnight2021-1.jpg)
 
 Secondary 2 students, on the other hand, were introduced to Herbs & Spices and also had the opportunity to make Insect Repellant using natural sources.
 
-[]
+![](/images/School%20Events/Mother%20Tongue%20Department/MTDept-6_MTFortnight2021-2.jpg)
 
 Secondary 3 students, inclusive of the non-Malay students, had an enjoyable time with their classmates learning Dikir Barat. At the end of the second session, they had the chance to perform the new skill they had picked up.  In addition, the Malay students also had the opportunity to learn a form of handicraft in the form of Basket Weaving Workshop.
 
-[]
+![](/images/School%20Events/Mother%20Tongue%20Department/MTDept-7_MTFortnight2021-3.jpg)
 
 On top of those activities, the students were also able to experience activity booths during their recess and lunch breaks. The booths showcased different activities for the whole week. The activities ranged from Wau Batik Painting, Traditional Games, Wayang Kulit puppet-making and Roti Jala Making and displaying of Malay Hari Raya Cookies.
 
