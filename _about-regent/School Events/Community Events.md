@@ -4,7 +4,7 @@ permalink: /about-regent/school-events/community-events/
 description: ""
 third_nav_title: School Events
 ---
-### **Limbang National Day Dinner 2022**
+## **Limbang National Day Dinner 2022**
 
 Our Concert Band, Show Choir and Student Leaders participated in Limbang National Day Dinner on 8th August 2022. Thank you Limbang for this opportunity to bring joy and happiness to our community! Happy 57th National Day Singapore!
 
@@ -12,7 +12,7 @@ Our Concert Band, Show Choir and Student Leaders participated in Limbang Nationa
 
 ---
 
-### **Limbang PAssionArts Festival 2022**
+## **Limbang PAssionArts Festival 2022**
 
 On 23 July 2022, our Environmental Sciences Club and Modern Dance had the opportunity to participate in the Limbang PAssionArts Festival 2022. Environmental Sciences Club set up a Green Booth where our students shared their knowledge on environmental conservation with the community and our dance group showcased their talents through a modern dance performance.
 
@@ -29,7 +29,7 @@ Thank you Limbang for this opportunity for our students to contribute to the com
 
 ---
 
-### **Limbang Raya Show**
+## **Limbang Raya Show**
 
 On the 21st May 2022, Choa Chu Kang residents attended the Limbang Raya Show, organised by the Limbang Malay Activity Executive Committee (MAEC), held in our school hall. The event, graced by the Grassroots Adviser, Mr Lawrence Wong, saw guests streaming into the hall donning their best Hari Raya outfits.
 
@@ -44,7 +44,7 @@ On top of that, prizes that were given out to winners of stage games, lucky draw
 
 ---
 
-### **Hari Raya Celebration 2022**
+## **Hari Raya Celebration 2022**
 
 It has been two years our last Hari Raya mass celebrations in school and this year we are grateful for the chance to come together once more to enjoy the festivities celebrated by our Muslim teachers and peers. Nur ‘iliyin binte Joemarino from 4-Respect shares more about her experience of this special event.
 
@@ -61,7 +61,7 @@ Personally, I am grateful because it was the first time in two years that all Re
 
 ---
 
-### **Creation of Outdoor Diorama in Celebration of National Day @ Limbang**
+## **Creation of Outdoor Diorama in Celebration of National Day @ Limbang**
 
 ![](/images/School%20Events/Community%20Events/CommunityEvents-6%20NDDiorama1.jpg)
 
