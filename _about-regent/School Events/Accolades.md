@@ -4,7 +4,7 @@ permalink: /about-regent/School-Events/accolades/
 description: ""
 third_nav_title: School Events
 ---
-### **23rd Elementz Fair – Gold Award**
+## **23rd Elementz Fair – Gold Award**
 
 Have you ever wondered how planes fly? Or even thought about the best household chemicals that help to remove ink stains on your school uniform? Let our Elementz teams tell you how!
 
@@ -22,7 +22,7 @@ Team member Jacintha Lin shared that it was challenging for her to understand th
 
 ---
 
-### **North West School Partners Award 2022 – GOLD**
+## **North West School Partners Award 2022 – GOLD**
 
 We are delighted to share that Regent Secondary School has been awarded the North West Outstanding School Partner Award (Gold) for our active participation in North West Community Development Council (NWCDC) programmes in 2021!
 
@@ -35,7 +35,7 @@ Thank you, NWDC, for the recognition, and our heartiest congratulations to Regen
 
 ---
 
-### **NPCC Unit Overall Proficiency Award (UOPA) – Gold**
+## **NPCC Unit Overall Proficiency Award (UOPA) – Gold**
 
 We are pleased to announce that our National Police Cadet Corps (NPCC) unit has clinched the Gold Unit Overall Proficiency Award (UOPA) for the year 2021! The UOPA is awarded to school units each year to promote excellence and proficiency at all levels. Thanks to the hard work and “heart work” of its cadets and officers, the Regent NPCC unit has been able rise above the challenges brought about by the pandemic, and to uphold its exceptional track record of robust and spirited training sessions. As unit leaders Staff Sergeants Eason and Farahin shared, “Our NPCC unit has worked hard by persevering together, and we have all demonstrated the NPCC values as a unit. We are grateful and proud that we have achieved this award together. May we continue to strive for greater heights!”
 
@@ -44,7 +44,7 @@ We are pleased to announce that our National Police Cadet Corps (NPCC) unit has 
 
 ---
 
-### **‘O’ Level Examination Results Release 2022**
+## **‘O’ Level Examination Results Release 2022**
 
 On 12 January 2022, we welcome our graduands back to school. These students have demonstrated resilience in overcoming challenges and remained steadfast in achieving their goals.
 
@@ -63,7 +63,7 @@ We congratulate the batch of 2021 for their achievements and we wish them all th
 
 ---
 
-### **School Green Awards 2021**
+## **School Green Awards 2021**
 
 ![](/images/School%20Events/Accolades/SchGreenAwards2021-1.jpeg)
 ![](/images/School%20Events/Accolades/SchGreenAwards2021-2.jpeg)
@@ -79,7 +79,7 @@ This year, our students from the Environmental Sciences Club led the school-wide
 
 ---
 
-### **Accolades from Regent Red Cross Youth**
+## **Accolades from Regent Red Cross Youth**
 
 ![](/images/School%20Events/Accolades/RCY-Accolades_30-July.png)
 
