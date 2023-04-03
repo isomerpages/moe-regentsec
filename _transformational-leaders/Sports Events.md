@@ -3,7 +3,7 @@ title: Sports Events
 permalink: /confident-leaders/sports-events-2/
 description: ""
 ---
-## **Sec 4 & 5 Sports Carnival**
+## **Sec 4 & 5 Sports Carnival 2022**
 
 Sec 4 & 5 Sports Carnival (Ultimate Frisbee)
 
@@ -40,6 +40,20 @@ Through the event, Regenites were able to spend more time with their families an
 An awards ceremony was conducted on 14 April to recognise the spirited efforts of all. These included the top 10 boys and girls for each level and the top 3 staff (male/female). We are pleased to announce that 1-Integrity, 2-Empathy, 3-Integrity, and 4-Empathy clinched the Best Class awards for their levels! Kudos too to our Taekwondo team, which has been awarded “Best CCA”!
 
 Congratulations to all our award winners, and we hope to see all Regenites continue to stay active and healthy!
+
+---
+
+## **Exercise and Sports Science – Physiology**
+
+Exercise and Sports Science (ESS) is an interdisciplinary applied subject that was first introduced in Regent Secondary School in 2019. Through exciting theory and practical sessions conducted by our teachers, our students learn more about the science behind sporting achievements and phenomenon and acquire knowledge about sports physiology, motor learning and development, sports psychology, sports biomechanics, and sports sociology.
+
+This week, our ESS students hit the gym to learn more about the muscular system! They interacted with the gym equipment and had great fun learning about the various muscle groups and exercises to train up specific muscle groups.
+
+Of course, no trip to the gym is complete without a thorough understanding of the safety protocols when working out with gym equipment. Our students took away from the session pointers on how to handle gym equipment carefully as well as proper weight-lifting techniques so as to prevent any injuries.
+
+In the weeks to come, our passionate ESS students can look forward to applying the theories learnt in their practical assessment tasks and Developmental Log. It’s always fascinating to discover more about the hows and whys of sports performance!
+
+![](/images/School%20Events/Physical%20Education/ESSPhysiology-1.jpg)
 
 ---
 
