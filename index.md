@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer-Hero-BG-Bannerv2_GIF.gif
+      background: /images/rgt-studentleaders-banner-2023bv2.jpg
       key_highlights:
         - title: Financial Matters
           description: eGIRO application for school fees
