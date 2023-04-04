@@ -158,9 +158,10 @@ With safe management measures in place, the exercise was carried out in an effic
 
 In the month of April, we celebrated International Friendship Day (IFD) at Regent Secondary School! The theme for this year’s IFD is "Singapore in the World". From 5th to 9th April, students took part in various activities such as learning about Singapore's relations with countries around us during our morning assembly programme as well as understanding more about COVAX and Singapore’s contributions to the world during CCE lessons.
 
-![](/images/School%20Events/National%20Education/IFD2021-2.png)
-
-![](/images/School%20Events/National%20Education/IFD2021-3.png)
+*<center>Information sheets about COVAX created by Upper Sec students</center>*
+<img src="/images/School%20Events/National%20Education/IFD2021-2.png" style="width:70%">
+<br>
+<img src="/images/School%20Events/National%20Education/IFD2021-3.png" style="width:70%">
 
 Our Upper Secondary students have also prepared information sheets to educate their juniors about COVAX. Through this CCE-IFD lesson, students are more aware of the need for countries to offer practical help in ensuring the world is a safer place for all humanity.
 
