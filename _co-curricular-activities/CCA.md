@@ -27,7 +27,7 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [**Boys' Brigade**](/co-curricular-activities/uniformed-groups/boys-brigade/) | [**Girls' Brigade**](/co-curricular-activities/uniformed-groups/girls-brigade/) | [**National Police Cadet Corp (NPCC)**](/co-curricular-activities/Uniformed-Groups/npcc/) | [**Red Cross Youth**](/co-curricular-activities/red-cross/) |
+| [**Boys' Brigade**](/co-curricular-activities/uniformed-groups/boys-brigade/) | [**Girls' Brigade**](/co-curricular-activities/uniformed-groups/girls-brigade/) | [**National Police Cadet Corp (NPCC)**](/co-curricular-activities/uniformed-groups/npcc/) | [**Red Cross Youth**](/co-curricular-activities/uniformed-groups/red-cross/) |
 
 #### **Sports & Games**
 
