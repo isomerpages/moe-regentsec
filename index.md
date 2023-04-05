@@ -9,9 +9,12 @@ sections:
   - hero:
       background: /images/rgt-studentleaders-banner-2023bv2.jpg
       key_highlights:
-        - title: Financial Matters
-          description: eGIRO application for school fees
-          url: parents-and-partners/for-parents/financial-matters/
+        - title: Self-Directed Learners
+          description: ""
+          url: /self-directed-learners/academic-programmes/
+        - title: Transformational Leaders
+          description: ""
+          url: /transformational-leaders/secondary-1-orientation-2023/
   - resources:
       subtitle: Latest Announcement
       button: More
