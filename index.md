@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/rgt-studentleaders-banner-2023bv2.jpg
+      background: /images/regent webbanner 2023.jpg
       key_highlights:
         - title: Self-Directed Learners
           description: ""
