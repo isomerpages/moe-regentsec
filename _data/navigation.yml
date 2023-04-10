@@ -1,13 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/schoolLogo300x131WebLogov4.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Regent
+    collection: about-regent
+  - title: Our Learners
+    collection: self-directed-learners
+  - title: Our Leaders
+    collection: transformational-leaders
+  - title: CCAs
+    collection: co-curricular-activities
+  - title: Our Partners
+    collection: parents-and-partners
+  - title: Useful Links
+    collection: useful-links
