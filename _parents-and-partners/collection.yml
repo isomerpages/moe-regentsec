@@ -2,6 +2,8 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - For Parents/DSA application for Secondary One Admission in 2024 for
+        Regent Secondary School.md
       - For Parents/DSA application for Secondary One Admission in 2023 for
         Regent Secondary School.md
       - For Parents/.keep
