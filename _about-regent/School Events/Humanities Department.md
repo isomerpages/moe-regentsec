@@ -12,6 +12,9 @@ There were gasps of awe and delight as our students entered the Sands Theatre an
 
 The trip to the theatre was undoubtedly a rich learning experience for our Regenites, and we look forward to the next!
 
+![](/images/School%20Events/Humanities%20Department/S2EnrichProgLKYMusical-1.jpg)
+![](/images/School%20Events/Humanities%20Department/S2EnrichProgLKYMusical-2.jpg)
+
 ---
 
 ### **Geography Fieldwork**
@@ -26,6 +29,9 @@ Here are some thoughts and reflections of some of our Secondary 3 Geographers af
 
 “Through the process of collecting geographical data along Pasir Ris beach, it allowed me to discover and challenge theories which were previously taught and discussed in class. This fieldwork has also allowed me to extend my learning beyond the classroom. We were fortunate enough to see the rich biodiversity found at Pasir Ris, such as monitor lizards, mudskippers, tree climbing crabs and even a snake! I had a wonderful time doing this fieldwork and hope that we have the opportunity to carry out similar fieldtrips in the future!” – Shinnel (3-Integrity)
 
+![](/images/School%20Events/Humanities%20Department/S3GeoInvestig2022-1.jpg)
+![](/images/School%20Events/Humanities%20Department/S3GeoInvestig2022-2.jpg)
+
 ---
 
 ### **Cool Factor Learning Journey to Gardens by the Bay & Tourism Fieldwork**
@@ -38,6 +44,9 @@ Ashlee Lim (Secondary Four) shared that she has learnt about interesting facts a
 
 It was a great opportunity for the students to experience tourism concepts beyond the classroom setting.
 
+![](/images/School%20Events/Humanities%20Department/S4GeoLJGardensByTheBay-1.jpg)
+![](/images/School%20Events/Humanities%20Department/S4GeoLJGardensByTheBay-2.jpg)
+
 ---
 
 ### **Learning Journey to National Museum**
@@ -48,13 +57,19 @@ Students who went for the trip had a riveting time immersing themselves in in a 
 
 After a hiatus from Learning Journeys due to the pandemic, we are glad that our students had a chance to expand their horizons beyond the four classroom walls and step into our enchanting past. We also hope that this intriguing experience will make all of us more proud to be a Singaporean or part of the Singapore community!
 
+![](/images/School%20Events/Humanities%20Department/S2LJNationalMuseum-1.jpg)
+
 ---
 
 ### **Bringing Geography to Life!**
 
 To find out more about the dynamic nature of coastal environments, 15 geography students and 4 teachers conducted a Geographical Investigation using the Inquiry-Based Learning (IBL) at Pasir Ris Park on 17 March 2021.
 
+![](/images/School%20Events/Humanities%20Department/S3GeoInvestig2021-1.jpg)
+
 Students carried out a series of fieldwork investigations, such as sketching the coastal environment, measuring the beach profile and determining the direction of longshore drift in order to test various hypotheses on the relationships between the human and the physical coastal environment. One experiment conducted was investigating how long an orange took to travel from one point to another when carried by the sea waves. Back in the classroom, students analysed the data collected to rethink and challenge theories that they had learnt.
 
-It was definitely an eye-opening experience for our young Geographers as they continued to experience what it means to be a Geographer.
+![](/images/School%20Events/Humanities%20Department/S3GeoInvestig2021-2.jpg)
+![](/images/School%20Events/Humanities%20Department/S3GeoInvestig2021-3.jpg)
 
+It was definitely an eye-opening experience for our young Geographers as they continued to experience what it means to be a Geographer.
