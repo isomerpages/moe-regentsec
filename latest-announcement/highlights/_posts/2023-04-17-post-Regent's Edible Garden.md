@@ -14,3 +14,10 @@ In the first session, the students sweat it out to build the planter beds from w
 
 Now, it’s time to care for the plants daily by watering them and seeing them grow! We are excited to have not just our members but also teachers and students from the Boys’ and Girls’ Brigade to help us in watering the plants especially on Saturdays! Indeed, it’s a community of effort as we cultivate sustainability habits!
 
+![Regent's Edible Garden 1](/images/Highlights%20Post/RegentsEdibleGarden-1.jpg)
+![Regent's Edible Garden 2](/images/Highlights%20Post/RegentsEdibleGarden-2.jpg)
+![Regent's Edible Garden 3](/images/Highlights%20Post/RegentsEdibleGarden-3.jpg)
+![Regent's Edible Garden 4](/images/Highlights%20Post/RegentsEdibleGarden-4.jpg)
+![Regent's Edible Garden 5](/images/Highlights%20Post/RegentsEdibleGarden-5.jpg)
+
+📹 Click to watch [Regent's Edible Garden](https://youtu.be/jB-_7GZVR7M) video
