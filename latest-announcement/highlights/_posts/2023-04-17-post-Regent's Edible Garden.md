@@ -20,4 +20,6 @@ Now, it’s time to care for the plants daily by watering them and seeing them g
 ![Regent's Edible Garden 4](/images/Highlights%20Post/RegentsEdibleGarden-4.jpg)
 ![Regent's Edible Garden 5](/images/Highlights%20Post/RegentsEdibleGarden-5.jpg)
 
-📹 Click to watch [Regent's Edible Garden](https://youtu.be/jB-_7GZVR7M) video
+#### Regent's Edible Garden video
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jB-_7GZVR7M" height="315" width="560"></iframe>
