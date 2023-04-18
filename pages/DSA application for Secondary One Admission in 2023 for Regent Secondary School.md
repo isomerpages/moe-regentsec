@@ -3,7 +3,6 @@ title: DSA application for Secondary One Admission in 2023 for Regent Secondary 
 permalink: /useful-links/direct-school-admission-dsa/
 description: ""
 ---
-
 ### **DSA application for Secondary One Admission in 2023 for Regent Secondary School**
 
 We cordially invite eligible students in one of the following areas to apply:
@@ -46,7 +45,7 @@ For more information on Direct School Admission, please visit:
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 **Please note that:**  
-Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA Sec School for the entire duration of the programme. 
+Students successfully allocated to their DSA-Sec schools&nbsp;will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA Sec School for the entire duration of the programme.&nbsp;
 
 _Meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
 
