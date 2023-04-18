@@ -4,7 +4,7 @@ permalink: /about-regent/school-events/psg-schoolevents/
 description: ""
 third_nav_title: School Events
 ---
-Parents Support Group BBQ
+## **Parents Support Group BBQ**
 
 About 100 Parent Support Group (PSG) members, students and staff of Regent Secondary School gathered at the school canteen on 25 June 2022 for the first face-to-face event since the COVID-19 pandemic - the eagerly awaited BBQ!
 
@@ -16,3 +16,8 @@ It was indeed a relaxing time of bonding with family members and with one anothe
 
 We look forward to the next bonding session!
 
+![](/images/School%20Events/PSG/parentsuppgrpbbq2022-1.jpg)
+![](/images/School%20Events/PSG/parentsuppgrpbbq2022-2.jpg)
+![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-3.jpg)
+![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-4.jpg)
+![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-5.jpg)
