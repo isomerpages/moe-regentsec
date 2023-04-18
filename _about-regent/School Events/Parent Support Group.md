@@ -16,8 +16,8 @@ It was indeed a relaxing time of bonding with family members and with one anothe
 
 We look forward to the next bonding session!
 
-![](/images/School%20Events/PSG/parentsuppgrpbbq2022-1.jpg)
-![](/images/School%20Events/PSG/parentsuppgrpbbq2022-2.jpg)
+![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-1.jpg)
+![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-2.jpg)
 ![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-3.jpg)
 ![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-4.jpg)
 ![](/images/School%20Events/PSG/ParentSuppGrpBBQ2022-5.jpg)
