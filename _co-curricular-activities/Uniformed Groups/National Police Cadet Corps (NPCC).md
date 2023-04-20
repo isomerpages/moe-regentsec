@@ -7,9 +7,10 @@ third_nav_title: Uniformed Groups
 ![](/images/CCA/NPCC/NPCCBanner%20-%202023.jpg)
 
 #### Teachers-in-charge   
-Ms Lydia Li  
-Ms Chua Xin Rong  
-Mr Zulkifllie Bin Abd Razak
+Ms Li Huilin Lydia - IC  
+Ms Sharanjeet Kaur Locham  
+Mdm Vernice Palai Velvizhi  
+Mr Muhammad Ridhwan Bin Mohammad Muzaki
 
 #### Vision  
 To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
