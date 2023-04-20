@@ -7,9 +7,9 @@ third_nav_title: Performing Arts
 ![](/images/CCA/Concert%20Band/BANDBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Nur Zahidah  
-Ms Jillyan Siow  
-Mdm Malathi Murugesan
+Ms Nur Zahidah Binte A'aidil Shari - IC  
+Ms Jillyan Siow Pei Tian  
+Mdm Malathi D/O Murugesan
 
 #### Vision  
 Every band member is a passionate musician
@@ -52,4 +52,4 @@ Under the baton of Mr Nigel Leong and Ms Ng Siang Yee, the Regent Concert Band a
 
 #### Regent Percussion Ensemble
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zj0nesKZooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zj0nesKZooM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
