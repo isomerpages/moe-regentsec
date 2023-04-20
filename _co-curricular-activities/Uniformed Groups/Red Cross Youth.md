@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 ![](/images/CCA/Red%20Cross%20Youth/RCYBanner%20-%202023.jpg)
 
 #### Teachers-in-Charge  
-Mr  Shawn Hong Yang  
+Mr Shawn Hong Yang - IC  
 Ms Rachel Lau Hui En  
 Mr Lim Wenhao Joshua Augustine
 
