@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 ![](/images/CCA/Show%20Choir/SWCHRBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mrs Elsie Mathews  
+Mrs Elsie Mathews - IC   
 Mdm Dian Syahidah  
 Mdm Li Jing
 
@@ -42,13 +42,13 @@ With the support and guidance of our school leaders, teachers, and professional 
 **2019**
 
 *   Singapore Youth Festival Arts Presentation – Accomplishment
-*    B-Dazzled! Festival – Diamond Award, Best Showmanship and Best Choreography
+*   &nbsp;B-Dazzled! Festival – Diamond Award, Best Showmanship and Best Choreography
 *   Limbang-Yew Tee 2020 New Year Countdown
 *   NDP Heartlands 2019 @ North West District
 
 **2018**
 
-*    B-Dazzled! Festival – Diamond Award and Best Showmanship
+*   &nbsp;B-Dazzled! Festival – Diamond Award and Best Showmanship
 
 **2017**
 
@@ -57,7 +57,7 @@ With the support and guidance of our school leaders, teachers, and professional 
 ---
 
 ### **2022**
-#### B-Dazzled Music & Dance Festival
+#### B-Dazzled Music &amp; Dance Festival
 
 ![](/images/CCA/Show%20Choir/SHWCHR-1.jpg)
 
@@ -92,7 +92,7 @@ Show Choir members saluted the teachers with a dance performance.
 
 #### **e-CCA**
 
-With the onset of COVID-19 pandemic and safe management measures (SMM) in place, vocal and dance training went online during some periods of the past two years. . One project embarked by students was the **virtual choir project**. They worked in groups using Soundtrap, a cloud studio application, to record, upload and edit their singing tracks. It culminated in the virtual music showcase where students showcased their talents and receive feedback and motivation from their friends, choir instructor, and teachers.
+With the onset of COVID-19 pandemic and safe management measures (SMM) in place, vocal and dance training went online during some periods of the past two years. . One project embarked by students was the&nbsp;**virtual choir project**. They worked in groups using Soundtrap, a cloud studio application, to record, upload and edit their singing tracks. It culminated in the virtual music showcase where students showcased their talents and receive feedback and motivation from their friends, choir instructor, and teachers.
 
 Enjoy listening to a few samples of students’ singing.
 
