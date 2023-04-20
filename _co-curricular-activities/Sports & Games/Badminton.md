@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 ![](/images/CCA/Badminton/BMTBanner%20-%202023.jpg)
 
 #### Teachers-in-charge 
-Ms Hap Guilian  
+Ms Hap Guilian - IC  
 Mr Koh Eng Huat  
 Mr Kwek Liang Wei Shawn
 
