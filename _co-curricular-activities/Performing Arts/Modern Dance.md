@@ -7,8 +7,8 @@ third_nav_title: Performing Arts
 ![](/images/CCA/Modern%20Dance/MODDNBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mr Yunus B Mohamed  
-Mdm Koh Huey Min  
+Mr Yunus Bin Mohamed - IC  
+Ms Koh Huey Min  
 Ms Yee Jia Min Josephine
 
 #### Vision 
