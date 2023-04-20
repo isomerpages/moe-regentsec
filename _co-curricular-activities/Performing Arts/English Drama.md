@@ -7,9 +7,10 @@ third_nav_title: Performing Arts
 ![](/images/CCA/English%20Drama/ELDABanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Goh Rui Qi Adeline  
-Ms Lim Hui Min Vanessa  
-Mdm Nor Rashidah
+Ms Goh Rui Qi, Adeline - IC  
+Ms Lim Hui Min, Vanessa  
+Mdm Nor Rasidah Bte Mohd Salleh  
+Ms Lee Wen Chen
 
 #### Vision  
 To be expressive and creative speakers with a passion for Drama
@@ -23,7 +24,7 @@ Regent’s English Drama aims to empower students with the skills to become expr
 
 *   NAC-AEP Drama Workshops
 *   Improvisation
-*   Make-Up & Costume Design
+*   Make-Up &amp; Costume Design
 *   Production Design
 *   Props Making
 *   Script-Writing
@@ -31,7 +32,7 @@ Regent’s English Drama aims to empower students with the skills to become expr
 
 **2021**
 
-*   Singapore Youth Festival – **Distinction**
+*   Singapore Youth Festival –&nbsp;**Distinction**
 *   Limbang Virtual National Day Celebrations (Zoom Production)
 
 **2020**
@@ -57,4 +58,4 @@ Regent’s English Drama aims to empower students with the skills to become expr
 ![](/images/CCA/English%20Drama/ELDA-2.jpg)
 ![](/images/CCA/English%20Drama/ELDA-3.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4mgKkVpeQ_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4mgKkVpeQ_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
