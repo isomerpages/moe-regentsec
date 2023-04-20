@@ -7,9 +7,8 @@ third_nav_title: Clubs and Societies
 ![](/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mr Muhammad Fauzan Bin Sapuan  
+Mr Muhammad Fauzan Bin Sapuan - IC  
 Mdm Zainab Banu Binte Hassan  
-Mdm Susi Haryani Binti Sutara
 
 #### Vision                              
 To develop Regenites to be a future-ready and responsible digital learner.
