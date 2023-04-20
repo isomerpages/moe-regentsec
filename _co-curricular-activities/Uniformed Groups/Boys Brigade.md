@@ -7,9 +7,8 @@ third_nav_title: Uniformed Groups
 ![](/images/CCA/Boys%20Brigade/BBBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Sally Sng  
-Mr Sebastian Soo  
-BB Captain: Lt Lim Yu Sheng
+Ms Sng Seok Hwa Sally - IC  
+Mr Soo Ley Gio Sebastian 
 
 #### Vision  
 Every Boy a Mentor to others
@@ -43,8 +42,8 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | 6     | Enrolment and Dedication Ceremony with 100 parents who turn up to support |
 | 7     | Founder’s Man Recipient @ Orchid Country Club – SSGT Jenson Chan |
 | 8     | National Day Parade @Floating Platform – 20 Boys represent BBHQ Contingent |
-| 9     | BB Cares @St Luke’s Eldercare Keat Hong on 16th Sept and 21st Oct |
-| 10     | BB Character Quest @ St Hilda’s Secondary on 17th Sept – Gold Honour Roll |
+| 9     | BB Cares&nbsp;@St Luke’s Eldercare Keat Hong on 16th Sept and 21st Oct |
+| 10     | BB Character Quest&nbsp;@ St Hilda’s Secondary on 17th Sept – Gold Honour Roll |
 | 11     | BB Cycling cum Expedition on 29th Oct |
 | 12     | BB Awards and Promotion Ceremony on 19th Nov |
 
