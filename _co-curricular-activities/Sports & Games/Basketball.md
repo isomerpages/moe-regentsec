@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 ![](/images/CCA/Basketball/BBALLBanner%20-%202023.jpg)
 
 #### Teacher-in-charge
-Mr Michael Kwok  
+Mr Michael Kwok - IC  
 Mr Tan Kai Yik  
 Mr Shen Jian
 

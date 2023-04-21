@@ -7,8 +7,8 @@ third_nav_title: Clubs and Societies
 ![](/images/CCA/Environmental%20Science/ENVSCIBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Karen Lee Chai Lin  
-Mr Kesavan S/O Veerappen
+Mr Kesavan S/O Veerappen - IC  
+Ms Karen Lee Chai Lin
 
 #### Vision   
 Everyone in the community is an environment advocate

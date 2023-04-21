@@ -7,9 +7,8 @@ third_nav_title: Uniformed Groups
 ![](/images/CCA/Girls%20Brigade/GBBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mdm Annie Teo  
-Ms Joan Lim  
-GB Captain: Goh Zhi Qing
+Ms Joan Lim Hui Mian - IC  
+Ms Annie Teo  Chai Hoon
 
 #### Mission  
 Developing each girl and officer to her fullest potential by equipping, empowering and enabling
@@ -21,7 +20,7 @@ Every Officer a Servant Leader
 
 ![](/images/CCA/2022%20Girls%20Brigade%20Formal.jpg)
 
-The 81st Girls’ Brigade @ Regent started in 2020 with 6 girls.  This year, we have an additional 7 girls who joined us. The motto of Girls’ Brigade is “Every girl a servant leader”. Girls are given the opportunities to take on leadership roles and explore their strengths and weaknesses. In Girls’ Brigade, we hope to develop girls who are strong in character and have a willing heart to serve.
+The 81st&nbsp;Girls’ Brigade @ Regent started in 2020 with 6 girls.&nbsp; This year, we have an additional 7 girls who joined us. The motto of Girls’ Brigade is “Every girl a servant leader”. Girls are given the opportunities to take on leadership roles and explore their strengths and weaknesses. In Girls’ Brigade, we hope to develop girls who are strong in character and have a willing heart to serve.
 
 Every Girl in the Explorer’s Programme will:
 
@@ -58,8 +57,7 @@ Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 2**](https://w
 ![](/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-2.jpeg)
 ![](/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-3.jpeg)
 ![](/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-4.jpeg)
-<img src="/images/CCA/Girls%20Brigade/LGT-Trophy.png" 
-     style="width:50%">
+<img src="/images/CCA/Girls%20Brigade/LGT-Trophy.png" style="width:50%">
 
 ---
 

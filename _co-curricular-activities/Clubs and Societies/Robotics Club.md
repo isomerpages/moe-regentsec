@@ -7,7 +7,7 @@ third_nav_title: Clubs and Societies
 ![](/images/CCA/Robotics%20Club/ROBOTBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mr Mark Chee Kong  
+Mr Mark Chee Kong - IC  
 Ms Crystal Tay Yen Yen
 
 #### Vision  

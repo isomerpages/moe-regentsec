@@ -7,8 +7,9 @@ third_nav_title: Sports & Games
 ![](/images/CCA/Netball/NTBLBanner%20-%202023.jpg)
 
 #### Teachers-in-charge
-Ms Melissa Lim  
-Ms Pek Yan Shan
+Ms Melissa Lim - IC  
+Ms Pek Yan Shan  
+Mdm Liew Yu Kun
 
 #### Vision
 To be a confident player and competent leader

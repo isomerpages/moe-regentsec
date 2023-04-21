@@ -7,7 +7,7 @@ third_nav_title: Clubs and Societies
 ![](/images/CCA/Design%20and%20Innovation/DESINVBanner%20-%202023.jpg)
 
 #### Teachers-In-Charge  
-Ms Cheak Yen Hui  
+Ms Cheak Yen Hui - IC  
 Ms Aisha Yasmin Binte Abdul Raman
 
 #### Vision  

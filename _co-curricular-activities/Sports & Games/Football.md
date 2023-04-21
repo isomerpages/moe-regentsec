@@ -7,9 +7,9 @@ third_nav_title: Sports & Games
 ![](/images/CCA/Football/FTBLBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mr Issac Jiang  
-Mr Mohammad Suhaimi  
-Mr Edwin Chew
+Mr Isaac Jiang Yuhang - IC  
+Mr Mohammad Suhaimi B Mohd Salleh  
+Mr Chew Tec Heng Edwin
 
 #### Vision
 Every player a dedicated sportsperson and competent leader.
