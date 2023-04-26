@@ -11,17 +11,19 @@ Each year, our students have the opportunity to take part in Science Buskers, an
 
 ## **Science Learning Journeys**
 
-Science Learning Journeys is a series of activities to enthuse our students to learn science beyond our classroom.  It includes short workshops which allow them to apply what they have learnt in classroom to real world context. There are also research work which requires them to collect data for their experiment during School Holidays.
+Science Learning Journeys is a series of activities to enthuse our students to learn science beyond our classroom. &nbsp;It includes short workshops which allow them to apply what they have learnt in classroom to real world context. There are also research work which requires them to collect data for their experiment during School Holidays.
 
 *   Enrichment – Learning journey to fusion world, Surprising Science, Forensic Science, Cluster Science for Sec 1, NUS Physics Camp, AEM – Fighting Invisible Enemies
 *   Competitions – Singapore Junior Water Prize, Science Centre Research, Science Busking Festival
 
+
+
 ![](/images/Enrichment%20Programmes/EnrichmentProg_2a-SciLJ.jpg)
 
-![](/images/Student-helpers-and-participants-at-Cluster-Science-Enrichment.png)
+![](/images/Enrichment%20Programmes/EnrichmentProg_2B-SciLJ.png)
 <center><i>Student helpers and participants at Cluster Science Enrichment</i></center>
 
-![](/images/Students-experimenting-with-their-hypothesis-during-Science-Centre-Research-Programme.png)
+![](/images/Enrichment%20Programmes/EnrichmentProg_2C-SciLJ.png)
 <center><i>Students experimenting with their hypothesis during Science Centre Research Programme</i></center>
 
 ## **Geography Inquiry**
@@ -46,7 +48,7 @@ Above all, we hope for our young Geographers at Regent to be informed and concer
 
 ## **Historical Investigations**
 
-In Historical Investigations, students explore a range of authentic sources to glean perspectives of the lives of people in the past and infer on life old Singapore.   Students also navigate through various historical sites in Singapore and encounter authentic learning experiences which help them connect with their learning.
+In Historical Investigations, students explore a range of authentic sources to glean perspectives of the lives of people in the past and infer on life old Singapore. &nbsp; Students also navigate through various historical sites in Singapore and encounter authentic learning experiences which help them connect with their learning.
 
 *   Secondary 1- Fort Canning: Students learnt about the history of Singapore before 1819 by analysing sources found at Fort Canning Hill.
 *   Secondary 2 – Battlebox: Battlebox is a former WWII British underground command centre inside Fort Canning Hill in the heart of Singapore City. It was part of the headquarters of Malaya Command, the army which defended Malaya and Singapore in WWII. It was inside the Battlebox that the British made the decision to surrender Singapore to the invading Japanese on 15 February 1942. Students visited the Battlebox which has been converted into a museum to learn stories on the fall of Malaya and Singapore in WWII.
@@ -55,7 +57,7 @@ In Historical Investigations, students explore a range of authentic sources to g
 
 ## **Conversational Chinese and Malay Language (CCM) Programme**
 
-Conversational Chinese and Malay Language (CCM) Programme  aims to strengthen Singapore’s multiracial identity and expose students to a third language.  Students will have an elementary understanding of a different mother tongue language and have the opportunity to explore cultural aspects of a particular ethnic group. Being able to communicate with others in a different mother tongue language will enable students to expand their cultural consciousness beyond their individual ethnic groups.  At the end of the programme, students will be equipped with basic conversational skills to enable them to interact with native speakers confidently.
+Conversational Chinese and Malay Language (CCM) Programme &nbsp;aims to strengthen Singapore’s multiracial identity and expose students to a third language. &nbsp;Students will have an elementary understanding of a different mother tongue language and have the opportunity to explore cultural aspects of a particular ethnic group. Being able to communicate with others in a different mother tongue language will enable students to expand their cultural consciousness beyond their individual ethnic groups. &nbsp;At the end of the programme, students will be equipped with basic conversational skills to enable them to interact with native speakers confidently.
 
 **Content:**
 
