@@ -12,6 +12,9 @@ sections:
         - title: Self-Directed Learners
           description: ""
           url: /self-directed-learners/academic-programmes/
+        - title: DSA application for Secondary One Admission in 2024
+          description: Read More
+          url: /parents-and-partners/for-parents/direct-school-admission-dsa-2024/
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation-2023/
