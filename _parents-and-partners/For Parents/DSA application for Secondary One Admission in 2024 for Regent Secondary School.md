@@ -20,6 +20,15 @@ We cordially invite eligible students in one of the following areas to apply:
 | **Show Choir** | The applicant must satisfy any one of the following:<br><br>• Attended Choir/ Show Choir CCA<br>• Represented the school at a local/international choir competition (e.g. B-Dazzled Show Choir Grand Festival, Singapore Youth Festival)<br>• Obtained any other outstanding achievement in singing and dancing, preferably through a recognized event |
 | **Uniformed Groups** | Our Uniformed Groups consist of Boys’ Brigade, Girls’ Brigade, NPCC and Red Cross Youth<br><br>We are looking for applicants who exhibit all or some of the following qualities to join the school:<br><br>• Possess strong leadership qualities – Holds a leadership position in a uniformed group, CCA or in the primary school (e.g. prefect, class monitor, sports leader)<br>• Good fitness level – Obtained at least a Silver Award in the Primary school NAPFA test<br>• Good character – Obtained a Conduct Grade of at least ‘Good’ in Primary 5 and 6. |
 
+### **KEY DATES**
+
+|  |  |
+| -------- | -------- |
+| **4 May (11am) to 31 May 2023 (3pm)**  | **Application Opens**<br><br>**If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass. If you are unable to apply online, approach your child’s Primary School for assistance.*<br><br>**If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)*<br><br>The application is free of charge.     |
+| **26 June to 11 September 2023**  | **Selection Period**<br><br>Shortlisted applicants will be notified via email/phone call to attend a selection session. Details of the selection session will be provided to the shortlisted applicants via email/phone call. |
+| **30 October to 3 November 2023 (3pm)**  | **School Preference Submission**<br><br>Students who received offers through DSA-Sec should submit their preferred choice of schools through the DSA-Sec Portal.  |
+| **Late November** | **DSA-Sec Allocation Results Release**<br><br>Successful candidates studying in MOE mainstream school will receive their results together with their PSLE Results through their primary school.<br><br>Candidates not studying in MOE mainstream schools will receive their DSA-Sec results via email. |
+
 For more information on Direct School Admission, please visit:-  
   
 [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
