@@ -16,11 +16,11 @@ We have listed some websites that give parental guidance on some popular social 
 
 |  	|  	|
 |---	|---	|
-| Facebook 	| https://www.facebook.com/safety/parents 	|
-| Instagram 	| https://help.instagram.com/154475974694511/?ref=hc_fnav 	|
-| Snapchat 	| https://www.connectsafely.org/wp-content/uploads/snapchat_guide.pdf 	|
+| Facebook 	| https://about.meta.com/actions/safety/audiences/childsafety 	|
+| Instagram 	| https://help.instagram.com/154475974694511/?helpref=hc_fnav 	|
+| Snapchat 	| https://connectsafely.org/snapchat/ 	|
 | Twitter 	| https://about.twitter.com/safety/families 	|
-| YouTube 	| https://www.commonsensemedia.org/blog/a-parents-ultimate-guide-to-youtube 	|
+| YouTube 	| https://www.commonsensemedia.org/articles/parents-ultimate-guide-to-youtube-kids 	|
 
 #### **Helping Your Child Manage Online Scams**
 ![](/images/Cyber%20Wellness%20Programme/Cyber-Wellness-for-Parents-Regent-School-Website1024_2-e1606195851724.jpg)
@@ -34,21 +34,24 @@ We have listed some websites that give parental guidance on some popular social 
 
 We have some useful articles here to help you stay current on Cyber Wellness.
 
-*   [Parents, the Guardians of Internet Safety](https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety)
-*   [Cyber Wellness – Useful Resources](https://www.schoolbag.sg/story/cyber-wellness---useful-resources#.V5Wi_fl951s)
-*   [Guide for Parents on Setting Parental Controls](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls#.V5Wh8Pl951s)
-*   [Understanding Cyber Wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness#.V5WjCPl951s)
-*   [Navigating the Cyber World Safely](https://www.schoolbag.sg/story/navigating-the-cyber-world-safely)
-*   [ICT in Schools: To Use or Not to Use?](https://www.schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use)
-*   [Play Safe – Avoid Online Gaming Addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction)
-*   [Safeguarding Your Child Online](https://www.schoolbag.sg/story/safeguarding-your-child-online)
-*   [Exploring Online, Safely and Confidently](https://www.schoolbag.sg/story/exploring-online-safely-and-confidently#.V5Wh4fl951s)
-*   [Spreading Cyber Wellness through Student Ambassadors](https://www.schoolbag.sg/story/spreading-cyber-wellness-through-student-ambassadors#.V5Wjb_l951s)
+*   [Parents, the Guardians of Internet Safety](https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety)
+*   [Cyber Wellness – Useful Resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
+*   [Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
+*   [Understanding Cyber Wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
+*   [Navigating the Cyber World Safely](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
+*   [ICT in Schools: To Use or Not to Use?](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)
+*   [Play Safe – Avoid Online Gaming Addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
+*   [Safeguarding Your Child Online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
+*   [Exploring Online, Safely and Confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
+*  [Keeping Our Teens Safe Online](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
+*   [Spreading Cyber Wellness through Student Ambassadors](https://www.schoolbag.edu.sg/story/spreading-cyber-wellness-through-student-ambassadors)
 *   [The best age to give your child a smart phone, according to Bill Gates](https://sg.theasianparent.com/best-age-smart-phone-kids/)
+*  [Parent kit - Supporting your child during full home-based learning](https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf)
+*  [Parent kit - Cyber wellness for your Child](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 
 ### **Cyber Wellness Resources by External Agencies**
 
-*   [Video Resources by MLC](https://www.medialiteracycouncil.sg/campaign2015/documents/videos/index.html)
-*   [Video Resources by NPCP](https://www.scamalert.sg/resources/videos)
-*   [Resources on SURE campaign by NLB](https://www.nlb.gov.sg/sure/category/resources/)
-*   [Resources by PDPC](https://www.pdpc.gov.sg/resources/for-individuals)
+*   [Video Resources by Media Literacy Council](https://www.betterinternet.sg/)
+*   [Video Resources by National Crime Prevention Council](https://www.scamalert.sg/resources/videos)
+*   [Resources on S.U.R.E by National Library Board](https://sure.nlb.gov.sg/resources/audience/)
+*   [Resources by Cyber Security Agency](https://www.csa.gov.sg/)

@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 ![](/images/CCA/Taekwondo/TKDBanner%20-%202023.jpg)
 
 #### Teachers-in-charge
-Mr Muhammad Muslihuddin  
+Mr Muhammad Muslihuddin - IC   
 Mr Teo Hock Siong
 
 #### Vision 
