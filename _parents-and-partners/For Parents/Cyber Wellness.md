@@ -38,7 +38,7 @@ We have some useful articles here to help you stay current on Cyber Wellness.
 *   [Cyber Wellness – Useful Resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
 *   [Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
 *   [Understanding Cyber Wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
-*   [Navigating the Cyber World Safely](https://www.schoolbag.sg/story/navigating-the-cyber-world-safely)
+*   [Navigating the Cyber World Safely](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
 *   [ICT in Schools: To Use or Not to Use?](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)
 *   [Play Safe – Avoid Online Gaming Addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
 *   [Safeguarding Your Child Online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
