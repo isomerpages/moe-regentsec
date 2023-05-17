@@ -43,8 +43,11 @@ We have some useful articles here to help you stay current on Cyber Wellness.
 *   [Play Safe – Avoid Online Gaming Addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
 *   [Safeguarding Your Child Online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
 *   [Exploring Online, Safely and Confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
+*  [Keeping Our Teens Safe Online](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
 *   [Spreading Cyber Wellness through Student Ambassadors](https://www.schoolbag.edu.sg/story/spreading-cyber-wellness-through-student-ambassadors)
 *   [The best age to give your child a smart phone, according to Bill Gates](https://sg.theasianparent.com/best-age-smart-phone-kids/)
+*  [Parent kit - Supporting your child during full home-based learning](https://www.moe.gov.sg/-/media/files/parent-kit/Parent-Kit_Supporting-your-child-during-Full-HBL.pdf)
+*  [Parent kit - Cyber wellness for your Child](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 
 ### **Cyber Wellness Resources by External Agencies**
 
