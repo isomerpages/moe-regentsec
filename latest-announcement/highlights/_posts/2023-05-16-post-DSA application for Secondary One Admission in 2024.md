@@ -41,7 +41,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 **Please note that:**  
 Students successfully allocated to their DSA-Sec schools&nbsp;will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA Sec School for the entire duration of the programme.&nbsp;
 
-_Meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
+<font color="red">_Meeting all the criteria does not guarantee the student will be shortlisted/given an offer._</font>
 
 For general enquiries, you may contact the following staff:
 
