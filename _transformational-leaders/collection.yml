@@ -2,6 +2,7 @@ collections:
   transformational-leaders:
     output: true
     order:
+      - Sec 4 & 5 Aspirations Camp/.keep
       - Secondary 1 Orientation/.keep
       - Secondary 1 Orientation/Secondary 1 Orientation 2023.md
       - Secondary 1 Orientation/Secondary 1 Orientation 2022.md
