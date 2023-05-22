@@ -18,4 +18,18 @@ For some of us, it was about creating memories with friends and classmates; for 
 
 If there is one takeaway from today, it is ‘When your legs get tired, run with your heart’!
 
-![](/images/Highlights%20Post/crosscountry2023-1.jpeg)
+![](/images/Highlights%20Post/CrossCountry2023-1.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-2.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-3.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-4.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-5.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-6.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-7.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-8.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-9.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-10.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-11.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-12.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-13.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-14.jpg)
+![](/images/Highlights%20Post/CrossCountry2023-15.jpg)
