@@ -18,3 +18,4 @@ For some of us, it was about creating memories with friends and classmates; for 
 
 If there is one takeaway from today, it is ‘When your legs get tired, run with your heart’!
 
+![](/images/Highlights%20Post/crosscountry2023-1.jpeg)
