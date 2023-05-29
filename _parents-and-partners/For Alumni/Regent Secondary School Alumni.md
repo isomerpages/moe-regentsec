@@ -16,12 +16,11 @@ Regent Secondary School values our relationship with the Alumni and welcomes you
 
 Register to join the Regent Sec Alumni by scanning the QR code below!
 
-<img src="/images/For%20Alumni/Alumni_QR-300x300.png" 
-     style="width:25%">
+<img src="/images/For%20Alumni/Alumni_QR-300x300.png" style="width:25%">
 		 
 ### **Get updates on School Events and Programmes**
 
-Like us on Regent Secondary School’s Facebook page [https://www.facebook.com/RGTSecondary/](https://www.facebook.com/RGTSecondary/) to be updated on school events and programmes.
+Like us on Regent Secondary School’s Facebook page&nbsp;[https://www.facebook.com/RGTSecondary/](https://www.facebook.com/RGTSecondary/)&nbsp;to be updated on school events and programmes.
 
 ### **Achievements of Alumni**
 #### **Achievements of 2018**
@@ -37,9 +36,9 @@ Like us on Regent Secondary School’s Facebook page [https://www.facebook.com/
 ##### **Ex Regenite Graduates with an Honours Degree**
 
 
-_Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Buisness Management and Accountancy under the University Scholars Programme. He is working with Visa as a business consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements._
+_Mr&nbsp;Randy&nbsp;(ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Buisness Management and Accountancy under the University Scholars Programme. He is working with Visa as a business consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements._
 
-📰 Click  [Newspaper Article 1](/files/Randy.pdf) to view the achievement which was published in the Lianhe Wanbao
+📰 Click  [Newspaper Article 1](/files/Randy.pdf) to view the achievement which was published in the Lianhe&nbsp;Wanbao
 
 “Source: \[Lianhe Wanbao\] © Singapore Press Holdings Limited. Permission required for reproduction”.
 
@@ -56,32 +55,28 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 
 #### **Achievements of 2016**
 
-<img src="/images/For%20Alumni/Siti-zaliha-bte.jpeg" 
-     style="width:50%">
+<img src="/images/For%20Alumni/Siti-zaliha-bte.jpeg" style="width:50%">
 		 
-<img src="/images/For%20Alumni/lim-xin-ying-1.jpeg" 
-     style="width:50%">
+<img src="/images/For%20Alumni/lim-xin-ying-1.jpeg" style="width:50%">
 
-*   **Siti Zaliha Binte Othman** with a Diploma a Chemical & Pharmaceutical Technology
+*   **Siti Zaliha Binte Othman** with a Diploma a Chemical &amp; Pharmaceutical Technology
 *   **Lim Xin Ying Shirlyn** with Diploma in Business Informatics
 *   **Ang Wei Sheng** graduated with a Diploma in Manufacturing Engineering and is the proud recipient of the Siemens Award for Outstanding Project Work
-*   **Edmund Chen Chye Chai** graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Calyon Creativity Award
-*   **Rachael Lum Hui Ting** graduated with a Diploma in Motion Graphics & Broadcast Design and is the proud recipient of the Lee Hsien Loong Award, Infinite Frameworks Gold Medal and Infinite Frameworks Award for Outstanding Project Work (MGBD)
+*   **Edmund Chen Chye Chai** graduated with a Diploma in Motion Graphics &amp; Broadcast Design and is the proud recipient of the Calyon Creativity Award
+*   **Rachael Lum Hui Ting** graduated with a Diploma in Motion Graphics &amp; Broadcast Design and is the proud recipient of the Lee Hsien Loong Award, Infinite Frameworks Gold Medal and Infinite Frameworks Award for Outstanding Project Work (MGBD)
+    -   📹 Click [**here**](https://youtu.be/9Fd9I2U06Ko) to watch the video of Lee Hsien Loong Award recipient Rachael Lum.
 
 ![](/images/For%20Alumni/rachel-768x768.jpg)
 <center><i>Lee Hsien Loong Award presented to Rachael Lum Hui Ting</i></center>
 
-📹 Click [**here**](https://youtu.be/9Fd9I2U06Ko) to watch the video of Lee Hsien Loong Award recipient Rachael Lum.
-
-<img src="/images/For%20Alumni/republic-poly.jpeg" 
-     style="width:75%">
+<img src="/images/For%20Alumni/republic-poly.jpeg" style="width:75%">
 		 
 ![](/images/For%20Alumni/Edmund-ang.jpg)
 
 *   **Amanda Ho Qin Yi** with Diploma in Supply Chain Management, Republic Award
 *   **Lee Tin Hwee** with Diploma in Biomedical Sciences, Polytechnic Foundation Programe Scholarship
 *   **Max Pang Liang Hui** with Diploma in Interactive and Digital Media, Diploma Prize
-* Edmund Ang Jun Yan studied Diploma of Material Science (School of Applied Science) and has awarded Republic Award
+* **Edmund Ang Jun Yan** studied Diploma of Material Science (School of Applied Science) and has awarded Republic Award
 
 ---
 
@@ -98,7 +93,7 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 **Outstanding Graduands 2014**
 
 *   **Jonathan Lian Junwen**  
-    *Diploma In Sports & Wellness Management* | The Singapore Sports Council Bronze Medal
+    *Diploma In Sports &amp; Wellness Management* | The Singapore Sports Council Bronze Medal
 *   **Tay Guek Cheng Sandra**  
     *Diploma In Visual Communication* | Starlite Silver Medal
 *   **Wang Chenhao**  
@@ -120,8 +115,7 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 
 ![](/images/For%20Alumni/alumni_banner.jpg)
 
-<img src="/images/For%20Alumni/sg_poly.jpg" 
-     style="width:50%">
+<img src="/images/For%20Alumni/sg_poly.jpg" style="width:50%">
 		 
 ##### **Lim Hong Yi**
 *Diploma in Maritime Transportation Management* 
@@ -134,8 +128,7 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 * KS Energy Prize
 
 
-<img src="/images/For%20Alumni/ngee_ann_poly.jpg" 
-     style="width:50%">
+<img src="/images/For%20Alumni/ngee_ann_poly.jpg" style="width:50%">
 		 
 ##### **Adelle Ong Fang Min**
 *Diploma in Early Childhood Education*
@@ -144,12 +137,11 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 * Diploma Plus: Certificate in Business
 
 #### **Michelle Chan Shu Hui**
-*Diploma in Chinese Media & Communication*
+*Diploma in Chinese Media &amp; Communication*
 * Diploma with Merit
 * Threesixzero Production Prize
 
-<img src="/images/For%20Alumni/ny_poly.jpg" 
-     style="width:50%">
+<img src="/images/For%20Alumni/ny_poly.jpg" style="width:50%">
 		 
 ##### **Nora Fong Jianyi**
 *Diploma in Industrial Design*
@@ -157,18 +149,17 @@ _Mr Randy (ex-Regenite 2004-2007) just graduated from Nanyang Technological Un
 
 ![](/images/For%20Alumni/alumni-nyp-2.jpg)
 
-<img src="/images/For%20Alumni/ajc.jpg" 
-     style="width:50%">
-		 
-##### **Toh Yi An**
-GCE A Levels – 5 Distinctions
+<img src="/images/For%20Alumni/ajc.jpg" style="width:50%">
 
-		 
-<img src="/images/For%20Alumni/jjc.jpg" 
-     style="width:50%">
+
+##### **Toh Yi An**
+* GCE A Levels – 5 Distinctions | Anderson Junior College
+
+
+<img src="/images/For%20Alumni/jjc.jpg" style="width:50%">
 
 ##### **Toh Yong Hung**
-NTU College Scholarship
+* NTU College Scholarship | Jurong Junior College
 
 ### **Our Successful Students**
 
