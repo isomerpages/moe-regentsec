@@ -16,11 +16,11 @@ We have listed some websites that give parental guidance on some popular social 
 
 |  	|  	|
 |---	|---	|
-| Facebook 	| https://about.meta.com/actions/safety/audiences/childsafety 	|
-| Instagram 	| https://help.instagram.com/154475974694511/?helpref=hc_fnav 	|
-| Snapchat 	| https://connectsafely.org/snapchat/ 	|
-| Twitter 	| https://about.twitter.com/safety/families 	|
-| YouTube 	| https://www.commonsensemedia.org/articles/parents-ultimate-guide-to-youtube-kids 	|
+| Facebook 	| [https://about.meta.com/actions/safety/audiences/childsafety](https://about.meta.com/actions/safety/audiences/childsafety) 	|
+| Instagram 	| [https://help.instagram.com/154475974694511/?helpref=hc_fnav](https://help.instagram.com/154475974694511/?helpref=hc_fnav) 	|
+| Snapchat 	| [https://connectsafely.org/snapchat/](https://connectsafely.org/snapchat/) 	|
+| Twitter 	| [https://about.twitter.com/safety/families](https://about.twitter.com/safety/families) 	|
+| YouTube 	| [https://www.commonsensemedia.org/articles/parents-ultimate-guide-to-youtube-kids](https://www.commonsensemedia.org/articles/parents-ultimate-guide-to-youtube-kids) 	|
 
 #### **Helping Your Child Manage Online Scams**
 ![](/images/Cyber%20Wellness%20Programme/Cyber-Wellness-for-Parents-Regent-School-Website1024_2-e1606195851724.jpg)
