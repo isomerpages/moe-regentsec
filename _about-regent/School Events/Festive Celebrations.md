@@ -4,7 +4,7 @@ permalink: /about-regent/school-events/festive-celebrations/
 description: ""
 third_nav_title: School Events
 ---
-![](/images/Festive%20Celebrations.jpg)
+![](/images/School%20Events/Festive%20Celebrations/Festive%20Celebrations.jpg)
 
 ## **Chinese New Year 2023**
 
@@ -14,25 +14,25 @@ The day started off with students learning more about the significance of the Lu
 
 The celebrations concluded with a finale comprising Chinese New Year-themed videos, and we all sang a medley of CNY songs with much gusto.Here’s wishing all our readers and Regenites a bountiful and joyous New Year and may we all leap to new heights!
 
-![](/images/CNY%202022%20Celebration/CNY_2023-1.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-1.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-2.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-2.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-3.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-3.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-4.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-4.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-5.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-5.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-6.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-6.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-7.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-7.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-8.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-8.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-9.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-9.jpeg)
 
-![](/images/CNY%202022%20Celebration/CNY_2023-10.jpeg)
+![](/images/CNY%20Celebration/CNY_2023-10.jpeg)
 
 ---
 
