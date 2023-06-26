@@ -11,7 +11,7 @@ description: ""
 
 ![](/images/SMC%20&%20All%20Staff/SDT_2023_v2.jpg)
 
-![](/images/SMC%20&%20All%20Staff/ACT_2023_v2.jpg)
+![](/images/SMC%20&%20All%20Staff/ACT_2023_v4.png)
 
 ![](/images/SMC%20&%20All%20Staff/TLT_2023%20v4.png)
 
