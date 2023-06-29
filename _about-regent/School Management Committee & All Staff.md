@@ -9,23 +9,23 @@ description: ""
 
 ![](/images/SMC%20&%20All%20Staff/SL_2023%20v2.jpg)
 
-![](/images/SMC%20&%20All%20Staff/SDT_2023_v2.jpg)
+![](/images/SMC%20&%20All%20Staff/SDT_2023_v4.png)
 
-![](/images/SMC%20&%20All%20Staff/ACT_2023_v4.png)
+![](/images/SMC%20&%20All%20Staff/ACT_2023_v5.png)
 
-![](/images/SMC%20&%20All%20Staff/TLT_2023%20v4.png)
+![](/images/SMC%20&%20All%20Staff/TLT_2023_v5.png)
 
 ![](/images/SMC%20&%20All%20Staff/S1%20FT_2023%20v3.png)
 
-![](/images/SMC%20&%20All%20Staff/S2%20FT_2023%20v3.png)
+![](/images/SMC%20&%20All%20Staff/S2%20FT_2023_v4.png)
 
-![](/images/SMC%20&%20All%20Staff/S3%20FT_2023%20v3.png)
+![](/images/SMC%20&%20All%20Staff/S3%20FT_2023_v4.png)
 
-![](/images/SMC%20&%20All%20Staff/S4%20FT_2023%20v2.png)
+![](/images/SMC%20&%20All%20Staff/S4%20FT_2023_v3.png)
 
 ![](/images/SMC%20&%20All%20Staff/LST_2023%20v2.png)
 
-![](/images/SMC%20&%20All%20Staff/EAS_2023_v7.png)
+![](/images/SMC%20&%20All%20Staff/EAS_2023_v8.png)
 
 	
 #### **Form Teachers**
@@ -90,7 +90,7 @@ description: ""
 | OPERATIONS SUPPORT OFFICER 	| MDM LEONG WAI YOKE 	|
 | OPERATIONS SUPPORT OFFICER 	| MDM NORAISHAH WONG	|
 | OPERATIONS SUPPORT OFFICER 	| MDM RETHENAMA 	|
-| OPERATIONS SUPPORT OFFICER 	| MDM ROSNANI BTE ABDUL HAMID 	|
 | OPERATIONS SUPPORT OFFICER 	| MDM HARYATI BTE AMIN 	|
+| ADJ OPERATIONS SUPPORT OFFICER 	| MDM ROSNANI BTE ABDUL HAMID 	|
 | LIBRARIAN 	| MR YEO HUANG LIANG JOSHUA 	|
 | PRINTING & ADMIN ASST 	| MDM TAN AI HWA 	|
