@@ -10,8 +10,8 @@ description: ""
 | School Cockpit Internal | [https://schoolcockpit.moe.gov.sg/](https://schoolcockpit.moe.gov.sg/) |
 | All Ears Form Builder (MOE) | [https://forms.moe.edu.sg/](https://forms.moe.edu.sg/) |
 | Form SG | [https://form.gov.sg/](https://form.gov.sg/) |
-| Go.gov.sg Short link | [https://go.gov.sg/](https://go.gov.sg/) |
-| For.edu.sg Short link | [https://for.edu.sg/](https://for.edu.sg/) |
+| go.gov.sg Short link | [https://go.gov.sg/](https://go.gov.sg/) |
+| for.edu.sg Short link | [https://for.edu.sg/](https://for.edu.sg/) |
 | HRP | [https://www.hrp.gov.sg/hrp/#/](https://www.hrp.gov.sg/hrp/#/) |
 | OPAL 2.0 | [https://www.opal2.moe.edu.sg/](https://www.opal2.moe.edu.sg/) |
 | iExams | [https://iexams.seab.gov.sg/login](https://iexams.seab.gov.sg/login)
