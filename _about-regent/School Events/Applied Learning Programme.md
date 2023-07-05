@@ -4,7 +4,7 @@ permalink: /about-regent/school-events/alp-schoolevents/
 description: ""
 third_nav_title: School Events
 ---
-#### **SMART Nation Builder Truck Visit**
+### **SMART Nation Builder Truck Visit**
 
 The truck is here!
  
@@ -12,3 +12,5 @@ The Smart Nation Builder, a roving truck which showcases Singapore's digitalisat
  
 The visit certainly helped enhance our students' understanding of Singapore's fast-evolving technological landscape and how tech may be used to better engage citizens.
 
+![](/images/School%20Events/ALP/SMARTNationBuilder1.PNG)
+![](/images/School%20Events/ALP/SMARTNationBuilder2.PNG)
