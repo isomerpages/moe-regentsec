@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 #### Teachers-in-charge  
 Ms Sng Seok Hwa Sally - IC  
 Mr Soo Ley Gio Sebastian  
-Ms Faith Ong
+Ms Faith Ong Qi Rui
 
 #### Vision  
 Every Boy a Mentor to others
