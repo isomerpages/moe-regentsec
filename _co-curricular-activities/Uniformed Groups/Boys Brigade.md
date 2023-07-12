@@ -36,7 +36,7 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | S/N | Highlights / Achievements |
 | -------- | -------- |
 | 1     | JM Fraser Unit Award – High Distinction |
-| 2     | Cycling @ East Coast Award |
+| 2     | Cycling @ East Coast Park 18th Feb |
 | 3     | BB Week Competition – Gold Honour Roll and Most Improvement Award |
 | 4     | RTC &amp; LDC Day Camps 25th Feb &amp; 4th Mar |
 | 5     | BB Blaze Competition – Silver Honour Roll |
