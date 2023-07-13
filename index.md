@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Regent Secondary School
-description: An Isomer site of the Singapore Government
+description: A self-directed learner, a transformational leader in pursuit of excellence.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""

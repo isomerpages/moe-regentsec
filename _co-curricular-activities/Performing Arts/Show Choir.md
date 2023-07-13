@@ -9,7 +9,7 @@ third_nav_title: Performing Arts
 #### Teachers-in-charge  
 Mrs Elsie Mathews - IC   
 Mdm Dian Syahidah  
-Mdm Li Jing
+Ms Sarina Binte Samat
 
 #### Vision  
 All students are enthusiastic performers and appreciators of all forms of music and dance.

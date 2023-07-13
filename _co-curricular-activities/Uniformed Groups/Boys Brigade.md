@@ -8,7 +8,8 @@ third_nav_title: Uniformed Groups
 
 #### Teachers-in-charge  
 Ms Sng Seok Hwa Sally - IC  
-Mr Soo Ley Gio Sebastian 
+Mr Soo Ley Gio Sebastian  
+Ms Faith Ong Qi Rui
 
 #### Vision  
 Every Boy a Mentor to others
@@ -30,22 +31,22 @@ The Boys’ Brigade is the world’s first uniformed organisation for youth. The
 
 Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is spelt with a capital “B”.
 
-#### Highlights and Achievements in 2022
+#### Highlights and Achievements in 2023
 
 | S/N | Highlights / Achievements |
 | -------- | -------- |
-| 1     | JM Fraser Unit Award – Gold Honour Roll |
-| 2     | Total Defense Celebration – Parade Segment with BB as IC |
-| 3     | BB Week Competition – Silver Honour Roll |
-| 4     | UG Passing Out Parade – with UG Head (BB) leading |
-| 5     | BB Blaze Competition – Gold Honour Roll |
-| 6     | Enrolment and Dedication Ceremony with 100 parents who turn up to support |
-| 7     | Founder’s Man Recipient @ Orchid Country Club – SSGT Jenson Chan |
-| 8     | National Day Parade @Floating Platform – 20 Boys represent BBHQ Contingent |
-| 9     | BB Cares&nbsp;@St Luke’s Eldercare Keat Hong on 16th Sept and 21st Oct |
-| 10     | BB Character Quest&nbsp;@ St Hilda’s Secondary on 17th Sept – Gold Honour Roll |
-| 11     | BB Cycling cum Expedition on 29th Oct |
-| 12     | BB Awards and Promotion Ceremony on 19th Nov |
+| 1     | JM Fraser Unit Award – High Distinction |
+| 2     | Cycling @ East Coast Park 18th Feb |
+| 3     | BB Week Competition – Gold Honour Roll and Most Improvement Award |
+| 4     | RTC &amp; LDC Day Camps 25th Feb &amp; 4th Mar |
+| 5     | BB Blaze Competition – Silver Honour Roll |
+| 6     | Enrolment and Dedication Ceremony with 150 parents and BPGC Members support |
+| 7     | BB Fun Camp 26th to 28th with Wild Wild Wet |
+| 8     | National Day Parade @ Padang – 3 Boys represent BBHQ Contingent |
+| 9     | BB Cares @ St Luke’s Eldercare Keat Hong on 18th Aug and 5th Sept |
+| 10     | BB Character Quest on 26th August |
+| 11     | BB Cycling cum Expedition on 27th Oct |
+| 12     | BB Awards and Promotion Ceremony on 11th Nov |
 
 📹 **BB at National Day Parade 2022**  
 Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
