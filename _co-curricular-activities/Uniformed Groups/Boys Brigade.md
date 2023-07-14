@@ -41,7 +41,7 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | 4     | RTC &amp; LDC Day Camps 25th Feb &amp; 4th Mar |
 | 5     | BB Blaze Competition – Silver Honour Roll |
 | 6     | Enrolment and Dedication Ceremony with 150 parents and BPGC Members support |
-| 7     | BB Fun Camp 26th to 28th with Wild Wild Wet |
+| 7     | BB Fun Camp 26th to 28th May with Wild Wild Wet |
 | 8     | National Day Parade @ Padang – 3 Boys represent BBHQ Contingent |
 | 9     | BB Cares @ St Luke’s Eldercare Keat Hong on 18th Aug and 5th Sept |
 | 10     | BB Character Quest on 26th August |
@@ -51,6 +51,40 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 📹 **BB at National Day Parade 2022**  
 Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
 
+![](/images/CCA/Boys%20Brigade/BB2023-1.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-2.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-3.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-4.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-5.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-6.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-7.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-8.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-9.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-10.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-11.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-12.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-13.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-14.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-15.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-16.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-17.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-18.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-19.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-20.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-21.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-22.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-23.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-24.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-25.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-26.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-27.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-28.jpg)
+![](/images/CCA/Boys%20Brigade/BB2023-29.jpg)
+
+
+---
+
+#### **Past Activities**
 
 ![](/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg)<center>BB 91st Company</center>
 
@@ -75,33 +109,3 @@ Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
 ![](/images/CCA/Boys%20Brigade/BB-19.jpg)
 ![](/images/CCA/Boys%20Brigade/BB-20.jpg)
 ![](/images/CCA/Boys%20Brigade/BB-21.jpg)
-
----
-
-#### **Past Activities**
-
-![](/images/CCA/Boys%20Brigade/The-91st-BB-Company-1350x899.jpg)
-<center><i>The 91st BB Company – Regent Secondary School</i></center>
-
-![](/images/CCA/Boys%20Brigade/bb%201%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%202%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%203%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%204%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%205%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%206%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%207%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%208%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%209%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%209%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2010%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2011%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2012%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2013%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2014%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2015%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2016%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2017%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2018%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2019%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2020%20past.jpg)
-![](/images/CCA/Boys%20Brigade/bb%2021%20past.jpg)
