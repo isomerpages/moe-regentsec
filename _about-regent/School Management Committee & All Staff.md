@@ -15,11 +15,11 @@ description: ""
 
 ![](/images/SMC%20&%20All%20Staff/TLT_2023_v5.png)
 
-![](/images/SMC%20&%20All%20Staff/S1%20FT_2023%20v3.png)
+![](/images/SMC%20&%20All%20Staff/S1%20FT_2023_v4.png)
 
 ![](/images/SMC%20&%20All%20Staff/S2%20FT_2023_v4.png)
 
-![](/images/SMC%20&%20All%20Staff/S3%20FT_2023_v4.png)
+![](/images/SMC%20&%20All%20Staff/S3%20FT_2023_v5.png)
 
 ![](/images/SMC%20&%20All%20Staff/S4%20FT_2023_v3.png)
 
