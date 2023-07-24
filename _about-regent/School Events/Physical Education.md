@@ -44,20 +44,6 @@ Congratulations to all our award winners, and we hope to see all Regenites conti
 
 ---
 
-## **Exercise and Sports Science – Physiology**
-
-Exercise and Sports Science (ESS) is an interdisciplinary applied subject that was first introduced in Regent Secondary School in 2019. Through exciting theory and practical sessions conducted by our teachers, our students learn more about the science behind sporting achievements and phenomenon and acquire knowledge about sports physiology, motor learning and development, sports psychology, sports biomechanics, and sports sociology.
-
-This week, our ESS students hit the gym to learn more about the muscular system! They interacted with the gym equipment and had great fun learning about the various muscle groups and exercises to train up specific muscle groups.
-
-Of course, no trip to the gym is complete without a thorough understanding of the safety protocols when working out with gym equipment. Our students took away from the session pointers on how to handle gym equipment carefully as well as proper weight-lifting techniques so as to prevent any injuries.
-
-In the weeks to come, our passionate ESS students can look forward to applying the theories learnt in their practical assessment tasks and Developmental Log. It’s always fascinating to discover more about the hows and whys of sports performance!
-
-![](/images/School%20Events/Physical%20Education/ESSPhysiology-1.jpg)
-
----
-
 ## **Regent Around Singapore Virtual Challenge 2021**
 
 
