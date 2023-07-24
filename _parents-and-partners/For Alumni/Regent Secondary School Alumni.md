@@ -25,9 +25,14 @@ Like us on Regent Secondary School’s Facebook page&nbsp;[https://www.facebook.
 ### **Achievements of Alumni**
 #### **Achievements of 2018**
 
-![](/images/For%20Alumni/37370425_1945674552155539_8707109778100322304_n.jpg)
+<img src="/images/For%20Alumni/37370425_1945674552155539_8707109778100322304_n.jpg" style="width:60%">
+		<br>
+<img src="/images/For%20Alumni/Siddiq-Amsyar_Regent.jpg" style="width:60%">
 
-![](/images/For%20Alumni/Siddiq-Amsyar_Regent.jpg)
+*   **Chok Hui Ling**  
+    *Diploma In Visual Communication* | Robinson &amp; Co Silver Medal
+*   **Siddiq Amsyar Bin Shalan**  
+    *Diploma In Civil Engineering with Business* | Singapore Contractors Association Silver Medal
 
 ---
 
@@ -56,7 +61,7 @@ _Mr&nbsp;Randy&nbsp;(ex-Regenite 2004-2007) just graduated from Nanyang Technolo
 #### **Achievements of 2016**
 
 <img src="/images/For%20Alumni/Siti-zaliha-bte.jpeg" style="width:50%">
-		 
+		 <br>
 <img src="/images/For%20Alumni/lim-xin-ying-1.jpeg" style="width:50%">
 
 *   **Siti Zaliha Binte Othman** with a Diploma a Chemical &amp; Pharmaceutical Technology
