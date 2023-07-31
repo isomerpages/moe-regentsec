@@ -13,7 +13,7 @@ The Applied Learning Programme (ALP) helps students connect academic knowledge a
 ### **ALP – Resource Sustainability (from 2024)**
 Increasing effects of climate change, urbanisation and resources depletions call for an urgency for all of us and especially for our country which is without any natural resources to ensure a sustainable and climate resilient Singapore. Therefore, it is important that our students are developed as GREEN Advocates (Growing Responsible Ecology and ENvironment) Advocates and changemakers in resource sustainability.
 
-#### <u>TIER 1</u>
+#### **<u>TIER 1</u>**
 
 **(A)	Learning about the Real World through Curriculum**
 
@@ -31,7 +31,7 @@ Students will be able to apply what they have learnt through the Student-Initiat
 
 Partnership and linkages with various community sectors and relevant industries will allow students to experience and connect with the world beyond the school. 
 
-#### <u>TIER 2</u>
+#### **<u>TIER 2</u>**
 
 **(D)	Environment Champions and Eco-Stewardship**
 
