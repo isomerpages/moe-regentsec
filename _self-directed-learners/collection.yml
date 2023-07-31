@@ -2,6 +2,7 @@ collections:
   self-directed-learners:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Academic Programmes.md
       - Personalised Digital Learning Programme (PDLP).md
       - Enrichment Programmes.md
