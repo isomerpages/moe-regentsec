@@ -19,9 +19,9 @@ description: ""
 
 ![](/images/SMC%20&%20All%20Staff/S2%20FT_2023_v4.png)
 
-![](/images/SMC%20&%20All%20Staff/S3%20FT_2023_v5.png)
+![](/images/SMC%20&%20All%20Staff/S3%20FT_2023_v6.png)
 
-![](/images/SMC%20&%20All%20Staff/S4%20FT_2023_v3.png)
+![](/images/SMC%20&%20All%20Staff/S4%20FT_2023_v4.png)
 
 ![](/images/SMC%20&%20All%20Staff/LST_2023%20v2.png)
 
@@ -48,7 +48,7 @@ description: ""
 | S2 Gratitude 	| MS HAP GUILIAN 	| MR KESAVAN S/O VEERAPPEN 	|
 | S2 Honour  	| MS NUR ZAHIDAH BINTE A'AIDIL SHARI 	| MS CHEAK YEN HUI 	|
 |  	|  	|  	|
-| S3 Pride 	| MS LEE YEE YING 	| MS KWEK JO EE  	|
+| S3 Pride 	| MS LEE YEE YING 	| MS SEA XIN  	|
 | S3 Respect 	| MR MUHAMMAD MUSLIHUDDIN B ABDUL RAZA  	| MS LI HUILIN LYDIA 	|
 | S3 Integrity 	| MR SOO LEY GIO SEBASTIAN 	| MDM DIAN SYAHIDAH BINTE ABDUL AZIZ	|
 | S3 Determination 	| MR MARK CHEE KEONG  	| MS LIM HUI MIN, VANESSA 	|
@@ -57,7 +57,7 @@ description: ""
 |  	|  	|  	|
 | S4 Pride 	| MS SNG SEOK HWA SALLY 	| MR MANIKANDAN S/O SURESH KUMAR 	|
 | S4 Respect 	| MDM TEO CHAI HOON ANNIE 	| MS SHARANJEET KAUR LOCHAM 	|
-| S4 Integrity 	| MR JIANG YUHANG ISAAC 	| MS YEE JIA MIN JOSEPHINE 	|
+| S4 Integrity 	| MR JIANG YUHANG ISAAC 	| MS KWEK JO EE 	|
 | S4 Determination 	| MS LIM LI LI MELISSA 	| MR HONG YANG SHAWN 	|
 | S4 Empathy 	| MS KAREN LEE CHAI LIN 	| MS LAU HUI EN RACHEL 	|
 | S4 Gratitude 	| MDM TAN CHING HSIA JULIE 	| MR LIM WENHAO JOSHUA AUGUSTINE 	|
