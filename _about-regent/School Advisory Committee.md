@@ -7,7 +7,6 @@ description: ""
 table, tr, td, thead {
   border:1px solid lightgrey;
   background-color: gainsboro;
-	text-align: center;
 }
 </style>
 
