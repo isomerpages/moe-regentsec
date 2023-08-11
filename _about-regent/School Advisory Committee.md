@@ -4,7 +4,7 @@ permalink: /about-regent/school-advisory-committee/
 description: ""
 ---
 <style>
-table, th, td {
+table, th, td, thead {
   border:1px solid lightgrey;
   background-color: gainsboro;
 	text-align: center
@@ -12,7 +12,13 @@ table, th, td {
 </style>
 
 <table style="width:100%">
-  <tbody>
+	<thead>	
+		<tr>
+			<th>Appointment</th>
+			<th>Name</th>
+		</tr>
+	</thead>
+	<tbody>
 	<tr>
     <td><b>Chairman</b></td>
     <td>Mr Subrata Chanda</td>
