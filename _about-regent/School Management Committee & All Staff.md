@@ -11,7 +11,7 @@ table, th, td {
 }
 </style>
 
-<h2>School Leaders</h2>
+<h3>School Leaders</h3>
 
 <table style="width:100%">
   <tbody><tr>
@@ -28,7 +28,7 @@ table, th, td {
   </tr>
 </tbody></table>
 
-<h2>Form Teachers</h2>
+<h3>Academic Staff</h3>
 
 <table style="width:100%">
 	<tbody>
@@ -164,7 +164,7 @@ table, th, td {
   </tr>
 </tbody></table>
 
-<h2>Learning Support &amp; Administration</h2>
+<h3>Learning Support &amp; Administration Staff</h3>
 
 <table style="width:100%">
   <tbody>
