@@ -4,10 +4,10 @@ permalink: /about-regent/school-advisory-committee/
 description: ""
 ---
 <style>
-table, th, td, thead {
+table, tr, td, thead {
   border:1px solid lightgrey;
   background-color: gainsboro;
-	text-align: center
+	text-align: center;
 }
 </style>
 
