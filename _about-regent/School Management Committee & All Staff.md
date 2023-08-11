@@ -5,8 +5,8 @@ description: ""
 ---
 <style>
 table, th, td {
-  border:1px solid black;
-  background-color: #dcdcdc;
+  border:1px solid lightgrey;
+  background-color: gainsboro;
 	text-align: center
 }
 </style>
@@ -102,7 +102,42 @@ table, th, td {
     <td><b>S2 Honour</b></td>
     <td>Ms Nur Zahidah Binte A'aidil Shari</td>
 		<td>Ms Cheak Yen Hui</td>
-  </tr>	
+  </tr>
+		  <tr>
+    <td><b>S3 Pride</b></td>
+    <td>Ms Lee Yee Ying</td>
+		<td>Ms Sea Xin</td>
+  </tr>
+  <tr>
+    <td><b>S3 Respect</b></td>
+    <td>Mr Muhammad Muslihuddin Bin Abdul Raza</td>
+		<td>Mdm Vernice Palai Velvizhi</td>
+  </tr>
+  <tr>
+    <td><b>S2 Integrity</b></td>
+    <td>Mrs Elsie Mathews</td>
+		<td>Mdm Jasmine Murat Haider</td>
+  </tr>
+		<tr>
+    <td><b>S2 Determination<b></b></b></td>
+    <td>Mr Zulkiflie Abdul Razak</td>
+		<td>Ms Faith Ong Qi Rui</td>
+  </tr>
+  <tr>
+    <td><b>S2 Empathy</b></td>
+    <td>Mdm Malathi D/O Murugesan</td>
+		<td>Ms Lee Wen Chen</td>
+  </tr>
+  <tr>
+    <td><b>S2 Gratitude</b></td>
+    <td>Ms Hap Guilian</td>
+		<td>Mr Kesavan S/O Veerappen</td>
+  </tr>
+	 <tr>
+    <td><b>S2 Honour</b></td>
+    <td>Ms Nur Zahidah Binte A'aidil Shari</td>
+		<td>Ms Cheak Yen Hui</td>
+  </tr>
 </tbody></table>
 
 
