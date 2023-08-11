@@ -269,8 +269,8 @@ table, th, td {
     <td>Mdm Haryati Bte Amin</td>
   </tr>
 	<tr>
-    <td><b>Adj Operation Support Officer</b></td>
-    <td>Mdm Rosnani Bte Abdul Hamid</td>
+    <td><b>Operation Support Officer</b></td>
+    <td>Mdm Murni Binte Somadi</td>
   </tr>
 	<tr>
     <td><b>Librarian</b></td>
@@ -281,19 +281,3 @@ table, th, td {
     <td>Mdm Tan Ai Hwa</td>
   </tr>
 </tbody></table>
-
-|  	|  	|
-|---|---|
-| EDUCATIONAL WORKSHOP INSTRUCTOR 	| MR KASMURI BIN MUHAILI 	|
-| TECHNICAL SUPPORT OFFICER 	| MDM ZAINAB BTE ABDUL MAJID 	|
-| CORPORATE SUPPORT OFFICER 	| MDM MOOM TAJ BEGAM BINTE ZAINUL ABDEEN 	|
-| CORPORATE SUPPORT OFFICER 	| MDM ZAINAB BTE JAFFA 	|
-| ADJ MANAGEMENT SUPPORT OFFICER 	| MDM SURAYATI BTE MUSTAFA 	|
-| OPERATIONS SUPPORT OFFICER 	| MR ABDUL RAHMAN BIN MINHAD 	|
-| OPERATIONS SUPPORT OFFICER 	| MDM LEONG WAI YOKE 	|
-| OPERATIONS SUPPORT OFFICER 	| MDM NORAISHAH WONG	|
-| OPERATIONS SUPPORT OFFICER 	| MDM RETHENAMA 	|
-| OPERATIONS SUPPORT OFFICER 	| MDM HARYATI BTE AMIN 	|
-| ADJ OPERATIONS SUPPORT OFFICER 	| MDM ROSNANI BTE ABDUL HAMID 	|
-| LIBRARIAN 	| MR YEO HUANG LIANG JOSHUA 	|
-| PRINTING &amp; ADMIN ASST 	| MDM TAN AI HWA 	|
