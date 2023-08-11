@@ -3,35 +3,71 @@ title: School Management Committee & All Staff
 permalink: /about-regent/school-management-committee/
 description: ""
 ---
-![](/images/SMC%20&%20All%20Staff/SMC_ALLSTAFF_2023_banner.jpeg)
 
-#### **Staff Photos**
-
-![](/images/SMC%20&%20All%20Staff/SL_2023%20v2.jpg)
-
-![](/images/SMC%20&%20All%20Staff/SDT_2023_v4.png)
-
-![](/images/SMC%20&%20All%20Staff/ACT_2023_v5.png)
-
-![](/images/SMC%20&%20All%20Staff/TLT_2023_v5.png)
-
-![](/images/SMC%20&%20All%20Staff/S1%20FT_2023_v4.png)
-
-![](/images/SMC%20&%20All%20Staff/S2%20FT_2023_v4.png)
-
-![](/images/SMC%20&%20All%20Staff/S3%20FT_2023_v6.png)
-
-![](/images/SMC%20&%20All%20Staff/S4%20FT_2023_v4.png)
-
-![](/images/SMC%20&%20All%20Staff/LST_2023%20v2.png)
-
-![](/images/SMC%20&%20All%20Staff/EAS_2023_v8.png)
+<style>
+table, th, td {
+  border:1px solid black;
+  background-color: #dcdcdc;
+	text-align: center
+}
+</style>
 
 	
-#### **Form Teachers**
+<h2>School Leaders</h2>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><b>Principal<b></b></b></td>
+    <td>Mrs Sng Siew Hong</td>
+  </tr>
+  <tr>
+    <td><b>Vice-principal (Academic)</b></td>
+    <td>Mrs Patrine Tang Huey Jiuan</td>
+  </tr>
+  <tr>
+    <td><b>Vice-principal (Administration)</b></td>
+    <td>Mr T Pubalan</td>
+  </tr>
+</tbody></table>
+
+<h2>Form Teachers</h2>
+
+<table style="width:100%">
+	<tbody><tr>
+    <td><b>S1 Pride<b></b></b></td>
+    <td>Mr Koh Eng Huat</td>
+		<td>Mdm Aisha Yasmin Binte Abdul Raman</td>
+  </tr>
+  <tr>
+    <td><b>S1 Respect</b></td>
+    <td>Ms Sarina Bte Samat</td>
+		<td>Mr Muhammad Ridhwan</td>
+  </tr>
+  <tr>
+    <td><b>S1 Integrity</b></td>
+    <td>Ms Crystal Tay Yen Yen</td>
+		<td>Mr Muhammad Fauzan Bin Sapuan</td>
+  </tr>
+		<tr>
+    <td><b>S1 Determination<b></b></b></td>
+    <td>Mr Mohammad Suhaimi Bin Mohd Salleh</td>
+		<td>Ms Joan Lim Hui Mian</td>
+  </tr>
+  <tr>
+    <td><b>S1 Empathy</b></td>
+    <td>Mr Teo Hock Siong</td>
+		<td>Mr Shen Jian</td>
+  </tr>
+  <tr>
+    <td><b>S1 Gratitude</b></td>
+    <td>Mr Kwek Liang Wei Shawn</td>
+		<td>Ms Siow Pei Tian Jillyan</td>
+  </tr>
+</tbody></table>
+
 
 | **CLASS** 	| **FORM TEACHER 1** 	| **FORM TEACHER 2** 	|
-|---	|---	|---	|
+|---|---|---|
 | S1 Pride 	| MR KOH ENG HUAT | MDM AISHA YASMIN BINTE ABDUL RAMAN 	|
 | S1 Respect 	| MS SARINA BTE SAMAT 	|  MR MUHAMMAD RIDHWAN 	|
 | S1 Integrity 	| MS CRYSTAL TAY YEN YEN 	| MR MUHAMMAD FAUZAN BIN SAPUAN 	|
@@ -63,10 +99,10 @@ description: ""
 | S4 Gratitude 	| MDM TAN CHING HSIA JULIE 	| MR LIM WENHAO JOSHUA AUGUSTINE 	|
 
 
-#### **Learning Support & Administration**
+#### **Learning Support &amp; Administration**
 
 |  	|  	|
-|---	|---	|
+|---|---|
 | SCHOOL COUNSELLOR	| MR DELIP SARAVANAN 	|
 | SCHOOL COUNSELLOR	| MS KATE TAN LAY YAN  |
 | SENIOR SPECIAL EDUCATIONAL NEEDS OFFICER 	| MRS R PARAMESWARI PAM PHILIX 	|
@@ -93,4 +129,4 @@ description: ""
 | OPERATIONS SUPPORT OFFICER 	| MDM HARYATI BTE AMIN 	|
 | ADJ OPERATIONS SUPPORT OFFICER 	| MDM ROSNANI BTE ABDUL HAMID 	|
 | LIBRARIAN 	| MR YEO HUANG LIANG JOSHUA 	|
-| PRINTING & ADMIN ASST 	| MDM TAN AI HWA 	|
+| PRINTING &amp; ADMIN ASST 	| MDM TAN AI HWA 	|
