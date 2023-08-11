@@ -3,7 +3,6 @@ title: School Management Committee & All Staff
 permalink: /about-regent/school-management-committee/
 description: ""
 ---
-
 <style>
 table, th, td {
   border:1px solid black;
@@ -33,8 +32,9 @@ table, th, td {
 <h2>Form Teachers</h2>
 
 <table style="width:100%">
-	<tbody><tr>
-    <td><b>S1 Pride<b></b></b></td>
+	<tbody>
+	<tr>
+    <td><b>S1 Pride</b></td>
     <td>Mr Koh Eng Huat</td>
 		<td>Mdm Aisha Yasmin Binte Abdul Raman</td>
   </tr>
@@ -63,6 +63,46 @@ table, th, td {
     <td>Mr Kwek Liang Wei Shawn</td>
 		<td>Ms Siow Pei Tian Jillyan</td>
   </tr>
+	 <tr>
+    <td><b>S1 Honour</b></td>
+    <td>Mdm Nur Hidayah Binte Abu Mansor</td>
+		<td>Mr Tan Kai Yik</td>
+  </tr>
+  <tr>
+    <td><b>S2 Pride</b></td>
+    <td>Mr Chua See How</td>
+		<td>Ms Adeline Goh Rui Qi</td>
+  </tr>
+  <tr>
+    <td><b>S2 Respect</b></td>
+    <td>Mdm Zainab Banu Binte Hassan</td>
+		<td>Mdm Vernice Palai Velvizhi</td>
+  </tr>
+  <tr>
+    <td><b>S2 Integrity</b></td>
+    <td>Mrs Elsie Mathews</td>
+		<td>Mdm Jasmine Murat Haider</td>
+  </tr>
+		<tr>
+    <td><b>S2 Determination<b></b></b></td>
+    <td>Mr Zulkiflie Abdul Razak</td>
+		<td>Ms Faith Ong Qi Rui</td>
+  </tr>
+  <tr>
+    <td><b>S2 Empathy</b></td>
+    <td>Mdm Malathi D/O Murugesan</td>
+		<td>Ms Lee Wen Chen</td>
+  </tr>
+  <tr>
+    <td><b>S2 Gratitude</b></td>
+    <td>Ms Hap Guilian</td>
+		<td>Mr Kesavan S/O Veerappen</td>
+  </tr>
+	 <tr>
+    <td><b>S2 Honour</b></td>
+    <td>Ms Nur Zahidah Binte A'aidil Shari</td>
+		<td>Ms Cheak Yen Hui</td>
+  </tr>	
 </tbody></table>
 
 
