@@ -7,26 +7,110 @@ description: ""
 table, th, td {
   border:1px solid lightgrey;
   background-color: gainsboro;
-	text-align: center
+	text-align: center;
 }
 </style>
 
-<h3>School Leaders</h3>
+### School Leaders
 
 <table style="width:100%">
-  <tbody><tr>
-    <td><b>Principal<b></b></b></td>
-    <td>Mrs Sng Siew Hong</td>
+  <tbody>
+		<tr>
+			<td><b>Principal<b></b></b></td>
+			<td>Mrs Sng Siew Hong</td>
+		</tr>
+		<tr>
+			<td><b>Vice-principal (Academic)</b></td>
+			<td>Mrs Patrine Tang Huey Jiuan</td>
+		</tr>
+		<tr>
+			<td><b>Vice-principal (Administration)</b></td>
+			<td>Mr T Pubalan</td>
+		</tr>
+	</tbody>
+</table>
+
+### Student Development Team
+
+<table style="width:100%">
+	<tbody>
+		<tr>
+			<td><b>HOD - Student Management</b></td>
+			<td>Mr Kong Kok Heng Melvin</td>
+		</tr>
+		<tr>
+			<td><b>Year Head - Lower Sec</b></td>
+			<td>Mr Tan Keng Cheong</td>
+		</tr>
+		<tr>
+			<td><b>Year Head - Upper Sec</b></td>
+			<td>Ms Su Rui Yi</td>
+		</tr>
+		<tr>
+			<td><b>HOD - Character &amp; Citizenship Education (Covering)</b></td>
+			<td>Ms Jasmine Murat Haider</td>
+		</tr>
+		<tr>
+			<td><b>Assistant Year Head</b></td>
+			<td>Ms Lee Yee Ying</td>
+		</tr>
+		<tr>
+			<td><b>Subject Head - Co-Curriculum Activities (Covering)</b></td>
+			<td>Mr Jiang Yuhang Isaac</td>
+		</tr>
+		<tr>
+			<td><b>Subject Head - Character &amp; Citizenship Education (Covering)</b></td>
+			<td>Mdm Teo Chai Hoon Annie</td>
+		</tr>
+	</tbody>
+</table>
+
+### Academic Curriculum Team
+
+<table style="width:100%">
+	<tbody>
+	<tr>
+    <td><b>HOD - Student Management</b></td>
+    <td>Mr Kong Kok Heng Melvin</td>
   </tr>
   <tr>
-    <td><b>Vice-principal (Academic)</b></td>
-    <td>Mrs Patrine Tang Huey Jiuan</td>
+    <td><b>School Staff Developer/HOD - ICT</b></td>
+    <td>Mr Chan Ying Chung William</td>
   </tr>
   <tr>
-    <td><b>Vice-principal (Administration)</b></td>
-    <td>Mr T Pubalan</td>
+    <td><b>HOD - Humanities</b></td>
+    <td>Mdm Janaki D/O Ramasamy</td>
   </tr>
-</tbody></table>
+		<tr>
+    <td><b>HOD - Mathematics<b></b></b></td>
+    <td>Mdm Tong Wee Heng</td>
+  </tr>
+	 <tr>
+    <td><b>HOD - Science</b></td>
+    <td>Ms Chew Hui Ching</td>
+  </tr>
+  <tr>
+    <td><b>HOD - Mother Tongue</b></td>
+    <td>Mr Phang Yuh Koon</td>
+  </tr>
+  <tr>
+    <td><b>HOD - Craft &amp; Technology</b></td>
+    <td>Mr Seetoh Kok Leong</td>
+  </tr>
+  <tr>
+    <td><b>Level Head - Lower Sec Science</b></td>
+    <td>Mrs Elsie Mathews</td>
+  </tr>
+		<tr>
+    <td><b>Subject Head - Geography<b></b></b></td>
+    <td>Mr Zulkiflie Abdul Razak</td>
+  </tr>
+  <tr>
+    <td><b>Subject Head - ALP / Data Management (Covering)</b></td>
+    <td>Mdm Malathi D/O Murugesan</td>
+  </tr>
+	</tbody>
+</table>
 
 <h3>Academic Staff</h3>
 
