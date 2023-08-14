@@ -13,8 +13,10 @@ Performing two songs from the hit musical, Matilda—‘When I Grow Up’ and �
 Blaze Forth to Glory, and may we continue to soar to ever greater heights!
 
 ![](/images/Highlights%20Post/B-DazzledFest2022-1.jpg)
+![](/images/Highlights%20Post/B-DazzledFest2022-2.jpg)
 ![](/images/Highlights%20Post/B-DazzledFest2022-3.jpg)
 ![](/images/Highlights%20Post/B-DazzledFest2022-4.jpg)
+![](/images/Highlights%20Post/B-DazzledFest2022-5.jpg)
 
 ---
 
@@ -39,7 +41,7 @@ They applied the skills acquired in their Design and Technology lessons to fix s
 
 May our Girls’ Brigade cadets continue to grow in love for another and to serve others in a greater way!
 
-![](/images/School%20Events/CCA/CCA-schoolevent-3.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-3A.jpg)
 ![](/images/School%20Events/CCA/CCA-schoolevent-4.jpg)
 ![](/images/School%20Events/CCA/CCA-schoolevent-5.jpg)
 
@@ -58,7 +60,7 @@ The ceremony culminated with the presentation of the school jerseys by our Princ
 We&nbsp;would like to wish our Sports and Games CCAs the very best as they compete in their remaining games. May they “Blaze Forth To Glory”!
 
 ![](/images/School%20Events/CCA/CCA-schoolevent-6.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-7.jpg)
+![](/images/School%20Events/CCA/CCA-schoolevent-7A.jpg)
 ![](/images/School%20Events/CCA/CCA-schoolevent-8.jpg)
 
 ---
