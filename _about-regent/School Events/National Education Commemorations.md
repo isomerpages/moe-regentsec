@@ -36,12 +36,9 @@ The day ended in a high note as we were once again serenaded by Regent Pop Band 
 All in all, Regent Secondary School would like to wish Singapore a Happy 57th birthday and we are proud and exhilarated to celebrate this significant day with the nation!
 
 ![](/images/School%20Events/National%20Education/ND2022-1.jpg)
-![](/images/School%20Events/National%20Education/ND2022-2.jpg)
-![](/images/School%20Events/National%20Education/ND2022-3.jpg)
-![](/images/School%20Events/National%20Education/ND2022-4.jpg)
-![](/images/School%20Events/National%20Education/ND2022-5.jpeg)
-![](/images/School%20Events/National%20Education/ND2022-6.jpeg)
-![](/images/School%20Events/National%20Education/ND2022-7.jpeg)
+![](/images/School%20Events/National%20Education/ND2022-2A.jpg)
+![](/images/School%20Events/National%20Education/ND2022-3A.jpg)
+![](/images/School%20Events/National%20Education/ND2022-5A.jpeg)
 
 ---
 
@@ -59,9 +56,10 @@ Finally, our students continued discussing the issue of race during their weekly
 
 Celebrating Racial Harmony Day 2022 was a poignant reminder that all of us play a critical role in maintaining social cohesion in Singapore.
 
-![](/images/School%20Events/National%20Education/RHD2022-1.jpg)
-![](/images/School%20Events/National%20Education/RHD2022-2.jpg)
-![](/images/School%20Events/National%20Education/RHD2022-3.jpg)
+![](/images/School%20Events/National%20Education/RHD2022-1A.jpg)
+![](/images/School%20Events/National%20Education/RHD2022-2A.jpg)
+![](/images/School%20Events/National%20Education/RHD2022-3A.jpg)
+![](/images/School%20Events/National%20Education/RHD2022-4A.jpg)
 
 ---
 
@@ -220,5 +218,3 @@ Our lower secondary students commemorated National Day by playing a fun game of 
 ![](/images/School%20Events/National%20Education/National-Day-2.jpg)
 
 ![](/images/National%20Education/National-Day-3.jpg)
-
-![](/images/School%20Events/National%20Education/National-Day-4.jpg)
