@@ -112,7 +112,30 @@ table, th, td {
 	</tbody>
 </table>
 
-<h3>Academic Staff</h3>
+### Teacher Leader Team
+
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Senior Teacher - Physical Education</b></td>
+			<td>Mr Kwok Weng Meng Michael</td>
+		</tr>
+		<tr>
+			<td><b>Senior Teacher - Biology</b></td>
+			<td>Mdm Koh Huey Min</td>
+		</tr>
+		<tr>
+			<td><b>Senior Teacher - History</b></td>
+			<td>Mdm Malathi D/O Murugesan</td>
+		</tr>
+		<tr>
+			<td><b>Senior Teacher - Physics</b></td>
+			<td>Mdm Nor Rasidah Bte Mohd Salleh</td>
+		</tr>
+	</tbody>
+</table>
+
+### Academic Staff
 
 <table style="width:100%">
 	<tbody>
@@ -248,120 +271,117 @@ table, th, td {
   </tr>
 </tbody></table>
 
-<h3>Learning Support &amp; Administration Staff</h3>
+### Learning Support &amp; Administration Staff
 
 <table style="width:100%">
   <tbody>
-	<tr>
-    <td><b>School Counsellor<b></b></b></td>
-    <td>Mr Delip Saravanan S/O Gunasegaran</td>
-  </tr>
-  <tr>
-    <td><b>School Counsellor</b></td>
-    <td>Ms Kate Tan Lay Yan</td>
-  </tr>
-  <tr>
-    <td><b>Snr Special Educational Needs Officer</b></td>
-    <td>Mrs R Parameswari Pam Philix</td>
-  </tr>
-	<tr>
-    <td><b>Snr Education Career Guidance Counsellor<b></b></b></td>
-    <td>Mr Peter Phoa</td>
-  </tr>
-  <tr>
-    <td><b>FATJ School Counsellor</b></td>
-    <td>Ms Sudha Divakaran</td>
-  </tr>
-  <tr>
-    <td><b>School Health Advisor</b></td>
-    <td>Mdm Siti Sulaima Othman</td>
-  </tr>
-  <tr>
-    <td><b>Administrative Manager<b></b></b></td>
-    <td>Ms Ng Shi Huey</td>
-  </tr>
-  <tr>
-    <td><b>Administrative Executive</b></td>
-    <td>Ms Siti Mashita Mohd Zain</td>
-  </tr>
-  <tr>
-    <td><b>Adj Administrative Executive</b></td>
-    <td>Ms Siti Yasmin Bte Zainul</td>
-  </tr>
-	<tr>
-    <td><b>Operation Manager<b></b></b></td>
-    <td>Mr Sanmugam S/O Velandi</td>
-  </tr>
-  <tr>
-    <td><b>ICT Manager</b></td>
-    <td>Mr Muhammad Radzif Bin Anif</td>
-  </tr>
-  <tr>
-    <td><b>ICT Trainer</b></td>
-    <td>Mdm Susi Haryani Binti Sutara</td>
-  </tr>
-	 <tr>
-    <td><b>NCS IT (Desktop Engineer)</b></td>
-    <td>Mr Mohammad Nurhamizie Bin Mohd Halmi</td>
-  </tr>
-	<tr>
-    <td><b>Educational Workshop Instructor</b></td>
-    <td>Mr Mohammad Nasser Bin Mohammad Dahim</td>
-  </tr>
-	<tr>
-    <td><b>Educational Workshop Instructor</b></td>
-    <td>Mr Kasmuri Bin Muhaili</td>
-  </tr>
-	<tr>
-    <td><b>Technical Support Officer</b></td>
-    <td>Mdm Zainab Bte Abdul Majid</td>
-  </tr>
 		<tr>
-    <td><b>Administrative Manager<b></b></b></td>
-    <td>Ms Ng Shi Huey</td>
-  </tr>
-  <tr>
-    <td><b>Corporate Support Officer</b></td>
-    <td>Mdm Moom Taj Begam Binte Zainul Abdeen</td>
-  </tr>
-  <tr>
-    <td><b>Corporate Support Officer</b></td>
-    <td>Mdm Zainab Bte Jaffa</td>
-  </tr>
-	<tr>
-    <td><b>Adj Management Support Officer<b></b></b></td>
-    <td>Mdm Surayati Bte Mustafa</td>
-  </tr>
-  <tr>
-    <td><b>Operation Support Officer</b></td>
-    <td>Mr Abdul Tahman Bin Minhad</td>
-  </tr>
-  <tr>
-    <td><b>Operation Support Officer</b></td>
-    <td>Mdm Leong Wai Yoke</td>
-  </tr>
-	 <tr>
-    <td><b>Operation Support Officer</b></td>
-    <td>Mdm Noraishah Wong</td>
-  </tr>
-	<tr>
-    <td><b>Operation Support Officer</b></td>
-    <td>Mdm Rethenama</td>
-  </tr>
-	<tr>
-    <td><b>Operation Support Officer</b></td>
-    <td>Mdm Haryati Bte Amin</td>
-  </tr>
-	<tr>
-    <td><b>Operation Support Officer</b></td>
-    <td>Mdm Murni Binte Somadi</td>
-  </tr>
-	<tr>
-    <td><b>Librarian</b></td>
-    <td>Mr Yeo Huang Liang Joshua</td>
-  </tr>
-	<tr>
-    <td><b>Printing &amp; Admin Assistant</b></td>
-    <td>Mdm Tan Ai Hwa</td>
-  </tr>
-</tbody></table>
+			<td><b>School Counsellor</b></td>
+			<td>Mr Delip Saravanan S/O Gunasegaran</td>
+		</tr>
+		<tr>
+			<td><b>School Counsellor</b></td>
+			<td>Ms Kate Tan Lay Yan</td>
+		</tr>
+		<tr>
+			<td><b>Snr Special Educational Needs Officer</b></td>
+			<td>Mrs R Parameswari Pam Philix</td>
+		</tr>
+		<tr>
+			<td><b>Snr Education Career Guidance Counsellor</b></td>
+			<td>Mr Peter Phoa</td>
+		</tr>
+		<tr>
+			<td><b>FATJ School Counsellor</b></td>
+			<td>Ms Sudha Divakaran</td>
+		</tr>
+		<tr>
+			<td><b>School Health Advisor</b></td>
+			<td>Mdm Siti Sulaima Othman</td>
+		</tr>
+		<tr>
+			<td><b>Administrative Manager</b></td>
+			<td>Ms Ng Shi Huey</td>
+		</tr>
+		<tr>
+			<td><b>Administrative Executive</b></td>
+			<td>Ms Siti Mashita Mohd Zain</td>
+		</tr>
+		<tr>
+			<td><b>Adj Administrative Executive</b></td>
+			<td>Ms Siti Yasmin Bte Zainul</td>
+		</tr>
+		<tr>
+			<td><b>Operation Manager</b></td>
+			<td>Mr Sanmugam S/O Velandi</td>
+		</tr>
+		<tr>
+			<td><b>ICT Manager</b></td>
+			<td>Mr Muhammad Radzif Bin Anif</td>
+		</tr>
+		<tr>
+			<td><b>ICT Trainer</b></td>
+			<td>Mdm Susi Haryani Binti Sutara</td>
+		</tr>
+		 <tr>
+			<td><b>NCS IT (Desktop Engineer)</b></td>
+			<td>Mr Mohammad Nurhamizie Bin Mohd Halmi</td>
+		</tr>
+		<tr>
+			<td><b>Educational Workshop Instructor</b></td>
+			<td>Mr Mohammad Nasser Bin Mohammad Dahim</td>
+		</tr>
+		<tr>
+			<td><b>Educational Workshop Instructor</b></td>
+			<td>Mr Kasmuri Bin Muhaili</td>
+		</tr>
+		<tr>
+			<td><b>Technical Support Officer</b></td>
+			<td>Mdm Zainab Bte Abdul Majid</td>
+		</tr>
+		<tr>
+			<td><b>Corporate Support Officer</b></td>
+			<td>Mdm Moom Taj Begam Binte Zainul Abdeen</td>
+		</tr>
+		<tr>
+			<td><b>Corporate Support Officer</b></td>
+			<td>Mdm Zainab Bte Jaffa</td>
+		</tr>
+		<tr>
+			<td><b>Adj Management Support Officer</b></td>
+			<td>Mdm Surayati Bte Mustafa</td>
+		</tr>
+		<tr>
+			<td><b>Operation Support Officer</b></td>
+			<td>Mr Abdul Rahman Bin Minhad</td>
+		</tr>
+		<tr>
+			<td><b>Operation Support Officer</b></td>
+			<td>Mdm Leong Wai Yoke</td>
+		</tr>
+		 <tr>
+			<td><b>Operation Support Officer</b></td>
+			<td>Mdm Noraishah Wong</td>
+		</tr>
+		<tr>
+			<td><b>Operation Support Officer</b></td>
+			<td>Mdm Rethenama</td>
+		</tr>
+		<tr>
+			<td><b>Operation Support Officer</b></td>
+			<td>Mdm Haryati Bte Amin</td>
+		</tr>
+		<tr>
+			<td><b>Operation Support Officer</b></td>
+			<td>Mdm Murni Binte Somadi</td>
+		</tr>
+		<tr>
+			<td><b>Librarian</b></td>
+			<td>Mr Yeo Huang Liang Joshua</td>
+		</tr>
+		<tr>
+			<td><b>Printing &amp; Admin Assistant</b></td>
+			<td>Mdm Tan Ai Hwa</td>
+		</tr>
+	</tbody>
+</table>
