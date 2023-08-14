@@ -53,8 +53,6 @@ Singa comes to school!
 
 In the past few days, many of us would have been greeted by Singa’s cheery smile as we walked into school. The Singa ambassador is an iconic sight symbolizing the values of kindness, gratitude and graciousness in Singapore, and has now joined the Regent Family!
 
-![](/images/School%20Events/CCE/Singha-bench-2.jpeg)
-
 If you have missed catching a glimpse of the photogenic lion, look no further! Head down to the school foyer to snap some photos with the cute ambassador stone bench!
 
 ![](/images/School%20Events/CCE/Singha-bench-1-1024x702.jpeg)
