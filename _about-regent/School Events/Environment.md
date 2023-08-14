@@ -68,5 +68,4 @@ Here’s what some of our Regenites have shared about doing their part to help c
 
 ‘I have learnt to ensure that I run the washing machine and dishwasher only when I have a full load.’ (Danish Nabil, S3-Integrity)
 
-![](/images/School%20Events/Environment/Envir2022-8.jpeg)
 ![](/images/School%20Events/Environment/Envir2022-9.jpg)
