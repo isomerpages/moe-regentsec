@@ -7,7 +7,8 @@ description: ""
 
 In Regent, one of the ways students demonstrate self-directedness is by taking pride in their learning and actively approaching their teachers for consultation sessions to clarify their doubts through the Student Sign-Up Learning (SSUL) approach. Students will take the initiative to ask questions and monitor their progress in learning.
 
-![](/images/Academic%20Programmes/AcadProg_SSUL.jpg)
+![](/images/Academic%20Programmes/AcadProg_SSUL-1A.jpg)
+![](/images/Academic%20Programmes/AcadProg_SSUL-2A.jpg)
 
 ---
 

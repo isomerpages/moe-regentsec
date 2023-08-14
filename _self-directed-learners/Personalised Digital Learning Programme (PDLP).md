@@ -21,8 +21,6 @@ Classkick and Nearpod are some of the tools that are regularly used in our Princ
 
 Google Workspace features prominently in Regent Secondary School’s English Language curriculum. For example, in a unit on Situational Writing, students worked in teams to develop and organise their ideas for the essay, using the search engine to gather information about the various topics assigned. Googling for primary sources such as images and videos on their own helped make the research process more tangible for students, and they were able to craft rich sensory descriptions to enliven their writing. Through the activity, students became more confident and adept users of the PLD, employing tools such as Google Docs and Google Sheets to jot down and share their ideas with their teachers and peers.
 
-![](/images/PDLP/PDLP_3-EL.jpg)
-
 ### **Google Sites and Inquiry Learning in the Humanities**
 
 Inquiry Learning is a core component of our History, Geography, and Social Studies lessons, and the PLD has been a useful tool for aiding students in their research and curation of materials. In a recent Geographical Investigation project on Pang Sua Canal, our Secondary One students worked together to design a Google Site to present their findings on human activities around the Canal and their implications on water quality. Similarly, for a Social Studies Inquiry Investigation project, our Secondary Three students learnt to showcase their learning by embedding website links, documents, and videos in their Google Sites for a more interactive user experience.

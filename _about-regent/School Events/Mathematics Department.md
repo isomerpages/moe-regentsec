@@ -22,9 +22,6 @@ Held annually, the Olympiad offers students the opportunity to stretch themselve
 ![](/images/School%20Events/Mathematics%20Department/MathsDept-2_MathsOlympiad2022-2.jpg)
 *<center>Team Photo</center>*
 
-![](/images/School%20Events/Mathematics%20Department/MathsDept-3_MathsOlympiad2022-3.jpg)
-*<center>Training Photo</center>*
-
 ---
 
 ## **Financial Literacy Workshop**

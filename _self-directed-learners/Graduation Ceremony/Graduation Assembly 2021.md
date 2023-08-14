@@ -8,8 +8,6 @@ third_nav_title: Graduation Ceremony
 
 ## **Happy Graduation to the Class of 2021!**
 
-![](/images/Graduation%20Ceremony/Grad-photo-1024x768.jpg)
-
 The Class of 2021 has conquered many challenges that came their way.
 
 As Regenites, they have also made many meaningful memories in school and beyond. They have also made a positive impact on their peers, teachers and their juniors. Through the Final Assembly, we celebrate them and in turn, it was an opportunity for them to show gratitude to those who have helped them along the way.

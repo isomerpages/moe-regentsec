@@ -24,8 +24,7 @@ Marion Tye (3-Gratitude) also shared that from this event, he has learnt to step
 
 Thank you Limbang for this opportunity for our students to contribute to the community!
 
-![](/images/School%20Events/Community%20Events/CommunityEvents-2.jpg)
-![](/images/School%20Events/Community%20Events/CommunityEvents-3.jpg)
+![](/images/School%20Events/Community%20Events/CommunityEvents-2A.jpg)
 
 ---
 
@@ -54,10 +53,7 @@ I love the performances because of the different elements of music compiled toge
 
 Personally, I am grateful because it was the first time in two years that all Regenites were able to gather in the school hall once again. It touched my heart as we could finally come together to celebrate Hari Raya as a school once again. I look forward to more celebrations and performances put together for our Regenites in the years to come. Selamat Hari Raya everyone!”
 
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-1.jpg)
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-2.jpg)
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-3.jpg)
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-4.jpg)
+![](/images/Hari%20Raya%20Celebration/HariRaya2022-1A.jpg)
 
 ---
 

@@ -16,14 +16,6 @@ The celebrations concluded with a finale comprising Chinese New Year-themed vide
 
 ![](/images/CNY%20Celebration/CNY_2023-1.jpeg)
 
-![](/images/CNY%20Celebration/CNY_2023-2.jpeg)
-
-![](/images/CNY%20Celebration/CNY_2023-3.jpeg)
-
-![](/images/CNY%20Celebration/CNY_2023-4.jpeg)
-
-![](/images/CNY%20Celebration/CNY_2023-5.jpeg)
-
 ![](/images/CNY%20Celebration/CNY_2023-6.jpeg)
 
 ![](/images/CNY%20Celebration/CNY_2023-7.jpeg)
@@ -46,7 +38,4 @@ I love the performances because of the different elements of music compiled toge
 
 Personally, I am grateful because it was the first time in two years that all Regenites were able to gather in the school hall once again. It touched my heart as we could finally come together to celebrate Hari Raya as a school once again. I look forward to more celebrations and performances put together for our Regenites in the years to come. Selamat Hari Raya everyone!”
 
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-1.jpg)
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-2.jpg)
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-3.jpg)
-![](/images/School%20Events/Festive%20Celebrations/HariRaya2022-4.jpg)
+![](/images/Hari%20Raya%20Celebration/HariRaya2022-1A.jpg)
