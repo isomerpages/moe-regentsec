@@ -21,9 +21,6 @@ Science Learning Journeys is a series of activities to enthuse our students to l
 
 ![](/images/Enrichment%20Programmes/EnrichmentProg_2a-SciLJ.jpg)
 
-![](/images/Enrichment%20Programmes/EnrichmentProg_2B-SciLJ.png)
-<center><i>Student helpers and participants at Cluster Science Enrichment</i></center>
-
 ![](/images/Enrichment%20Programmes/EnrichmentProg_2C-SciLJ.png)
 <center><i>Students experimenting with their hypothesis during Science Centre Research Programme</i></center>
 
