@@ -49,4 +49,4 @@ While the camp is over, the learning continues as our students apply their newly
 ![](/images/Sec%202%20Camp/S2Camp2022-11.jpg)
 ![](/images/Sec%202%20Camp/S2Camp2022-12.jpg)
 ![](/images/Sec%202%20Camp/S2Camp2022-13.jpg)
-![](/images/Sec%202%20Camp/S2Camp2022-14.jpg)
+![](/images/Sec%202%20Camp/S2Camp2022-14A.jpg)
