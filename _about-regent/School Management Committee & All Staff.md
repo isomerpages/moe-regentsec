@@ -146,7 +146,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-gnn7"><span style="font-weight:bold">Senior Teacher - Physical Education</span></td>
-    <td class="tg-vdtq">Mr Kwok Weng Meng Michae</td>
+    <td class="tg-vdtq">Mr Kwok Weng Meng Michael</td>
   </tr>
   <tr>
     <td class="tg-gnn7"><span style="font-weight:bold">Senior Teacher - Biology</span></td>
