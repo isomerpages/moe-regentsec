@@ -56,7 +56,7 @@ Stay in touch with us on Instagram ([@regentrcy](https://www.instagram.com/regen
 ![](/images/CCA/2022%20Red%20Cross%20Fun.jpg)
 
 ![](/images/CCA/Red%20Cross%20Youth/RCY-1.jpg)
-![](/images/CCA/Red%20Cross%20Youth/RCY-2.jpg)
+![](/images/CCA/Red%20Cross%20Youth/RCY-2A.jpg)
 ![](/images/CCA/Red%20Cross%20Youth/RCY-3.jpg)
 ![](/images/CCA/Red%20Cross%20Youth/RCY-4.jpg)
 ![](/images/CCA/Red%20Cross%20Youth/RCY-5.jpg)
