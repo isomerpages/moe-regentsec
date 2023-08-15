@@ -89,7 +89,7 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">HOD - Student Management</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">HOD - PE/CCA</span></td>
     <td class="tg-2izf">Mr Kong Kok Heng Melvin</td>
   </tr>
   <tr>
