@@ -4,7 +4,7 @@ permalink: /confident-leaders/aspirations-day-2022/
 description: ""
 third_nav_title: Sec 4 & 5 Aspirations Camp
 ---
-Walt Disney once said, ‘All our dreams can come true, if we have the courage to pursue them.’ Indeed, our Secondary Four and Five students took a step closer towards pursuing their aspirations with the exciting array of industry and career talks on Regent’s Aspirations Day, held recently on 16 March!
+Walt Disney once said, ‘All our dreams can come true, if we have the courage to pursue them.’ Indeed, our Secondary Four and Five students took a step closer towards pursuing their aspirations with the exciting array of industry and career talks on Regent’s Aspirations Day, held recently on 16 March 2022!
 
 We were privileged to have staff from Nanyang Polytechnic speak to our students about the Polytechnic Foundation Programme (PFP) and Early Admissions Exercise (EAE). The sharing enlightened students on the post-secondary educational pathways available to them, and ignited their motivation to pursue their dream courses, including Kerynn Toh (4-Integrity), who took away from the session useful tips on crafting her EAE application and write-up.
 
@@ -12,5 +12,5 @@ The latter half of the day saw distinguished guests from fields as diverse as Ho
 
 We hope that Aspirations Day has truly inspired our Regenites to go forth and pursue their dreams with courage! Our students can continue to look forward to a host of course-related talks planned for them this April!
 
-![](/images/Sec%204%20&%205%20Aspiration%20Camp/S4-5AspirCamp2022-1.jpg)
+![](/images/Sec%204%20&%205%20Aspiration%20Camp/S4-5AspirCamp2022-1A.jpg)
 ![](/images/Sec%204%20&%205%20Aspiration%20Camp/S4-5AspirCamp2022-2.jpg)
