@@ -19,5 +19,4 @@ The day ended in a high note as we were once again serenaded by Regent Pop Band 
 
 All in all, Regent Secondary School would like to wish Singapore a Happy 57th birthday and we are proud and exhilarated to celebrate this significant day with the nation!
 
-![](/images/Together%20Regent%20Cares/RgtCares2022-1.jpg)
-![](/images/Together%20Regent%20Cares/RgtCares2022-2.jpg)
+![](/images/Together%20Regent%20Cares/RgtCares2022-1A.jpg)
