@@ -31,5 +31,4 @@ The aim for our members is to instill a positive attitude towards a problem-base
 
 ![](/images/CCA/Design%20and%20Innovation/DESINV-1.jpg)
 ![](/images/CCA/Design%20and%20Innovation/DESINV-2.jpg)
-![](/images/CCA/Design%20and%20Innovation/DESINV-3.jpg)
-![](/images/CCA/Design%20and%20Innovation/DESINV-4.jpg)
+![](/images/CCA/Design%20and%20Innovation/DESINV-3A.jpg)
