@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Timetable/.keep
       - Resource Booking Service (RBS).md
       - SLS Student Services.md
       - Safety Updates/.keep
