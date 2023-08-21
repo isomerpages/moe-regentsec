@@ -2,9 +2,10 @@ collections:
   useful-links:
     output: true
     order:
-      - Resource Booking Service (RBS).md
+      - Timetable/.keep
+      - Timetable/Class Timetable.md
       - SLS Student Services.md
-      - Safety Updates/.keep
-      - Safety Updates/Dengue Updates.md
       - Quick Links (Staff).md
       - Quick Links (Students).md
+      - Safety Updates/.keep
+      - Safety Updates/Dengue Updates.md

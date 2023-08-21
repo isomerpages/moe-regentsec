@@ -1,7 +1,7 @@
 ---
 title: Cultural Performance Exposure Programme
 permalink: /latest-announcement/highlights/cultural-performance-exposure-programme/
-date: 2023-07-27
+date: 2023-07-31
 layout: post
 description: ""
 image: ""

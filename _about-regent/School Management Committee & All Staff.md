@@ -89,7 +89,7 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">HOD - Student Management</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">HOD - PE/CCA</span></td>
     <td class="tg-2izf">Mr Kong Kok Heng Melvin</td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-gnn7"><span style="font-weight:bold">Senior Teacher - Physical Education</span></td>
-    <td class="tg-vdtq">Mr Kwok Weng Meng Michae</td>
+    <td class="tg-vdtq">Mr Kwok Weng Meng Michael</td>
   </tr>
   <tr>
     <td class="tg-gnn7"><span style="font-weight:bold">Senior Teacher - Biology</span></td>
