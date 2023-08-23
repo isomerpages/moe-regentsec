@@ -5,7 +5,7 @@ description: ""
 ---
 | **Website** | **URL** |
 | -------- | -------- |
-| MIMS | https://mims.moe.gov.sg/ | 
+| MIMS | [https://mims.moe.gov.sg/](https://mims.moe.gov.sg/) | 
 | MOE Intranet     | [https://intranet.moe.gov.sg/Pages/Home.aspx](https://intranet.moe.gov.sg/Pages/Home.aspx)     |
 | iCON Mail  | [https://icon.moe.edu.sg/](https://icon.moe.edu.sg/) |
 | School Cockpit Internal | [https://schoolcockpit.moe.gov.sg/](https://schoolcockpit.moe.gov.sg/) |
