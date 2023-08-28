@@ -26,7 +26,7 @@ This ceremony serves to build a sense of commitment in our students as they take
 
 ---
 
-## **NSG Ceremony 2022**
+## **NSG Ceremony 2023**
 
 On 3 February 2023, our school held a National School Games (NSG) Ceremony for our student athletes who are participating in the NSG tournament this year. 
 
