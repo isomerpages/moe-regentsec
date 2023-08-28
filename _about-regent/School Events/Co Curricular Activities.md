@@ -77,80 +77,71 @@ There’s never a dull moment at CCA for our BB and GB cadets, and they can cert
 
 ---
 
-## **Secondary One CCA Orientation – CCA Experience 2022**
+## **Secondary One CCA Orientation – CCA Experience 2023**
 
-On 7 January 2022, our newest members to the Regent family—our Secondary One students—had their first introduction to the vibrant CCA programme at Regent Secondary School.
+Co-Curricular Activities are an integral part of student life in Regent Secondary School. Our newest additions to the Regent family—our Secondary One students—had a taste of our vibrant CCA programme with CCA Experience Day, which was held over four sessions in January. 
 
-Led by our student leaders, the Secondary Ones participated in a wide range of exciting CCA activities specially organized by their energetic seniors. Our students will, over the next two weeks, have a taste of all 17 CCA programmes that Regent has to offer—Sports &amp; Games, Uniformed Groups, Performing Arts, and Clubs &amp; Societies. Kudos to our CCA student leaders, and we warmly welcome our Secondary Ones to the CCA Family at Regent! May the next three sessions of CCA Experience be meaningful for all!
+Students had the opportunity to participate in activities from the four CCA groups (Clubs and Societies, Performing Arts, Sports and Games, and Uniformed Groups), and our energetic Secondary Two to Four Regenites pulled out all stops to showcase their CCAs with game booths, quizzes, and other experiential activities. Needless to say, our Secondary Ones had an enriching time learning more about what each CCA has to offer and mingling with their seniors!
 
-![](/images/School%20Events/CCA/CCA-schoolevent-14.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-15.jpg)
+
+![](/images/Highlights%20Post/CCAExp2023-1.jpg)
+![](/images/Highlights%20Post/CCAExp2023-2.jpg)
+![](/images/Highlights%20Post/CCAExp2023-3.jpg)
 
 ---
 
 ## **Regent Taekwondo Team participated in the National School Games**
 
-This year, our Regent Taekwondo Team participated in the National School Games (‘B’ Division).
+This year, our Taekwondo team participated in the National School Games Taekwondo Championships and we are pleased to announce the team has attained a total of 4 medals!
 
-The National Taekwondo Championships is the culmination of our Taekwondo members’ four-year journey with the CCA and a key platform for our members to put their skills to the test. We are proud to announce that our Taekwondo team has managed to clinch a total of 4 medals at the 2021 ‘B’ Division Taekwondo Poomsae individual and team events!
+•	‘C’ Division Boys (Team Event): Poomsae Team Blue 4 - Bronze  
+•	‘C’ Division Boys (Individual Event): Kyorugi (Poom Belt Under 34kg) - Bronze  
+•	‘B’ Division Boys (Individual Event): Kyorugi (Red Belt Under 56kg) - Bronze  
+•	‘B’ Division Boys (Individual Event): Kyorugi (Red Belt Under 68kg) - Bronze  
+•	‘B’ Division Girls (Individual Event): Kyorugi (Red Belt Under 60kg) – Gold  
 
-Additionally, two of our Secondary Four students, Darren Tan Bo Cong and Norfasarie&nbsp;Binte Noor Haizat, were awarded the Best Sportsmanship Award, one of the highest honours at the Games.
+2023 marks the first time participants may compete in both the Poomsae and Kyorugi categories since the pandemic, and we are proud of the mettle and fighting spirit that our young martial artists have shown in preparing for the Championships. They have truly persevered through the countless training sessions, sweat, and tears, standing steadfast through it all. 
+ 
+Congratulations, Regent Taekwondo Team!
 
-Our Taekwondo team’s wonderful results are indeed a testament to the respect, dedication, and resilience that they have demonstrated in their rigorous training sessions. They have persevered against all odds, despite the challenges brought on by the pandemic.
-
-Reflecting on the experience, Chloe Phua, who was awarded a Gold medal at the Poomsae Individual (Girls) event, shared that she has&nbsp;learnt the importance of determination and having a strong mentality in order to overcome any difficulties in life. This was also echoed by our Best Sportsmanship awardees, Darren and Fasarie, who said that the experience of participating in this competition was certainly valuable, and winning the award has taught them that it is important to always show respect to their opponents when competing.
-
-A huge thank you to the teachers and coaches, and well done, Regenites!
-
-**B Divison (Boys)**
-
-| Event | Students | Medal Won |
-| -------- | -------- | -------- |
-| Poomsae (Team) - Red Belt     | Axel Ng Yu Jin (4-I)<br>Geremy Wong Jun Wai (4-D)<br>Darren Tan Bo Cong (4-E)     | Bronze     |
-
-**B Divison (Boys)**
-
-| Event | Students | Medal Won |
-| -------- | -------- | -------- |
-| Poomsae (Individual) - Green Belt     | Yim Clankson (3-R)     | Silver     |
-
-**B Divison (Boys)**
-
-| Event | Students | Medal Won |
-| -------- | -------- | -------- |
-| Poomsae (Individual) - Blue Belt     | Jeremy Lee Jun Hong (3-D)     | Bronze     |
-
-**B Divison (Girls)**
-
-| Event | Students | Medal Won |
-| -------- | -------- | -------- |
-| Poomsae (Individual)     | Phua Hui Min Chloe (3-E)     | Gold     |
-
-**Best Sportmanship Award**
-
-| Recipients |
-| -------- |
-| Darren Tan Bo Cong (4-E)<br>Norfasarie Binte Noor Haizat (4-E)     |
+![](/images/Highlights%20Post/TaekwondoNSGAccolades-1.jpg)
+![](/images/Highlights%20Post/TaekwondoNSGAccolades-2.jpg)
+![](/images/Highlights%20Post/TaekwondoNSGAccolades-3.jpg)
+![](/images/Highlights%20Post/TaekwondoNSGAccolades-4.jpg)
+![](/images/Highlights%20Post/TaekwondoNSGAccolades-5.jpg)
 
 ---
 
-## **Boys’ Brigade Founders Day 2021**
+## **Boys’ Brigade Founders Day 2023**
 
-Boys’ Brigade (BB) Founder’s Award ceremony was held on Friday, 23 July 2021.
+The Boys' Brigade (BB) celebrated their BB Day on 12th January annually to commemorate the founding of The Boys' Brigade in Singapore. Today, Regent’s BB Boys don their uniform proudly and commemorates the event with a parade for the new Secondary One students at the school parade square. Students in the classrooms were treated to a video montage prepared by the BB 91st Company for them to understand more about the uniformed group as well as the wide range of activities organized.
 
-The Founder’s Award is the highest and most honourable award a Boy can attain in the Seniors Programme. Achieving it indicates that the person exemplifies the traits and ideals of the movement, such as perseverance and commitment.
+![](/images/School%20Events/CCA/BB_FoundersDay_2023-1.png)
 
-![](/images/School%20Events/CCA/bbfoundersday2021-1.jpg)
+![](/images/School%20Events/CCA/BB_FoundersDay_2023-2.png)
 
-![](/images/School%20Events/CCA/bbfoundersday2021-2.jpg)
+![](/images/School%20Events/CCA/BB_FoundersDay_2023-3.png)
 
-WO Zavier Wong and WO Hugo Teo of 91st Singapore Company (Regent Secondary School) are awarded the Founder’s Award. Both Boys have shown outstanding leadership abilities and character befitting that of a model BB Boy.
+![](/images/School%20Events/CCA/BB_FoundersDay_2023-5.png)
 
-WO Zavier Wong shared that he has learnt how to be a more confident leader who is able to rally his team to achieve common goals.
+<center><i>Screengrab from BB Day Message video.</i></center>
 
-WO Hugo Teo reflected that through his experiences in BB, he has grown to be a more determined student who is able to lead his team to overcome challenges.
+![](/images/School%20Events/CCA/BB_FoundersDay_2023-4.png)
 
-We are proud of both of them and look forward to their active contribution in the community!
+![](/images/School%20Events/CCA/BB_FoundersDay_2023-6.png)
+
+---
+
+## **PSL Training for Sec 4s**
+
+Our Secondary Four PSLs once again came together at the start of the year to share their best practices carrying out their roles in peer helping, peer bonding and peer influencing. 
+
+To help them gain the skills to be a positive influence, they were trained on carrying out Peer Mediation. Through role playing and case studies, they learned how to handle conflicts among peers. They also learned how to better recognize and manage their emotions by tackling automatic negative thoughts. With these important skills, we hope the Sec 4 PSLs will continue to inspire and support their peers in handling their emotions.
+
+The Sec 1 – 3 PSLs also started their training in T1W3. The newly inducted PSLs will learn more about the three domains of Peer Support and Relationships, while the Advanced PSLs learn more about how to influence their peers by resisting negative peer pressure. 
+
+All the PSLs are looking forward to amplify their learning during the upcoming Total Defence Day. Schools are a microcosm of society, and they will be advocating Social Defence by promoting social cohesion in the classroom. Together, we will make Regent a place where friendship thrives! 
+
 
 ---
 
