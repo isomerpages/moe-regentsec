@@ -30,8 +30,9 @@ We are grateful for our fruitful partnership with NWCDC, whose collaborative eff
 
 Thank you, NWDC, for the recognition, and our heartiest congratulations to Regent!
 
-![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2022-2.PNG)
-![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2022-3.PNG)
+![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2023-1.PNG)
+
+![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2023-2.png)
 
 ---
 
