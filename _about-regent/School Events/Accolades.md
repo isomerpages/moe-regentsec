@@ -54,22 +54,14 @@ We are grateful for the support of all our stakeholders and may Regent continue 
 
 ---
 
-## **‘O’ Level Examination Results Release 2022**
+## **‘O’ Level Examination Results Release 2023**
 
-On 12 January 2022, we welcome our graduands back to school. These students have demonstrated resilience in overcoming challenges and remained steadfast in achieving their goals.
+Today, we welcome our graduands home. Our Secondary Four & Five Regenites have indeed shown determination and resilience to overcome the difficulties and challenges over the past few years. They have held their heads high and truly exemplified the spirit of pursuing excellence in all that they do. We congratulate the batch of 2022 for their achievements and we wish them all the best as they go on to seek and climb greater heights.
 
-They have held their heads high and truly exemplified the spirit of pursuing excellence in all that they do.
-
-To our graduands,
-
-Celebrate Efforts as you’ve achieved your personal best.
-
-Think Opportunities as you chart your next lap.
-
-We congratulate the batch of 2021 for their achievements and we wish them all the best as they go on to seek and climb greater heights.
-
-![](/images/School%20Events/Accolades/OLvlResults2021-1.jpg)
-![](/images/School%20Events/Accolades/OLvlResults2021-2.jpg)
+![](/images/School%20Events/Accolades/OLvlResults2023-1.png)
+![](/images/School%20Events/Accolades/OLvlResults2023-2.png)
+![](/images/School%20Events/Accolades/OLvlResults2023-3.png)
+![](/images/School%20Events/Accolades/OLvlResults2023-4.png)
 
 ---
 
