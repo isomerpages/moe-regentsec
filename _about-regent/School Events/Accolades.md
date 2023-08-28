@@ -22,13 +22,14 @@ Team member Jacintha Lin shared that it was challenging for her to understand th
 
 ---
 
-## **North West School Partners Award 2022 – GOLD**
+## **North West School Partners Award 2023 – GOLD**
 
-We are delighted to share that Regent Secondary School has been awarded the North West Outstanding School Partner Award (Gold) for our active participation in North West Community Development Council (NWCDC) programmes in 2021!
+We are delighted to share that Regent Secondary School has been awarded the North West Outstanding School Partner Award 2023 - GOLD for our active participation in North West Community Development Council (NWCDC) programmes!
 
 We are grateful for our fruitful partnership with NWCDC, whose collaborative efforts have given our Regenites the opportunity to participate in a variety of meaningful programmes and to contribute actively to the community. Our students’ learning experiences have certainly been enriched through these initiatives.
 
 Thank you, NWDC, for the recognition, and our heartiest congratulations to Regent!
+
 
 ![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2023-1.PNG)
 
@@ -38,10 +39,18 @@ Thank you, NWDC, for the recognition, and our heartiest congratulations to Regen
 
 ## **NPCC Unit Overall Proficiency Award (UOPA) – Gold**
 
-We are pleased to announce that our National Police Cadet Corps (NPCC) unit has clinched the Gold Unit Overall Proficiency Award (UOPA) for the year 2021! The UOPA is awarded to school units each year to promote excellence and proficiency at all levels. Thanks to the hard work and “heart work” of its cadets and officers, the Regent NPCC unit has been able rise above the challenges brought about by the pandemic, and to uphold its exceptional track record of robust and spirited training sessions. As unit leaders Staff Sergeants Eason and Farahin shared, “Our NPCC unit has worked hard by persevering together, and we have all demonstrated the NPCC values as a unit. We are grateful and proud that we have achieved this award together. May we continue to strive for greater heights!”
+We are pleased to announce that our National Police Cadet Corps (NPCC) unit has attained the Unit Overall Proficiency Award (Distinction) for the year 2022! 
 
-![](/images/School%20Events/Accolades/NPCCUOPA2021-1.jpg)
-![](/images/School%20Events/Accolades/NPCCUOPA2021-2.jpg)
+The UOPA is awarded to school units each year to promote excellence and proficiency at all levels, and the Distinction award is the highest possible honour a unit may attain. Thanks to the work of its cadets, teachers, and volunteer officers, Regent’s NPCC unit has been able to uphold its exceptional track record of robust and spirited training sessions.
+
+2022 saw NPCC cadets participating in various modules and competitions, and the loosening of restrictions also allowed for the resumption of out-of-school activities such as the Dragon Boating Sport Enrichment Programme, Air Pistol Course, and visits to the Singapore Discovery Centre. This year, our cadets can look forward to taking part in a slew of activities that were shelved during the pandemic! These include Camp Resilience at Pulau Ubin and an exciting learning journey to the K-9 unit.
+
+We are grateful for the support of all our stakeholders and may Regent continue to blaze forth to glory!
+
+
+![](/images/School%20Events/Accolades/NPCCUOPA2022-1.png)
+![](/images/School%20Events/Accolades/NPCCUOPA2022-2.png)
+![](/images/School%20Events/Accolades/NPCCUOPA2022-3.png)
 
 ---
 
