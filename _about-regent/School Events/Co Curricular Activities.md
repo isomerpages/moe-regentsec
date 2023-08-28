@@ -33,17 +33,25 @@ All in all, it was a truly fitting way to end the week; and we look forward to m
 
 ---
 
-## **Girls Brigade Commemoration Day 2022**
+## **Girls Brigade Commemoration Day 2023**
 
-On 15 July 2022, cadets from the Girls’ Brigade (GB) came together to commemorate GB Day with a parade and presentation at Assembly. ‘To rise above, venture forward, and journey onward’ is the theme of GB Day this year; and our girls certainly lived that out in their work with Lions Befrienders on GB Friendship Day, where they set out to fulfil the wishes of twenty elderly persons in the community.
+The Enrolment and Dedication Ceremony is conducted annually to induct Girls’ Brigade members and leaders into the company. The enrolment service was held in Regent Secondary School on 15th April 2023. It was a product of the joint effort of both the 91st Boys’ Brigade and 81st Girls’ Brigade, and kindly supported by Bukit Panjang Gospel Chapel. 
 
-They applied the skills acquired in their Design and Technology lessons to fix shoe racks for the elderly, and then ventured out into the neighbourhood to personally deliver these to the elderly residents and to interact with them. Although it was initially awkward meeting the residents for the first time, it proved to be a meaningful time of bonding for our girls and a lesson in empathy and servant leadership.
+This year, we are grateful to have our Principal, Mrs Sng, as our Guest-of-Honour. The cadets trained hard for their drills in preparation for the uniform inspection. On top of that, the Girls’ Brigade also rehearsed diligently for the presentation of their drill competition performance.
 
-May our Girls’ Brigade cadets continue to grow in love for another and to serve others in a greater way!
+Cayden Goh Way Ee, a Boys' Brigade cadet from 2-Respect, was proud to be part of the marching contingent. He also felt that this ceremony had created opportunities for him and his fellow cadets to foster stronger bonds.
 
-![](/images/School%20Events/CCA/CCA-schoolevent-3A.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-4.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-5.jpg)
+Girls' Brigade cadet Chai Weng Xin from 3-Integrity said, “This year's Enrolment and Dedication ceremony is special for me as I was appointed the Company Leader. Not only that, I also took part in the drill competition. My parents were present at the ceremony and were proud to see my performance. I was thankful to have them witness this special occasion.”
+ 
+This ceremony serves to build a sense of commitment in our students as they take on new roles in their journey with their respective companies. We would like to wish our students the very best as they navigate the new and exciting journey ahead!
+
+![](/images/School%20Events/Accolades/GBEandD2023-1.jpg)
+![](/images/School%20Events/Accolades/GBEandD2023-2.jpg)
+![](/images/School%20Events/Accolades/GBEandD2023-3.jpg)
+![](/images/School%20Events/Accolades/GBEandD2023-4.jpg)
+![](/images/School%20Events/Accolades/GBEandD2023-5.jpg)
+![](/images/School%20Events/Accolades/GBEandD2023-6.jpg)
+![](/images/School%20Events/Accolades/GBEandD2023-7.png)
 
 ---
 
