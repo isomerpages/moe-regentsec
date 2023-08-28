@@ -4,35 +4,6 @@ permalink: /about-regent/school-events/cca-schoolevents/
 description: ""
 third_nav_title: School Events
 ---
-## **B-Dazzled Music and Dance Festival**
-
-On 6 November 2022, our Regent Revolution Show Choir took to the stage at the B-Dazzled Music &amp; Dance Festival where they attained the Diamond Award and Best Showmanship Award!
- 
-Performing two songs from the hit musical, Matilda—‘When I Grow Up’ and ‘Revolting Children’—our Show Choir members sang and danced with gusto in a spectacular showcase that earned them plaudits from the judges and audience. In the words of Colin Powell, ‘There are no secrets to success. It is the result of preparation, hard work, and learning from failure.’ Truly, our Show Choir’s glittering performance is testament to the determination and dedication of its members, teachers, and instructors, and we are proud of how the Choir has stepped up to the challenge to deliver a night to remember.
- 
-Blaze Forth to Glory, and may we continue to soar to ever greater heights!
-
-![](/images/Highlights%20Post/B-DazzledFest2022-1.jpg)
-![](/images/Highlights%20Post/B-DazzledFest2022-2.jpg)
-![](/images/Highlights%20Post/B-DazzledFest2022-3.jpg)
-![](/images/Highlights%20Post/B-DazzledFest2022-4.jpg)
-![](/images/Highlights%20Post/B-DazzledFest2022-5.jpg)
-
----
-
-## **NPCC &amp; RCY Dragon Boating SEP**
-
-Clear skies greeted our National Police Cadet Corps (NPCC) and Red Cross Youth (RCY) cadets on 12 August 2022 as they arrived at Lower Seletar Water Sports Centre for their Sports Enrichment Programme activity: dragon boating!
-
-Cadets from the two Uniformed Groups mingled freely with one another and were intrepid in trying their hand at a new sport together. There were plenty of laughs and they enjoyed a splashing good time with friends old and new. Although some were initially hesitant about the rigours of the activity, many eventually took away with them new skills and a greater appreciation of the importance of teamwork in this watersport.
-
-All in all, it was a truly fitting way to end the week; and we look forward to more delightful inter-UG activities to come!
-
-![](/images/School%20Events/CCA/CCA-schoolevent-1.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-2.jpg)
-
----
-
 ## **Girls Brigade Commemoration Day 2023**
 
 The Enrolment and Dedication Ceremony is conducted annually to induct Girls’ Brigade members and leaders into the company. The enrolment service was held in Regent Secondary School on 15th April 2023. It was a product of the joint effort of both the 91st Boys’ Brigade and 81st Girls’ Brigade, and kindly supported by Bukit Panjang Gospel Chapel. 
@@ -57,34 +28,36 @@ This ceremony serves to build a sense of commitment in our students as they take
 
 ## **NSG Ceremony 2022**
 
-On 14 April 2022, our school held a National School Games (NSG) Ceremony for our student athletes to celebrate the return of the NSG in full swing. It will be the first time our students will be able to participate in the NSG again, after it was disrupted by the COVID-19 pandemic the past two years.
+On 3 February 2023, our school held a National School Games (NSG) Ceremony for our student athletes who are participating in the NSG tournament this year. 
 
-Amidst deafening applause, representatives from our Sports and Games CCAs, namely Badminton, Basketball, Football, Netball and Taekwondo, walked down the centre aisle of the school hall with much pride and enthusiasm.
+Amidst deafening applause, representatives from our Sports and Games CCAs, namely Badminton, Basketball, Football, Netball and Taekwondo, walked down the centre aisle of the school hall with great pride and honour.
 
-The highlight of the ceremony focused on the motto, “Character in Sporting Excellence”, where our student athletes recited the Athletes’ oath as a reminder to uphold the virtues of sportsmanship in the tournament. Mr Michael Kwok, Senior Teacher/PE, recited the Coaches’ Oath on behalf of all teachers and coaches who endeavour to develop each athlete to his/her fullest potential. Mr Isaac Jiang, PE teacher, represented all officials involved in NSG 2022 in reciting the Officials’ Oath, pledging to uphold its professionalism.
+The highlight of the ceremony focused on the motto, “Character in Sporting Excellence”, where our Sports and Games CCA Leader, Emily Cheu from 4-Integrity led the student athletes to recite the Athletes’ oath as a reminder to uphold the virtues of sportsmanship in the tournament.
 
-The ceremony culminated with the presentation of the school jerseys by our Principal, Mr Leong, to the captains of each team. The jersey presentation symbolises our school values of Passion, Respect, Integrity, Determination and Empathy (P.R.I.D.E.), which our student athletes will embody as they don the school colours for each game.
+The ceremony culminated with the presentation of the school jerseys by our Principal, Mrs Sng, to the captains of each team. The jersey presentation symbolises our school values of Passion, Respect, Integrity, Determination and Empathy (P.R.I.D.E.), which our student athletes will embody as they don the school colours for each game.
 
-We&nbsp;would like to wish our Sports and Games CCAs the very best as they compete in their remaining games. May they “Blaze Forth To Glory”!
+We would like to wish our Sports and Games CCAs the very best as they compete in this year’s National School Games. May they “Blaze Forth To Glory”!
 
-![](/images/School%20Events/CCA/CCA-schoolevent-6.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-7A.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-8.jpg)
+![](/images/Highlights%20Post/NSGCeremony2023-1.jpg)
+![](/images/Highlights%20Post/NSGCeremony2023-2.jpg)
+![](/images/Highlights%20Post/NSGCeremony2023-3.jpeg)
 
 ---
 
-## **Sec 4 UG Passing-Out Parade**
+## **Sec 4 UG Passing-Out Parade 2023**
 
-Lightning Risk Alerts and COVID-19 Safe Management Measures did not deter our Uniformed Group leaders from taking centre stage at our annual Passing-Out Parade (POP), held on 13 April. Incidentally, the parade was the school’s first live event this year, which made it extra special.
+The Passing Out Parade (POP) is a ceremony for cadets that is held when they complete their term in their respective Uniformed Groups (UGs). It is one of the many important and unique milestones that cadets in UGs experience.
 
-Although initial plans for the parade were quite abruptly changed due to the wet weather, our cadets stood proud and tall in the hall, and the Change of Command was executed smoothly with our Principal, Mr Leong, and the Regent community bearing witness to this momentous occasion. For NPCC’s Staff Sergeant Farahin, the parade was a ‘memorable once-in-a-lifetime moment’ to cherish, having played an instrumental role as its Regimental Sergeant Major. Parade Commander and Head of UG Sergeant Jarell Leong of the Boys’ Brigade shared that he was proud to see his CCA members come together as one to adapt quickly to the sudden changes, and a strong sense of camaraderie amongst the UGs could be felt throughout the event.
+This year, the Secondary Four cadets from all 4 UGs (Boys’ Brigade, Girls’ Brigade, National Police Cadet Corps, and Red Cross Youth) were appointed as Guard of Honour. The Parade Commander is Yuki Khoo (4-Empathy) from the Girls’ Brigade and the Regimental Commander is Edmund Teo Jia Jing (4-Gratitude) from the Red Cross Youth.
 
-Reflecting on this significant milestone, Red Cross Youth Chairperson Warrant Officer Chua Kong Chuan commented, ‘It was surreal handing the drill cane over to my successor, but I was also comforted to know that the unit would be in good hands’.
+Parade Commander Yuki Khoo shared, “When I first heard that I was going to be the Parade Commander for this year’s Passing Out Parade, I was both nervous and excited. This is a once-in-a-lifetime opportunity. With the help and support of the other Uniformed Group (UG) heads, I am confident that I would make this parade a success. I would like to thank all the cadets for giving me the chance to be the Parade Commander and the teachers for their guidance and patience.”
 
-Indeed, we would like to thank our graduating batch of UG leaders and cadets for their selfless contributions to the CCA and school community. Taking the helm of our three key UGs are: Corporal Xavier Oh (BB), Corporal Chaw Shao Xuan (NPCC), and Corporal Edmund Teo (RCY). Congratulations!
+With the school as witness, the leadership handover ceremony was conducted on 5 April 2023. This ceremony signifies the passing of the baton to the next batch of leaders from the Secondary Three unit, trusting that they will uphold the responsibility to lead the future cadets and serve the school.
 
-![](/images/School%20Events/CCA/CCA-schoolevent-9.jpg)
-![](/images/School%20Events/CCA/CCA-schoolevent-10.jpg)
+Congratulations to our graduating cadets and we wish our new cadet leaders the very best in their future endeavours!
+
+![](/images/Highlights%20Post/CCAUniGrpPOP2023-1.jpg)
+![](/images/Highlights%20Post/CCAUniGrpPOP2023-2.jpg)
 
 ---
 
