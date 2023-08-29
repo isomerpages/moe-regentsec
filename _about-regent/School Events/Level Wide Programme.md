@@ -47,6 +47,14 @@ Similarly, Olivia Yun Yong Sze from 2-Integrity agreed that this programme was a
 
 As Florence Nightingale, the founder of modern nursing, once said, “Ignite the mind’s spark to rise the sun in you.” We hope that this ApLM will ignite similar sparks of potential within our Regenites. We believe the impact of this learning experience extends far beyond its completion, propelling our students on a lifelong journey of learning and growth. 
 
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-1.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-2.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-3.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-4.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-5.png)
+
+
+
 ---
 
 ## **Applied Learning Module (ApLM)- Marketing in Action**
@@ -80,4 +88,3 @@ On the final day, our students busied themselves with the preparation of their p
 Student Wee Jun Kai Lucius from 3-Integrity remarked, “I have gained insightful knowledge from this module and that has completely altered my perspective of the course. Other than learning about various research techniques, I also refined my writing and presentation abilities and developed a stronger sense of self-discipline and time management. These transferable skills will definitely benefit me in the future.”
 
 Overall, our students enjoyed the module immensely. We believe this journey not only broadened our students' horizons but also nurtured their passion for product design, and ignited the spark of innovation within them.
-
