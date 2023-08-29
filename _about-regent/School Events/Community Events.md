@@ -42,6 +42,22 @@ Our Boys’ Brigade, Girls’ Brigade, National Police Cadet Corps, and Red Cros
 
 ---
 
+## **Hari Raya Celebration 2023**
+
+We bade farewell to the holy month of Ramadan and ushered in the month of Syawal with our Hari Raya Aidilfitri Concert on 18 April 2023. 
+
+Themed “Cahaya Aidilfitri” (Light of Aidilfitri), the Concert saw our student talents putting up a series of performances to showcase the rich cultural and religious traditions of the Malay-Muslim community in Singapore. There were dance performances by our Malay Language students as well as a show-stopping Silat display; our English Drama club also performed a sketch to illustrate the significance that the holy month holds for Muslims across the world. In keeping with the festivities, Regenites were also treated to a musical performance by the Regent Pop Band, who performed a selection of Raya songs old and new.
+
+Indeed, it was heartening to see all students and staff coming together as one to celebrate Eid with joy and thanksgiving!
+
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-1.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-2.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-3.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-4.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-5.jpg)
+
+--
+
 ## **Limbang PAssionArts Festival 2022**
 
 On 23 July 2022, our Environmental Sciences Club and Modern Dance had the opportunity to participate in the Limbang PAssionArts Festival 2022. Environmental Sciences Club set up a Green Booth where our students shared their knowledge on environmental conservation with the community and our dance group showcased their talents through a modern dance performance.
@@ -58,7 +74,7 @@ Thank you Limbang for this opportunity for our students to contribute to the com
 
 ---
 
-## **Limbang Raya Show**
+## **Limbang Raya Show 2022**
 
 On the 21st May 2022, Choa Chu Kang residents attended the Limbang Raya Show, organised by the Limbang Malay Activity Executive Committee (MAEC), held in our school hall. The event, graced by the Grassroots Adviser, Mr Lawrence Wong, saw guests streaming into the hall donning their best Hari Raya outfits.
 
@@ -70,22 +86,6 @@ On top of that, prizes that were given out to winners of stage games, lucky draw
 
 ![](/images/School%20Events/Community%20Events/CommunityEvents-4.jpg)
 ![](/images/School%20Events/Community%20Events/CommunityEvents-5.jpg)
-
----
-
-## **Hari Raya Celebration 2023**
-
-We bade farewell to the holy month of Ramadan and ushered in the month of Syawal with our Hari Raya Aidilfitri Concert on 18 April 2023. 
-
-Themed “Cahaya Aidilfitri” (Light of Aidilfitri), the Concert saw our student talents putting up a series of performances to showcase the rich cultural and religious traditions of the Malay-Muslim community in Singapore. There were dance performances by our Malay Language students as well as a show-stopping Silat display; our English Drama club also performed a sketch to illustrate the significance that the holy month holds for Muslims across the world. In keeping with the festivities, Regenites were also treated to a musical performance by the Regent Pop Band, who performed a selection of Raya songs old and new.
-
-Indeed, it was heartening to see all students and staff coming together as one to celebrate Eid with joy and thanksgiving!
-
-![](/images/Highlights%20Post/HariRayaAidilfitri2023-1.jpg)
-![](/images/Highlights%20Post/HariRayaAidilfitri2023-2.jpg)
-![](/images/Highlights%20Post/HariRayaAidilfitri2023-3.jpg)
-![](/images/Highlights%20Post/HariRayaAidilfitri2023-4.jpg)
-![](/images/Highlights%20Post/HariRayaAidilfitri2023-5.jpg)
 
 ---
 
