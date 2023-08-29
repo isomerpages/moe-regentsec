@@ -73,17 +73,15 @@ On top of that, prizes that were given out to winners of stage games, lucky draw
 
 ---
 
-## **Hari Raya Celebration 2022**
+## **Hari Raya Celebration 2023**
 
-It has been two years our last Hari Raya mass celebrations in school and this year we are grateful for the chance to come together once more to enjoy the festivities celebrated by our Muslim teachers and peers. Nur ‘iliyin binte Joemarino from 4-Respect shares more about her experience of this special event.
+We bade farewell to the holy month of Ramadan and ushered in the month of Syawal with our Hari Raya Aidilfitri Concert on 18 April 2023. 
 
-“Hari Raya is a joyous celebration where Muslims all over the world celebrate the end of fasting during the month of Ramadhan. During the celebration in school this year, Muslim students from various levels collaborated with one another and put up a wonderful performance. This year’s performance was fascinating as it was a two in one celebration consisting of pre-recorded video segments as well as live segments. From the video, I learnt more about how Hari Raya Puasa is being celebrated and the different types of cuisines as well as traditional dishes eaten during Hari Raya Puasa. I also finally understand the meaning of Maaf Zahir dan Batin from the explanations given during the quiz segment.
+Themed “Cahaya Aidilfitri” (Light of Aidilfitri), the Concert saw our student talents putting up a series of performances to showcase the rich cultural and religious traditions of the Malay-Muslim community in Singapore. There were dance performances by our Malay Language students as well as a show-stopping Silat display; our English Drama club also performed a sketch to illustrate the significance that the holy month holds for Muslims across the world. In keeping with the festivities, Regenites were also treated to a musical performance by the Regent Pop Band, who performed a selection of Raya songs old and new.
 
-I love the performances because of the different elements of music compiled together back from 1950s to 2000s. It brought back memories for me as we reminisced the traditional Hari Raya songs I grew up listening to. Not only that, I contributed by being part of the ‘Regent Pop Band’ as one of the singers alongside with my band mates. We had covered the song Selamat Hari Raya by Saloma. It was a fruitful experience, singing together and rehearsing our parts to produce the whole Regent Pop Band music video. Even our Malay ‘cikgus’ serenaded us with a song or two!
+Indeed, it was heartening to see all students and staff coming together as one to celebrate Eid with joy and thanksgiving!
 
-Personally, I am grateful because it was the first time in two years that all Regenites were able to gather in the school hall once again. It touched my heart as we could finally come together to celebrate Hari Raya as a school once again. I look forward to more celebrations and performances put together for our Regenites in the years to come. Selamat Hari Raya everyone!”
 
-![](/images/Hari%20Raya%20Celebration/HariRaya2022-1A.jpg)
 
 ---
 
