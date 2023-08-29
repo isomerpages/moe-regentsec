@@ -4,3 +4,4 @@ permalink: /about-regent/school-publication/echoes-of-regent-2023/
 description: ""
 third_nav_title: School Publication
 ---
+📰 [Echoes of Regent 2023](https://www.scribd.com/document/667797118/Echoes-of-Regent-2023)
