@@ -4,48 +4,80 @@ permalink: /about-regent/school-events/level-wide-programme/
 description: ""
 third_nav_title: School Events
 ---
-### **Secondary 3 NA Elective Modules Programme**
+## **Applied Learning Module (ApLM) – Digital Animations**
 
-Our 3N(A) Regenites visited ITE College Central from 29th March to 1st April  to take part in several Elective Modules (EM) offered by the institution. This learning journey is part of MOE’s effort to broaden the learning experiences of N(A) students and provide opportunities for them to take part in applied learning. Some of the modules extended to them were Engineering, Business &amp; Services, Design &amp; Media and Electronics &amp; Info-comm Technology. It was an enriching and meaningful experience for our 3N students as they received the opportunity to discover the possible career pathways in these industries.
+Recently, a group of selected students from Secondary 3 and Secondary 2 got the opportunity to explore more about the makings of 2D animation. Through attending the Applied Learning Module (ApLM) Digital 2D Animation course, organised by Singapore Polytechnic, our Regenities were able to gain insights into 2D animation.
 
-#### **Video Production Module**
+Over the span of three immersive days, these budding animators sharpened their digital media software skills. In addition to acquiring essential theoretical knowledge, such as the 12 Principles of animation, our students also ventured into the practical aspects of creating digital puppets - implementing various effects and breathing life into their animations.  On the last day of the programme, our students skillfully fused the various lessons and techniques they had acquired to create a mesmerising 10-second animation as their final projects. 
 
-<img src="/images/School%20Events/Level%20Wide%20Programmes/Sec3NA_ElectiveMod_1.jpeg" style="width:50%">
+Reflecting on his experience, student Andre Qushairy Bin Mohammed Shaiful (3-Pride) said, “Although the assignment was challenging, it provided us with useful knowledge about the world of animation. Not only that, I also like how this course provided us with a glimpse of the polytechnic life.”
 
-One of the EMs that the students engaged in was Video Production. On their first day of doing so, the students learnt how to make use of simple video editing software to create a simple video of a topic of their choice. Even though this was the first time most of the students were exposed to the Mac OS, our students managed to quickly grasp the basics and created a few quirky short videos!
+We look forward to seeing many more Regenites explore their untapped potential and nurture their passion in the days to come! 
 
-<img src="/images/School%20Events/Level%20Wide%20Programmes/Sec3NA_ElectiveMod_2.jpeg" style="width:50%">
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Animations.png)
 
-Students also tried their hands at piecing a 30 seconds advertisement video, using stock footage provided by the college. Through the hands on learning, they were able to experience the joy and frustrations behind the creation of a successful commercial video.
+---
 
-#### **Design and Build Your Own Glider Module**
+## **Applied Learning Module (ApLM) Fundamentals of Tourism Management**
 
-<img src="/images/School%20Events/Level%20Wide%20Programmes/Sec3NA_ElectiveMod_3.jpeg" style="width:75%">
+Recently, our Secondary 3 Geography students attended the Applied Learning Module (ApLM) on Fundamentals of Tourism Management conducted by Ngee Ann Polytechnic. Students learnt about the various sectors in the tourism industry through innovative pedagogies, such as team discussions, role-playing, and examination of case studies. 
 
-In this module, students learn about the science of aerodynamics. In the second half of the module, they received hands-on experiences in designing, building and testing their own air gliders.
+In addition to talks helmed by lecturers and industry speakers, our students also toured the scenic paradise Gardens by the Bay and had an immersive experience at Art Science Museum in this 2-day programme. 
 
-<img src="/images/School%20Events/Level%20Wide%20Programmes/Sec3NA_ElectiveMod_4.jpeg" style="width:50%">
+Secondary 3 student Dawn Chua shared that she truly enjoyed the module and learning journeys. She found the programme beneficial as it gave her the essential information to better guide her in her decision-making regarding her post-secondary options.
 
-It was a thrilling sight to see the glow on the students' faces as they watched with excitement and pride their gliders flying high at the end of the day!
+Our students were able to learn more about the tourist profile in Singapore and the unique ways through which the government has created niche experiences in tourism-related infrastructure. These unique experiences have provided our students with opportunities to appreciate Singapore’s ability to thrive as a tourism hub for locals and tourists alike.
 
-#### **Theatre Module**
+As Mr Nelson Mandela once said, “We must dream and relentlessly pursue those dreams to realise them.” We are certain that the experience of participating in ApLM has exposed our students to the myriad of possibilities beyond post-secondary education, igniting their motivations to pursue their dreams and shape their future.
 
-<img src="/images/School%20Events/Level%20Wide%20Programmes/Sec3NA_ElectiveMod_5.jpeg" style="width:75%">
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-TourismMgt-1.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-TourismMgt-2.png)
 
-Lights, camera, action!
+---
 
-Secondary 3 NA students and the students from “Dramatiques” started the day on a high note with their active participation in a team activity!
+## **Applied Learning Module (ApLM) – Healthcare in Action**
 
-After an hour of fun to get their creative juices flowing, the students worked hard on their script for an act to be presented on the final day. It was a fun challenge for them as they also had to get their lighting plot planned so that the lights and actors’ blocking positions can be carried out smoothly later.
+During the June holidays, several Secondary 2 and 3 Regenites participated in an enriching 3-day learning journey at the Nanyang Polytechnic. Students signed up for the Applied Learning Module (ApLM) – Healthcare in Action to gain deeper insights into the healthcare industry. Regenites were engaged in a diverse range of activities. These included measuring blood pressure and breathing rates, putting on Personal Protective Equipment (PPE), applying various types of bandages, conducting cardiopulmonary resuscitation (CPR), and using an automated external defibrillator (AED). 
 
-<img src="/images/School%20Events/Level%20Wide%20Programmes/Sec3NA_ElectiveMod_6.jpeg" style="width:75%">
+In addition to acquiring essential insights and transferrable skillsets, the ApLM provided the Regenites with the unique opportunity to interact with the lecturers and polytechnic students. This allowed our students to gain a deeper understanding of the healthcare industry and provided a clearer perspective on what student life is like for a polytechnic student. 
 
-Finally, it was time for script reading, a process where the group came together to run through their scripts in preparation for the actual performance tomorrow! Our students played theatre games, "Fruitseller" and "Samson, Delilah and Lion" to learn the importance of timing, remembering their script and working in teams.  They were taught theatre discipline and learned commands that theatre practitioners would use.  During the improvisation segment, they read given lines, created a scene and expanded it with their own lines to end their stories with a twist.
+Reflecting on her experience, student Tu Ee Ninn Lyvia from 3-Gratitude remarked, “This programme changed my perspective on nurses. It allowed me to develop a profound appreciation for these heroic warriors because I am now aware of their range of job responsibilities.”
 
-#### **Personal Finance Module**
+Similarly, Olivia Yun Yong Sze from 2-Integrity agreed that this programme was an eye-opening experience as she gained a plethora of knowledge about the healthcare industry. It was particularly heart-warming for her to learn about how healthcare professionals and training students go to great lengths to keep us safe.
 
-<img src="/images/School%20Events/Level%20Wide%20Programmes/Sec3NA_ElectiveMod_7.jpg" style="width:75%">
+As Florence Nightingale, the founder of modern nursing, once said, “Ignite the mind’s spark to rise the sun in you.” We hope that this ApLM will ignite similar sparks of potential within our Regenites. We believe the impact of this learning experience extends far beyond its completion, propelling our students on a lifelong journey of learning and growth. 
 
-Insurance. CPF. Loans. Investment. Stocks. These were some of the key words learnt by the students at this module. Though intimidating initially, it was a fulfilling experience to learn so much from the experts in the Essentials of Personal Finance module.
+---
 
-Through the lectures, they learnt to plan their finances, the advantages and disadvantages to buying life insurance, what is CPF and many more. There was also an active participation by students in group discussions and presentations, where many shared interesting knowledge with fellow peers. The Elective Modules are designed to provide interactive and immersive experiences. We hope that the programme would encourage students to equip themselves with key skills that are relevant in the workplace of tomorrow.
+## **Applied Learning Module (ApLM)- Marketing in Action**
+
+During the March school holidays, our Secondary 3 Principles of Accounts (POA) students participated in a 3-day course, Applied Learning Module (ApLM) – “Marketing in Action", conducted by Ngee Ann Polytechnic. Prior to attending this course, students were equipped with knowledge of the back end of business through POA lessons held in school. Through numerous case studies and real-life fieldwork provided in this course, students learn about the front end of business management and the fundamentals of marketing, such as the "4 P's of Marketing" (Product, Place, Promotion, Price). 
+
+Students also got to visit the Decathlon office, where Marketing Director, Mr Kieran O'Shea, shared insights on how Decathlon capitalises on the 4 P's as part of its marketing strategies.
+
+Next, our students toured retail shops to identify how these marketing strategies were applied in real life. It provided them with an excellent opportunity to witness marketing in action.
+
+To conclude the course, our students designed their very own marketing plans with their peers. They were able to put together holistic plans by incorporating the newly acquired concepts gained from this course and the accounting concepts learnt from school.
+
+This course has sparked the interest of several students in business and marketing. Student Claire Chow Wai Kei (3-Empathy) said, “I would like to open my own business [in the future]. This course is beneficial to me as I can better understand how business works.”
+
+Student Lum Wern Kye (3-Empathy) also shared that the course was an eye-opener and provided him with a glimpse of what Polytechnic life would be like. The course also helped him better understand the decision-making process of businesses.
+
+It was indeed encouraging to see students enjoying themselves as they explored new concepts beyond the walls of the classroom. We look forward to seeing them scale to greater heights in their relentless pursuit of excellence.
+
+---
+
+## **Applied Learning Module (ApLM) - Product Design and Development**
+
+The third week of the June holidays is an enriching one for fellow students. A group of Secondary 3 Regenites attended a 3-day Applied Learning Module (ApLM) for Product Design and Development organised by the Singapore Polytechnic, where they learn a variety of skills, ranging from basic product design knowledge to idea generation and presentation techniques.
+
+On the first day, students were introduced to the process of product design and development. In addition, students learnt to utilise sketching techniques to effectively present their ideas. Thereafter, students were challenged to re-imagine and redesign a series of alarm clocks as part of their coursework for the Design Project.
+
+The next day, students were taught how they could use Adobe Photoshop to create their marketing posters. Through this, students learnt about the importance of aesthetic appeal for their target audience.
+
+On the final day, our students busied themselves with the preparation of their presentation slides and added the necessary finishing touches to their design. 
+
+Student Wee Jun Kai Lucius from 3-Integrity remarked, “I have gained insightful knowledge from this module and that has completely altered my perspective of the course. Other than learning about various research techniques, I also refined my writing and presentation abilities and developed a stronger sense of self-discipline and time management. These transferable skills will definitely benefit me in the future.”
+
+Overall, our students enjoyed the module immensely. We believe this journey not only broadened our students' horizons but also nurtured their passion for product design, and ignited the spark of innovation within them.
+
