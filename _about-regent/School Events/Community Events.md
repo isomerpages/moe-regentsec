@@ -81,7 +81,11 @@ Themed “Cahaya Aidilfitri” (Light of Aidilfitri), the Concert saw our studen
 
 Indeed, it was heartening to see all students and staff coming together as one to celebrate Eid with joy and thanksgiving!
 
-
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-1.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-2.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-3.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-4.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-5.jpg)
 
 ---
 
