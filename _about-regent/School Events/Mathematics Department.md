@@ -4,6 +4,19 @@ permalink: /about-regent/school-events/mathematics-department/
 description: ""
 third_nav_title: School Events
 ---
+## **Mathematics Olympiad Competition 2023**
+
+![](/images/School%20Events/Mathematics%20Department/MathsOlympiad2023-1.png)
+![](/images/School%20Events/Mathematics%20Department/MathsOlympiad2023-2.png)
+
+Participants’ Feedback on Maths Olympiad Trainings and Competition 2023
+
+JAIME PAT ROU XUAN  from 2-Determination
+
+As I have learnt from my experience participating in the Mathematical Olympiad, it is not really about solving math equations over and over again. Rather, it has proven to be a great learning opportunity. Thanks to the help of my teacher and peers, I have been able to improve in my math skills. Although many of the questions we encountered were challenging, we overcame the challenges together as a class and learnt various useful methods for solving math problems. I am glad for this opportunity to learn some more advanced math concepts, hone my problem solving skills, and more importantly, to approach challenges with the mindset of pushing myself to do better each time. 
+
+---
+
 ## **Mathematics Olympiad 2022**
 
 Our Secondary Two students recently participated in Singapore Mathematical Olympiad 2022, and we are pleased to announce that Gregg Loo Yi Xuan (2-Empathy) received the Honourable Mention Award! This places Gregg amongst the top performers in the Junior category of the competition.
