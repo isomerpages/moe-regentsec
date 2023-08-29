@@ -53,8 +53,6 @@ As Florence Nightingale, the founder of modern nursing, once said, “Ignite the
 ![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-4.png)
 ![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-5.png)
 
-
-
 ---
 
 ## **Applied Learning Module (ApLM)- Marketing in Action**
@@ -72,6 +70,12 @@ This course has sparked the interest of several students in business and marketi
 Student Lum Wern Kye (3-Empathy) also shared that the course was an eye-opener and provided him with a glimpse of what Polytechnic life would be like. The course also helped him better understand the decision-making process of businesses.
 
 It was indeed encouraging to see students enjoying themselves as they explored new concepts beyond the walls of the classroom. We look forward to seeing them scale to greater heights in their relentless pursuit of excellence.
+
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Marketing-1.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Marketing-2.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Marketing-3.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Marketing-4.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-Marketing-5.png)
 
 ---
 
