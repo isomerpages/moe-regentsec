@@ -5,7 +5,3 @@ description: ""
 third_nav_title: School Publication
 ---
 📖 Click to view [**Echoes of Regent 2023**](https://www.scribd.com/document/667797118/Echoes-of-Regent-2023)
-
----
-
-📖 Click to view [**Echoes of Regent 2022**](https://for.edu.sg/regent-news-2022)
