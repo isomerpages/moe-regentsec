@@ -4,21 +4,26 @@ permalink: /about-regent/school-events/accolades/
 description: ""
 third_nav_title: School Events
 ---
-## **23rd Elementz Fair – Gold Award**
+## **Accolades from Regent Red Cross Youth**
 
-Have you ever wondered how planes fly? Or even thought about the best household chemicals that help to remove ink stains on your school uniform? Let our Elementz teams tell you how!
+![](/images/School%20Events/Accolades/AccoladesRCY2023-1.png)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-2.png)
 
-Since November 2021, our two teams of Secondary Four students have put in their heart and hands preparing for the 23rd Elementz Fair held by ASRJC. They spent countless hours in the school laboratory conducting their experiments, and even self-built their own plane launcher from scratch!
+Semester 1 was an exciting one for Regent Red Cross Youth! With physical events back in full swing this year, our cadets had the opportunity to put their skills to the test at various competitions organised by the Singapore Red Cross.
 
-After months of dedication and hard work, we are immensely proud to announce that one of our teams managed to clinch the coveted Gold award! The other team put in their best effort, and received a certificate of commendation. Well done, Team Regent!
+February saw our cadets participating in the Ambassadors of Blood Donation Competition (ABC) and Disaster Risk Reduction Championships (DRRC). Cadet Ihsan Yusri (3-Respect) attained the Gold Award for his engaging ABC presentation, and our DRRC team—comprising Jonas Sim (3-Integrity), Javier Koh (3-Respect), Seah Yao Yu and Hasan Hanafi (3-Determination)—was awarded Bronze for their interactive showcase on fire safety at home.
 
-Weng Hin shared that the project had challenged him to step out of his comfort zone in speaking up to express his views. “Being a naturally introverted person, it was, for me, quite socially awkward to speak up and express my views. However, during this project, I have learnt to step out of my comfort zone to challenge myself to be more outspoken and how to properly transfer my thoughts into speech for my groupmates to understand, which has helped boost my communication skills further.”
+![](/images/School%20Events/Accolades/AccoladesRCY2023-6.png)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-7.png)
 
-Team member Jacintha Lin shared that it was challenging for her to understand the Physics concepts behind the project as a Biology student at first. However, through her willingness to learn and with the help of her group members, she successfully managed to present the theoretical background of flight to the panel of judges. Through the project, she also become more open to feedback from others, and became more confident in her communication and presentation skills.
+In March, our Junior and Senior teams took home the Gold and Bronze awards at the annual First Aid Championships, a national event that sees hundreds of participants across schools working to tackle simulated emergencies under timed conditions.
 
-![](/images/School%20Events/Accolades/23rdElementzFair-1.jpg)
-![](/images/School%20Events/Accolades/23rdElementzFair-2.jpg)
-![](/images/School%20Events/Accolades/23rdElementzFair-3.jpg)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-4.png)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-5.png)
+
+Finally, we are delighted to announce that our unit has attained the Excellent Unit Award (Gold) for the year 2022! We thank all Youth Officers, Volunteer Instructors, cadets, and friends of Regent for their unwavering dedication and support.
+
+![](/images/School%20Events/Accolades/AccoladesRCY2023-3.png)
 
 ---
 
@@ -65,6 +70,24 @@ Today, we welcome our graduands home. Our Secondary Four & Five Regenites have i
 
 ---
 
+## **23rd Elementz Fair – Gold Award**
+
+Have you ever wondered how planes fly? Or even thought about the best household chemicals that help to remove ink stains on your school uniform? Let our Elementz teams tell you how!
+
+Since November 2021, our two teams of Secondary Four students have put in their heart and hands preparing for the 23rd Elementz Fair held by ASRJC. They spent countless hours in the school laboratory conducting their experiments, and even self-built their own plane launcher from scratch!
+
+After months of dedication and hard work, we are immensely proud to announce that one of our teams managed to clinch the coveted Gold award! The other team put in their best effort, and received a certificate of commendation. Well done, Team Regent!
+
+Weng Hin shared that the project had challenged him to step out of his comfort zone in speaking up to express his views. “Being a naturally introverted person, it was, for me, quite socially awkward to speak up and express my views. However, during this project, I have learnt to step out of my comfort zone to challenge myself to be more outspoken and how to properly transfer my thoughts into speech for my groupmates to understand, which has helped boost my communication skills further.”
+
+Team member Jacintha Lin shared that it was challenging for her to understand the Physics concepts behind the project as a Biology student at first. However, through her willingness to learn and with the help of her group members, she successfully managed to present the theoretical background of flight to the panel of judges. Through the project, she also become more open to feedback from others, and became more confident in her communication and presentation skills.
+
+![](/images/School%20Events/Accolades/23rdElementzFair-1.jpg)
+![](/images/School%20Events/Accolades/23rdElementzFair-2.jpg)
+![](/images/School%20Events/Accolades/23rdElementzFair-3.jpg)
+
+---
+
 ## **School Green Awards 2021**
 
 ![](/images/School%20Events/Accolades/SchGreenAwards2021-1.jpeg)
@@ -78,26 +101,3 @@ Guided by our mission to equip all students and staff to become responsible advo
 ![](/images/School%20Events/Accolades/SchGreenAwards2021-4.jpeg)
 
 This year, our students from the Environmental Sciences Club led the school-wide effort to turn used items into new products, including mask holders, tote bags, and coin banks. Ongoing recycling and energy-saving efforts have also helped us become a greener school. Through this, we have effected a positive environmental impact in our school and community. Let’s continue to do our part for the environment!
-
----
-
-## **Accolades from Regent Red Cross Youth**
-
-![](/images/School%20Events/Accolades/AccoladesRCY2023-1.png)
-![](/images/School%20Events/Accolades/AccoladesRCY2023-2.png)
-
-Semester 1 was an exciting one for Regent Red Cross Youth! With physical events back in full swing this year, our cadets had the opportunity to put their skills to the test at various competitions organised by the Singapore Red Cross.
-
-February saw our cadets participating in the Ambassadors of Blood Donation Competition (ABC) and Disaster Risk Reduction Championships (DRRC). Cadet Ihsan Yusri (3-Respect) attained the Gold Award for his engaging ABC presentation, and our DRRC team—comprising Jonas Sim (3-Integrity), Javier Koh (3-Respect), Seah Yao Yu and Hasan Hanafi (3-Determination)—was awarded Bronze for their interactive showcase on fire safety at home.
-
-![](/images/School%20Events/Accolades/AccoladesRCY2023-6.png)
-![](/images/School%20Events/Accolades/AccoladesRCY2023-7.png)
-
-In March, our Junior and Senior teams took home the Gold and Bronze awards at the annual First Aid Championships, a national event that sees hundreds of participants across schools working to tackle simulated emergencies under timed conditions.
-
-![](/images/School%20Events/Accolades/AccoladesRCY2023-4.png)
-![](/images/School%20Events/Accolades/AccoladesRCY2023-5.png)
-
-Finally, we are delighted to announce that our unit has attained the Excellent Unit Award (Gold) for the year 2022! We thank all Youth Officers, Volunteer Instructors, cadets, and friends of Regent for their unwavering dedication and support.
-
-![](/images/School%20Events/Accolades/AccoladesRCY2023-3.png)
