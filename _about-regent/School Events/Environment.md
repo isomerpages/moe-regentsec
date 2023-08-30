@@ -54,18 +54,14 @@ Let’s all do our part and invest in our planet to keep it sustainable for futu
 
 ---
 
-## **World Water Day 2022**
+## **World Water Day 2023**
 
-World Water Day is held annually on 22 March, a day designated by the United Nations (UN) to commemorate the importance of water as a resource for humankind.
+World Water Day is held annually on 22 March, a day designated by the United Nations (UN) to commemorate the importance of water as a resource. In Singapore, we mark World Water Day with a month-long celebration to rally the community to appreciate and conserve water resources for sustainability.
 
-At Regent Secondary School, we marked World Water Day 2022 with a series of activities aimed at raising awareness about the water conservation measures in Singapore and other countries worldwide. These included a Morning Assembly presentation on the importance of groundwater storage as well as a sharing on ‘Make Every Drop Count’, Singapore’s World Water Day theme for the year.
+At Regent Secondary School, we marked World Water Day with a slew of activities. Staff came dressed in blue to show their solidarity for the national movement for water conservation. Talks were also conducted by Regenites to raise awareness about the depletion of water resources worldwide and the urgent need to conserve it for the sake of all mankind. The Environmental Science club anchored a segment at Morning Assembly to share tips on how to conserve water both at home and in school. Our Environment Champions chipped in too with an interactive Kahoot quiz to engage their classmates on the topic.
 
-Our young environmentalists from the Environmental Science Club also designed an eye-catching noticeboard display with posters on Singapore’s water supply and conservation efforts through the years. Practical tips on how to conserve water both at home and in school were shared with our staff and students as well.
+Here’s what one of our Secondary Two students had to say about the commemorative activities in school: ‘I found the World Water Day commemoration in school meaningful. We do face water shortages around the world today, and it is important to take action now to help conserve water. My peers and I have pledged to do our part through our water pledges on display at the Canteen!’ (Ng Peng Swee, 2-Pride)
 
-Here’s what some of our Regenites have shared about doing their part to help conserve this precious resource!
-
-‘I can save water by ensuring that the tap is not left running and is switched off completely. This would ensure that there are no leaks, and we can help Make Every Drop Count.’ (Darsuki, S1-Empathy & Siti, S1-Gratitude)
-
-‘I have learnt to ensure that I run the washing machine and dishwasher only when I have a full load.’ (Danish Nabil, S3-Integrity)
-
-![](/images/School%20Events/Environment/Envir2022-9.jpg)
+![](/images/Highlights%20Post/WorldWaterDay2023-1.jpg)
+![](/images/Highlights%20Post/WorldWaterDay2023-2.jpg)
+![](/images/Highlights%20Post/WorldWaterDay2023-3.jpg)
