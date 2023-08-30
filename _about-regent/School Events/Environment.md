@@ -4,6 +4,32 @@ permalink: /about-regent/school-events/environment/
 description: ""
 third_nav_title: School Events
 ---
+## **Earth Day 2023**
+
+Earth Day was commemorated globally on the 22nd of April. To kickstart the commemoration in Regent, students from the Environmental Science Club shared with their peers during Morning Assembly on the need to protect our Earth. Aligning to this year’s theme on Food Sustainability, they also shared on how we can build our food resilience. 
+
+Back in class, the Environment Champions shared a video on ways to practise the 3Rs at home. They further shared ways to reduce food wastage such as ordering only what you need and they encouraged good recycling habits among their peers by setting up a class recycling corner in the class. Chew Cai Ling from 2-Empathy shared that she has learnt not to be picky when choosing fruits or vegetables as “ugly” fruit does not mean that the quality of the food is poor.
+
+Students also visited the booths set up at the canteen and attempted the SLS lessons on Food Sustainability to find out more on how they can take actions to protect the Earth.
+
+![](/images/Highlights%20Post/EarthDay2023-1.jpg)
+![](/images/Highlights%20Post/EarthDay2023-2.jpg)
+
+---
+
+## **World Water Day 2023**
+
+World Water Day is held annually on 22 March, a day designated by the United Nations (UN) to commemorate the importance of water as a resource. In Singapore, we mark World Water Day with a month-long celebration to rally the community to appreciate and conserve water resources for sustainability.
+
+At Regent Secondary School, we marked World Water Day with a slew of activities. Staff came dressed in blue to show their solidarity for the national movement for water conservation. Talks were also conducted by Regenites to raise awareness about the depletion of water resources worldwide and the urgent need to conserve it for the sake of all mankind. The Environmental Science club anchored a segment at Morning Assembly to share tips on how to conserve water both at home and in school. Our Environment Champions chipped in too with an interactive Kahoot quiz to engage their classmates on the topic.
+
+Here’s what one of our Secondary Two students had to say about the commemorative activities in school: ‘I found the World Water Day commemoration in school meaningful. We do face water shortages around the world today, and it is important to take action now to help conserve water. My peers and I have pledged to do our part through our water pledges on display at the Canteen!’ (Ng Peng Swee, 2-Pride)
+
+![](/images/Highlights%20Post/WorldWaterDay2023-1.jpg)
+![](/images/Highlights%20Post/WorldWaterDay2023-2.jpg)
+
+---
+
 ## **World Environment Day**
 
 World Environment Day falls on 5th June 2022. To commemorate this momentous day and do our part for Mother Earth, Regent held an Environment Week starting from 23 to 27 May!
@@ -36,30 +62,3 @@ Seeing our world through the lens of a camera, we often look more critically, ev
 ![](/images/School%20Events/Environment/Envir2022-3.jpg)
 ![](/images/School%20Events/Environment/Envir2022-4.jpg)
 ![](/images/School%20Events/Environment/Envir2022-5.jpg)
-
----
-
-## **Earth Day 2023**
-
-Earth Day was commemorated globally on the 22nd of April. To kickstart the commemoration in Regent, students from the Environmental Science Club shared with their peers during Morning Assembly on the need to protect our Earth. Aligning to this year’s theme on Food Sustainability, they also shared on how we can build our food resilience. 
-
-Back in class, the Environment Champions shared a video on ways to practise the 3Rs at home. They further shared ways to reduce food wastage such as ordering only what you need and they encouraged good recycling habits among their peers by setting up a class recycling corner in the class. Chew Cai Ling from 2-Empathy shared that she has learnt not to be picky when choosing fruits or vegetables as “ugly” fruit does not mean that the quality of the food is poor.
-
-Students also visited the booths set up at the canteen and attempted the SLS lessons on Food Sustainability to find out more on how they can take actions to protect the Earth.
-
-![](/images/Highlights%20Post/EarthDay2023-1.jpg)
-![](/images/Highlights%20Post/EarthDay2023-2.jpg)
-
----
-
-## **World Water Day 2023**
-
-World Water Day is held annually on 22 March, a day designated by the United Nations (UN) to commemorate the importance of water as a resource. In Singapore, we mark World Water Day with a month-long celebration to rally the community to appreciate and conserve water resources for sustainability.
-
-At Regent Secondary School, we marked World Water Day with a slew of activities. Staff came dressed in blue to show their solidarity for the national movement for water conservation. Talks were also conducted by Regenites to raise awareness about the depletion of water resources worldwide and the urgent need to conserve it for the sake of all mankind. The Environmental Science club anchored a segment at Morning Assembly to share tips on how to conserve water both at home and in school. Our Environment Champions chipped in too with an interactive Kahoot quiz to engage their classmates on the topic.
-
-Here’s what one of our Secondary Two students had to say about the commemorative activities in school: ‘I found the World Water Day commemoration in school meaningful. We do face water shortages around the world today, and it is important to take action now to help conserve water. My peers and I have pledged to do our part through our water pledges on display at the Canteen!’ (Ng Peng Swee, 2-Pride)
-
-![](/images/Highlights%20Post/WorldWaterDay2023-1.jpg)
-![](/images/Highlights%20Post/WorldWaterDay2023-2.jpg)
-![](/images/Highlights%20Post/WorldWaterDay2023-3.jpg)
