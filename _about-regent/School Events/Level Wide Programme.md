@@ -92,3 +92,6 @@ On the final day, our students busied themselves with the preparation of their p
 Student Wee Jun Kai Lucius from 3-Integrity remarked, “I have gained insightful knowledge from this module and that has completely altered my perspective of the course. Other than learning about various research techniques, I also refined my writing and presentation abilities and developed a stronger sense of self-discipline and time management. These transferable skills will definitely benefit me in the future.”
 
 Overall, our students enjoyed the module immensely. We believe this journey not only broadened our students' horizons but also nurtured their passion for product design, and ignited the spark of innovation within them.
+
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-ProductDesign-1.png)
+![](/images/School%20Events/Level%20Wide%20Programmes/ApLM-ProductDesign-2.png)
