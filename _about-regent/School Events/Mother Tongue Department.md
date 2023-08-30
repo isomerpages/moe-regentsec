@@ -4,6 +4,18 @@ permalink: /about-regent/school-events/mother-tongue-department/
 description: ""
 third_nav_title: School Events
 ---
+## **MT Fortnight 2023**
+
+![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-1.jpeg)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-2.jpeg)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-3.jpeg)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-4.jpeg)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-5.jpeg)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-6.png)
+![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-7.png)
+
+---
+
 ## **MT Fortnight 2022**
 
 Learning Mother Tongue Languages in Regent is more than just about words, vocabulary, grammar and sentence construction – it is also about the appreciation of the rich culture, traditions and heritage of the students’ Mother Tongue.
