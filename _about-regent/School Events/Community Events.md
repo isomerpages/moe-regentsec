@@ -4,13 +4,59 @@ permalink: /about-regent/school-events/community-events/
 description: ""
 third_nav_title: School Events
 ---
-## **Limbang National Day Dinner 2022**
+## **Voice of Youth 2023**
 
-Our Concert Band, Show Choir and Student Leaders participated in Limbang National Day Dinner on 8th August 2022. Thank you Limbang for this opportunity to bring joy and happiness to our community! Happy 57th National Day Singapore!
+![](/images/Highlights%20Post/VoiceofYouth2023-1.png)
 
-![](/images/School%20Events/Community%20Events/CommunityEvents-1.jpg)
+What are Singaporean youths concerned about nowadays?
+
+On 28 August, together with students from Kranji Secondary and Unity Secondary, our Student Leaders attended the Voices Of Youth, a post-National Day Rally (NDR) Dialogue with the Marsiling Yew-Tee GRC Grassroot Advisors, including DPM Mr Lawrence Wong and Mayor Mr Alex Yam at Kranji Secondary School.
+
+Together with the Kranji Secondary Student Leaders, our Sec 3 student leaders also co-facilitated the small group discussions during the dialogue. It was a day of deep learning and fruitful engagement as the student leaders develop a better understanding of the issues emerging from the NDR such as the Majulah Package and the new housing classifications (Standard, Plus and Prime) Our student leaders also had the opportunity to provide suggestions and seek clarifications from the Grassroot Advisors on issues they are concerned about and would like to advocate. It was definitely an insightful occasion and our student leaders certainly look forward to more opportunities to interact and collaborate with our counterparts from our neighbouring schools.
+
+![](/images/Highlights%20Post/VoiceofYouth2023-2.png)
+![](/images/Highlights%20Post/VoiceofYouth2023-3.png)
+![](/images/Highlights%20Post/VoiceofYouth2023-4.png)
+![](/images/Highlights%20Post/VoiceofYouth2023-5.png)
+![](/images/Highlights%20Post/VoiceofYouth2023-6.png)
+![](/images/Highlights%20Post/VoiceofYouth2023-7.png)
+![](/images/Highlights%20Post/VoiceofYouth2023-8.png)
 
 ---
+
+## **Limbang National Day Dinner 2023**
+
+What better way to celebrate National Day than with the community?
+
+This year, our CCA groups came together to do just that, beginning with a wonderful performance by Regent Concert Band at Limbang’s National Day Dinner on 8 August. As guests dined on a sumptuous spread of local delights, strains of Disney’s “Beauty and the Beast” filled the air, followed by a soulful rendition of the popular National Day song, “Home”.
+
+Our Boys’ Brigade, Girls’ Brigade, National Police Cadet Corps, and Red Cross Youth also put up a fine display at the Limbang National Day Observance Ceremony on 9 August. Together with their peers from Unity Secondary School, they paid tribute to the contributions of all Singaporeans in defending our nation through a parade segment. At the Majulah Walk and Run thereafter, our NPCC cadets led the crowd in a spirited GetActive Singapore Workout: Dance of the Nation, alongside Limbang and Yew Tee residents and volunteers from Team Nila.
+
+“To serve our country and community” is the Uniformed Group ethos, and our Regenites’ participation in these community events have indeed strengthened our pride in and commitment to the places where live, study, work, and play. Happy 58th National Day, Singapore, and may we all continue to move together “Onward as One”!
+
+![](/images/School%20Events/Community%20Events/LimbangNDDinner2023-1.png)
+![](/images/School%20Events/Community%20Events/LimbangNDDinner2023-2.png)
+![](/images/School%20Events/Community%20Events/LimbangNDDinner2023-3.png)
+![](/images/School%20Events/Community%20Events/LimbangNDDinner2023-4.png)
+![](/images/School%20Events/Community%20Events/LimbangNDDinner2023-5.png)
+
+---
+
+## **Hari Raya Celebration 2023**
+
+We bade farewell to the holy month of Ramadan and ushered in the month of Syawal with our Hari Raya Aidilfitri Concert on 18 April 2023. 
+
+Themed “Cahaya Aidilfitri” (Light of Aidilfitri), the Concert saw our student talents putting up a series of performances to showcase the rich cultural and religious traditions of the Malay-Muslim community in Singapore. There were dance performances by our Malay Language students as well as a show-stopping Silat display; our English Drama club also performed a sketch to illustrate the significance that the holy month holds for Muslims across the world. In keeping with the festivities, Regenites were also treated to a musical performance by the Regent Pop Band, who performed a selection of Raya songs old and new.
+
+Indeed, it was heartening to see all students and staff coming together as one to celebrate Eid with joy and thanksgiving!
+
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-1.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-2.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-3.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-4.jpg)
+![](/images/Highlights%20Post/HariRayaAidilfitri2023-5.jpg)
+
+--
 
 ## **Limbang PAssionArts Festival 2022**
 
@@ -28,7 +74,7 @@ Thank you Limbang for this opportunity for our students to contribute to the com
 
 ---
 
-## **Limbang Raya Show**
+## **Limbang Raya Show 2022**
 
 On the 21st May 2022, Choa Chu Kang residents attended the Limbang Raya Show, organised by the Limbang Malay Activity Executive Committee (MAEC), held in our school hall. The event, graced by the Grassroots Adviser, Mr Lawrence Wong, saw guests streaming into the hall donning their best Hari Raya outfits.
 
@@ -40,20 +86,6 @@ On top of that, prizes that were given out to winners of stage games, lucky draw
 
 ![](/images/School%20Events/Community%20Events/CommunityEvents-4.jpg)
 ![](/images/School%20Events/Community%20Events/CommunityEvents-5.jpg)
-
----
-
-## **Hari Raya Celebration 2022**
-
-It has been two years our last Hari Raya mass celebrations in school and this year we are grateful for the chance to come together once more to enjoy the festivities celebrated by our Muslim teachers and peers. Nur ‘iliyin binte Joemarino from 4-Respect shares more about her experience of this special event.
-
-“Hari Raya is a joyous celebration where Muslims all over the world celebrate the end of fasting during the month of Ramadhan. During the celebration in school this year, Muslim students from various levels collaborated with one another and put up a wonderful performance. This year’s performance was fascinating as it was a two in one celebration consisting of pre-recorded video segments as well as live segments. From the video, I learnt more about how Hari Raya Puasa is being celebrated and the different types of cuisines as well as traditional dishes eaten during Hari Raya Puasa. I also finally understand the meaning of Maaf Zahir dan Batin from the explanations given during the quiz segment.
-
-I love the performances because of the different elements of music compiled together back from 1950s to 2000s. It brought back memories for me as we reminisced the traditional Hari Raya songs I grew up listening to. Not only that, I contributed by being part of the ‘Regent Pop Band’ as one of the singers alongside with my band mates. We had covered the song Selamat Hari Raya by Saloma. It was a fruitful experience, singing together and rehearsing our parts to produce the whole Regent Pop Band music video. Even our Malay ‘cikgus’ serenaded us with a song or two!
-
-Personally, I am grateful because it was the first time in two years that all Regenites were able to gather in the school hall once again. It touched my heart as we could finally come together to celebrate Hari Raya as a school once again. I look forward to more celebrations and performances put together for our Regenites in the years to come. Selamat Hari Raya everyone!”
-
-![](/images/Hari%20Raya%20Celebration/HariRaya2022-1A.jpg)
 
 ---
 

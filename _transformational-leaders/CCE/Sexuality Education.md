@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /developing-confident-leaders/cce/sexuality-education/
+permalink: /transformational-leaders/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---

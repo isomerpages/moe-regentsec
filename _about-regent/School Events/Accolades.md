@@ -22,44 +22,46 @@ Team member Jacintha Lin shared that it was challenging for her to understand th
 
 ---
 
-## **North West School Partners Award 2022 – GOLD**
+## **North West School Partners Award 2023 – GOLD**
 
-We are delighted to share that Regent Secondary School has been awarded the North West Outstanding School Partner Award (Gold) for our active participation in North West Community Development Council (NWCDC) programmes in 2021!
+We are delighted to share that Regent Secondary School has been awarded the North West Outstanding School Partner Award 2023 - GOLD for our active participation in North West Community Development Council (NWCDC) programmes!
 
 We are grateful for our fruitful partnership with NWCDC, whose collaborative efforts have given our Regenites the opportunity to participate in a variety of meaningful programmes and to contribute actively to the community. Our students’ learning experiences have certainly been enriched through these initiatives.
 
 Thank you, NWDC, for the recognition, and our heartiest congratulations to Regent!
 
-![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2022-2.PNG)
-![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2022-3.PNG)
+
+![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2023-1.PNG)
+
+![](/images/School%20Events/Accolades/NorthWestSchPartnersAward2023-2.png)
 
 ---
 
 ## **NPCC Unit Overall Proficiency Award (UOPA) – Gold**
 
-We are pleased to announce that our National Police Cadet Corps (NPCC) unit has clinched the Gold Unit Overall Proficiency Award (UOPA) for the year 2021! The UOPA is awarded to school units each year to promote excellence and proficiency at all levels. Thanks to the hard work and “heart work” of its cadets and officers, the Regent NPCC unit has been able rise above the challenges brought about by the pandemic, and to uphold its exceptional track record of robust and spirited training sessions. As unit leaders Staff Sergeants Eason and Farahin shared, “Our NPCC unit has worked hard by persevering together, and we have all demonstrated the NPCC values as a unit. We are grateful and proud that we have achieved this award together. May we continue to strive for greater heights!”
+We are pleased to announce that our National Police Cadet Corps (NPCC) unit has attained the Unit Overall Proficiency Award (Distinction) for the year 2022! 
 
-![](/images/School%20Events/Accolades/NPCCUOPA2021-1.jpg)
-![](/images/School%20Events/Accolades/NPCCUOPA2021-2.jpg)
+The UOPA is awarded to school units each year to promote excellence and proficiency at all levels, and the Distinction award is the highest possible honour a unit may attain. Thanks to the work of its cadets, teachers, and volunteer officers, Regent’s NPCC unit has been able to uphold its exceptional track record of robust and spirited training sessions.
+
+2022 saw NPCC cadets participating in various modules and competitions, and the loosening of restrictions also allowed for the resumption of out-of-school activities such as the Dragon Boating Sport Enrichment Programme, Air Pistol Course, and visits to the Singapore Discovery Centre. This year, our cadets can look forward to taking part in a slew of activities that were shelved during the pandemic! These include Camp Resilience at Pulau Ubin and an exciting learning journey to the K-9 unit.
+
+We are grateful for the support of all our stakeholders and may Regent continue to blaze forth to glory!
+
+
+![](/images/School%20Events/Accolades/NPCCUOPA2022-1.png)
+![](/images/School%20Events/Accolades/NPCCUOPA2022-2.png)
+![](/images/School%20Events/Accolades/NPCCUOPA2022-3.png)
 
 ---
 
-## **‘O’ Level Examination Results Release 2022**
+## **‘O’ Level Examination Results Release 2023**
 
-On 12 January 2022, we welcome our graduands back to school. These students have demonstrated resilience in overcoming challenges and remained steadfast in achieving their goals.
+Today, we welcome our graduands home. Our Secondary Four & Five Regenites have indeed shown determination and resilience to overcome the difficulties and challenges over the past few years. They have held their heads high and truly exemplified the spirit of pursuing excellence in all that they do. We congratulate the batch of 2022 for their achievements and we wish them all the best as they go on to seek and climb greater heights.
 
-They have held their heads high and truly exemplified the spirit of pursuing excellence in all that they do.
-
-To our graduands,
-
-Celebrate Efforts as you’ve achieved your personal best.
-
-Think Opportunities as you chart your next lap.
-
-We congratulate the batch of 2021 for their achievements and we wish them all the best as they go on to seek and climb greater heights.
-
-![](/images/School%20Events/Accolades/OLvlResults2021-1.jpg)
-![](/images/School%20Events/Accolades/OLvlResults2021-2.jpg)
+![](/images/School%20Events/Accolades/OLvlResults2023-1.png)
+![](/images/School%20Events/Accolades/OLvlResults2023-2.png)
+![](/images/School%20Events/Accolades/OLvlResults2023-3.png)
+![](/images/School%20Events/Accolades/OLvlResults2023-4.png)
 
 ---
 
@@ -81,12 +83,21 @@ This year, our students from the Environmental Sciences Club led the school-wide
 
 ## **Accolades from Regent Red Cross Youth**
 
-![](/images/School%20Events/Accolades/RCY-Accolades_30-July.png)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-1.png)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-2.png)
 
-Our Regent Red Cross Youth cadets recently participated in two inter-school competitions organised by the Singapore Red Cross Youth.
+Semester 1 was an exciting one for Regent Red Cross Youth! With physical events back in full swing this year, our cadets had the opportunity to put their skills to the test at various competitions organised by the Singapore Red Cross.
 
-Two of our Secondary Three cadets participated in the Ambassadors of Blood Competition, where they were given the opportunity to hone their oratorical skills whilst raising awareness about blood donation in Singapore. We are pleased to announce that our cadets, Elise and Isaiah, won a Silver and a Bronze award respectively!
+February saw our cadets participating in the Ambassadors of Blood Donation Competition (ABC) and Disaster Risk Reduction Championships (DRRC). Cadet Ihsan Yusri (3-Respect) attained the Gold Award for his engaging ABC presentation, and our DRRC team—comprising Jonas Sim (3-Integrity), Javier Koh (3-Respect), Seah Yao Yu and Hasan Hanafi (3-Determination)—was awarded Bronze for their interactive showcase on fire safety at home.
 
-Our Disaster Risk Reduction Championship team also clinched a Silver award for their interactive, game-based project on dengue. They explored ways to educate their juniors about dengue prevention measures, and demonstrated creativity in adapting the material for online teaching in these times. One of our cadets, Lim Yi Quan, shared that the experience has taught him more about lesson delivery, and how tools such as Kahoot can be used to engage their peers who may be hesitant to ask questions in-person or online. The project has also been valuable in developing cadets’ leadership competencies as confident CCA leaders and mentors to their juniors.
+![](/images/School%20Events/Accolades/AccoladesRCY2023-6.png)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-7.png)
 
-Congratulations and well done to our Red Cross Youth cadets!
+In March, our Junior and Senior teams took home the Gold and Bronze awards at the annual First Aid Championships, a national event that sees hundreds of participants across schools working to tackle simulated emergencies under timed conditions.
+
+![](/images/School%20Events/Accolades/AccoladesRCY2023-4.png)
+![](/images/School%20Events/Accolades/AccoladesRCY2023-5.png)
+
+Finally, we are delighted to announce that our unit has attained the Excellent Unit Award (Gold) for the year 2022! We thank all Youth Officers, Volunteer Instructors, cadets, and friends of Regent for their unwavering dedication and support.
+
+![](/images/School%20Events/Accolades/AccoladesRCY2023-3.png)
