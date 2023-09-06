@@ -3,6 +3,16 @@ title: CCA Achievements
 permalink: /co-curricular-activities/cca-achievements/
 description: ""
 ---
-## **2022 CCA Achievements**
+## **CCA Awards Presentation (Semester 1)**
 
-<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxY8cN6qgQLw0-x8whk8g4T42iuv27mV1SjlrSWBNt-IDPjA9fI1JeWszqBEBCjgeaHW9-JC1nSkge/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+We celebrated the accolades and achievements of our CCAs for Semester 1. Our awardees receive their certificates and medals from our Principal as the school cheered them on. A big congratulations to them!
+
+![](/images/CCA%20Achievements/CCAAwardSem12023-1.jpeg)
+
+![](/images/CCA%20Achievements/CCAAwardSem12023-2.jpeg)
+
+![](/images/CCA%20Achievements/CCAAwardSem12023-3.jpeg)
+
+![](/images/CCA%20Achievements/CCAAwardSem12023-4.jpeg)
+
+![](/images/CCA%20Achievements/CCAAwardSem12023-5.jpeg)
