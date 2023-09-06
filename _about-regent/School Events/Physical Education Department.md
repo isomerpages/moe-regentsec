@@ -4,9 +4,27 @@ permalink: /about-regent/school-events/pe-schoolevents/
 description: ""
 third_nav_title: School Events
 ---
+## **Sec 4 & 5 Sports Fiesta**
+
+### Sec 4 & 5 Sports Fiesta (Ultimate Frisbee)
+
+![](/images/Highlights%20Post/Sec4-5SportsFiesta-1.jpg)
+![](/images/Highlights%20Post/Sec4-5SportsFiesta-2.jpg)
+![](/images/Highlights%20Post/Sec4-5SportsFiesta-3.jpg)
+
+Our graduating cohort had their Sports Fiesta (Ultimate Frisbee) tournament on 30 June 2023 before they swing into full preparation for their national examinations. Through this inter-class tournament, students had the opportunity to apply the Ultimate skills that they have learnt during the PE lessons. 4-Pride was awarded the Overall Class Champion. Qaysh Matin from 4-Determination and Yuki Khoo from 4-Empathy both won the Best Sportsmanship awards. 
+
+![](/images/Highlights%20Post/Sec4-5SportsFiesta-4.jpg)
+![](/images/Highlights%20Post/Sec4-5SportsFiesta-5.jpg)
+![](/images/Highlights%20Post/Sec4-5SportsFiesta-6.jpg)
+
+A special shoutout to the Regent PE department and Sec 3 CCA leaders for the wonderfully-organised event! A big round of applause for our Sec 4 & 5 students for the exemplary display of resilience and sportsmanship as well as putting their best effort for this tournament!
+
+---
+
 ## **Sec 4 & 5 Sports Carnival 2022**
 
-Sec 4 & 5 Sports Carnival (Ultimate Frisbee)
+#### Sec 4 & 5 Sports Carnival (Ultimate Frisbee)
 
 The long anticipated Sec 4 & 5 Sports Carnival finally took place on 20 May! The last time our Secondary 4 & 5 students participated in a Sports Carnival was way back in 2019. Hence, it was clear why many of them were eager to join in the competition. Turning up in their respective class t-shirts, the students came very prepared and dressed well for the occasion! Besides the Ultimate Frisbee competition, various carnival stalls were also set up for all to have fun and joy!
 
