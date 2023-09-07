@@ -4,6 +4,96 @@ permalink: /about-regent/school-events/ne-schoolevents/
 description: ""
 third_nav_title: School Events
 ---
+## **National Day Celebration 2023**
+
+![](/images/Highlights%20Post/NationalDay2023-0.jpg)
+
+As Regent celebrated Singapore’s 58th birthday, we reflected upon this year’s national day theme, “Onward As One”, which calls upon Singaporeans to look forward confidently while moving onward together in building our shared future as one united people.
+
+![](/images/Highlights%20Post/NationalDay2023-1.jpg)
+
+The day started off magnificently at the parade square as the school gathered for the Observance Ceremony. The marching of our Uniformed Group cadets symbolically exemplified the notion of Regenites "moving onward as one. The Concert Band kept our spirits high with their live performance, especially as we came together “as one” while singing the national anthem and reciting the “Recollections.”  Show Choir’s melodic singing of “My Nation, My Home” raised our determination to rise above all challenges that lie ahead.
+
+![](/images/Highlights%20Post/NationalDay2023-3.jpg)
+![](/images/Highlights%20Post/NationalDay2023-4.jpg)
+![](/images/Highlights%20Post/NationalDay2023-5.jpg)
+![](/images/Highlights%20Post/NationalDay2023-6.jpg)
+![](/images/Highlights%20Post/NationalDay2023-7.jpg)
+![](/images/Highlights%20Post/NationalDay2023-8.jpg)
+![](/images/Highlights%20Post/NationalDay2023-9.jpg)
+![](/images/Highlights%20Post/NationalDay2023-10.jpg)
+
+During CCE lesson, the lower secondary students had a chance to reflect upon the importance of our day-to-day interactions in building a sense of belonging while the upper secondary students pondered upon our strengths and areas for improvements in building inclusivity and unity in Singapore. The lessons impressed upon the importance of playing our part in moving onward as one.
+ 
+![](/images/Highlights%20Post/NationalDay2023-11.jpg)
+
+After the CCE lesson, the school gathered once again in the hall for the National Day Celebration, where we relished the enjoyable performance put up by our Regent Pop Band as well as the Show Choir. We also looked back fondly at the various leadership and community outreach programmes which allowed us to give back to the community. It was uplifting to hear from our lower secondary students what they love about Singapore in the Regent Rave National Day segment. The concert ended on a high note as Regenites took part in a lively gameshow “Do Not Forget the Lyrics – National Day Edition.” The whole school was reverberating in joy while singing in unison to our favourite national day songs, led by Show Choir members and some of our beloved teachers!
+ 
+![](/images/Highlights%20Post/NationalDay2023-12.jpg)
+![](/images/Highlights%20Post/NationalDay2023-13.jpg)
+![](/images/Highlights%20Post/NationalDay2023-14.jpg)
+ 
+Regent Secondary School proudly celebrates Singapore’s 58th birthday and we are committed to move “onward as one”!
+
+![](/images/Highlights%20Post/NationalDay2023-2.jpg)
+
+---
+
+## **Racial Harmony Day 2023**
+
+Regent Secondary School celebrates Racial Harmony Day with a series of cross-cultural activities conducted over the duration of a week. 
+ 
+Firstly, our National Education (NE) ambassadors shared their experience participating in Quest for Harmony heritage trail with the school.
+
+![](/images/Highlights%20Post/RHD2023-1.jpg)
+![](/images/Highlights%20Post/RHD2023-2.jpg)
+
+Next, we also invited Interaction Arts and Drama Network to our school to stage the drama performance, Hope: A Lost Phone, to share the importance of respecting and embracing different ethnicities, and upholding racial harmony in our society.
+
+![](/images/Highlights%20Post/RHD2023-3.jpg)
+
+Finally, booths were also set up in the canteen by our NE ambassadors and Parent Support Group (PSG). There, our NE ambassadors shared interesting facts about the various places of worship of different ethnic groups. Regenites also had fun sampling the ethnic snacks, with many enjoying themselves thoroughly as they tried out different traditional games at our PSG booths. 
+ 
+Student Tay Jin Yi from 4-Empathy remarked, “Celebrating Racial Harmony Day is truly an imperative occasion where many Singaporeans of different race, language and religion come together to celebrate our differences. It was truly a wonderful experience to experience the sense of national identity in Singapore.”
+ 
+As PM Lee said, "There is nothing natural about where we are - multiracial, multi-religious, tolerant and progressive. We made it happen, and we have got to protect it, nurture it, preserve it, and never break it." We hope that this week-long event will remind Regenites of the need to stand united as one country, and guide them to recognise that multiculturalism is the key to our strength and progress as a nation.
+
+---
+
+## **International Friendship Day 2023**
+
+International Friendship Day recognises the role that friendship plays in promoting peace amongst various cultures. We kicked off this year’s celebrations with a special edition of Regent Rave, an online Assembly programme showcasing the experiences of four students who come from ASEAN countries like Myanmar, Vietnam, the Philippines, and Thailand. It was fascinating to hear these students share personal anecdotes, which paint a vivid picture of life and tradition in their home countries. As different as these countries may seem, what was apparent from the presentation was a shared love for food—the common thread that arguably binds us all Asians together!
+ 
+The theme of ‘unity in diversity’ came alive for Regenites too on the second day of the programme, where they were treated to a handbell performance in the school hall. Students had an enjoyable time listening to creative renditions of popular tunes which fused Asian and Western instruments for a truly delightful musical experience. They also got the chance to try their hand at creating music with the handbells!
+ 
+A week-long exhibition at the Canteen further impressed upon Regenites the challenges and opportunities faced by Singapore in Asia. Being uniquely positioned in a time where change is afoot regionally and globally, Singapore faces several vulnerabilities, and it is important that we continue to maintain positive diplomatic relations with our neighbours and the world at large.
+ 
+All in all, we hope that Regenites come away from the programme with a heightened understanding of global issues and a renewed sense of purpose in their role as future-ready global citizens!
+
+![](/images/Highlights%20Post/IFD2023-1.jpg)
+![](/images/Highlights%20Post/IFD2023-2.jpg)
+
+---
+
+## **Total Defence Day 2023**
+
+We commemorated Total Defence Day this year with a slew of activities aimed at rallying Regenites together in responding to challenges that may threaten Singapore’s stability.
+
+The week began with an informative presentation by our Peer Support Leaders, who shared with their classmates practical tips on strengthening social cohesion. Then, on 15 February, our Uniformed Group cadets came together to put up a fine display of unity with a Total Defence Day Parade. They also helmed a special programme to promote awareness of the pillars of Total Defence amongst their peers, with engaging presentations on basic first aid skills and the Public Warning System. To educate Regenites on being secure, alert, and responsible online, our Cyberwellness Ambassadors put up an array of interesting exhibits at the canteen and were on hand to explain what a strong Digital Defence means.
+
+As we have seen over the course of the pandemic, it is important that Singapore remains strong and its populace resilient to withstand challenges both local and global. The week’s CCE lesson highlighted initiatives pertaining to food sustainability in Singapore, and it was inspiring to see Total Defence in action for something so prosaic and which many arguably take for granted.
+
+To round off the week, a lockdown drill was conducted to strengthen our school’s emergency preparedness and response. This served as an important reminder of the part we all have to play in keeping the Regent community and our loved ones safe.
+
+![](/images/Highlights%20Post/TDD2023-1.jpg)
+![](/images/Highlights%20Post/TDD2023-2.jpg)
+![](/images/Highlights%20Post/TDD2023-3.jpg)
+![](/images/Highlights%20Post/TDD2023-4.jpg)
+![](/images/Highlights%20Post/TDD2023-5.jpg)
+![](/images/Highlights%20Post/TDD2023-6.jpg)
+
+---
+
 ## **NRIC Presentation Ceremony 2022**
 
 20 October 2022 was a special day for our Secondary Three students, who received their NRICs from our Principal and their Form Teachers.
@@ -200,21 +290,3 @@ Our teachers and students donned colourful ethnic costumes to commemorate this s
 ![](/images/School%20Events/National%20Education/Racial-Harmony-Day-3.jpg)
 
 ![](/images/School%20Events/National%20Education/Racial-Harmony-Day-4.jpg)
-
----
-
-## **National Day 2021**
-
-#### **Together Our Singapore Spirit**
-
-Regent Secondary School celebrated National Day on 6 August. We started the day by viewing the pre-recorded National Day Observance Ceremony in class. Our uniformed groups donned their uniforms and got into formation to commemorate Singapore’s 56th birthday. As a school, we sang the National Anthem and took the pledge with pride.
-
-![](/images/National%20Education/National-Day-1.jpg)
-
-*<center>Screenshot of pre-recorded National Day Observance Ceremony.</center>*
-
-Our lower secondary students commemorated National Day by playing a fun game of Bingo where they had the opportunity to understand their classmates’ common Singapore experiences! Many of them had a great laugh at some practices that make Singaporeans unique. As for our upper secondary students, they were invited to pen down thoughtful aspirations and hopes for Singapore and to share how they planned to help Singapore achieve these hopes and dreams.
-
-![](/images/School%20Events/National%20Education/National-Day-2.jpg)
-
-![](/images/National%20Education/National-Day-3.jpg)

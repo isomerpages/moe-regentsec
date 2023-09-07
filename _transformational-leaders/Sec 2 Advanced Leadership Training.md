@@ -1,6 +1,6 @@
 ---
 title: Sec 2 Advanced Leadership Training
-permalink: /confident-leaders/sec-2-advanced-leadership-training/
+permalink: /transformational-leaders/sec-2-advanced-leadership-training/
 description: ""
 ---
 ![](/images/Sec%202%20Camp/S2%20Camp%202022%20Banner.JPG)

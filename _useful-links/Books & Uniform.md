@@ -20,7 +20,7 @@ For students on the Financial Assistance Scheme (FAS), online purchase will not 
 | Email for enquiries:     | [sales@asencio.com.sg](mailto:sales@asencio.com.sg)    |
 | Contact number for enquiries:     | 6764 3102<br>8031 0502 (text message only)    |
 | Purchase options:     | 1. Order online and self-collection at Regent Secondary<br><br>2. Walk-in purchase at Regent Secondary School    |
-| Operating hours for walk-in purchase /self-collection:     |  |
+| Operating hours for walk-in purchase /self-collection:     | School Days, 7.30am-3pm<br>Closed on School &amp; Public Holidays<br>Venue: Canteen |
 
 
 ### **Contact Information of Vendors**

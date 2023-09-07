@@ -1,6 +1,6 @@
 ---
 title: Sec 3 Outward Bound Singapore
-permalink: /confident-leaders/sec-3-obs-camp/
+permalink: /transformational-leaders/sec-3-obs-camp/
 description: ""
 ---
 ![](/images/Sec%203%20Camp/20190423_121423-e1565230713520.jpg)

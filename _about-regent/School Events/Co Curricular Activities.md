@@ -108,6 +108,8 @@ The Boys' Brigade (BB) celebrated their BB Day on 12th January annually to comme
 
 ![](/images/School%20Events/CCA/BB_FoundersDay_2023-5.png)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_1JcIvugwnM?si=b8wAMtSm1FHKQ15g" height="315" width="560"></iframe>
+
 <center><i>Screengrab from BB Day Message video.</i></center>
 
 ![](/images/School%20Events/CCA/BB_FoundersDay_2023-4.png)

@@ -4,13 +4,34 @@ permalink: /about-regent/school-events/mother-tongue-department/
 description: ""
 third_nav_title: School Events
 ---
+## **Conversational Chinese Malay Language Programme 2023**
+
+
+Semester 1 saw our Secondary 1 and 2 students kickstarting their language-learning journey with the Conversational Chinese and Malay (CCM) Programme. An MOE-initiative launched in 2005, CCM provides learners with an elementary understanding of a third language: Mandarin-speaking students will learn Malay, and vice versa.
+
+Slated to run till August, our students can, in this 10-week programme, look forward to learning how to read and speak in the target language through engaging activities such as role-plays and quizzes. To enhance their leaning of the language, students will also be introduced to aspects of Chinese and Malay culture—their customs, food, and festivals!
+
+As they say, “Language is a gateway to culture”. It is our hope that through these lessons, our students will not only take away with them conversational skills in Chinese / Malay, but also a deeper appreciation for the diversity of cultures and racial harmony that we have in Singapore. 
+
+![](/images/Mother%20Tongue%20Department/Sec2CCMProg2023-1.png)
+![](/images/Mother%20Tongue%20Department/Sec2CCMProg2023-2.png)
+![](/images/Mother%20Tongue%20Department/Sec2CCMProg2023-3.png)
+
+---
+
 ## **MT Fortnight 2023**
+
+In Regent Secondary School, Mother Tongue Fortnight activities adopted a thematic approach with the Secondary 1 students participating in cultural arts and craft activities such as Opera Mask Painting and Wau Kite making. The Secondary 2 students were immersing themselves in the beauty of Chinese Calligraphy and Khat Drawing/Javi Calligraphy while the Secondary 3 students were executing the Chinese Wushu and Silat martial arts moves in precision. The Secondary 4 students had the opportunities to create and design authentic characters for the Shadow Puppetry Performance. This cultural fiesta programmes have definitely enhanced Regenities' language literacy skills and enabled them to appreciate one another's culture and traditions.
 
 ![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-1.jpeg)
 ![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-2.jpeg)
 ![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-3.jpeg)
 ![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-4.jpeg)
 ![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-5.jpeg)
+
+📹 Click to watch [Sec 3 Silat Appreciation](https://youtube.com/shorts/neEsC372Fa4?feature=share)  
+📹 Click to watch [Sec 3 Wushu Appreciation](https://youtu.be/WCYPIgyh2Io)
+
 ![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-6.png)
 ![](/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-7.png)
 
