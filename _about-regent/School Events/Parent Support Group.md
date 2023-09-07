@@ -16,7 +16,6 @@ Saving the best for last, the families gleefully frosted their cupcakes with flu
 It was heartening for us to see our parents and students enjoying themselves! Orlando Aloysius Battista mentioned, “The best inheritance a parent can give his children is a few minutes of his time each day.” We hope this day gave these families lasting memories, ones that they will recall fondly of in the future! 
 We would also like to take this opportunity to thank all the caring and courageous mothers for tirelessly braving the daily challenges! Regent Secondary School wishes all the mothers out there a very happy Mother's Day!
 
-![](/images/School%20Events/PSG/PSGBakeBond2023-1.png)
 ![](/images/School%20Events/PSG/PSGBakeBond2023-2.png)
 ![](/images/School%20Events/PSG/PSGBakeBond2023-3.png)
 ![](/images/School%20Events/PSG/PSGBakeBond2023-4.png)
