@@ -1,6 +1,6 @@
 ---
 title: Purposeful Pursuits
-permalink: /transformational-leaders/sec-4-and-5-aspirations-camp/purposeful-pursuits/
+permalink: /transformational-leaders/sec-4-and-5-purposeful-pursuits/purposeful-pursuits/
 description: ""
 third_nav_title: Sec 4 & 5 Purposeful Pursuits
 ---

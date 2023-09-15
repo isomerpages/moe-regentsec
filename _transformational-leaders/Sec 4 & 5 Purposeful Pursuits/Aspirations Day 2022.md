@@ -1,6 +1,6 @@
 ---
 title: Aspirations Day 2022
-permalink: /transformational-leaders/sec-4-and-5-aspirations-camp/aspirations-day-2022/
+permalink: /transformational-leaders/sec-4-and-5-purposeful-pursuits/aspirations-day-2022/
 description: ""
 third_nav_title: Sec 4 & 5 Purposeful Pursuits
 ---

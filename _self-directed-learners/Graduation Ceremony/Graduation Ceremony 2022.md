@@ -1,6 +1,6 @@
 ---
 title: Graduation Ceremony 2022
-permalink: /self-directed-learners/graduation-ceremony-2022/
+permalink: /self-directed-learners/graduation-ceremony/graduation-ceremony-2022/
 description: ""
 third_nav_title: Graduation Ceremony
 ---
