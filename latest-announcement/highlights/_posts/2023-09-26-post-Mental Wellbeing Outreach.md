@@ -10,6 +10,8 @@ Our school places great importance in taking care of our students’ mental well
 
 Our Mental Well-being booths were manned by our trusted School Counsellors as well as our caring Peer Support Leaders, who have been trained on how to support their friends in need.
 
+![](/images/Highlights%20Post/MentalWellbeingOutreach-1.png)
+
 **Tips on Self-Care and Distribution of Stress Cubes**
 
 Students can learn more about the importance of self-care through attractive infographic placed near the canteens. They are reminded that taking good care of their mental well-being allows them to give the best versions of themselves for the world, especially in the examinations. The Sec One students were also grateful to receive stress cubes, which is a wonderful tool to channel their energy positively and contain reminders on self-care tips.
@@ -31,3 +33,6 @@ Students were also delighted to write notes on the wonderfully designed HPB “O
 Concurrently, the school invited BTL to set up an interactive and meaningful booth in our school. BTL seeks to rally greater community support and help-seeking behaviour by advocating for awareness surrounding the stigma experienced by persons with mental health conditions. Our students were delighted to show their support for people with mental health conditions by painting on some pebbles, which will be put up around the neighbourhood!
 
 What a wonderful way to start Term 4 by reminding our students that we should take charge of our lives and our mental health!
+
+![](/images/Highlights%20Post/MentalWellbeingOutreach-2.png)
+![](/images/Highlights%20Post/MentalWellbeingOutreach-3.png)
