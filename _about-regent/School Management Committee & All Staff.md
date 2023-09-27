@@ -356,7 +356,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">Administrative Manager</span></td>
-    <td class="tg-2izf">Ms Ng Shi Huey</td>
+    <td class="tg-2izf">Ms Ng Shi Huay</td>
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">Administrative Executive</span></td>
