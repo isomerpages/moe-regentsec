@@ -21,7 +21,7 @@ To cultivate the students’ passion for different forms of Digital Media and to
 Sound, lights, cameras, ACTION! Regent Infocomm Technology (Media Production) is the space where we make dreams come to (reel) life. We provide experiential opportunities for students who are interested in photography, audio visual technology and media production. Our core duty is to support the school community with photography, videography and assistance in using audio-visual equipment. We also educate our members on . Our members get our creative juices flowing while working on website designing and  filmmaking. Our members develop  a flair for story telling and a passion for the screen.
 
 **Event Photography**  
-Our students participate in capturing precious moments and the dynamic happenings during in school events, this allows the students hone their photography skills as they have access all the happenings from behind-the-scene preparation to stage performance and the candid moments from audience.
+Our students participate in capturing precious moments and the dynamic happenings during school events, this allows the students hone their photography skills as they have access all the happenings from behind-the-scene preparation to stage performance and the candid moments from audience.
 
 **Movie Making**              
 Our members acquire a range of filmmaking knowledge including writing, directing, cinematography, sound, editing and producing. As we develop our storyboards and get involved in the whole production process, we acquire core skills to be a better filmmaker, to understand cinema critically and creatively, and realise our potential as an individual.
