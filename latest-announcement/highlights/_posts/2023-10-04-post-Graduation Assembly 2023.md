@@ -14,6 +14,11 @@ We hope our seniors had a wonderful time during the celebrations and best wishes
 
 Blaze Forth to Glory, Regenites!
 
-![](/images/Highlights%20Post/graduationassembly2023-1.png)
-![](/images/Highlights%20Post/graduationassembly2023-2.png)
-![](/images/Highlights%20Post/graduationassembly2023-3.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-1.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-2.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-3.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-4.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-5.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-6.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-7.png)
+![](/images/Graduation%20Ceremony/GraduationAssembly2023-8.png)
