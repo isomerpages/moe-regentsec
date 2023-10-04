@@ -17,10 +17,10 @@ For students on the Financial Assistance Scheme (FAS), online purchase will not 
 | Name Tag     | Order Form is available at the vendor’s website. For walk-in purchase, Order Form will be provided.    |
 | Sales of Uniforms  | **Click for:** [Instruction for online purchase](/files/updated%20online%20uniform%20purchase%20info%202022%20(Regent%20Sec%20Sch).pdf)<br><br>**Click for:** [Size Measurement Chart](/files/Regent%20Sec%20size%20guide%20and%20measurements%202022.pdf)  |
 | Website for online orders:     | [https://www.asencio.com.sg](https://www.asencio.com.sg/)    |
-| Email for enquiries:     | [sales@asencio.com.sg](mailto:sales@asencio.com.sg)    |
+| Email for enquiries:     | [sales@asencio.com.sg](mailto:sales@asencio.com.sg)<br><br> [bookshop@asencio.com.sg](mailto:bookshop@asencio.com.sg) (school bookshop)    |
 | Contact number for enquiries:     | 6764 3102<br>8031 0502 (text message only)    |
 | Purchase options:     | 1. Order online and self-collection at Regent Secondary<br><br>2. Walk-in purchase at Regent Secondary School    |
-| Operating hours for walk-in purchase /self-collection:     | School Days, 7.30am-3pm<br>Closed on School &amp; Public Holidays<br>Venue: Canteen |
+| Bookshop operating hours for walk-in purchase /self-collection:     | Monday to Friday, 7.30am-3pm<br>Closed on School scheduled holidays &amp; Public holidays<br>Venue: School canteen |
 
 
 ### **Contact Information of Vendors**
