@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-On 22 September, Regent Secondary School organised a special Graduation Assembly conducted in the school premise for our graduating cohort. This cohort has definitely come a long way, and gone through various milestones together. From the start of Covid-19 Pandemic (wearing of masks, Full HBL, keeping a distance from one another, etc.) to adapting to the New Normal and venturing beyond class-based activities, every experience that the graduating cohort has encountered presents an opportunity for learning and growth, shaping them into who they will become.
+On 22 September, Regent Secondary School organised a special Graduation Assembly conducted in the school premise for our graduating cohort. This cohort definitely has come a long way, and gone through various milestones. From the start of Covid-19 Pandemic (wearing of masks, Full HBL, keeping a distance from one another, etc.) to adapting to the New Normal and venturing beyond class-based activities, every experience that the graduating cohort has encountered presents an opportunity for learning and growth, shaping them into who they will become.
 
-The afternoon was filled with joy, laughter and a sense of nostalgia as we walked down memory lane to revisit some of the key highlights of their school life.
+The afternoon was filled with joy, laughter and a sense of nostalgia as we walked down memory lane to revisit some of the key highlights of their school life. 
 
 We hope our seniors had a wonderful time during the celebrations and best wishes to all of them in the upcoming National Examinations. 
 
