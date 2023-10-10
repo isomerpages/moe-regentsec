@@ -12,7 +12,7 @@ description: ""
 
 #### School-Based Helpline
 Tel: (65) 67653828  (Look for ICT Department)  
-Mondays - Fridays, 7.30 am - 4 pm<br>**Closed on School scheduled Holidays &amp; Public Holidays**  
+7.30 am - 4 pm, Mondays - Fridays<br>**Closed on School scheduled Holidays &amp; Public Holidays**  
 
 #### Central Helpline
 Tel: (65) 67026513<br>Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
