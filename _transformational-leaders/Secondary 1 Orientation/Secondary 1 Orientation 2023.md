@@ -1,6 +1,6 @@
 ---
 title: Secondary 1 Orientation 2023
-permalink: /transformational-leaders/secondary-1-orientation-2023/
+permalink: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
 description: ""
 third_nav_title: Secondary 1 Orientation
 ---
