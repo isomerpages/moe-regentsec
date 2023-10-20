@@ -380,7 +380,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">NCS IT (Desktop Engineer)</span></td>
-    <td class="tg-2izf">Mr Mohammad Nurhamizie Bin Mohd Halmi</td>
+    <td class="tg-2izf">Mdm Natarajan Pavithra</td>
   </tr>
     <tr><td class="tg-9ihi"><span style="font-weight:bold">Educational Workshop Instructor</span></td>
     <td class="tg-2izf">Mr Mohammad Nasser Bin Mohammad Dahim</td>
