@@ -11,7 +11,7 @@ The Applied Learning Programme (ALP) helps students connect academic knowledge a
 
 
 ### **ALP – Resource Sustainability (from 2024)**
-Increasing effects of climate change, urbanisation and resources depletions call for an urgency for all of us and especially for our country which is without any natural resources to ensure a sustainable and climate resilient Singapore. Therefore, it is important that our students are developed as GREEN Advocates (Growing Responsible Ecology and ENvironment) Advocates and changemakers in resource sustainability.
+Increasing effects of climate change, urbanisation and resources depletions call for an urgency for all of us and especially for our country which is without any natural resources to ensure a sustainable and climate resilient Singapore. In addition, in line with SG 2030 Green Plan, it is important that our students are developed as GREEN (Growing Responsible Ecology and ENvironment) Advocates and changemakers in resource sustainability.
 
 #### **<u>TIER 1</u>**
 
