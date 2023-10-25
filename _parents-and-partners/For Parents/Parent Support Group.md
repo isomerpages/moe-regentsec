@@ -20,7 +20,7 @@ In Regent, the PSG partners and supports the school by volunteering 3 Ts:
 
 ![](/images/For%20Parents/psg21.png)
 
-The PSG programme in 2021 include:
+The PSG programme in 2023 include:
 
 *   Parenting talks such as Triple P Online and school-based parenting talks
 *   Parent-child bonding activities
