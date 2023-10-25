@@ -15,9 +15,6 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation-2023/
-  - resources:
-      subtitle: Latest Announcement
-      button: More
   - infopic:
       title: Information for Secondary One Prospective Students
       id: infopic
@@ -27,4 +24,7 @@ sections:
       url: https://www.regentsec.moe.edu.sg/information-for-secondary-one-prospective-students/
       image: /images/2023-rgt-studentleaders-banner.png
       alt: Image alt text
+  - resources:
+      subtitle: Latest Announcement
+      button: More
 ---
