@@ -14,7 +14,7 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 #### **Instructions from School Uniform &amp; Bookshop Vendor**
 
-1\. To ensure that the correct editions of the books are purchased, parents are <u>**strongly encouraged**</u> to purchase them through the school bookshop <u>**via ASENCIO ONLINE PORTAL: asenciobookshop.sg**</u>. You are required to register an account before proceeding with your  online purchase. Parents who order online before 23 December 2023 will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.  
+1\. To ensure that the correct editions of the books are purchased, parents are <b><u>strongly encouraged</u></b> to purchase them through the school bookshop <b><u>via ASENCIO ONLINE PORTAL: asenciobookshop.sg</u></b>. You are required to register an account before proceeding with your  online purchase. Parents who order online before 23 December 2023 will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.  
 2\. Online Ordering via Homepage - Asencio Bookshop [Homepage - Asencio Bookshop](https://asenciobookshop.sg/) available from 6 Nov 2023 to 15 Dec 2023.  Refer to the following guides:
 
 * [Uniforms](/files/uniforms%20online%20guide.pdf)
