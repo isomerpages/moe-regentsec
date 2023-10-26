@@ -3,7 +3,7 @@ title: Year End Sales of Books and Uniforms (For 2024 Sec 2 to Sec 5 students)
 permalink: /2024-yes-of-books-and-uniforms-s2-to-s5/
 description: ""
 ---
-### **School Uniform &amp; Bookshop Vendor**
+#### **School Uniform &amp; Bookshop Vendor**
 
 **Asencio Pte Ltd**  
 120 Hillview Avenue  
@@ -12,7 +12,7 @@ Singapore 669594
 Tel: 6764 3102  
 Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
-### **Instructions from School Uniform &amp; Bookshop Vendor**
+#### **Instructions from School Uniform &amp; Bookshop Vendor**
 
 1\. To ensure that the correct editions of the books are purchased, parents are <u>**strongly encouraged**</u> to purchase them through the school bookshop <u>**via ASENCIO ONLINE PORTAL: asenciobookshop.sg**</u>. You are required to register an account before proceeding with your  online purchase. Parents who order online before 23 December 2023 will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.  
 2\. Online Ordering via Homepage - Asencio Bookshop [Homepage - Asencio Bookshop](https://asenciobookshop.sg/) available from 6 Nov 2023 to 15 Dec 2023.  Refer to the following guides:
@@ -24,3 +24,51 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 4\. Delivery Charges: $10 for books/ $6 for uniforms
 
+#### **Walk-in Purchase/Collection in School [Classrooms 1F3/1F4 &amp; 1G1/1G2]**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-xwyw"><span style="font-weight:bold">DATE OF SALES IN SCHOOL</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xwyw"><span style="font-weight:bold">SECONDARY 2, 3, 4 &amp; 5</span></td>
+    <td class="tg-wp8o"><span style="font-weight:bold">OPERATING HOURS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">20 to 24 November 2023</td>
+    <td rowspan="4" class="tg-gfnm">0900 - 1500 hours</td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">27 November to 1 December 2023</td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">11 to 15 December 2023</td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">28 to 29 December 2023</td>
+  </tr>
+</tbody>
+</table>
+
+#### **Booklist**
+
+* [Secondary 2 (S2)](/files/s2%20-%20booklist_2024.pdf)
+* [Secondary 3 (S3)](/files/s3%20-%20booklist_2024.pdf)
+* [Secondary 4 (S4)](/files/s4%20-%20booklist_2024.pdf)
+* [Secondary 5 (S5)](/files/s5%20-%20booklist_2024.pdf)
+
+#### **Size Chart for Uniforms**
+For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)
