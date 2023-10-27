@@ -24,13 +24,13 @@ sections:
       url: https://www.regentsec.moe.edu.sg/information-for-secondary-one-prospective-students/
       image: /images/2023-rgt-studentleaders-banner.png
       alt: Image alt text
-  - resources:
-      subtitle: Latest Announcement
-      button: More
   - infobar:
       title: Year-End Sales of Books & Uniforms
       id: infobar
       description: (For 2024 Sec 2 to Sec 5 Students)
       button: Find  Out More
       url: /2024-yes-of-books-and-uniforms-s2-to-s5/
+  - resources:
+      subtitle: Latest Announcement
+      button: More
 ---
