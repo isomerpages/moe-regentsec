@@ -21,12 +21,12 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 * [Uniforms](/files/uniforms%20online%20guide.pdf)
 * [Books](/files/textbooks%20online%20guide.pdf)
 
-3\. For enquiries, please email to [regent@asencio.com.sg](regent@asencio.com.sg)
+3\. For enquiries, please email to [regent@asencio.com.sg](mailto:regent@asencio.com.sg)
 
 4\. Delivery Charges: $10 for books/ $6 for uniforms
 
 #### **Walk-in Purchase/Collection in School [Classrooms 1F3/1F4 &amp; 1G1/1G2]**
-<br>
+  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
