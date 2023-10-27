@@ -26,7 +26,7 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 4\. Delivery Charges: $10 for books/ $6 for uniforms
 
 #### **Walk-in Purchase/Collection in School [Classrooms 1F3/1F4 &amp; 1G1/1G2]**
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -34,19 +34,19 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
-.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-hspo{background-color:#000000;font-size:medium;text-align:center;vertical-align:middle}
 .tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-xwyw"><span style="font-weight:bold">DATE OF SALES IN SCHOOL</span></th>
+    <th colspan="2" class="tg-hspo"><span style="font-weight:bold;color:#FFF">DATES OF SALES IN SCHOOL</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-xwyw"><span style="font-weight:bold">SECONDARY 2, 3, 4 &amp; 5</span></td>
-    <td class="tg-wp8o"><span style="font-weight:bold">OPERATING HOURS</span></td>
+    <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
     <td class="tg-xwyw">20 to 24 November 2023</td>
