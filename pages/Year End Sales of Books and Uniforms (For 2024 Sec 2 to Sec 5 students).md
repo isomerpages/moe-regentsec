@@ -69,7 +69,7 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 * [Secondary 2 (S2)](/files/S2%20(Booklist)%202024.pdf)
 * [Secondary 3 (S3)](/files/S3%20(Booklist)%202024.pdf)
 * [Secondary 4 (S4)](/files/S4%20(Booklist)%202024.pdf)
-* [Secondary 5 (S5)](/files/S4%20(Booklist)%202024.pdf)
+* [Secondary 5 (S5)](/files/S5%20(Booklist)%202024.pdf)
 
 #### **Size Chart for Uniforms**
 For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)
