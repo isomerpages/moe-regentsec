@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Books & Uniform.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
@@ -11,3 +10,4 @@ collections:
       - Quick Links (Students).md
       - Safety Updates/.keep
       - Safety Updates/Dengue Updates.md
+      - School Canteen Advertisement.md
