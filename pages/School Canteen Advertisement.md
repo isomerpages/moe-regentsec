@@ -16,23 +16,19 @@ description: ""
 **Application Procedure**
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.  
-
 * [Application Form](/files/canteen-stall-application-form.pdf)
 
 2\. Attached the following documents together with the application form:
-
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
-
-* Address: 50 Choa Chu Kang North 5 S689621
+* Address: 50 Choa Chu Kang North 5 S689621  
 * Contact No: 6765 3828
 * Email: [regent_ss@moe.edu.sg](mailto:regent_ss@moe.edu.sg)
 
 All completed application forms must be submitted with the following:  
-
 *	Proposed menu and price list  
 *	Photocopy of certificates of relevant courses attended, such as Basic Food Hygiene Course and previous NEA licenses (if any).
 
