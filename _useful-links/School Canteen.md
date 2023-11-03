@@ -9,9 +9,6 @@ description: ""
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Fusion / Thai / Japanese Stall (halal/non-halal) | 30 Nov 2023     |     |
-| Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-| Western Food Stall | 15 Jul 2023 | NIL|
-| Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.| 
 
 **Application Procedure**
 
