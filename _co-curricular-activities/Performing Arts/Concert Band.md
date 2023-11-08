@@ -10,7 +10,7 @@ variant: markdown
 #### Teachers-in-charge  
 Ms Nur Zahidah Binte A'aidil Shari - IC  
 Ms Jillyan Siow Pei Tian  
-Mdm Nor Rasidah Bte Mohd Salleh
+Mdm Malathi D/O Murugesan
 
 #### Vision  
 Every band member is a passionate musician
