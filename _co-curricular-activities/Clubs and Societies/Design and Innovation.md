@@ -8,7 +8,7 @@ variant: markdown
 ![](/images/CCA/Design%20and%20Innovation/DESINVBanner%20-%202023.jpg)
 
 #### Teachers-In-Charge  
-Mr Mohammad Suhaimi B Mohd Salleh - IC  
+Ms Cheak Yen Hui - IC  
 Ms Aisha Yasmin Binte Abdul Raman
 
 #### Vision  
