@@ -3,12 +3,13 @@ title: Infocomm Technology (Media Production)
 permalink: /co-curricular-activities/clubs-and-societies/infocomm-technology/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mr Muhammad Fauzan Bin Sapuan - IC  
-Mdm Zainab Banu Binte Hassan  
+Ms Tan Ching Hsia Julie - IC  
+Mr Muhammad Fauzan Bin Sapuan
 
 #### Vision                              
 To develop Regenites to be a future-ready and responsible digital learner.
