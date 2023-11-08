@@ -8,8 +8,9 @@ variant: markdown
 ![](/images/CCA/English%20Drama/ELDABanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mdm Nur Hidayah Abdul Mansor - IC  
+Ms Goh Rui Qi, Adeline - IC  
 Ms Lim Hui Min, Vanessa  
+Mdm Nor Rasidah Bte Mohd Salleh  
 Ms Lee Wen Chen
 
 #### Vision  
