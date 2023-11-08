@@ -2,15 +2,15 @@ collections:
   useful-links:
     output: true
     order:
+      - Books & Uniforms/.keep
       - Books & Uniforms/Year End Sales of Books and Uniforms (For 2024 Sec 2 to
         Sec 5 students).md
-      - Books & Uniforms/.keep
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - SLS Student Services.md
+      - Safety Updates/.keep
+      - Safety Updates/Haze Management.md
+      - Safety Updates/Dengue Updates.md
       - Quick Links (Staff).md
       - Quick Links (Students).md
-      - Safety Updates/Haze Management.md
-      - Safety Updates/.keep
-      - Safety Updates/Dengue Updates.md
       - School Canteen.md
