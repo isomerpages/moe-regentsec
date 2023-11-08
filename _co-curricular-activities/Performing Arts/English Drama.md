@@ -3,13 +3,13 @@ title: English Drama
 permalink: /co-curricular-activities/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/English%20Drama/ELDABanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Goh Rui Qi, Adeline - IC  
+Mdm Nur Hidayah Abdul Mansor - IC
 Ms Lim Hui Min, Vanessa  
-Mdm Nor Rasidah Bte Mohd Salleh  
 Ms Lee Wen Chen
 
 #### Vision  
