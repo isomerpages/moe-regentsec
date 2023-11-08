@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://moe-regentsec-staging.netlify.app/school-canteen/
+external: https://www.regentsec.moe.edu.sg/school-canteen/
 ---
