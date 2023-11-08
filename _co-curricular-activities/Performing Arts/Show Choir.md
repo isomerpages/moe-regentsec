@@ -8,9 +8,9 @@ variant: markdown
 ![](/images/CCA/Show%20Choir/SWCHRBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Goh Rui Qi, Adeline - IC  
-Mrs Elsie Mathews  
+Mrs Elsie Mathews - IC   
 Mdm Dian Syahidah  
+Ms Sarina Binte Samat
 
 #### Vision  
 All students are enthusiastic performers and appreciators of all forms of music and dance.
