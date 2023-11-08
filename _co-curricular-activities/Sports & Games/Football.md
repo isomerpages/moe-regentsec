@@ -9,8 +9,8 @@ variant: markdown
 
 #### Teachers-in-charge  
 Mr Isaac Jiang Yuhang - IC  
-Ms Sarina Binte Samat  
-Mr Kesavan S/O Veerappen
+Mr Mohammad Suhaimi B Mohd Salleh  
+Mr Chew Tec Heng Edwin
 
 #### Vision
 Every player a dedicated sportsperson and competent leader.
