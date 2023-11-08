@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Books & Uniform.md
       - Timetable/.keep
       - Timetable/Class Timetable.md
       - SLS Student Services.md
