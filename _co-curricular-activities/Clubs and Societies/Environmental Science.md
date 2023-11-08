@@ -3,12 +3,13 @@ title: Environmental Science
 permalink: /co-curricular-activities/clubs-and-societies/environmental-science/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/Environmental%20Science/ENVSCIBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mr Kesavan S/O Veerappen - IC  
-Ms Karen Lee Chai Lin
+Ms Karen Lee Chai Lin - IC  
+Mdm Zainab Banu Binte Hassan
 
 #### Vision   
 Everyone in the community is an environment advocate
