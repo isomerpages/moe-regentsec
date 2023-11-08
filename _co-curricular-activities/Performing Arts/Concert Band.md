@@ -3,13 +3,14 @@ title: Concert Band
 permalink: /co-curricular-activities/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/Concert%20Band/BANDBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
 Ms Nur Zahidah Binte A'aidil Shari - IC  
 Ms Jillyan Siow Pei Tian  
-Mdm Malathi D/O Murugesan
+Mdm Nor Rasidah Bte Mohd Salleh
 
 #### Vision  
 Every band member is a passionate musician
