@@ -3,13 +3,14 @@ title: Football
 permalink: /co-curricular-activities/sports-and-games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/CCA/Football/FTBLBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
 Mr Isaac Jiang Yuhang - IC  
-Mr Mohammad Suhaimi B Mohd Salleh  
-Mr Chew Tec Heng Edwin
+Ms Sarina Binte Samat  
+Mr Kesavan S/O Veerappen
 
 #### Vision
 Every player a dedicated sportsperson and competent leader.
