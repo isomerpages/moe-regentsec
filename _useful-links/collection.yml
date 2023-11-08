@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - Books & Uniforms/Books & Uniform.md
+      - Books & Uniforms/Books & Uniforms.md
       - Books & Uniforms/.keep
       - Timetable/.keep
       - Timetable/Class Timetable.md
