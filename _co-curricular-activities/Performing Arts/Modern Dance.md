@@ -3,13 +3,13 @@ title: Modern Dance
 permalink: /co-curricular-activities/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/Modern%20Dance/MODDNBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
 Mr Yunus Bin Mohamed - IC  
 Ms Koh Huey Min  
-Ms Yee Jia Min Josephine
 
 #### Vision 
 All students are passionate in the arts, and able to create and appreciate different dance forms
