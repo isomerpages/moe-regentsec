@@ -3,13 +3,14 @@ title: Show Choir
 permalink: /co-curricular-activities/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/Show%20Choir/SWCHRBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mrs Elsie Mathews - IC   
+Ms Goh Rui Qi, Adeline - IC  
+Mrs Elsie Mathews  
 Mdm Dian Syahidah  
-Ms Sarina Binte Samat
 
 #### Vision  
 All students are enthusiastic performers and appreciators of all forms of music and dance.
