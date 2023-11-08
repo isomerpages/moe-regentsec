@@ -3,13 +3,14 @@ title: Badminton
 permalink: /co-curricular-activities/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ![](/images/CCA/Badminton/BMTBanner%20-%202023.jpg)
 
 #### Teachers-in-charge 
-Ms Hap Guilian - IC  
-Mr Koh Eng Huat  
-Mr Kwek Liang Wei Shawn
+Ms Hap Guilian - IC   
+Mr Kwek Liang Wei Shawn  
+Mr Koh Eng Huat 
 
 #### Vision  
 To instill character building through positive competition and to achieve excellence in competitions
