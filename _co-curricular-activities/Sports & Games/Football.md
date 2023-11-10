@@ -9,24 +9,28 @@ variant: markdown
 
 #### Teachers-in-charge  
 Mr Isaac Jiang Yuhang - IC  
-Mr Mohammad Suhaimi B Mohd Salleh  
-Mr Chew Tec Heng Edwin
+Ms Sarina Binte Samat  
+Mr Kesavan S/O Veerappen
 
 #### Vision
 Every player a dedicated sportsperson and competent leader.
 
 #### Mission  
-Every member to demonstrate good behaviour and character, and to put in their best effort during every training session. Each member will strive to demonstrate good leadership qualities to build a better team.
+Every member to demonstrate good behaviour and character, and to put in their best effort during every training session. Each member will strive to demonstrate good leadership qualities and be an active contributor back to the community.
 
 ![](/images/CCA/2022%20Football%20Formal.jpg)
 ![](/images/CCA/2022%20Football%20Fun.jpg)
 
 The Regent Football Club aims to nurture a team of dedicated footballers who strive for excellence and uphold the values of good sportsmanship on and off the pitch.
 
-Training is conducted twice a week in preparation for the National School Games ‘B’ and ‘C’ Division Football Championships, and other competitions.
+Beyond the football pitch, our footballers are also given the opportunity to actively contribute to the community through CCA-initiated Values-in-Action (VIA) projects.
 
-Beyond the football pitch, our footballers are given the opportunity to actively contribute to the community through CCA-initiated Values-in-Action (VIA) projects.
+#### National School Games Football Championships
 
-![](/images/CCA/Football/FTBL-1.jpg)
-![](/images/CCA/Football/FTBL-2.jpg)
-![](/images/CCA/Football/FTBL-3.jpg)
+‘B’ Division Football Championships 2023 – League 2  
+‘C’ Division Football Championships 2023 – League 4 **(2nd Placing)**
+
+![](/images/CCA/Football/FTBL2024-1.png)
+![](/images/CCA/Football/FTBL2024-2.png)
+![](/images/CCA/Football/FTBL2024-3.png)
+![](/images/CCA/Football/FTBL2024-4.png)
