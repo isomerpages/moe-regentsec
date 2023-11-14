@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /co-curricular-activities/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/Concert%20Band/BANDBanner%20-%202023.jpg)
 

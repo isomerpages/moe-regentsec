@@ -3,6 +3,7 @@ title: Design and Innovation
 permalink: /co-curricular-activities/clubs-and-societies/design-and-innovation/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/Design%20and%20Innovation/DESINVBanner%20-%202023.jpg)
 

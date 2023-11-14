@@ -3,6 +3,7 @@ title: Infocomm Technology (Media Production)
 permalink: /co-curricular-activities/clubs-and-societies/infocomm-technology/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg)
 

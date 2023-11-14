@@ -3,6 +3,7 @@ title: Show Choir
 permalink: /co-curricular-activities/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/Show%20Choir/SWCHRBanner%20-%202023.jpg)
 

@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /co-curricular-activities/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/Modern%20Dance/MODDNBanner%20-%202023.jpg)
 

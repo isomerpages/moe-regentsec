@@ -3,6 +3,7 @@ title: Environmental Science
 permalink: /co-curricular-activities/clubs-and-societies/environmental-science/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/Environmental%20Science/ENVSCIBanner%20-%202023.jpg)
 

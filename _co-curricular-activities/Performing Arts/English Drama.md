@@ -3,6 +3,7 @@ title: English Drama
 permalink: /co-curricular-activities/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/English%20Drama/ELDABanner%20-%202023.jpg)
 
