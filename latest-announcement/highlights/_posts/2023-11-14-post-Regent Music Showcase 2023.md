@@ -24,3 +24,11 @@ In the Secondary 2 music program, students partook in the art of songwriting, us
 As the year drew to a close, students participated in a class presentation, where they shared their original compositions with their peers, reflecting the culmination of their songwriting journey.
  
 A minimum of five groups, distinguished for their exceptional songwriting, were chosen from the student cohort to present their unique compositions at the Regent Music Showcase. Among these five groups, the two most outstanding ones were further selected to represent our school in the Youth Station project, a nationwide initiative organised by the Singapore Youth Festival (SYF).
+
+![](/images/Highlights%20Post/RegentMusicShowcase2023-1.png)
+![](/images/Highlights%20Post/RegentMusicShowcase2023-2.png)
+![](/images/Highlights%20Post/RegentMusicShowcase2023-3.png)
+![](/images/Highlights%20Post/RegentMusicShowcase2023-4.png)
+![](/images/Highlights%20Post/RegentMusicShowcase2023-5.png)
+![](/images/Highlights%20Post/RegentMusicShowcase2023-6.png)
+![](/images/Highlights%20Post/RegentMusicShowcase2023-7.png)
