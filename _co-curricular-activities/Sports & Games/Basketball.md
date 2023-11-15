@@ -24,9 +24,6 @@ Every student-athlete a dedicated sportsperson and competent leader.
 #### Mission
 Team Above Self, Sportsmanship and Character Above All.
 
-![](/images/CCA/2022%20Basketball%20Formal.jpg)
-![](/images/CCA/2022%20Basketball%20Fun.jpg)
-
 #### About Us
 
 The Regent Basketball CCA aims to nurture a team of dedicated student-athletes who strive for excellence and uphold the values of good character and sportsmanship on and off the court. 
