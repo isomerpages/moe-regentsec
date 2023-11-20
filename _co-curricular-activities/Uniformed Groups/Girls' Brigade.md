@@ -40,7 +40,7 @@ Every Girl in the Explorer’s Programme will:
 * Low Guat Tin Challenge – Silver (2022)  
 
 ![](/images/CCA/Girls%20Brigade/GB2023-1-Accolades.png)
-![](/images/CCA/Girls%20Brigade/GB2023-2-Accolades.png)
+
 
 #### Activities
 
