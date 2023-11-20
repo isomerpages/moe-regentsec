@@ -8,9 +8,8 @@ variant: markdown
 ![](/images/CCA/English%20Drama/ELDABanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Goh Rui Qi, Adeline - IC  
+Ms Nur Hidayah Abdul Mansor - IC
 Ms Lim Hui Min, Vanessa  
-Mdm Nor Rasidah Bte Mohd Salleh  
 Ms Lee Wen Chen
 
 #### Vision  
@@ -21,6 +20,9 @@ To create awareness of and spread meaningful ideas through productions
 
 Regent’s English Drama aims to empower students with the skills to become expressive and creative speakers with a passion for the arts and drama in Singapore. We also strive to mould our students to be able to create awareness and spread meaningful ideas through drama productions.
 
+![](/images/CCA/2022%20English%20Drama%20Formal.jpg)
+![](/images/CCA/2022%20English%20Drama%20Fun.jpg)
+
 #### Activities
 
 *   NAC-AEP Drama Workshops
@@ -29,7 +31,14 @@ Regent’s English Drama aims to empower students with the skills to become expr
 *   Production Design
 *   Props Making
 *   Script-Writing
-*   School-based and External Performances (e.g. Fairytale Trails)
+*   School-based and External Community Performances
+
+**2023**  
+* Singapore Youth Festival – **Commendation**  
+* Community Performances
+
+**2022**  
+* Community Performances
 
 **2021**
 
@@ -55,8 +64,7 @@ Regent’s English Drama aims to empower students with the skills to become expr
 
 *   Singapore Youth Festival – Accomplishment Productions
 
+![](/images/CCA/English%20Drama/ELDA2023-1.jpeg)
 ![](/images/CCA/English%20Drama/ELDA-1.jpg)
 ![](/images/CCA/English%20Drama/ELDA-2.jpg)
 ![](/images/CCA/English%20Drama/ELDA-3.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4mgKkVpeQ_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
