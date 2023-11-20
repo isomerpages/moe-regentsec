@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /co-curricular-activities/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/Girls%20Brigade/GBBanner%20-%202023.jpg)
 
@@ -31,23 +32,46 @@ Every Girl in the Explorer’s Programme will:
 
 ![](/images/CCA/2022%20Girls%20Brigade%20Fun.jpg)
 
-📖 **Newsletter - Term 1**  
-Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 1**](https://www.scribd.com/document/539968074/Girls-Brigade-Regent-81st-Termly-Newsletter-Term-1)
+#### Achievements &amp; Accolades
 
-📖 **Newsletter - Term 2**  
-Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 2**](https://www.scribd.com/document/539968073/Girls-Brigade-Regent-81st-Termly-Newsletter-Term-2)
+* Company Gold Award (2022)  
+* Pioneer Brigadier Brooch – SSGT Yuki Khoo  
+* Music Drill Competition – Silver (2023)  
+* Low Guat Tin Challenge – Silver (2022)  
 
----
+![](/images/CCA/Girls%20Brigade/GB2023-1-Accolades.png)
+![](/images/CCA/Girls%20Brigade/GB2023-2-Accolades.png)
 
-#### Fun Camp (March)
-![](/images/CCA/Girls%20Brigade/GB%201.jpg)
-![](/images/CCA/Girls%20Brigade/GB%202.jpg)
-![](/images/CCA/Girls%20Brigade/GB%203.jpg)
-![](/images/CCA/Girls%20Brigade/GB%204.jpg)
-![](/images/CCA/Girls%20Brigade/GB%205.jpg)
-![](/images/CCA/Girls%20Brigade/GB%206.jpg)
-![](/images/CCA/Girls%20Brigade/GB%207.jpg)
-![](/images/CCA/Girls%20Brigade/IMG-20210227-WA0001-768x1024.jpg)
+#### Activities
+
+Here are some activities that our girls are involved in:  
+
+*	Drill competition / Low Guat Tin Challenge  
+*	Leadership Conference  
+*	Girls’ Brigade Friend in Deed  
+*	Values-In-Action – reaching the community  
+*	Camps – March Camp, June Fun Camp  
+*	Outdoor Cooking  
+*	Expedition  
+*	NE Events &amp; Parades – Total Defense Day, National Day  
+*	Enrolment &amp; Dedication Parade, Promotion Parade  
+*	Adventure Activities such as Kayaking, Dragon Boating, etc.  
+*	Learning Journeys to Singapore Discovery Centre, Museums, etc.  
+
+Check out our Instagram page for updates (@girlsbrigade81sg): 
+[https://www.instagram.com/girlsbrigade81sg/](https://www.instagram.com/girlsbrigade81sg/)
+
+<img src="/images/CCA/Girls%20Brigade/GB-Instagram_QRCode.jpg" style="width:50%">
+
+![](/images/CCA/Girls%20Brigade/GB2023-3.png)
+![](/images/CCA/Girls%20Brigade/GB2023-4.png)
+![](/images/CCA/Girls%20Brigade/GB2023-5.png)
+![](/images/CCA/Girls%20Brigade/GB2023-6.png)
+![](/images/CCA/Girls%20Brigade/GB2023-7.png)
+![](/images/CCA/Girls%20Brigade/GB2023-8.png)
+![](/images/CCA/Girls%20Brigade/GB2023-9.png)
+![](/images/CCA/Girls%20Brigade/GB2023-10.png)
+![](/images/CCA/Girls%20Brigade/GB2023-11.png)
 
 ---
 
@@ -65,12 +89,3 @@ Click to view [**Girls Brigade Regent 81st Termly Newsletter Term 2**](https://w
 
 ![](/images/CCA/Girls%20Brigade/sign-2-1024x683.png)
 ![](/images/CCA/Girls%20Brigade/sign-4-1024x683.png)
-
----
-
-#### Learning Journeys
-
-![](/images/CCA/Girls%20Brigade/GB%208.jpg)
-![](/images/CCA/Girls%20Brigade/GB%209.jpg)
-![](/images/CCA/Girls%20Brigade/GB%2010.jpg)
-![](/images/CCA/Girls%20Brigade/GB%2011.jpg)

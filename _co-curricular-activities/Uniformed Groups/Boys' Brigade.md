@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /co-curricular-activities/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/Boys%20Brigade/BBBanner%20-%202023.jpg)
 
@@ -44,9 +45,10 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | 7     | BB Fun Camp 26th to 28th May with Wild Wild Wet |
 | 8     | National Day Parade @ Padang – 3 Boys represent BBHQ Contingent |
 | 9     | BB Cares @ St Luke’s Eldercare Keat Hong on 18th Aug and 5th Sept |
-| 10     | BB Character Quest on 26th August |
+| 10    | BB Character Quest on 26th August |
 | 11     | BB Cycling cum Expedition on 27th Oct |
-| 12     | BB Awards and Promotion Ceremony on 11th Nov |
+| 12    | BB Night Expedition on 3rd Nov |
+| 13     | BB Awards and Promotion Ceremony on 11th Nov  |
 
 📹 **BB at National Day Parade 2022**  
 Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
@@ -80,7 +82,14 @@ Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
 ![](/images/CCA/Boys%20Brigade/BB2023-27.jpg)
 ![](/images/CCA/Boys%20Brigade/BB2023-28.jpg)
 ![](/images/CCA/Boys%20Brigade/BB2023-29.jpg)
-
+![](/images/CCA/Boys%20Brigade/BB2023-30.png)
+![](/images/CCA/Boys%20Brigade/BB2023-31.png)
+![](/images/CCA/Boys%20Brigade/BB2023-32.png)
+![](/images/CCA/Boys%20Brigade/BB2023-33.png)
+![](/images/CCA/Boys%20Brigade/BB2023-34.png)
+![](/images/CCA/Boys%20Brigade/BB2023-35.png)
+![](/images/CCA/Boys%20Brigade/BB2023-36.png)<center><i>Parent's write-up for BB</i></center>
+![](/images/CCA/Boys%20Brigade/BB2023-37.png)
 
 ---
 
