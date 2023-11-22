@@ -50,8 +50,6 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | 12    | BB Night Expedition on 3rd Nov |
 | 13     | BB Awards and Promotion Ceremony on 11th Nov  |
 
-
-
 ![](/images/CCA/Boys%20Brigade/BB2023-1.jpeg)
 ![](/images/CCA/Boys%20Brigade/BB2023-2.jpeg)
 ![](/images/CCA/Boys%20Brigade/BB2023-3.jpeg)
