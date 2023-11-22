@@ -41,7 +41,7 @@ Through their four years with the unit, cadets will:
 | 5     | Ambassadors of Blood Donation Championship (2022) : **Silver & Bronze**     |
 | 6     | First Aid Championships (2022) - **Gold & Commendation Award**     |
 | 7     | Trailblazers Championships (2022) - **Silver, Bronze, & Commendation Award**     |
-| 8     | Ambassadors of Blood Donation Championship (2021) : **Silver & Bronze**     |
+| 8     | Ambassadors of Blood Donation Championship (2021) - **Silver & Bronze**     |
 | 9     | Disaster Risk Reduction Championships (2021) - **Silver**     |
 | 10     | Trailblazers Championships (2021) - **Silver**     |
 | 11     | Trailblazers Championships (2020) - **Silver**     |
