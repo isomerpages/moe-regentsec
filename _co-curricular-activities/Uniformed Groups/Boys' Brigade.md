@@ -50,8 +50,7 @@ Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy is sp
 | 12    | BB Night Expedition on 3rd Nov |
 | 13     | BB Awards and Promotion Ceremony on 11th Nov  |
 
-📹 **BB at National Day Parade 2022**  
-Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
+
 
 ![](/images/CCA/Boys%20Brigade/BB2023-1.jpg)
 ![](/images/CCA/Boys%20Brigade/BB2023-2.jpg)
@@ -88,8 +87,11 @@ Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
 ![](/images/CCA/Boys%20Brigade/BB2023-33.png)
 ![](/images/CCA/Boys%20Brigade/BB2023-34.png)
 ![](/images/CCA/Boys%20Brigade/BB2023-35.png)
-![](/images/CCA/Boys%20Brigade/BB2023-36.png)<center><i>Parent's write-up for BB</i></center>
 ![](/images/CCA/Boys%20Brigade/BB2023-37.png)
+![](/images/CCA/Boys%20Brigade/BB2023-36.png)<center><i>Parent's write-up for BB</i></center>
+
+📹 **BB at National Day Parade 2022**  
+Click [**here**](https://youtu.be/sTGLww9N8WE) to watch the video.
 
 ---
 
