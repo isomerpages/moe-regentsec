@@ -8,7 +8,7 @@ variant: markdown
 ![](/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Ms Tan Ching Hsia Julie - IC  
+Mdm Tan Ching Hsia Julie - IC  
 Mr Muhammad Fauzan Bin Sapuan  
 
 #### Vision                              
