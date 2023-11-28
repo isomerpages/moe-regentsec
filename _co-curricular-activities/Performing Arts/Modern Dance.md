@@ -10,7 +10,6 @@ variant: markdown
 #### Teachers-in-charge  
 Mr Yunus Bin Mohamed - IC  
 Ms Koh Huey Min  
-Ms Yee Jia Min Josephine
 
 #### Vision 
 All students are passionate in the arts, and able to create and appreciate different dance forms

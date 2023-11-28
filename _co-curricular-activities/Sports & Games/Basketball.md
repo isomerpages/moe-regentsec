@@ -9,8 +9,8 @@ variant: markdown
 
 #### Teacher-in-charge
 Mr Michael Kwok - IC  
-Mr Shen Jian  
 Mr Tan Kai Yik  
+Mr Shen Jian  
 
 ![](/images/CCA/Basketball/BBALL2024-1.png)
 <center><i>National School Games 2023 B-Division Team</i></center>

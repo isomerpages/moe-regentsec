@@ -8,8 +8,8 @@ variant: markdown
 ![](/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg)
 
 #### Teachers-in-charge  
-Mr Muhammad Fauzan Bin Sapuan - IC  
-Mdm Zainab Banu Binte Hassan  
+Mdm Tan Ching Hsia Julie - IC  
+Mr Muhammad Fauzan Bin Sapuan  
 
 #### Vision                              
 To develop Regenites to be a future-ready and responsible digital learner.

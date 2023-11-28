@@ -8,8 +8,8 @@ variant: markdown
 ![](/images/CCA/Red%20Cross%20Youth/RCYBanner%20-%202023.jpg)
 
 #### Teachers-in-Charge  
-Mr Hong Yang Shawn - IC  
-Ms Lau Hui En Rachel  
+Mr Shawn Hong Yang - IC  
+Ms Rachel Lau Hui En  
 Mr Lim Wenhao Joshua Augustine
 
 #### Vision  
