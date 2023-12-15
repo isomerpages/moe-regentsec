@@ -24,6 +24,21 @@ sections:
       url: /information-for-secondary-one-prospective-students/
       image: /images/2023-rgt-studentleaders-banner.png
       alt: Image alt text
+  - infopic:
+      title: Secondary One Registration
+      subtitle: For 2024
+      id: infopic
+      description: FAQs on registration process and first week of school.
+      button: Find Out More
+      url: /information-for-secondary-one-prospective-students/
+      image: /images/Sec1Reg2024_infopicheader.png
+      alt: Image alt text
+  - infobar:
+      title: Sales of Books & Uniforms
+      id: infobar
+      description: (For 2024 Secondary 1 Students)
+      button: Find Out More
+      url: /sales-of-books-and-uniforms-secondary-1-2024/
   - infobar:
       title: Year-End Sales of Books & Uniforms
       id: infobar
