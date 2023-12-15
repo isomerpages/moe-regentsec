@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Secondary One Registration
-      subtitle: For 2024
+      subtitle: For 2024 (Demo)
       id: infopic
       description: FAQs on registration process and first week of school.
       button: Find Out More
@@ -39,6 +39,7 @@ sections:
       description: (For 2024 Secondary 1 Students)
       button: Find Out More
       url: /sales-of-books-and-uniforms-secondary-1-2024/
+      subtitle: For Demo
   - infobar:
       title: Year-End Sales of Books & Uniforms
       id: infobar
