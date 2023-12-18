@@ -16,15 +16,6 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
   - infopic:
-      title: Information for Secondary One Prospective Students
-      id: infopic
-      description: Here you will be able to learn more about the school’s curriculum,
-        CCA, signature programmes.
-      button: Find out more
-      url: /information-for-secondary-one-prospective-students/
-      image: /images/2023-rgt-studentleaders-banner.png
-      alt: Image alt text
-  - infopic:
       title: Secondary One Registration
       subtitle: For 2024
       id: infopic
@@ -45,6 +36,15 @@ sections:
       description: (For 2024 Sec 2 to Sec 5 Students)
       button: Find  Out More
       url: /2024-yes-of-books-and-uniforms-s2-to-s5/
+  - infopic:
+      title: Information for Secondary One Prospective Students
+      id: infopic
+      description: Here you will be able to learn more about the school’s curriculum,
+        CCA, signature programmes.
+      button: Find out more
+      url: /information-for-secondary-one-prospective-students/
+      image: /images/2023-rgt-studentleaders-banner.png
+      alt: Image alt text
   - resources:
       subtitle: Latest Announcement
       button: More
