@@ -5,10 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Books & Uniforms
 ---
-For students on the Financial Assistance Scheme (FAS), online purchase will not be applicable. Students with FAS Approval Letter from their Primary School may call Mdm Zai at 67653828 for collection of FAS vouchers for books and uniforms. New FAS applicants would be notified by the school upon the successful application of FAS.
+#### **For students on the Financial Assistance Scheme (FAS)**  
+**Online purchase will not be available for students on FAS.**  
+Students with FAS Approval Letter from their Primary School are to contact Mdm Zai at 67653828 to collect FAS vouchers for books and uniforms. New FAS applicants would be notified by the school upon the successful application of FAS.
 
 #### **School Uniform &amp; Bookshop Vendor**
-
+Below is the authorised school uniform and bookshop vendor.  
 **Asencio Pte Ltd**  
 120 Hillview Avenue  
 #05-02 Kewalram Hillview  
@@ -63,7 +65,6 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 </table>
 
 #### **Booklist**
-
 * [Booklist for Year 2024 Secondary 1 students](/files/Booklist%202024%20-%20S1.pdf)
 
 #### **Size Chart for Uniforms**
