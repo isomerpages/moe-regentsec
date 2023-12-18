@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: FAQs on registration process and first week of school.
       button: Find Out More
-      url: /information-for-secondary-one-prospective-students/
+      url: https://sites.google.com/moe.edu.sg/ rgss2023sec1registration
       image: /images/Sec1Reg2024_infopicheader.png
       alt: Image alt text
   - infobar:
