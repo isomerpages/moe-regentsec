@@ -28,7 +28,7 @@ sections:
       title: Secondary One Registration
       subtitle: For 2024
       id: infopic
-      description: FAQs on registration process and first week of school.
+      description: FAQs on registration process and first week of school
       button: Find Out More
       url: https://sites.google.com/moe.edu.sg/rgss2023sec1registration
       image: /images/Sec1Reg2024_infopicheader.png
