@@ -65,7 +65,7 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 </table>
 
 #### **Booklist**
-* [Booklist for Year 2024 Secondary 1 students](/files/Booklist%202024%20-%20S1.pdf)
+* [Booklist for Year 2024 Secondary 1 students](/files/Booklist_2024___S1.pdf)
 
 #### **Size Chart for Uniforms**
 For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)
