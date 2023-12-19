@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Books & Uniforms
 ---
-#### **For students on the MOE Financial Assistance Scheme (FAS)**  
+#### **Financial Assistance Scheme (FAS)**  
 **Online purchase will not be available for students on FAS.**  
 Students with FAS Approval Letter from their Primary School are to contact Mdm Zai at 67653828 to collect FAS vouchers for books and uniforms. New FAS applicants would be notified by the school upon the successful application of FAS.
 
@@ -20,9 +20,9 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 #### **Instructions from School Uniform &amp; Bookshop Vendor**
 
-1\. To ensure that the correct editions of the books are purchased, parents are purchase&nbsp;the&nbsp;above online via&nbsp;[Asencio’s weblink](https://asenciobookshop.sg/)&nbsp;**before 23 December 2023** will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.  
+1\. To ensure that the correct editions of the books are purchased, parents who purchase&nbsp;the&nbsp;above online via&nbsp;[Asencio’s weblink](https://asenciobookshop.sg/)&nbsp;**before 23 December 2023** will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.  
 
-2\. Online Ordering via [Homepage - Asencio Bookshop](https://asenciobookshop.sg/) available from 6 November 2023 to 23 December 2023.  Refer to the following guides:
+2\. Online Ordering via [Homepage - Asencio Bookshop](https://asenciobookshop.sg/) available till 23 December 2023.  Refer to the following guides:
 
 * [Uniforms](/files/uniforms%20online%20guide.pdf)
 * [Books](/files/textbooks%20online%20guide.pdf)
@@ -55,7 +55,7 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
     <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
-    <td class="tg-xwyw">22 December 2023</td>
+    <td class="tg-xwyw">21 to 22 December 2023</td>
     <td rowspan="4" class="tg-gfnm">9 am to 3 pm</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 </table>
 
 #### **Booklist**
-* [Booklist for Year 2024 Secondary 1 students](/files/Booklist%202024%20-%20S1.pdf)
+* [Booklist for Year 2024 Secondary 1 students](/files/Booklist_2024___S1.pdf)
 
 #### **Size Chart for Uniforms**
 For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)
