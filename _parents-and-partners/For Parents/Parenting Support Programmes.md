@@ -3,29 +3,6 @@ title: Parenting Support Programmes
 permalink: /parents-and-partners/for-parents/parenting-support-programmes/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
-There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why [Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/) can help.
-
-Triple P is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).
-
-Regent Secondary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. Parents can indicate their interest in Triple P at [https://go.fycs.org/PSS](https://go.fycs.org/PSS).
-
-[Fei Yue Triple P Teaser](https://youtu.be/OktQSOzQ0oY)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OktQSOzQ0oY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLE2023](https://go.fycs.org/FLE2023).
-
-For enquiries, please contact Fei Yue’s staff, Ms Clara Ang, at [claraang@fycs.org](mailto:claraang@fycs.org) or 84282433.
-
-**Follow Family Central on Social Media**:
-
-Facebook: [https://www.facebook.com/FamilyCentralSG](https://www.facebook.com/FamilyCentralSG)
-
-Instagram: [https://www.instagram.com/family\_central\_sg/?hl=en](https://www.instagram.com/family_central_sg/?hl=en)
-
-Telegram Channel: [https://t.me/FamilyBuzzFY](https://t.me/FamilyBuzzFY)
-
-Family Life Education – [www.family-central.sg](http://www.family-central.sg/)
-
-Full Range of Social Services – [www.fycs.org](http://www.fycs.org/)
+<p>There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why&nbsp;<a href="https://www.triplep-parenting.net/global/triple-p/" rel="noopener noreferrer nofollow" target="_blank">Triple P Positive Parenting Programmes</a>&nbsp;can help.</p><p>Triple P is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).</p><p>Regent Secondary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. Parents can indicate their interest in Triple P at&nbsp;<a href="https://go.fycs.org/PSS" rel="noopener noreferrer nofollow" target="_blank">https://go.fycs.org/PSS</a>.</p><p><a href="https://youtu.be/OktQSOzQ0oY" rel="noopener noreferrer nofollow" target="_blank">Fei Yue Triple P Teaser</a></p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OktQSOzQ0oY"></iframe></div><p>Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes.&nbsp;<a href="https://go.fycs.org/FLE2023" rel="noopener noreferrer nofollow" target="_blank">https://go.fycs.org/FLE2023</a>.</p><p>For enquiries, please contact Fei Yue’s staff, Ms Clara Ang, at&nbsp;<a href="mailto:claraang@fycs.org" rel="noopener noreferrer nofollow" target="_blank">claraang@fycs.org</a>&nbsp;or 84282433.</p><p><strong>Follow Family Central on Social Media</strong>:</p><p>Facebook:&nbsp;<a href="https://www.facebook.com/FamilyCentralSG" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FamilyCentralSG</a></p><p>Instagram:&nbsp;<a href="https://www.instagram.com/family_central_sg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/family_central_sg/?hl=en</a></p><p>Telegram Channel:&nbsp;<a href="https://t.me/FamilyBuzzFY" rel="noopener noreferrer nofollow" target="_blank">https://t.me/FamilyBuzzFY</a></p><p>Family Life Education –&nbsp;<a href="http://www.family-central.sg/" rel="noopener noreferrer nofollow" target="_blank">www.family-central.sg</a></p><p>Full Range of Social Services –&nbsp;<a href="http://www.fycs.org/" rel="noopener noreferrer nofollow" target="_blank">www.fycs.org</a></p>
