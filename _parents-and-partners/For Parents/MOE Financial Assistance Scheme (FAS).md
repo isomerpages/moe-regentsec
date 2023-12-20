@@ -3,19 +3,6 @@ title: MOE Financial Assistance Scheme (FAS)
 permalink: /parents-and-partners/for-parents/moe-financial-assistance-scheme-fas/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
-The MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
-
-You may also check your eligibility for the MOE FAS via the eligibility calculator available on the MOE Website ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)) before submitting your application.
-
-### **Application Procedure**
-
-**\[Option 1\] Electronic Submission via eFAS** ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas))
-
-**\[Option 2\] Hardcopy Form Submission**
-
-The hardcopy of the MOE FAS application form is to be submitted directly to school, together with copies of the supporting documents as indicated in the attached MOE FAS application form
-
-Click to download [Application Form for MOE FAS](/files/GGAS_Application%20Form.pdf)
-
-For enquiries regarding the scheme, please contact the General Office at 67653828.
+<p>The MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.</p><p>You may also check your eligibility for the MOE FAS via the eligibility calculator available on the MOE Website (<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>) before submitting your application.</p><h4><strong>Application Procedure</strong></h4><p><strong>[Option 1] Electronic Submission via eFAS</strong>&nbsp;(<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)</p><p><strong>[Option 2] Hardcopy Form Submission</strong></p><p>The hardcopy of the MOE FAS application form is to be submitted directly to school, together with copies of the supporting documents as indicated in the attached MOE FAS application form</p><p>Click to download <a href="/files/GGAS_Application%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for MOE FAS</a></p><p>For enquiries regarding the scheme, please contact the General Office at 67653828.</p>
