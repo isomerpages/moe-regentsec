@@ -2,6 +2,7 @@
 title: School Management Committee & All Staff
 permalink: /about-regent/school-management-committee/
 description: ""
+variant: markdown
 ---
 ### School Leaders
 <style type="text/css">
@@ -49,19 +50,19 @@ description: ""
     <td class="tg-2izf">Mr Kong Kok Heng Melvin</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Year Head - Lower Sec</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">School Staff Developer</span></td>
+		<td class="tg-2izf">Ms Su Rui Yi</td>
+  </tr>
+  <tr>
+		<td class="tg-9ihi"><span style="font-weight:bold">Year Head - Upper Sec</span></td>
     <td class="tg-2izf">Mr Tan Keng Cheong</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Year Head - Upper Sec</span></td>
-    <td class="tg-2izf">Ms Su Rui Yi</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">HOD - Character &amp; Citizenship Education (Covering)</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">HOD - Character &amp; Citizenship Education </span></td>
     <td class="tg-2izf">Ms Jasmine Murat Haider</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Assistant Year Head</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">Year Head - Lower Sec (Covering)</span></td>
     <td class="tg-2izf">Ms Lee Yee Ying</td>
   </tr>
   <tr>
@@ -69,7 +70,7 @@ description: ""
     <td class="tg-2izf">Mr Jiang Yuhang Isaac</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Subject Head - Character &amp; Citizenship Education (Covering)</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">Subject Head - Character &amp; Citizenship Education</span></td>
     <td class="tg-2izf">Mdm Teo Chai Hoon Annie</td>
   </tr>
 </tbody>
@@ -93,8 +94,8 @@ description: ""
     <td class="tg-2izf">Mr Kong Kok Heng Melvin</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">School Staff Developer/HOD - ICT</span></td>
-    <td class="tg-2izf">Mr Chan Ying Chung William</td>
+    <td class="tg-9ihi"><span style="font-weight:bold">HOD - ICT</span></td>
+    <td class="tg-2izf">Mr Tham Ming Hwee</td>
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">HOD - Humanities</span></td>
@@ -105,6 +106,10 @@ description: ""
     <td class="tg-2izf">Mdm Tong Wee Heng</td>
   </tr>
   <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">HOD - English / English Lit</span></td>
+    <td class="tg-2izf">Mdm Vimala D/O Subramaniam</td>
+  </tr>
+	<tr>
     <td class="tg-9ihi"><span style="font-weight:bold">HOD - Science</span></td>
     <td class="tg-2izf">Ms Chew Hui Ching</td>
   </tr>
@@ -113,19 +118,11 @@ description: ""
     <td class="tg-2izf">Mr Phang Yuh Koon</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">HOD - Craft &amp; Technology</span></td>
-    <td class="tg-2izf">Mr Seetoh Kok Leong</td>
+    <td class="tg-9ihi"><span style="font-weight:bold">Subject Head - ALP (Covering)</span></td>
+    <td class="tg-2izf">Ms Karen Lee Chai Lin</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Level Head - Lower Sec Science</span></td>
-    <td class="tg-2izf">Mr Chua See How</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Subject Head - Geography</span></td>
-    <td class="tg-2izf">Mdm Zainab Banu Binte Hassan</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Subject Head - ALP / Data Management (Covering)</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">Subject Head - Data Management (Covering)</span></td>
     <td class="tg-2izf">Mr Mark Chee Kong</td>
   </tr>
 </tbody>
@@ -153,12 +150,12 @@ description: ""
     <td class="tg-vdtq"><span style="background-color:#EFEFEF">Mdm Koh Huey Min</span></td>
   </tr>
   <tr>
-    <td class="tg-gnn7"><span style="font-weight:bold">Senior Teacher - History</span></td>
-    <td class="tg-vdtq"><span style="background-color:#EFEFEF">Mdm Malathi D/O Murugesan</span></td>
-  </tr>
-  <tr>
     <td class="tg-gnn7"><span style="font-weight:bold">Senior Teacher - Physics</span></td>
     <td class="tg-vdtq"><span style="background-color:#EFEFEF">Mdm Nor Rasidah Bte Mohd Salleh</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">Senior Teacher - Geography</span></td>
+    <td class="tg-2izf">Mdm Zainab Banu Binte Hassan</td>
   </tr>
 </tbody>
 </table>
@@ -186,133 +183,138 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">S1 Pride</span></td>
-    <td class="tg-2izf">Mr Koh Eng Huat</td>
-    <td class="tg-2izf">Mdm Aisha Yasmin Binte Abdul Raman</td>
+    <td class="tg-2izf">Mdm Tan Ching Hsia Julie</td>
+    <td class="tg-2izf">Ms Faith Ong Qi Rui</td>
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">S1 Respect</span></td>
-    <td class="tg-2izf">Ms Sarina Bte Samat</td>
-    <td class="tg-2izf">Mr Muhammad Ridhwan</td>
+    <td class="tg-2izf">Ms Lau Hui En Rachel</td>
+    <td class="tg-2izf">Mdm Dian Syahidah Binte Abdul Aziz</td>
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">S1 Integrity</span></td>
+    <td class="tg-2izf">Mdm Teo Chai Hoon Annie</td>
+    <td class="tg-2izf">Ms Aung Min Rou</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S1 Determination</span></td>
+    <td class="tg-2izf">Mr Kesavan S/O Veerappen</td>
+    <td class="tg-2izf">Ms Sng Seok Hwa Sally</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S1 Empathy</span></td>
+    <td class="tg-2izf">Ms Nur Zahidah Binte A'aidil Shari</td>
+    <td class="tg-2izf">Mrs Elsie Mathews</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S1 Gratitude</span></td>
+    <td class="tg-2izf">Ms Lim Hui Min, Vanessa</td>
+    <td class="tg-2izf">Mr Shen Jian</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S1 Honour</span></td>
+    <td class="tg-2izf">Mdm Vernice Palai Velvizhi</td>
+    <td class="tg-2izf">Mr Yunus Bin Mohamed</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S2 Pride</span></td>
+    <td class="tg-2izf">Ms Aisha Yasmin Binte Abdul Raman</td>
+    <td class="tg-2izf">Mr Koh Eng Huat</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S2 Respect</span></td>
+    <td class="tg-2izf">Ms Sarina Bte Samat</td>
+    <td class="tg-2izf">Mdm Liew Yu Kun</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S2 Integrity</span></td>
     <td class="tg-2izf">Ms Crystal Tay Yen Yen</td>
     <td class="tg-2izf">Mr Muhammad Fauzan Bin Sapuan</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S1 Determination</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">S2 Determination</span></td>
     <td class="tg-2izf">Mr Mohammad Suhaimi Bin Mohd Salleh</td>
     <td class="tg-2izf">Ms Joan Lim Hui Mian</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S1 Empathy</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">S2 Empathy</span></td>
+    <td class="tg-2izf">Ms Lee Wen Chen</td>
     <td class="tg-2izf">Mr Teo Hock Siong</td>
-    <td class="tg-2izf">Mr Shen Jian</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S1 Gratitude</span></td>
-    <td class="tg-2izf">Mr Kwek Liang Wei Shawn</td>
+    <td class="tg-9ihi"><span style="font-weight:bold">S2 Gratitude</span></td>
     <td class="tg-2izf">Ms Siow Pei Tian Jillyan</td>
+    <td class="tg-2izf">Mr Zulkiflie Abdul Razak</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S1 Honour</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">S2 Honour</span></td>
     <td class="tg-2izf">Mdm Nur Hidayah Binte Abu Mansor</td>
     <td class="tg-2izf">Mr Tan Kai Yik</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S2 Pride</span></td>
-    <td class="tg-2izf">Mr Chua See How</td>
-    <td class="tg-2izf">Ms Adeline Goh Rui Qi</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S2 Respect</span></td>
-    <td class="tg-2izf">Mdm Zainab Banu Binte Hassan</td>
-    <td class="tg-2izf">Mdm Vernice Palai Velvizhi</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S2 Integrity</span></td>
-    <td class="tg-2izf">Mrs Elsie Mathews</td>
-    <td class="tg-2izf">Mdm Jasmine Murat Haider</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S2 Determination</span></td>
-    <td class="tg-2izf">Mr Zulkiflie Abdul Razak</td>
-    <td class="tg-2izf">Ms Faith Ong Qi Rui</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S2 Empathy</span></td>
-    <td class="tg-2izf">Mdm Malathi D/O Murugesan</td>
-    <td class="tg-2izf">Ms Lee Wen Chen</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S2 Gratitude</span></td>
-    <td class="tg-2izf">Ms Hap Guilian</td>
-    <td class="tg-2izf">Mr Kesavan S/O Veerappen</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S2 Honour</span></td>
-    <td class="tg-2izf">Ms Nur Zahidah Binte A'aidil Shari</td>
-    <td class="tg-2izf">Ms Cheak Yen Hui</td>
-  </tr>
-  <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">S3 Pride</span></td>
-    <td class="tg-2izf">Ms Lee Yee Ying</td>
-    <td class="tg-2izf">Ms Sea Xin</td>
+    <td class="tg-2izf">Mr Muhammad Ridhwan</td>
+    <td class="tg-2izf">Ms Siti Nur Aishah</td>
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">S3 Respect</span></td>
-    <td class="tg-2izf">Mr Muhammad Muslihuddin Bin Abdul Raza</td>
-    <td class="tg-2izf">Md Li Huilin Lydia</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S3 Integrity</span></td>
-    <td class="tg-2izf">Mr Soo Ley Gio Sebastian</td>
-    <td class="tg-2izf">Mdm Dian Syahidah Binte Abdul Aziz</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S3 Determination</span></td>
-    <td class="tg-2izf">Mr Mark Chee Keong</td>
-    <td class="tg-2izf">Ms Lim Hui Min, Vanessa</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S3 Empathy</span></td>
-    <td class="tg-2izf">Mdm Nor Rasidah Bte Mohd Salleh</td>
-    <td class="tg-2izf">Ms Liew Yu Kun</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S3 Gratitude</span></td>
-    <td class="tg-2izf">Mdm Koh Huey Min</td>
-    <td class="tg-2izf">Mr Yunus Bin Mohamed</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S4 Pride</span></td>
-    <td class="tg-2izf">Ms Sng Seok Hwa Sally</td>
-    <td class="tg-2izf">Mr Manikandan S/O Suresh Kumar</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S4 Respect</span></td>
-    <td class="tg-2izf">Mdm Teo Chai Hoon Annie</td>
+    <td class="tg-2izf">Ms Karen Lee Chai Lin</td>
     <td class="tg-2izf">Ms Sharanjeet Kaur Locham</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S4 Integrity</span></td>
-    <td class="tg-2izf">Mr Jiang Yuhang Isaac</td>
-    <td class="tg-2izf">Ms Kwek Jo Ee</td>
+    <td class="tg-9ihi"><span style="font-weight:bold">S3 Integrity</span></td>
+    <td class="tg-2izf">Mdm Zainah Banu Bte Hassan</td>
+    <td class="tg-2izf">Mr Low Jun Hua</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">S4 Determination</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">S3 Determination</span></td>
     <td class="tg-2izf">Ms Lim Li Li Melissa</td>
+    <td class="tg-2izf">Ms Judith Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S3 Empathy</span></td>
+    <td class="tg-2izf">Mr Jiang Yuhang Isaac</td>
+    <td class="tg-2izf">Ms Bernice Lau</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S3 Gratitude</span></td>
+    <td class="tg-2izf">Ms Goh Rui Qi Adeline</td>
     <td class="tg-2izf">Mr Hong Yang Shawn</td>
   </tr>
   <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S3 Honour</span></td>
+    <td class="tg-2izf">Ms Hap Guilian</td>
+    <td class="tg-2izf">Mr Lim Wenhao Joshua Augustine</td>
+  </tr>
+	<tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S4 Pride</span></td>
+    <td class="tg-2izf">Ms Li Huilin Lydia</td>
+    <td class="tg-2izf">Ms Lee Yee Ying</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S4 Respect</span></td>
+    <td class="tg-2izf">Mr Muhammad Muslihuddin Bin Abdul Raza</td>
+    <td class="tg-2izf">Mr Tan Keng Cheong</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S4 Integrity</span></td>
+    <td class="tg-2izf">Mr Soo Ley Gio Sebastian</td>
+    <td class="tg-2izf">Ms Su Rui Yi</td>
+  </tr>
+  <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">S4 Determination</span></td>
+    <td class="tg-2izf">Mr Mark Chee Keong</td>
+    <td class="tg-2izf">Mdm Vimala D/O Subramaniam</td>
+  </tr>
+  <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">S4 Empathy</span></td>
-    <td class="tg-2izf">Ms Karen Lee Chai Lin</td>
-    <td class="tg-2izf">Ms Lau Hui En Rachel</td>
+    <td class="tg-2izf">Mdm Nor Rasidah Bte Mohd Salleh</td>
+    <td class="tg-2izf">Mr Tham Ming Hwee</td>
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">S4 Gratitude</span></td>
-    <td class="tg-2izf">Mdm Tan Ching Hsia Julie</td>
-    <td class="tg-2izf">Mr Lim Wenhao Joshua Augustine</td>
+    <td class="tg-2izf">Mdm Koh Huey Min</td>
+    <td class="tg-2izf">Ms Chew Hui Ching</td>
   </tr>
 </tbody>
 </table>
@@ -345,10 +347,6 @@ description: ""
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">Snr Education Career Guidance Counsellor</span></td>
     <td class="tg-2izf">Mr Peter Phoa</td>
-  </tr>
-  <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">FATJ School Counsellor</span></td>
-    <td class="tg-2izf">Ms Sudha Divakaran</td>
   </tr>
   <tr>
     <td class="tg-9ihi"><span style="font-weight:bold">School Health Advisor</span></td>
