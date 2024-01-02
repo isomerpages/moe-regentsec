@@ -106,7 +106,7 @@ variant: markdown
     <td class="tg-2izf">Mdm Tong Wee Heng</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">HOD - English / English Lit</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">HOD - English/English Literature</span></td>
     <td class="tg-2izf">Mdm Vimala D/O Subramaniam</td>
   </tr>
 	<tr>
