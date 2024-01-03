@@ -1,0 +1,8 @@
+---
+title: Local Partners
+permalink: /parents-and-partners/for-partners/local-partners/
+description: ""
+third_nav_title: For Partners
+variant: tiptap
+---
+<h4><strong>Business Partners</strong></h4><ul data-tight="true" class="tight"><li><p>Partners include OCBC Bank, JUMBO Group of Restaurants, Singapore Science Centre, Zingrill, Singapore Law Association, Propnex, Jurong Bird Park,&nbsp;Tai Hing Pte Ltd, Far East Orchid Pte Ltd</p></li><li><p>Careers Day, Work Attachment Programme, Assembly Programmes</p></li></ul><h4><strong>Community Partners</strong></h4><ul data-tight="true" class="tight"><li><p>Partners include Yew Tee CC, Choa Chu Kang CC, Yew Tee Constituency Office, SouthWest Community Development Council</p></li><li><p>HDB Chinese New Year Celebration 2014, R.U.N The Game Race, Bursary Awards Programmes, Yew Tee National Day Dinner, Recycling Project (Awards Day)</p></li></ul><h4><strong>Government Partners</strong></h4><ul><li><p>Partners include Combat Service Support Command (CSSCOM), Singapore Police Force, Choa Chu Kang NPC, National Environment Agency, Diabetic&nbsp;Society of Singapore (DSS), National University Health System, Singapore, National University of Singapore Health Clinic, Singapore National Museum,&nbsp;National Parks Board, Singapore General Hospital</p></li><li><p>National Day Parade, Army Camp Visit, Assembly Talks, Learning Journeys, Workshops, Careers Day, Community Involvement Project (CIP), myLIfe&nbsp;Programme, Roadshows</p></li></ul><p></p>

@@ -1,0 +1,29 @@
+collections:
+  about-regent:
+    output: true
+    order:
+      - Vision, Mission & Values/.keep
+      - Vision, Mission & Values/Vision, Mission, Values & Motto.md
+      - Vision, Mission & Values/School Rules.md
+      - Vision, Mission & Values/School Song.md
+      - School Advisory Committee.md
+      - School Management Committee & All Staff.md
+      - School Publication/School Publication 2023.md
+      - School Publication/.keep
+      - School Events/.keep
+      - School Events/Accolades.md
+      - School Events/Co Curricular Activities.md
+      - School Events/Character & Citizenship Education.md
+      - School Events/Community Events.md
+      - School Events/Community Youth Leadership.md
+      - School Events/Environment.md
+      - School Events/Festive Celebrations.md
+      - School Events/Humanities Department.md
+      - School Events/Level Wide Programme.md
+      - School Events/Mathematics Department.md
+      - School Events/Mother Tongue Department.md
+      - School Events/National Education Commemorations.md
+      - School Events/Parent Support Group.md
+      - School Events/Physical Education Department.md
+      - School Events/Science Department.md
+      - School Events/Values In Action.md

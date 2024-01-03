@@ -1,0 +1,23 @@
+collections:
+  parents-and-partners:
+    output: true
+    order:
+      - For Parents/Direct School Admission for Secondary One in 2024 for Regent
+        Secondary School.md
+      - For Parents/.keep
+      - For Parents/MOE Financial Assistance Scheme (FAS).md
+      - For Parents/Financial Matters.md
+      - For Parents/Personal Accident Insurance for Student.md
+      - For Parents/Parent Support Group.md
+      - For Parents/Cyber Wellness.md
+      - For Parents/Education Career Guidance.md
+      - For Parents/Sexuality Education.md
+      - For Parents/Education Tips and Features.md
+      - For Parents/Parenting Support Programmes.md
+      - For Parents/Consent for Photography and Videos for Publicity.md
+      - For Partners/.keep
+      - For Partners/Local Partners.md
+      - For Partners/Self Help Groups.md
+      - For Partners/International Partners.md
+      - For Alumni/.keep
+      - For Alumni/Regent Secondary School Alumni.md

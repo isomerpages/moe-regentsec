@@ -1,0 +1,64 @@
+---
+title: Values In Action
+permalink: /about-regent/school-events/via-schoolevent/
+description: ""
+third_nav_title: School Events
+---
+## **Sec 4 VIA 2023**
+
+In 2022, 4-Pride and 4-Respect reached out to the elderly at Ang Mo Kio Family Service Centre as part of their Secondary Three Values-in-Action (VIA) projects. This year, their juniors, the current Secondary Three students will be about to embark on the same journey themselves! 
+
+Therefore, the 4-Pride and 4-Respect students took this opportunity to share their experiences with their juniors. 4-Pride shared about their project planning process, as well as the challenges that the class faced. On the other hand, 4-Respect created a poster and conducted role-plays to showcase tips on interacting with the elderly. 
+
+Ian Yap Hao Yi, VIA Representative of 4-Respect said, “It was a daunting task to oversee the presentation. I felt satisfied that the role-plays entertained the Secondary Three students. I am glad that they were able to learn more about the ways to better interact with the elderly through our presentation. Overall, I feel that I have grown as a leader.”
+
+![](/images/School%20Events/VIA/Sec4VIA2023-4.png)
+
+![](/images/School%20Events/VIA/Sec4VIA2023-5.jpg)
+<center><i>Poster designed by Elsa, Yi Shyann, Roseann and Sanjay</i></center>
+
+Similarly, Nurlydia Binte Mohammad, VIA Representative of 4-Pride commented that organising the VIA project was a daunting but fulfilling task. “Even though the process was not easy, I have learnt to work with others. I have also picked up presentation skills along the way. I am proud that my class received positive feedback from the audience.”
+
+![](/images/School%20Events/VIA/Sec4VIA2023-1.png)
+![](/images/School%20Events/VIA/Sec4VIA2023-2.png)
+![](/images/School%20Events/VIA/Sec4VIA2023-3.png)
+<center><i>Screencapture of 4-Pride slide</i></center>
+
+As Seth Godin once said, "Transformational leaders don't start by denying the world around them. Instead, they describe a future they'd like to create." We believe this sharing will guide the Secondary Three students well as they embark on their journey to improve the lives of others. Blaze forth Regenites!
+
+---
+
+## **Sec 1 to Sec 3 VIA 2023**
+
+Bringing about positivity and change… Regent VIA Week
+
+As Term 2 draws to a close, our students were given the opportunity to contribute back to the community during Regent VIA week. Throughout the week, our Sec 1 to 3 students planned and initiated a series of community outreach activities to benefit the school, neighbourhood and community. This was a culmination of many weeks of planning during CCE and the Cohort Leadership Programme that aimed to nurture our students into transformational leaders and agents of change.
+
+The Sec 1 students carried out an Environment Champions Exhibition with each class adopting an environmental cause, ranging from Car-Lite Lifestyle to Upcycling, to bring about awareness of how we can be more environmentally conscientious in our daily actions.
+
+The Sec 2 students organised a community carnival for the seniors in the Limbang Community for an afternoon of fun and learning. During the carnival, seniors were able to learn about growing an edible garden, watch student-led song and dance performances and interact with our students in various games and even sing-along via a session of Karaoke!
+
+Finally, the Sec 3 students carried out their class-initiated VIA projects with beneficiaries, ranging from seniors to the migrant workers. Each class-based VIA project was carefully chosen by the student themselves based on their interests and passion and we were glad that the students and beneficiaries really enjoyed themselves.
+
+![](/images/Highlights%20Post/RegentVIAWeek-1.jpg)
+![](/images/Highlights%20Post/RegentVIAWeek-2.jpg)
+![](/images/Highlights%20Post/RegentVIAWeek-3.jpg)
+![](/images/Highlights%20Post/RegentVIAWeek-4.jpg)
+
+---
+
+## **S4 VIA Project**
+
+![](/images/School%20Events/VIA/VIA-schoolevent-1.jpg)
+
+Youth. Passion. Advocates. Causes.
+
+These are apt terms when it comes to our Sec 4 students. For their Values-in-Action Projects, our Sec 4 students adopt causes that they are passionate about and served as advocates to educate their peers and their juniors during Class Contact Time for Term 2 Week 5 and Week 6.
+
+![](/images/School%20Events/VIA/VIA-schoolevent-2.jpg)
+
+Their enthusiasm and charisma permeated through the morning air as they delivered their presentations using a variety of means – videos, Kahoot quizzes and real-life skits to increase awareness on issues such as peer pressure, online gaming to the appreciation of our school’s cleaners.
+
+![](/images/School%20Events/VIA/VIA-schoolevent-3.jpg)
+
+Many of the audience were charmed and won over by our Sec 4 advocates in a manner that even James Dean would approve.
