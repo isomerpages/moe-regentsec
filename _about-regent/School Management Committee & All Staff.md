@@ -50,10 +50,6 @@ variant: markdown
     <td class="tg-2izf">Mr Kong Kok Heng Melvin</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">School Staff Developer</span></td>
-		<td class="tg-2izf">Ms Su Rui Yi</td>
-  </tr>
-  <tr>
 		<td class="tg-9ihi"><span style="font-weight:bold">Year Head - Upper Sec</span></td>
     <td class="tg-2izf">Mr Tan Keng Cheong</td>
   </tr>
@@ -94,6 +90,10 @@ variant: markdown
     <td class="tg-2izf">Mr Kong Kok Heng Melvin</td>
   </tr>
   <tr>
+    <td class="tg-9ihi"><span style="font-weight:bold">School Staff Developer</span></td>
+		<td class="tg-2izf">Ms Su Rui Yi</td>
+  </tr>
+	<tr>
     <td class="tg-9ihi"><span style="font-weight:bold">HOD - ICT</span></td>
     <td class="tg-2izf">Mr Tham Ming Hwee</td>
   </tr>
@@ -400,7 +400,7 @@ variant: markdown
     <td class="tg-2izf">Mdm Zainab Bte Jaffa</td>
   </tr>
   <tr>
-    <td class="tg-9ihi"><span style="font-weight:bold">Adj Management Support Officer</span></td>
+    <td class="tg-9ihi"><span style="font-weight:bold">Corporate Support Officer</span></td>
     <td class="tg-2izf">Mdm Surayati Bte Mustafa</td>
   </tr>
   <tr>
