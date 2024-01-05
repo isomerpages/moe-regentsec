@@ -63,7 +63,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 10\. Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Item_11_Letterhead_2024_SEd_OPT_OUT_FORM.pdf). The completed form is to be submitted by 19/01/2024.
+11\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Please contact HOD CCE, Ms. Jasmine Murat, at 6765 3828 (223) or jasmine_murat_haider@moe.edu.sg so that we could understand your concerns.  
 
 12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Item_12_Letterhead_2024_OPT_OUT_FORM_E_TEENS.pdf). The completed form is to be submitted by 19/01/2024.
 
