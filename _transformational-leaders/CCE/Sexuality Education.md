@@ -38,7 +38,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 **At Regent Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2024:**
 
-![](/images/Sexuality%20Education/2024_SEd_Secondary_1.png)
+
 ![](/images/Sexuality%20Education/2023%20SEd-Secondary-1.jpg)
 
 ![](/images/Sexuality%20Education/2023%20SEd-Secondary-2.jpg)
