@@ -39,15 +39,15 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 **At Regent Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2024:**
 
 
-![](/images/Sexuality%20Education/2023%20SEd-Secondary-1.jpg)
+![](/images/Sexuality%20Education/2024_SEd_Secondary_1.jpg)
 
-![](/images/Sexuality%20Education/2023%20SEd-Secondary-2.jpg)
+![](/images/Sexuality%20Education/2024_SEd_Secondary_2.jpg)
 
-![](/images/Sexuality%20Education/2023%20SEd-Secondary-3.jpg)
+![](/images/Sexuality%20Education/2024_SEd_Secondary_3.jpg)
 
-![](/images/Sexuality%20Education/2023%20SEd-Secondary-4.jpg)
+![](/images/Sexuality%20Education/2024_SEd_Secondary_4.jpg)
 
-![](/images/Sexuality%20Education/2023%20SEd-Secondary-5.jpg)
+![](/images/Sexuality%20Education/2024_SEd_Secondary_5.jpg)
 
 ***eTeens*&nbsp;Programme:**
 
@@ -57,7 +57,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 **At Regent Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
-![](/images/Sexuality%20Education/2023%20eTeens.jpg)
+![](/images/Sexuality%20Education/2024_eTeens.jpg)
 
 **Information for Parents**
 
