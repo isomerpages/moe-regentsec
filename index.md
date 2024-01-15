@@ -15,6 +15,12 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
+  - infobar:
+      title: "'O' Level Examination Results Release"
+      subtitle: "2024"
+      id: infobar
+      button: Read more
+      url: https://www.regentsec.moe.edu.sg/latest-announcement/highlights/o-level-examination-results-release-2024/
   - resources:
       subtitle: Latest Announcement
       button: More
