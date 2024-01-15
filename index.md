@@ -15,36 +15,13 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
-  - infopic:
-      title: Secondary One Registration
-      subtitle: For 2024
-      id: infopic
-      description: FAQs on registration process and first week of school.
-      button: Find Out More
-      url: https://sites.google.com/moe.edu.sg/rgss2023sec1registration
-      image: /images/Sec1Reg2024_infopicheader.png
-      alt: Image alt text
   - infobar:
-      title: Sales of Books & Uniforms
+      title: "'O' Level Examination Results Release"
+      subtitle: Highlights
       id: infobar
-      description: (For 2024 Secondary 1 Students)
-      button: Find Out More
-      url: /sales-of-books-and-uniforms-secondary-1-2024/
-  - infobar:
-      title: Year-End Sales of Books & Uniforms
-      id: infobar
-      description: (For 2024 Sec 2 to Sec 5 Students)
-      button: Find  Out More
-      url: /2024-yes-of-books-and-uniforms-s2-to-s5/
-  - infopic:
-      title: Information for Secondary One Prospective Students
-      id: infopic
-      description: Here you will be able to learn more about the school’s curriculum,
-        CCA, signature programmes.
-      button: Find out more
-      url: /information-for-secondary-one-prospective-students/
-      image: /images/2023-rgt-studentleaders-banner.png
-      alt: Image alt text
+      button: Read more
+      url: https://www.regentsec.moe.edu.sg/latest-announcement/highlights/o-level-examination-results-release-2024/
+      description: "2024"
   - resources:
       subtitle: Latest Announcement
       button: More
