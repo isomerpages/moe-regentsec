@@ -2,8 +2,8 @@ collections:
   transformational-leaders:
     output: true
     order:
+      - Secondary 1 Orientation/Secondary 1 Orientation 2024.md
       - Secondary 1 Orientation/.keep
-      - Secondary 1 Orientation/Secondary 1 Orientation 2023.md
       - Sec 1 Basic Leadership Training.md
       - Sec 2 Advanced Leadership Training.md
       - Sec 3 Outward Bound Singapore.md
