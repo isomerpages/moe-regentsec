@@ -3,50 +3,6 @@ title: Basketball
 permalink: /co-curricular-activities/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
+variant: tiptap
 ---
-![](/images/CCA/Basketball/BBALLBanner%20-%202023.jpg)
-
-#### Teacher-in-charge
-Mr Michael Kwok - IC  
-Mr Tan Kai Yik  
-Mr Shen Jian  
-
-![](/images/CCA/Basketball/BBALL2024-1.png)
-<center><i>National School Games 2023 B-Division Team</i></center>
-
-![](/images/CCA/Basketball/BBALL2024-2.png)
-<center><i>National School Games 2023 C-Division Team</i></center>
-
-#### Vision 
-Every student-athlete a dedicated sportsperson and competent leader.
-
-#### Mission
-Team Above Self, Sportsmanship and Character Above All.
-
-#### About Us
-
-The Regent Basketball CCA aims to nurture a team of dedicated student-athletes who strive for excellence and uphold the values of good character and sportsmanship on and off the court. 
-
-Training is conducted twice a week in preparation for the National School Games ‘B’ and ‘C’ Division Basketball Championships, competitions such as the ActiveSG Cup and other invitational tournaments organised by schools or external organisations.
-
-![](/images/CCA/Basketball/BBALL2024-3.png)
-![](/images/CCA/Basketball/BBALL2024-4.png)
-![](/images/CCA/Basketball/BBALL2024-5.png)
-![](/images/CCA/Basketball/BBALL2024-6.png)
-
-Our athletes also learn to organise and officiate during Intra-CCA competitions such as the Lower Secondary 3 v 3 Basketball Competition held at the end of Term 3 and the Regent Basketball Inter-Cohort 3 v 3 Competition during the December school holidays.
-
-Besides playing basketball, our CCA members also do their part for the community through our annual CCA Values-in-Action (VIA) projects.
-
-#### Our Achievements
-
-#### <u>2022</u>
-Our B-Division Boys team placed 4th in the National School Games West Zone Basketball Championships 2022.
-
-![](/images/CCA/Basketball/BBALL2024-7.jpg)
-
-#### <u>2023</u>
-Our B-Division Boys team placed 4th in the Yio Chu Kang Secondary School U-17 Invitational Cup 2023.
-
-![](/images/CCA/Basketball/YCKSS_U17_Cup_2023_B-Division_Basketball-4th.jpg)
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALLBanner%20-%202023.jpg"></div><h4>Teacher-in-charge</h4><p>Mr Michael Kwok - IC<br>Mr Tan Kai Yik<br>Mr Shen Jian</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-1.png"></div><p><em>National School Games 2023 B-Division Team</em></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-2.png"></div><p><em>National School Games 2023 C-Division Team</em></p><h4>Vision</h4><p>Every student-athlete a dedicated sportsperson and competent leader.</p><h4>Mission</h4><p>Team Above Self, Sportsmanship and Character Above All.</p><h4>About Us</h4><p>The Regent Basketball CCA aims to nurture a team of dedicated student-athletes who strive for excellence and uphold the values of good character and sportsmanship on and off the court.</p><p>Training is conducted twice a week in preparation for the National School Games ‘B’ and ‘C’ Division Basketball Championships, competitions such as the ActiveSG Cup and other invitational tournaments organised by schools or external organisations.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-3.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-4.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-5.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-6.png"></div><p>Our athletes also learn to organise and officiate during Intra-CCA competitions such as the Lower Secondary 3 v 3 Basketball Competition held at the end of Term 3 and the Regent Basketball Inter-Cohort 3 v 3 Competition during the December school holidays.</p><p>Besides playing basketball, our CCA members also do their part for the community through our annual CCA Values-in-Action (VIA) projects.</p><h4>Our Achievements</h4><h4><u>2023</u></h4><p>Our B-Division Boys team placed 4th in the Yio Chu Kang Secondary School U-17 Invitational Cup 2023.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/YCKSS_U17_Cup_2023_B-Division_Basketball-4th.jpg"></div><h4><u>2022</u></h4><p>Our B-Division Boys team placed 4th in the National School Games West Zone Basketball Championships 2022.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-7.jpg"></div><p></p>
