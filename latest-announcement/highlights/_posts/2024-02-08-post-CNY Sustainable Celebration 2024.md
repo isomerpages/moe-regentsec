@@ -43,8 +43,8 @@ Happy New Year!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2024_6.jpeg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2024_7.jpeg">
 </div>
+<p></p>
 <p></p>
