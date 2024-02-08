@@ -1,5 +1,5 @@
 ---
-title: Chinese New Year Sustainable Celebration
+title: Celebration@Regent
 permalink: /latest-announcement/highlights/cny-sustainable-celebration/
 date: 2024-02-08
 layout: post
