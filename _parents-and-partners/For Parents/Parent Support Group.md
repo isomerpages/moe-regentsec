@@ -3,6 +3,34 @@ title: Parent Support Group
 permalink: /parents-and-partners/for-parents/parent-support-group/
 description: ""
 third_nav_title: For Parents
-variant: tiptap
+variant: markdown
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/2018-Banner_PSG-header.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/PSG-1024x206.png"></div><p>The Parent Support Group (PSG) provides a great opportunity for parents to partner the school to support their children in their education journey, give the children the best educational experience.</p><p>Do join us by registering via this&nbsp;<strong><a href="https://forms.gle/osqwqBwsAHDpzpsW7" rel="noopener noreferrer nofollow" target="_blank">link</a>.</strong></p><p>Alternatively, scan the QR code below:</p><div class="isomer-image-wrapper"><img style="width:25%" height="auto" width="100%" src="/images/For%20Parents/QRCODEPSG.png"></div><p>In Regent, the PSG partners and supports the school by volunteering 3 Ts:</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/psg21.png"></div><p>The PSG programme in 2023 include:</p><ul data-tight="true" class="tight"><li><p>Parenting talks such as Triple P Online and school-based parenting talks</p></li><li><p>Parent-child bonding activities</p></li><li><p>Participation in school activities such as Teachers’ Day celebrations</p></li></ul><p>Here are some of the programme planned:</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/PSG_Programme_2021.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/PSG-Gen-Z.png"></div><p>For more information on the parenting programme,&nbsp;<em>Cyber-wellness Tips for Parents “Strategies to Engage a Tech Savvy Gen. Z.”</em>, please&nbsp;<strong><a href="/files/PSG-Talk-1.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/PSG-graphic-1024x405.png"></div><p>For more information on the parent and child bonding programme,&nbsp;<em>Build Supportive Family Relationships</em>, please&nbsp;<strong><a href="/files/PSG-Talk-2.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong></p><p>For more information on the upcoming parenting programme,&nbsp;<em>How to Talk so your Teen will Listen</em>, please&nbsp;<strong><a href="/files/PSG-Talk-3.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong></p><p>To find out more about Triple P Online, please <strong><a href="/files/EDM-Level-2-Seminars-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/psg-exco-2023.PNG"></div><p><strong>The functions of the PSG EXCO</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/psg5.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/psg6.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents/psg7.png"></div><p></p>
+![](/images/For%20Parents/PSG-1024x206.png)
+
+![](/images/For%20Parents/PSG_EXCO_2023_2024.png)
+
+The Parent Support Group(PSG)@Regent offers a plethora of opportunities for parents to connect, share, and support one another through the highs and lows of parenting. The PSG@Regent provides guidance in parenting skills and fosters solidarity between parents as we navigate the beautiful yet challenging journey of raising teenagers. Through the PSG, you will find a community of empathetic parents ready to share experiences, offer advice, and lend a compassionate ear. 
+
+The PSG also provides invaluable benefits to students by fostering a collaborative and supportive educational environment. The group offers parents a platform to engage with each other, teachers, and school administrators, thereby strengthening the home-school partnership. As parents become more involved in their child's education, students benefit from increased parental engagement, which has been consistently linked to improved academic performance, higher attendance rates, and better behavior in school. Thus, by rendering support through the PSG, parents are undoubtedly, creating a more enriching and supportive school community that ultimately enhances students' overall well-being and learning experience. As a result, our children tend to:
+* show more positive attitudes towards learning
+* have better school attendance and complete homework more consistently 
+* be able to bridge the cultural gap between school and home 
+* be less anti-social and less prone to behavioural issues
+
+In Regent, the PSG partners and supports the school by volunteering through the 3 Ts:
+
+![](/images/For%20Parents/PSG2024_1.png)
+
+The PSG programmes in 2024 include:
+* Parenting talks such as Triple P Online and school-based parenting talks
+* Parent-child bonding activities 
+* Participation in school activities such as Total Defence Day,  Teachers’ Day celebrations, etc.
+
+![](/images/For%20Parents/PSG2024_2.jpg)
+<center><i>Flower arrangement workshop</i></center>
+
+![](/images/For%20Parents/PSG2024_3.png)
+<center><i>Bake and Bond activity</i></center>
+
+If you are interested to join us, kindly register via this [link](https://forms.gle/osqwqBwsAHDpzpsW7). Alternatively, you scan the QR code below to register too:
+<img src="/images/For%20Parents/PSG_QRCode.png" style="width:30%">
