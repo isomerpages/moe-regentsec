@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/For%20Parents/PSG-1024x206.png)
 
-![](/images/For%20Parents/1000027867.png)
+![](/images/For%20Parents/psg_exco_2023_2024a.png)
 
 The Parent Support Group(PSG)@Regent offers a plethora of opportunities for parents to connect, share, and support one another through the highs and lows of parenting. The PSG@Regent provides guidance in parenting skills and fosters solidarity between parents as we navigate the beautiful yet challenging journey of raising teenagers. Through the PSG, you will find a community of empathetic parents ready to share experiences, offer advice, and lend a compassionate ear. 
 
