@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
-<h2><strong>RCY First Aid Championships 2024</strong></h2>
+<h2><strong>Red Cross Youth First Aid Championships 2024</strong></h2>
 <p>Our Red Cross Youth cadets showcased their expertise and commitment to
 first aid at the recent First Aid Championships, a prestigious national
 competition organised by the Singapore Red Cross. This event serves as
