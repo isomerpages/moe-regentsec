@@ -2,8 +2,6 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - For Parents/Direct School Admission for Secondary One in 2024 for Regent
-        Secondary School.md
       - For Parents/.keep
       - For Parents/MOE Financial Assistance Scheme (FAS).md
       - For Parents/Financial Matters.md
