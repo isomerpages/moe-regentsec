@@ -44,4 +44,3 @@ of exploration of their linguistic heritage.</p>
 filled with pride at the enthusiasm and dedication displayed by our students.
 We remain committed to nurturing a vibrant and inclusive learning environment
 where cultural diversity is celebrated and cherished.</p>
-<p></p>
