@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
-<h2><strong>Fostering Cultural Appreciation through Mother Tongue Fortnight 2024</strong></h2>
+<h2><strong>Mother Tongue Fortnight 2024</strong></h2>
 <p>From 19 February to 5 March 2024, Regent Secondary School was abuzz with
 vibrant cultural festivities during our annual Mother Tongue Fortnight
 programme. This enriching event aim to cultivate an immersive environment
@@ -92,7 +92,7 @@ them to appreciate one another's culture and traditions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-5.jpeg">
 </div>
-<p>📹 Click to watch <a href="https://youtube.com/shorts/neEsC372Fa4?feature=share" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Silat Appreciation</a>
+<p>📹 Click to watch <a href="https://youtube.com/shorts/neEsC372Fa4?feature=share" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Silat Appreciation</a> 
 <br>📹 Click to watch <a href="https://youtu.be/WCYPIgyh2Io" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Wushu Appreciation</a>
 </p>
 <div class="isomer-image-wrapper">
