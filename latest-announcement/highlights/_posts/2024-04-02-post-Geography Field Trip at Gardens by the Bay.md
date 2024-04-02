@@ -25,4 +25,10 @@ and tourism in everyday life.</p>
 <p>Overall, it was a highly rewarding day for our graduating classes, offering
 them a glimpse into the practical applications of their studies and fostering
 a greater understanding of the world around them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4GeoLJGardensByTheBay2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4GeoLJGardensByTheBay2024_2.jpg">
+</div>
 <p></p>
