@@ -28,4 +28,8 @@ the knowledge, awareness, and dedication instilled in us. Let us remain
 steadfast in upholding our pledges and continue our journey towards a future
 where clean and accessible water is a reality for all. Together, as stewards
 of the environment, we can truly make a difference!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Environment/WorldWaterDay2024_1.jpg">
+</div>
+<p></p>
 <p></p>
