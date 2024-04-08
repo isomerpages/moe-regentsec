@@ -446,7 +446,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zainah Banu Bte Hassan</p>
+<p>Mdm Zainab Banu Bte Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Low Jun Hua</p>
@@ -791,6 +791,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Murni Binte Somadi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operation Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Zahar Bin Osman</p>
 </td>
 </tr>
 <tr>
