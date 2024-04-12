@@ -24,7 +24,14 @@ Swee reflects, ‘Participating in the Geography Challenge has indeed broadened
 my horizons. I’ve learnt that Geography goes beyond the study of facts,
 figures and nature. In fact, Geography touches upon everything around us—from
 urban spaces to tourism.’</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/NUSGeogChal2024_1.jpg">
+</div>
+<p><em>From left: H Ng Peng Swee, Soo Hui Xuan, Nora Saung and Wong Kei Xuan</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/NUSGeogChal2024_2.jpg">
+</div>
 <hr>
 <h2><strong>Literature Enrichment Programme</strong></h2>
 <p>In March, our Secondary Three Literature students made a trip to the theatre
