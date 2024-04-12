@@ -5,6 +5,27 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>NUS Geography Challenge</strong></h2>
+<p>The National University of Singapore (NUS) Geography Challenge, organised
+by the NUS Department of Geography and NUS Geographical Society, is an
+annual competition open to students from secondary schools across Singapore.
+“Urban Odyssey: Rediscovering our Landscapes and Places” was the theme
+for this year’s Challenge, and participants were tasked to think critically
+about the interplay of nature and culture within our urban milieu. Regenites
+Wong Kei Xuan (S3-Gratitude), H Ng Peng Swee, Nora Saung, and Soo Hui Xuan
+(S3-Honour) produced a short film for the Challenge’s Creative Component,
+which sought to capture and reflect on the various landmarks dotting our
+neighbourhood, Choa Chu Kang. They also had to complete a rigorous individual
+closed-book assessment as part of the competition, and the team worked
+together on a quiz for the group component.</p>
+<p>Although the team did not progress to the finals, participating in the
+Challenge was nonetheless a valuable learning experience for all. As Peng
+Swee reflects, ‘Participating in the Geography Challenge has indeed broadened
+my horizons. I’ve learnt that Geography goes beyond the study of facts,
+figures and nature. In fact, Geography touches upon everything around us—from
+urban spaces to tourism.’</p>
+<p></p>
+<hr>
 <h2><strong>Literature Enrichment Programme</strong></h2>
 <p>In March, our Secondary Three Literature students made a trip to the theatre
 as part of the Literature Enrichment Programme. They watched Pangdemonium’s
