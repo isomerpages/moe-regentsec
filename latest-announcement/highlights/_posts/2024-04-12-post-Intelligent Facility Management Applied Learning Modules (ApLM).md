@@ -24,4 +24,19 @@ dissected intricate scenarios, honing their problem-solving skills and
 expanding their cognitive horizons.</p>
 <p>Congratulations to our students for seizing this invaluable opportunity
 to expand their knowledge and practical skills!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_IntelFacMgt_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_IntelFacMgt_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_IntelFacMgt_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_IntelFacMgt_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_IntelFacMgt_5.jpg">
+</div>
 <p></p>
