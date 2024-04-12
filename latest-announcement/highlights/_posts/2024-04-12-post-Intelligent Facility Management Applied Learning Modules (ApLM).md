@@ -7,3 +7,21 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>From 25 to 27 March 2024, our industrious students from 3 Pride embarked
+on a captivating learning journey at ITE College West and delved into the
+world of intelligent facility management through the Applied Learning Module
+(ApLM) course!</p>
+<p>The course, entitled "Intelligent Facility Management," offered a sneak
+peek into Singapore's evolution into a smart nation. Our students had the
+rare opportunity to get hands-on with cutting-edge technology, including
+drones for visual building inspection. They also got their hands dirty
+with electrical circuits, connecting live wires, earth wires, and neutral
+wires like seasoned professionals.</p>
+<p>But the excitement did not stop there. Our students were transported into
+the realm of virtual reality (VR), where they delved deeper into the complexities
+of intelligent facility management. Through immersive VR sessions, they
+dissected intricate scenarios, honing their problem-solving skills and
+expanding their cognitive horizons.</p>
+<p>Congratulations to our students for seizing this invaluable opportunity
+to expand their knowledge and practical skills!</p>
+<p></p>
