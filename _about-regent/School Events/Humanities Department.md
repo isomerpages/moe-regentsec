@@ -5,6 +5,71 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>Literature Enrichment - Matilda</strong></h2>
+<p>On 6 April 2024, our Secondary Two Regenites had a captivating time at
+the Sands Theatre watching the Royal Shakespeare Company’s ‘Matilda’—an
+award-winning musical adapted from Ronald’s Dahl famous novel. Matilda
+explores the story of an extraordinary little girl who, armed with a vivid
+imagination and keen intellect, stepped up to change her own destiny and
+better the lives of others around her.</p>
+<p>From the moment the curtains rose, our students were swept away by the
+play’s energetic choreography and catchy melodies. Coupled with the intricate
+stage designs, the tapestry of colours and movement captured the hearts
+of our students as they sang confidently to the lyrics of famous songs
+like “When I Grow Up”.</p>
+<p>Student Asleigh Chua (S2-Respect) remarked, “I really enjoyed the ending
+of the musical when Miss Honey emerged victorious against Miss Trunchbull,
+reclaiming what had rightfully belonged to her. This made me feel a sense
+of justice and happiness for Miss Honey. I realised that no matter how
+bleak circumstances may seem, as long as one remains optimistic and never
+gives up, things will change for the better.”</p>
+<p>Similar sentiments were shared by Chua Oo Heng Marcus (S2-Empathy). “Everything
+was so exciting, and I was so engrossed in the play that I lost track of
+time! I had fun noticing how the stage directions added to the play’s mood
+and atmosphere—how Matilda’s classmates became increasingly sluggish and
+tired the more domineering Miss Trunchbull became, and how the music and
+sound effects made her person sound louder and more intimidating. But when
+Matilda stood up for her classmates, the mood onstage quickly shifted from
+apprehension to rambunctious joy. Overall, watching the musical made for
+a thoroughly exhilarating experience.”</p>
+<p>Journeying with Matilda has allowed our students to understand the importance
+of staying optimistic, having resilience, and embracing one’s unique identity.
+Our students also came away with a greater appreciation for drama in Literature
+as they saw how beloved characters were transformed from page to stage!
+We are certain that this magical experience will linger long in the memories
+of Regenites long after the curtain calls.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S2LitEnrichProg2024_Matilda.jpg">
+</div>
+<hr>
+<h2><strong>NUS Geography Challenge</strong></h2>
+<p>The National University of Singapore (NUS) Geography Challenge, organised
+by the NUS Department of Geography and NUS Geographical Society, is an
+annual competition open to students from secondary schools across Singapore.
+“Urban Odyssey: Rediscovering our Landscapes and Places” was the theme
+for this year’s Challenge, and participants were tasked to think critically
+about the interplay of nature and culture within our urban milieu. Regenites
+Wong Kei Xuan (S3-Gratitude), H Ng Peng Swee, Nora Saung, and Soo Hui Xuan
+(S3-Honour) produced a short film for the Challenge’s Creative Component,
+which sought to capture and reflect on the various landmarks dotting our
+neighbourhood, Choa Chu Kang. They also had to complete a rigorous individual
+closed-book assessment as part of the competition, and the team worked
+together on a quiz for the group component.</p>
+<p>Although the team did not progress to the finals, participating in the
+Challenge was nonetheless a valuable learning experience for all. As Peng
+Swee reflects, ‘Participating in the Geography Challenge has indeed broadened
+my horizons. I’ve learnt that Geography goes beyond the study of facts,
+figures and nature. In fact, Geography touches upon everything around us—from
+urban spaces to tourism.’</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/NUSGeogChal2024_1.jpg">
+</div>
+<p><em>From left: H Ng Peng Swee, Soo Hui Xuan, Nora Saung and Wong Kei Xuan</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/NUSGeogChal2024_2.jpg">
+</div>
+<hr>
 <h2><strong>Literature Enrichment Programme</strong></h2>
 <p>In March, our Secondary Three Literature students made a trip to the theatre
 as part of the Literature Enrichment Programme. They watched Pangdemonium’s
