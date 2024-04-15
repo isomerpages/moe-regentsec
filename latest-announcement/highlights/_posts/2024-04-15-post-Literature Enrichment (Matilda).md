@@ -9,10 +9,10 @@ variant: tiptap
 ---
 <p>On 6 April 2024, our Secondary Two Regenites had a captivating time at
 the Sands Theatre watching the Royal Shakespeare Company’s ‘Matilda’—an
-award-winning musical adapted from Roald’s Dahl famous novel. Matilda explores
-the story of an extraordinary little girl who, armed with a vivid imagination
-and keen intellect, stepped up to change her own destiny and better the
-lives of others around her.</p>
+award-winning musical adapted from Ronald’s Dahl famous novel. Matilda
+explores the story of an extraordinary little girl who, armed with a vivid
+imagination and keen intellect, stepped up to change her own destiny and
+better the lives of others around her.</p>
 <p>From the moment the curtains rose, our students were swept away by the
 play’s energetic choreography and catchy melodies. Coupled with the intricate
 stage designs, the tapestry of colours and movement captured the hearts
