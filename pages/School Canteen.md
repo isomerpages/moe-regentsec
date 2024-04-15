@@ -23,8 +23,7 @@ description: ""
 <p>Fusion / Thai / Japanese Stall (halal/non-halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><s>29 Feb 2024</s>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
