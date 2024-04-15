@@ -20,13 +20,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fusion / Thai / Japanese Stall (halal/non-halal)</p>
+<p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nil</p>
 </td>
 </tr>
 </tbody>
