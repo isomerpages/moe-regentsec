@@ -16,12 +16,12 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
   - infobar:
-      title: "'O' Level Examination Results Release"
-      subtitle: Highlights
+      title: Direct School Admission for Secondary One in 2025
+      subtitle: HIGHLIGHTS
       id: infobar
-      button: Read more
-      url: https://www.regentsec.moe.edu.sg/latest-announcement/highlights/o-level-examination-results-release-2024/
-      description: "2024"
+      description: DSA-Sec
+      button: Read More
+      url: /direct-school-admission-dsa-2025/
   - resources:
       subtitle: Latest Announcement
       button: More
