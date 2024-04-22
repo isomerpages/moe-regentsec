@@ -97,7 +97,7 @@ through a recognized event</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Uniformed Groups consist of <u>Boys’ Brigade</u>, <u>Girls’ Brigad</u>e, <u>NPCC</u> and <u>Red Cross Youth</u>
+<p>Our Uniformed Groups consist of <u>Boys’ Brigade</u>, <u>Girls’ Brigade</u>, <u>NPCC</u> and <u>Red Cross Youth</u> 
 <br>
 <br>We are looking for applicants who exhibit all or some of the following
 qualities to join the school:
