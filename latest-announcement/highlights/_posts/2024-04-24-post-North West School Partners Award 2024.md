@@ -17,4 +17,7 @@ These collaborative efforts have undeniably enriched the learning experiences
 of our students.</p>
 <p>We extend our heartfelt gratitude to the NWDC for this recognition, and
 we celebrate this achievement alongside the entire Regent community!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Accolades/RGSS___NW_Outstanding_School_Partner_Award_2024_Photo_Banner.jpg">
+</div>
 <p></p>
