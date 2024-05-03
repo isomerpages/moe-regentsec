@@ -81,6 +81,12 @@ in the face of crises.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/TDD2024_7.jpg">
 </div>
 <hr>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Past NE Commemorations</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>National Day Celebration 2023</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/NationalDay2023-0.jpg">
@@ -664,16 +670,21 @@ safe distancing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/Racial-Harmony-Day-1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/Racial-Harmony-Day-2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/Racial-Harmony-Day-3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/Racial-Harmony-Day-4.jpg">
 </div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
