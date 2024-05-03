@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4>School Leaders</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,7 +41,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Student Development Team</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -96,7 +104,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Academic Curriculum Team</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -191,7 +203,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Teacher Leader Team</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -232,7 +248,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Academic Staff</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -473,7 +494,7 @@ variant: tiptap
 <p>Mr Jiang Yuhang Isaac</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bernice Lau</p>
+<p>Ms Bernice Liau</p>
 </td>
 </tr>
 <tr>
@@ -575,7 +596,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Learning Support &amp; Administration Staff</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
