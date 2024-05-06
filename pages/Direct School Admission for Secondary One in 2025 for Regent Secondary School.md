@@ -38,7 +38,7 @@ Corps (NPCC) and Red Cross Youth)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leadership</strong>
+<p><strong><a href="https://www.regentsec.moe.edu.sg/transformational-leaders/learning-for-life-programme/community-youth-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +64,7 @@ school and community
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Concert Band</strong>
+<p><strong><a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ events/ public performance)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Show Choir</strong>
+<p><strong><a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Show Choir</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
