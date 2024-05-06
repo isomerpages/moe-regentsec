@@ -132,7 +132,7 @@ school NAPFA test
 <td rowspan="1" colspan="1">
 <p><strong>Application Opens</strong> 
 <br>
-<br><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass at <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>. If you are unable to apply online, approach your Primary School for assistance.</em> 
+<br><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s SingPass at <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>. If you are unable to apply online, approach your Primary School for assistance.</em> 
 <br>
 <br><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
@@ -142,7 +142,7 @@ school NAPFA test
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>24 June to 13 September 2024</strong>
+<p><strong>Late June to September 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +155,7 @@ to the shortlisted applicants via email/phone call.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>21 October (9am) to 25 October 2024 (3pm)</strong>
+<p><strong>Late October 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +167,7 @@ choice of schools through the DSA-Sec Portal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>20 November to 22 November 2024</strong>
+<p><strong>Late November 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,17 +182,27 @@ results via email.</p>
 </tr>
 </tbody>
 </table>
+<p>For more information on DSA-Sec, please refer to the MOE website at
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 <p></p>
+<p><strong><u>Additional Information:</u></strong>
+</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>Students should possess personal qualities and strengths that are indicative
-of their potential in the relevant talent areas.</p>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
+<p><strong><u>Please note that:</u></strong>
+</p>
+<p>Students successfully allocated to their DSA-Sec schools&nbsp;will NOT
+be allowed to participate in the annual S1 Posting Exercise to opt for
+secondary schools and are expected to honour the commitment to the allocated
+DSA Sec School for the entire duration of the programme.&nbsp;</p>
 <p></p>
 <p><em>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p></p>
+<p>For general enquiries, you may contact the following staff:</p>
+<p><strong>Ms Siti Mashita (Admin Executive / DSA Co-ordinator)</strong>
+<br>Tel: 6765 3828
+<br>Email: <a href="mailto:siti_mashita_mohd_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mashita_mohd_zain@moe.edu.sg</a>
+</p>
