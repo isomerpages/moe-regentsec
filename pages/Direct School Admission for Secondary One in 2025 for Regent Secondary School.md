@@ -22,7 +22,11 @@ Corps (NPCC) and Red Cross Youth)</p>
 </li>
 </ul>
 <h4>Students with these qualities should apply:</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -113,6 +117,72 @@ school NAPFA test
 </tr>
 </tbody>
 </table>
+<h4><strong>KEY DATES</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7 May (11am) to 3 June 2024 (3pm)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Application Opens</strong>
+<br>
+<br><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass. If you are unable to apply online, approach your Primary School for assistance.</em>
+<br>
+<br><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a></em>
+</p>
+<p></p>
+<p>The application is free of charge.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>24 June to 13 September 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Period</strong>
+<br>
+<br>Shortlisted applicants will be notified via email/phone call to attend
+a selection session. Details of the selection session will be provided
+to the shortlisted applicants via email/phone call.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>21 October (9am) to 25 October 2024 (3pm)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Preference Submission</strong>
+<br>
+<br>Students who received offers through DSA-Sec should submit their preferred
+choice of schools through the DSA-Sec Portal.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>20 November to 22 November 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DSA-Sec Allocation Results Release</strong>
+<br>
+<br>Successful candidates studying in MOE mainstream school will receive their
+results together with their PSLE Results through their primary school.
+<br>
+<br>Candidates not studying in MOE mainstream schools will receive their DSA-Sec
+results via email.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
@@ -121,7 +191,7 @@ the area of talent.</p>
 of their potential in the relevant talent areas.</p>
 <p>The selection criteria and process for the talent areas will be updated
 from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 <p></p>
 <p><em>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
