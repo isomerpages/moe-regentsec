@@ -142,7 +142,7 @@ school NAPFA test
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>24 June to 13 September 2023</strong>
+<p><strong>24 June to 13 September 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
