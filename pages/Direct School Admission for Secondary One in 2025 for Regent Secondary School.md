@@ -102,7 +102,8 @@ through a recognized event</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Uniformed Groups consist of <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/boys-brigade/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>,
-<a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/girls-brigade/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>, <u>NPCC</u> and <u>Red Cross Youth</u> 
+<a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/girls-brigade/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>, <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/npcc/" rel="noopener noreferrer nofollow" target="_blank">NPCC</a> and
+<a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/red-cross-youth/" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>
 <br>
 <br>We are looking for applicants who exhibit all or some of the following
 qualities to join the school:
