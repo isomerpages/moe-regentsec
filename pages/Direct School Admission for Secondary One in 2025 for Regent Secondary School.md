@@ -130,11 +130,11 @@ school NAPFA test
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application Opens</strong>
+<p><strong>Application Opens</strong> 
 <br>
-<br><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass. If you are unable to apply online, approach your Primary School for assistance.</em>
+<br><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass at <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>. If you are unable to apply online, approach your Primary School for assistance.</em> 
 <br>
-<br><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a></em>
+<br><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
 <p></p>
 <p>The application is free of charge.</p>
@@ -146,7 +146,7 @@ school NAPFA test
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Period</strong>
+<p><strong>Selection Period</strong> 
 <br>
 <br>Shortlisted applicants will be notified via email/phone call to attend
 a selection session. Details of the selection session will be provided
@@ -159,7 +159,7 @@ to the shortlisted applicants via email/phone call.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Preference Submission</strong>
+<p><strong>School Preference Submission</strong> 
 <br>
 <br>Students who received offers through DSA-Sec should submit their preferred
 choice of schools through the DSA-Sec Portal.</p>
@@ -171,7 +171,7 @@ choice of schools through the DSA-Sec Portal.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DSA-Sec Allocation Results Release</strong>
+<p><strong>DSA-Sec Allocation Results Release</strong> 
 <br>
 <br>Successful candidates studying in MOE mainstream school will receive their
 results together with their PSLE Results through their primary school.
