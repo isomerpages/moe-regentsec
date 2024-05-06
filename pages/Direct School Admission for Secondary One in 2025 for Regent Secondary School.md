@@ -131,7 +131,7 @@ school NAPFA test
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application Period</strong>
+<p><strong>Application Period</strong> 
 <br>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
@@ -192,7 +192,7 @@ results via email.</p>
 </tbody>
 </table>
 <p>For more information on Direct School Admission, please visit:</p>
-<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a> 
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
