@@ -101,7 +101,9 @@ through a recognized event</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Uniformed Groups consist of <u>Boys’ Brigade</u>, <u>Girls’ Brigade</u>, <u>NPCC</u> and <u>Red Cross Youth</u> 
+<p>Our Uniformed Groups consist of <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/boys-brigade/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>,
+<a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/girls-brigade/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>, <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/npcc/" rel="noopener noreferrer nofollow" target="_blank">NPCC</a> and
+<a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/red-cross-youth/" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>
 <br>
 <br>We are looking for applicants who exhibit all or some of the following
 qualities to join the school:
@@ -126,13 +128,19 @@ school NAPFA test
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 May (11am) to 3 June 2024 (3pm)</strong>
+<p><strong>Tue, 7 May (11am) to Mon, 3 June 2024 (3pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application Opens</strong> 
+<p><strong>Application Period</strong> 
 <br>
-<br><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s SingPass at <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>. If you are unable to apply online, approach your Primary School for assistance.</em> 
+</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
+The application is free-of-charge and will be open from Tue, 7 May 2024,
+11am to Mon, 3 Jun 2024, 3pm. For more details, please refer to MOE website
+– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>
+<br><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>. If you are unable to apply online, approach your Primary School for assistance.</em> 
 <br>
 <br><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
@@ -149,8 +157,8 @@ school NAPFA test
 <p><strong>Selection Period</strong> 
 <br>
 <br>Shortlisted applicants will be notified via email/phone call to attend
-a selection session. Details of the selection session will be provided
-to the shortlisted applicants via email/phone call.</p>
+a selection session by mid-September. Details of the selection session
+will be provided to the shortlisted applicants via email/phone call.</p>
 </td>
 </tr>
 <tr>
@@ -178,12 +186,19 @@ results together with their PSLE Results through their primary school.
 <br>
 <br>Candidates not studying in MOE mainstream schools will receive their DSA-Sec
 results via email.</p>
+<p></p>
+<p>There are two possible allocation outcomes: successful or unsuccessful.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>For more information on DSA-Sec, please refer to the MOE website at
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
+<p>For more information on Direct School Admission, please visit:</p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
 <p></p>
 <p><strong><u>Additional Information:</u></strong>
 </p>
@@ -191,12 +206,15 @@ results via email.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
+<p></p>
+<p>Applicants who do not have prior experience may also apply and will be
+assessed on the basis of their potential.</p>
+<p></p>
 <p><strong><u>Please note that:</u></strong>
 </p>
-<p>Students successfully allocated to their DSA-Sec schools&nbsp;will NOT
-be allowed to participate in the annual S1 Posting Exercise to opt for
-secondary schools and are expected to honour the commitment to the allocated
-DSA Sec School for the entire duration of the programme.&nbsp;</p>
+<p>Students who are successfully admitted to the school via DSA-Sec are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from Year 1 to 4.</p>
 <p></p>
 <p><em>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
