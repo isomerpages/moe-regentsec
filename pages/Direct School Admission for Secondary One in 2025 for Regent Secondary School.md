@@ -202,7 +202,7 @@ DSA Sec School for the entire duration of the programme.&nbsp;</p>
 </p>
 <p></p>
 <p>For general enquiries, you may contact the following staff:</p>
-<p><strong>Ms Siti Mashita (Admin Executive / DSA Co-ordinator)</strong>
+<p><strong>Ms Siti Mashita (Admin Executive / DSA Co-ordinator)</strong> 
 <br>Tel: 6765 3828
 <br>Email: <a href="mailto:siti_mashita_mohd_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mashita_mohd_zain@moe.edu.sg</a>
 </p>
