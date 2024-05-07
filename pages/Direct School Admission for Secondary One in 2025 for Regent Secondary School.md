@@ -149,7 +149,7 @@ The application is free-of-charge and will be open from Tue, 7 May 2024,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Late June to 9 September 2024</strong>
+<p><strong>Late June to Mon, 9 September 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ choice of schools through the DSA-Sec Portal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Wed, 20 November to Fri, 22 November 2024 </strong>
+<p><strong>Wed, 20 November to Fri, 22 November 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
