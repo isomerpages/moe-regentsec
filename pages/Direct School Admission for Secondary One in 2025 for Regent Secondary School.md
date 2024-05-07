@@ -149,7 +149,7 @@ The application is free-of-charge and will be open from Tue, 7 May 2024,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Late June to September 2024</strong>
+<p><strong>By Mon, 9 September 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +162,7 @@ will be provided to the shortlisted applicants via email/phone call.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Late October 2024</strong>
+<p><strong>Mon, 21 October (9am) to Fri, 25 October 2024 (3pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ choice of schools through the DSA-Sec Portal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Late November 2024</strong>
+<p><strong>Wed, 20 November to Fri, 22 November 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
