@@ -2,20 +2,20 @@ collections:
   self-directed-learners:
     output: true
     order:
-      - Overseas Learning Journey.md
       - Academic Programmes.md
       - Personalised Digital Learning Programme (PDLP).md
       - Applied Learning Programme (ALP).md
       - Enrichment Programmes.md
       - Applied Learning Modules (ApLM).md
-      - Overseas Learning Journey/2024 Overseas Learning Journey.md
+      - Overseas Learning Journey.md
       - Overseas Learning Journey/.keep
+      - Overseas Learning Journey/2024 Overseas Learning Journey.md
       - Overseas Learning Journey/2022.md
       - Overseas Learning Journey/2019 Overseas Learning Journey.md
       - Overseas Learning Journey/2018 Overseas Learning Journey.md
       - Early Admissions Exercise Programme (EAE).md
-      - Graduation Ceremony/Graduation Assembly 2023.md
       - Graduation Ceremony/.keep
+      - Graduation Ceremony/Graduation Assembly 2023.md
       - Graduation Ceremony/Graduation Ceremony 2022.md
       - Graduation Ceremony/Graduation Assembly 2021.md
       - Academic Achievements.md
