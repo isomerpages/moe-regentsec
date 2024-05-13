@@ -52,6 +52,10 @@ through their active planning for and participation in the trip.</p>
 <summary>2019</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202019/OLJ2019_Vietnam%20Infographics.jpg">
+</div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
