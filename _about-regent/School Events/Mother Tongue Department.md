@@ -44,6 +44,12 @@ filled with pride at the enthusiasm and dedication displayed by our students.
 We remain committed to nurturing a vibrant and inclusive learning environment
 where cultural diversity is celebrated and cherished.</p>
 <hr>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Past MT Department Events</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h2><strong>Conversational Chinese Malay Language Programme 2023</strong></h2>
 <p>Semester 1 saw our Secondary 1 and 2 students kickstarting their language-learning
 journey with the Conversational Chinese and Malay (CCM) Programme. An MOE-initiative
@@ -209,3 +215,7 @@ Emir Affiq Bin Mohd Azhari, Class 2 Pride</p>
 <p>Overall, these activities provided authentic opportunities for all students
 to use their Mother Tongue Language and experience the Malay culture and
 heritage. Well done to all the participants of the MT Fortnight!</p>
+</div>
+</details>
+</div>
+<p></p>
