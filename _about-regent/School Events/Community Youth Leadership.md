@@ -6,6 +6,9 @@ third_nav_title: School Events
 variant: tiptap
 ---
 <h2><strong>Student Leaders Investiture 2024</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_1.jpg">
+</div>
 <p>A sense of anticipation and pride were palpable as Regenites gathered
 in the Hall to bear witness to the passing of the mantle of leadership
 at our Student Leaders’ Investiture on 30 April 2024.</p>
@@ -29,10 +32,19 @@ before them, and to lead with integrity, compassion, and vision.</p>
 <p>Together, may we continue to blaze forth to glory and let us harness the
 boundless potential that lies within each and every member of our school
 community!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_4.jpg">
+</div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past Student Leadership Investiture</strong>
+<summary><strong>Past Student Leaders Investiture</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
