@@ -721,15 +721,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Educational Workshop Instructor</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kasmuri Bin Muhaili</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Technical Support Officer</strong>
 </p>
 </td>

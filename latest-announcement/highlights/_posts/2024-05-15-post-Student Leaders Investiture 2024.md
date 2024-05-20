@@ -1,11 +1,12 @@
 ---
-title: Community Youth Leadership
-permalink: /about-regent/school-events/cyl-schoolevents/
+title: Student Leaders Investiture 2024
+permalink: /student-leaders-investiture-2024/
+date: 2024-05-15
+layout: post
 description: ""
-third_nav_title: School Events
+image: ""
 variant: tiptap
 ---
-<h2><strong>Student Leaders Investiture 2024</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_1.jpg">
 </div>
@@ -40,34 +41,5 @@ community!</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_4.jpg">
-</div>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Past Student Leaders Investiture</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h2><strong>Student Leadership Investiture 2023</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CYL/StuLeadrInvesti2023-1.png">
-</div>
-<p>A new legacy begins…</p>
-<p>Today marks the symbolic handover of the baton from the 12th to the 13th
-Student Council and CCA Leaders. As part of the Student Leaders investiture,
-the Performing Arts CCAs also showcased their recent SYF performances to
-great applause and admiration from the audience.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CYL/StuLeadrInvesti2023-2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CYL/StuLeadrInvesti2023-3.png">
-</div>
-<p>As our new Student Leaders step up to the mantle, we wish them all the
-best in their upcoming term and may they continue the fine traditions and
-legacy that their seniors have left behind.</p>
-<p>Blaze forth to glory!</p>
-</div>
-</details>
 </div>
 <p></p>
