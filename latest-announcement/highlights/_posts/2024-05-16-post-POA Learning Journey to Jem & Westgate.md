@@ -12,6 +12,9 @@ on a learning journey to two popular shopping malls in Jurong, JEM and
 Westgate. The trip offered students a first-hand encounter with real-world
 applications of Accounting principles, enriching their understanding of
 concepts learnt in a tangible manner.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/S3POALJJemWestgate2024_1.jpg">
+</div>
 <p>In groups, our students navigated the bustling corridors of the malls,
 visiting an array of shops and interacting with retailers to glean insights
 about running a business. One focal point of their exploration was the
@@ -35,3 +38,10 @@ that allowed our POA students to extend their learning beyond the classroom.
 The invaluable insights gleaned through this learning journey will no doubt
 be useful for their future academic pursuits and professional endeavours
 in the realm of accounting.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/S3POALJJemWestgate2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/S3POALJJemWestgate2024_3.jpg">
+</div>
+<p></p>
