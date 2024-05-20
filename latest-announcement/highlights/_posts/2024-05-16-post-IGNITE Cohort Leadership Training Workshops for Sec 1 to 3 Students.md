@@ -16,6 +16,9 @@ a series of cohort leadership workshops yearly, through which they learn
 important leadership and communication skills. The programme ends with
 a capstone class Values in Action (VIA) project, where students advocate
 for and rally their peers behind the causes that they care about.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/IGNITESec1_3LdrshpWksp2024_1.jpg">
+</div>
 <p>This year, our Secondary One students embarked on an exciting journey
 of self-discovery, learning more about their strengths, interests, and
 preferred learning styles. They also picked up organisational skills and
@@ -39,3 +42,10 @@ with—and these are transferable skills which I can definitely use in my
 daily life too. Overall, the cohort leadership workshops were insightful
 as the lessons were meaningful, and they have helped build my confidence
 as a leader and thinker.’</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/IGNITESec1_3LdrshpWksp2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/IGNITESec1_3LdrshpWksp2024_3.jpg">
+</div>
+<p></p>
