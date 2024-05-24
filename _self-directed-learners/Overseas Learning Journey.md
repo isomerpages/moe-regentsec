@@ -39,14 +39,14 @@ heritage of the city and learnt more about their unique history.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_5.jpg">
 </div>
 <p></p>
-<p>However, the highlight of the day was the visit to the Agriculture</p>
-<p>Village where students participated in a farm-to-table dining experience
-where they prepared their own lunch, something new for all of them. The
-group also made time to visit and interact with children from the Masion
-Chance Orphanage and Nguyen Gia Thieu Secondary School. There, students
-not only exchanged performances to learn more about oneanother’s culture,
-but also spent time taking part in group activities together, including
-teaching common conversational English Language phrases to the children.</p>
+<p>However, the highlight of the day was the visit to the Agriculture Village
+where students participated in a farm-to-table dining experience where
+they prepared their own lunch, something new for all of them. The group
+also made time to visit and interact with children from the Masion Chance
+Orphanage and Nguyen Gia Thieu Secondary School. There, students not only
+exchanged performances to learn more about oneanother’s culture, but also
+spent time taking part in group activities together, including teaching
+common conversational English Language phrases to the children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_6.jpg">
 </div>
