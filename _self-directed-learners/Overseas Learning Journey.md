@@ -23,6 +23,15 @@ the Reunification Palace, History Museum of Ho Chi Minh City, War Remnants
 Museum and The Central Post Office where students basked in the rich cultural
 heritage of the city and learnt more about their unique history.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_3.jpg">
+</div>
 <p>However, the highlight of the day was the visit to the Agriculture Village
 where students participated in a farm-to-table dining experience where
 they prepared their own lunch, something new for all of them. The group
