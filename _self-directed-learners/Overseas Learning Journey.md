@@ -11,7 +11,9 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h2><strong>Secondary 3 Cultural Immersion Trip to Ho Chi Minh City</strong></h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HCM_1.jpg">
+</div>
 <p>A select group of Secondary 3 students had an exciting chance to visit
 Ho Chi Minh City of Vietnam month. &nbsp;During the 4 days 3 nights trip,
 there were many learning opportunities offered as they explored the old
