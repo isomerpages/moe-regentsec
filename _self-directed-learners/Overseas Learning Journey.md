@@ -174,7 +174,8 @@ through their active planning for and participation in the trip.</p>
 <h4>Past Overseas Learning Journey</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2022</summary>
+<summary><strong>2022</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong>Visit by Delegates from the Embassy of the People’s Republic of China</strong></h4>
@@ -225,7 +226,8 @@ school in China!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2019</summary>
+<summary><strong>2019</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -235,7 +237,8 @@ school in China!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2018</summary>
+<summary><strong>2018</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h3><strong>Xiamen, China</strong></h3>
