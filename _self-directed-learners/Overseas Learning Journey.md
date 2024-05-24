@@ -50,11 +50,31 @@ teaching common conversational English Language phrases to the children.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_6.jpg">
 </div>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_7.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_13.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_14.jpg">
+</div>
 <p></p>
 <p>It was a meaningful and engaging overseas trip and an opportunity for
 our students to develop cross-cultural skills through interaction with
