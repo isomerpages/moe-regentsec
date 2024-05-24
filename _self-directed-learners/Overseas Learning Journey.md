@@ -4,6 +4,7 @@ permalink: /overseas-learning-journey/
 variant: tiptap
 description: ""
 ---
+<h4>2024</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Secondary 3 Cultural Immersion Trip to Ho Chi Minh City</strong>
@@ -163,13 +164,7 @@ through their active planning for and participation in the trip.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h2></h2>
-<p></p>
-<p></p>
-<p></p>
-<h2></h2>
-<p></p>
+<hr>
 <p></p>
 <h4>Past Overseas Learning Journey</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
