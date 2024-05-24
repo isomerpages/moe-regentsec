@@ -95,26 +95,6 @@ through their active planning for and participation in the trip.</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
-<p>A select group of Secondary 3 students had an exciting chance to visit
-Ho Chi Minh City of Vietnam month. &nbsp;During the 4 days 3 nights trip,
-there were many learning opportunities offered as they explored the old
-city via a City Tour. Among some of the places that sparked interest were
-the Reunification Palace, History Museum of Ho Chi Minh City, War Remnants
-Museum and The Central Post Office where students basked in the rich cultural
-heritage of the city and learnt more about their unique history.</p>
-<p>&nbsp;</p>
-<p>However, the highlight of the day was the visit to the Agriculture Village
-where students participated in a farm-to-table dining experience where
-they prepared their own lunch, something new for all of them. The group
-also made time to visit and interact with children from the Masion Chance
-Orphanage and Nguyen Gia Thieu Secondary School. There, students not only
-exchanged performances to learn more about oneanother’s culture, but also
-spent time taking part in group activities together, including teaching
-common conversational English Language phrases to the children.</p>
-<p>&nbsp;</p>
-<p>It was a meaningful and engaging overseas trip and</p>
-<p></p>
 <p></p>
 <h2><strong>Secondary 3 Cultural Immersion Trip to Ho Chi Minh City</strong></h2>
 <p></p>
