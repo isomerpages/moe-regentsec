@@ -41,6 +41,12 @@ embraced students of various nationalities into our school community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCE/IntegrationProg2024_6.jpg">
 </div>
 <hr>
+<h4>Past CCE Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>PSL Training for Sec 4s</strong></h2>
 <p>Our Secondary Four PSLs once again came together at the start of the year
 to share their best practices carrying out their roles in peer helping,
@@ -62,7 +68,12 @@ Together, we will make Regent a place where friendship thrives!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CCE/PSLTrainingSec42023.png">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Cyber Wellness Ambassadors Induction Programme</strong></h2>
 <p>On 21 February 2022, our newly-appointed Cyber-Wellness Ambassadors participated
 in a fruitful induction programme organised by the Cyber-Wellness Committee.</p>
@@ -127,7 +138,12 @@ student advocates for general wellbeing!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer%20Support%20Leaders/PeerSupLdr-1.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Singa the Courtesy Lion Bench</strong></h2>
 <p>Singa comes to school!</p>
 <div class="isomer-image-wrapper">
@@ -145,3 +161,7 @@ ambassador stone bench!</p>
 </div>
 <p>Remember: “No act of kindness, no matter how small, is ever wasted.” –
 Aesop</p>
+</div>
+</details>
+</div>
+<p></p>
