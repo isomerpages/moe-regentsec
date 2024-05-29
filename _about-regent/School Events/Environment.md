@@ -77,9 +77,10 @@ of the environment, we can truly make a difference!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Environment/WorldWaterDay2024_1.jpg">
 </div>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<h4>Past Environment Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past Environment events</strong>
+<summary><strong>2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -131,7 +132,12 @@ pledged to do our part through our water pledges on display at the Canteen!’
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/WorldWaterDay2023-2.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>World Environment Day</strong></h2>
 <p>World Environment Day falls on 5th June 2022. To commemorate this momentous
 day and do our part for Mother Earth, Regent held an Environment Week starting
