@@ -121,6 +121,12 @@ a greater understanding of the world around them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4GeoLJGardensByTheBay2024_2.jpg">
 </div>
 <hr>
+<h4>Past Humanities Department Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Secondary Two Literature Enrichment Programme – The LKY Musical</strong></h2>
 <p>Literature came alive for our Secondary Two students who attended Singapore
 Repertory Theatre’s production of The LKY Musical on 21 September 2022.
@@ -230,7 +236,13 @@ or part of the Singapore community!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Humanities%20Department/S2LJNationalMuseum-1.jpg">
 </div>
-<hr>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Bringing Geography to Life!</strong></h2>
 <p>To find out more about the dynamic nature of coastal environments, 15
 geography students and 4 teachers conducted a Geographical Investigation
@@ -254,28 +266,6 @@ that they had learnt.</p>
 </div>
 <p>It was definitely an eye-opening experience for our young Geographers
 as they continued to experience what it means to be a Geographer.</p>
-<p></p>
-<h4>Past Humanities Department Events</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2023</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2021</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
