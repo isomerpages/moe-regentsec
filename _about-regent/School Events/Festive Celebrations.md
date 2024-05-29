@@ -89,12 +89,12 @@ Happy New Year!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2024_7.jpeg">
 </div>
 <hr>
+<h4>Past Festive Celebrations</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past Festive Celebrations</strong>
+<summary><strong>2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <h3><strong>Chinese New Year 2023</strong></h3>
 <p>Today, Regent ushered in the Lunar New Year of the Rabbit with a hybrid
 mode of celebrations!</p>
@@ -163,5 +163,4 @@ as one to celebrate Eid with joy and thanksgiving!</p>
 </div>
 </details>
 </div>
-<h2></h2>
 <p></p>
