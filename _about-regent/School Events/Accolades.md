@@ -20,6 +20,12 @@ we celebrate this achievement alongside the entire Regent community!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Accolades/RGSS___NW_Outstanding_School_Partner_Award_2024_Photo_Banner.jpg">
 </div>
 <hr>
+<h4>Past Accolades</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Accolades from Regent Red Cross Youth</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Accolades/AccoladesRCY2023-1.png">
@@ -82,7 +88,7 @@ to Regent!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Accolades/NorthWestSchPartnersAward2023-2.png">
 </div>
 <hr>
-<h2><strong>NPCC Unit Overall Proficiency Award (UOPA) – Gold</strong></h2>
+<h2><strong>NPCC Unit Overall Proficiency Award (UOPA) – GOLD</strong></h2>
 <p>We are pleased to announce that our National Police Cadet Corps (NPCC)
 unit has attained the Unit Overall Proficiency Award (Distinction) for
 the year 2022!</p>
@@ -129,7 +135,12 @@ them all the best as they go on to seek and climb greater heights.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Accolades/OLvlResults2023-4.png">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>23rd&nbsp;Elementz Fair – Gold Award</strong></h2>
 <p>Have you ever wondered how planes fly? Or even thought about the best
 household chemicals that help to remove ink stains on your school uniform?
@@ -165,7 +176,13 @@ and presentation skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Accolades/23rdElementzFair-3.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h2><strong>School Green Awards 2021</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Accolades/SchGreenAwards2021-1.jpeg">
@@ -195,3 +212,7 @@ bags, and coin banks. Ongoing recycling and energy-saving efforts have
 also helped us become a greener school. Through this, we have effected
 a positive environmental impact in our school and community. Let’s continue
 to do our part for the environment!</p>
+</div>
+</details>
+</div>
+<p></p>

@@ -101,8 +101,13 @@ aid education in our cadets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/RCYFirstAidChamp2024_2.jpg">
 </div>
-<p></p>
 <hr>
+<h4>Past CCA Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Girls Brigade Commemoration Day 2023</strong></h2>
 <p>The Enrolment and Dedication Ceremony is conducted annually to induct
 Girls’ Brigade members and leaders into the company. The enrolment service
@@ -297,7 +302,12 @@ the wide range of activities organized.</p>
 </div>
 <p><em>Screengrab from BB Day Message video</em>
 </p>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>BB &amp; GB Outdoor Activities</strong></h2>
 <p>School’s out… Adventure’s in!</p>
 <p>On 26 February 2022, our Boys’ and Girls’ Brigade companies participated
@@ -322,7 +332,12 @@ to come!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CCA/CCA-schoolevent-13.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Regent Singapore Youth Festival (SYF) 2021</strong></h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YhJvwyq5L6g"></iframe>
@@ -370,4 +385,7 @@ Forth to Glory!</p>
 <p>Modern Dance (15th&nbsp;April 2021)</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>

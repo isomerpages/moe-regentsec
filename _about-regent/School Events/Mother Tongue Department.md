@@ -44,12 +44,12 @@ filled with pride at the enthusiasm and dedication displayed by our students.
 We remain committed to nurturing a vibrant and inclusive learning environment
 where cultural diversity is celebrated and cherished.</p>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<h4>Past MT Department Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past MT Department Events</strong>
+<summary><strong>2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <h2><strong>Conversational Chinese Malay Language Programme 2023</strong></h2>
 <p>Semester 1 saw our Secondary 1 and 2 students kickstarting their language-learning
 journey with the Conversational Chinese and Malay (CCM) Programme. An MOE-initiative
@@ -107,7 +107,12 @@ them to appreciate one another's culture and traditions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Mother%20Tongue%20Department/MTFortnight2023-7.png">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>MT Fortnight 2022</strong></h2>
 <p>Learning Mother Tongue Languages in Regent is more than just about words,
 vocabulary, grammar and sentence construction – it is also about the appreciation
@@ -131,7 +136,12 @@ and educational exhibition of culture!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Mother%20Tongue%20Department/MTDept-3_MTFortnight2022-3.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Bingkisan Aidilfitri</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Mother%20Tongue%20Department/MTDept-4_BingkisanAidilfitri2021.jpg">
