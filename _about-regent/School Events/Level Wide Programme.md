@@ -5,7 +5,8 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
-<h2><strong>Applied Learning Module (ApLM) - Physics</strong></h2>
+<h1><strong>Applied Learning Module (ApLM)</strong></h1>
+<h2>Physics</h2>
 <p>In March, our Secondary Three Physics students embarked on an exhilarating
 journey into the world of engineering through the Applied Learning Module,
 “Building and Controlling Flying Machines”, organised by Republic Polytechnic.
@@ -45,7 +46,7 @@ world of engineering and innovation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_Physics_3.jpg">
 </div>
 <hr>
-<h2><strong>Applied Learning Module (ApLM) – Intelligent Facility Management</strong></h2>
+<h2>Intelligent Facility Management</h2>
 <p>From 25 to 27 March 2024, our industrious students from 3 Pride embarked
 on a captivating learning journey at ITE College West and delved into the
 world of intelligent facility management through the Applied Learning Module
@@ -79,7 +80,7 @@ to expand their knowledge and practical skills!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_IntelFacMgt_5.jpg">
 </div>
 <hr>
-<h2><strong>Applied Learning Module (ApLM) – Principles of Accounts</strong></h2>
+<h2>Principles of Accounts</h2>
 <p>In March, our Secondary Three students embarked on a transformative journey
 at the three-day Applied Learning Module, 'Start Your Business Now', meticulously
 organised by Republic Polytechnic. This initiative offered our students
@@ -123,7 +124,13 @@ and opportunities that lie ahead in the dynamic world of entrepreneurship.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_POA_3.jpg">
 </div>
 <hr>
-<h2><strong>Applied Learning Module (ApLM) – Digital Animations</strong></h2>
+<h4>Past Applied Learning Module (ApLM)</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h2><strong>Digital Animations</strong></h2>
 <p>Recently, a group of selected students from Secondary 3 and Secondary
 2 got the opportunity to explore more about the makings of 2D animation.
 Through attending the Applied Learning Module (ApLM) Digital 2D Animation
@@ -147,7 +154,7 @@ and nurture their passion in the days to come!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Level%20Wide%20Programmes/ApLM-Animations.png">
 </div>
 <hr>
-<h2><strong>Applied Learning Module (ApLM) Fundamentals of Tourism Management</strong></h2>
+<h2><strong>Fundamentals of Tourism Management</strong></h2>
 <p>Recently, our Secondary 3 Geography students attended the Applied Learning
 Module (ApLM) on Fundamentals of Tourism Management conducted by Ngee Ann
 Polytechnic. Students learnt about the various sectors in the tourism industry
@@ -177,7 +184,7 @@ and shape their future.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Level%20Wide%20Programmes/ApLM-TourismMgt-2.png">
 </div>
 <hr>
-<h2><strong>Applied Learning Module (ApLM) – Healthcare in Action</strong></h2>
+<h2><strong>Healthcare in Action</strong></h2>
 <p>During the June holidays, several Secondary 2 and 3 Regenites participated
 in an enriching 3-day learning journey at the Nanyang Polytechnic. Students
 signed up for the Applied Learning Module (ApLM) – Healthcare in Action
@@ -221,7 +228,7 @@ our students on a lifelong journey of learning and growth.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Level%20Wide%20Programmes/ApLM-Healthcare-5.png">
 </div>
 <hr>
-<h2><strong>Applied Learning Module (ApLM)- Marketing in Action</strong></h2>
+<h2><strong>Marketing in Action</strong></h2>
 <p>During the March school holidays, our Secondary 3 Principles of Accounts
 (POA) students participated in a 3-day course, Applied Learning Module
 (ApLM) – “Marketing in Action", conducted by Ngee Ann Polytechnic. Prior
@@ -270,7 +277,7 @@ excellence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Level%20Wide%20Programmes/ApLM-Marketing-5.png">
 </div>
 <hr>
-<h2><strong>Applied Learning Module (ApLM) - Product Design and Development</strong></h2>
+<h2><strong>Product Design and Development</strong></h2>
 <p>The third week of the June holidays is an enriching one for fellow students.
 A group of Secondary 3 Regenites attended a 3-day Applied Learning Module
 (ApLM) for Product Design and Development organised by the Singapore Polytechnic,
@@ -301,5 +308,8 @@ for product design, and ignited the spark of innovation within them.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Level%20Wide%20Programmes/ApLM-ProductDesign-2.png">
+</div>
+</div>
+</details>
 </div>
 <p></p>
