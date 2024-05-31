@@ -81,10 +81,10 @@ in the face of crises.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/TDD2024_7.jpg">
 </div>
 <hr>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<h4>Past NE Commemorations Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past NE Commemorations</strong>
+<summary><strong>2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>National Day Celebration 2023</strong></h2>
@@ -274,7 +274,12 @@ and our loved ones safe.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/TDD2023-6.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>NRIC Presentation Ceremony 2022</strong></h2>
 <p>20 October 2022 was a special day for our Secondary Three students, who
 received their NRICs from our Principal and their Form Teachers.</p>
@@ -553,7 +558,12 @@ and the will to act.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/TDD2022-1.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>NRIC Presentation Ceremony 2021</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/NRICPresentation2021.jpg">
@@ -679,7 +689,6 @@ safe distancing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/Racial-Harmony-Day-4.jpg">
 </div>
-<p></p>
 </div>
 </details>
 </div>
