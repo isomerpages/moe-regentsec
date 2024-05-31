@@ -29,8 +29,14 @@ within our community!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/VIA/Sec4VIAProjShow2024_2.jpg">
 </div>
 <hr>
+<h4>Past Values-In-Action Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Sec 4 VIA 2023</strong></h2>
-<p>In 2022, 4-Pride and 4-Respect reached out to the elderly at Ang Mo Kio
+<p>In 2023, 4-Pride and 4-Respect reached out to the elderly at Ang Mo Kio
 Family Service Centre as part of their Secondary Three Values-in-Action
 (VIA) projects. This year, their juniors, the current Secondary Three students
 will be about to embark on the same journey themselves!</p>
@@ -111,7 +117,12 @@ really enjoyed themselves.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/RegentVIAWeek-4.jpg">
 </div>
-<hr>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>S4 VIA Project</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/VIA/VIA-schoolevent-1.jpg">
@@ -133,3 +144,7 @@ pressure, online gaming to the appreciation of our school’s cleaners.</p>
 </div>
 <p>Many of the audience were charmed and won over by our Sec 4 advocates
 in a manner that even James Dean would approve.</p>
+</div>
+</details>
+</div>
+<p></p>
