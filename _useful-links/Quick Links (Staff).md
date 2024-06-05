@@ -113,10 +113,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iExams</p>
+<p>SEAB Exam Personnel Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://iexams.seab.gov.sg/login</a>
+<p><a href="https://myexamduty.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">https://myexamduty.seab.gov.sg/auth/login</a>
 </p>
 </td>
 </tr>
