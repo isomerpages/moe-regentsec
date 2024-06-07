@@ -5,6 +5,7 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>Annual Cross-Country Run</strong></h2>
 <p>The Cross Country Run, held on 17 May 2024, was the first mass-participation
 sports event of the year for our students, and it was nothing short of
 electrifying. With students primed and pumped for the run—many with aspirations
