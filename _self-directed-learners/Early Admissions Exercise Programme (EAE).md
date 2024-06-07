@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <p>The Polytechnic Early Admissions Exercise (EAE) allows students to apply
 for and receive conditional offers for admission prior to their GCE O-Level
-Examinations. Students applying through the Poly EAE are considered for
-admission on the basis of demonstrated aptitude and interest, beyond just
+Examinations. Students applying through the Polytechnic EAE are considered
+for admission on the basis of demonstrated aptitude and interest, beyond
+just
 <br>academic grades.</p>
 <p>In Regent Secondary, the EAE programme serves as a platform to encapsulate
 the school’s 4-D (Discover, Decide, Develop, Dream) approach to education
