@@ -49,7 +49,7 @@ Association Silver Medal</p>
 <hr>
 <h4><strong>Achievements of 2017</strong></h4>
 <h5><strong>Ex Regenite Graduates with an Honours Degree</strong></h5>
-<p><em>Mr&nbsp;Randy&nbsp;(ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Buisness Management and Accountancy under the University Scholars Programme. He is working with Visa as a business consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements.</em>
+<p><em>Mr&nbsp;Randy&nbsp;(ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Business Management and Accountancy under the University Scholars Programme. He is working with Visa as a business consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements.</em>
 </p>
 <p>📰 Click <a href="/files/Randy.pdf" rel="noopener noreferrer nofollow" target="_blank">Newspaper Article 1</a> to
 view the achievement which was published in the Lianhe&nbsp;Wanbao</p>
