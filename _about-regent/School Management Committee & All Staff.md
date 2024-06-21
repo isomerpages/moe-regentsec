@@ -85,6 +85,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Subject Head - Character &amp; Citizenship Education</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Chai Hoon Annie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Rui Qi Adeline</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head - Co-Curriculum Activities (Covering)</strong>
 </p>
 </td>
@@ -94,11 +112,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Character &amp; Citizenship Education</strong>
+<p><strong>Subject Head - Student Management (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Chai Hoon Annie</p>
+<p>Mr Terence Tan Jun Tian</p>
 </td>
 </tr>
 </tbody>
@@ -198,6 +216,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Chee Kong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head - Malay Language (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Muslihuddin Bin Abdul Raza</p>
 </td>
 </tr>
 </tbody>
@@ -362,7 +389,7 @@ variant: tiptap
 <p>Ms Aisha Yasmin Binte Abdul Raman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Eng Huat</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -667,7 +694,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adj Administrative Executive</strong>
+<p><strong>Administrative Executive</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -712,7 +739,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Educational Workshop Instructor</strong>
+<p><strong>NCS IT (Desktop Engineer)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Sufian Bin Abd Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>STEM Instructor - Workshop</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -721,11 +757,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Technical Support Officer</strong>
+<p><strong>STEM Instructor - Laboratory</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainab Bte Abdul Majid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>STEM Instructor - Laboratory</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Nadiyah Bte Samsudin</p>
 </td>
 </tr>
 <tr>
