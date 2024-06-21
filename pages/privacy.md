@@ -7,7 +7,7 @@ variant: tiptap
 <p></p>
 <p>1.&nbsp; This is a Regent Secondary School website. Thank you for examining
 our privacy statement.</p>
-<p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
+<p>2.&nbsp;&nbsp;If you are only browsing this website, we do not capture
 data that allows us to identify you individually.</p>
 <p>3.&nbsp; If you choose to make an application or send us an e-mail for
 which you provide us with personally identifiable data, we may share necessary
