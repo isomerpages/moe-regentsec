@@ -49,29 +49,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - Student Management</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kong Kok Heng Melvin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Year Head - Upper Sec</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Keng Cheong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD - Character &amp; Citizenship Education</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jasmine Murat Haider</p>
 </td>
 </tr>
 <tr>
@@ -85,6 +67,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD - CCA/PE &amp; Student Management (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kong Kok Heng Melvin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD - Character &amp; Citizenship Education</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jasmine Murat Haider</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head - Character &amp; Citizenship Education</strong>
 </p>
 </td>
@@ -94,11 +94,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Covering)</strong>
+<p><strong>Subject Head - Student Management (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Rui Qi Adeline</p>
+<p>Mr Terence Tan Jun Tian</p>
 </td>
 </tr>
 <tr>
@@ -112,11 +112,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Student Management (Covering)</strong>
+<p><strong>Assistant Year Head (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Tan Jun Tian</p>
+<p>Ms Goh Rui Qi Adeline</p>
 </td>
 </tr>
 </tbody>
@@ -130,47 +130,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - PE/CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kong Kok Heng Melvin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Su Rui Yi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD - ICT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tham Ming Hwee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD - Humanities</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Janaki D/O Ramasamy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD - Mathematics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tong Wee Heng</p>
 </td>
 </tr>
 <tr>
@@ -184,11 +148,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - Science</strong>
+<p><strong>HOD - Humanities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Hui Ching</p>
+<p>Mdm Janaki D/O Ramasamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD - ICT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tham Ming Hwee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD - Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tong Wee Heng</p>
 </td>
 </tr>
 <tr>
@@ -198,6 +180,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Phang Yuh Koon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD - Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Hui Ching</p>
 </td>
 </tr>
 <tr>
@@ -238,20 +229,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Physical Education</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kwok Weng Meng Michael</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher - Biology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Huey Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher - Geography</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zainab Banu Binte Hassan</p>
 </td>
 </tr>
 <tr>
@@ -265,11 +256,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Geography</strong>
+<p><strong>Senior Teacher - Physical Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zainab Banu Binte Hassan</p>
+<p>Mr Kwok Weng Meng Michael</p>
 </td>
 </tr>
 </tbody>
