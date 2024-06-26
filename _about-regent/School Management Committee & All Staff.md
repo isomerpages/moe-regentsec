@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Co-Curriculum Activities (Covering)</strong>
+<p><strong>Subject Head - Co-Curricular Activities (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -770,7 +770,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Manager</strong>
+<p><strong>Operations Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
