@@ -47,7 +47,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Ang Joo Hock</p>
+<p>Mr Low Chin Kok, PBM</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Chin Kok, PBM</p>
+<p>Dr Ang Joo Hock</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +74,15 @@ variant: tiptap
 <p>Mdm Rozilawati Binte Ramdzan</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Han Li</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
+<p><em>(from June 2024)</em>
+</p>
