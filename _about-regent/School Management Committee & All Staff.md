@@ -869,7 +869,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -878,7 +878,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -887,7 +887,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -896,7 +896,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -905,7 +905,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -914,7 +914,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -923,7 +923,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
