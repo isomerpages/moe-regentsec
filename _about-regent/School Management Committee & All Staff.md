@@ -67,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - CCA/PE &amp; Student Management (Covering)</strong>
+<p><strong>HOD - PE/CCA &amp; Student Management (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,20 +94,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Student Management (Covering)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Terence Tan Jun Tian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head - Co-Curriculum Activities (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jiang Yuhang Isaac</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head - Student Management (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Tan Jun Tian</p>
 </td>
 </tr>
 <tr>
@@ -247,20 +247,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Physics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nor Rasidah Bte Mohd Salleh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher - Physical Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kwok Weng Meng Michael</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Teacher - Physics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Rasidah Bte Mohd Salleh</p>
 </td>
 </tr>
 </tbody>
@@ -743,15 +743,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Health Advisor</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Sulaima Othman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Administrative Manager</strong>
 </p>
 </td>
@@ -806,7 +797,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NCS IT (Desktop Engineer)</strong>
+<p><strong>IT Desktop Engineer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -815,7 +806,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NCS IT (Desktop Engineer)</strong>
+<p><strong>IT Desktop Engineer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -941,6 +932,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School Health Advisor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Sulaima Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
 </p>
 </td>
@@ -950,7 +950,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Printing &amp; Admin Assistant</strong>
+<p><strong>Printing Assistant</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
