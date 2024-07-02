@@ -82,9 +82,6 @@ them helpful.</p>
 <h4><strong>Helping Your Child Manage Online Scams</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber Wellness Programme/Tip_sheet_for_Parents_Online_Scams_1.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber%20Wellness%20Programme/Cyber-Wellness-for-Parents-Regent-School-Website1024_2-e1606195851724.jpg">
 </div>
 <p></p>
