@@ -80,6 +80,10 @@ them helpful.</p>
 </tbody>
 </table>
 <h4><strong>Helping Your Child Manage Online Scams</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber Wellness Programme/Tip_sheet_for_Parents_Online_Scams_1.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber%20Wellness%20Programme/Cyber-Wellness-for-Parents-Regent-School-Website1024_2-e1606195851724.jpg">
 </div>
@@ -154,17 +158,13 @@ them helpful.</p>
 <p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent kit - Cyber wellness for your Child</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent kit - Raising a Digitally Smart Child</a>
+</p>
+</li>
 </ul>
 <h3><strong>Cyber Wellness Resources by&nbsp;External Agencies</strong></h3>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.betterinternet.sg/" rel="noopener noreferrer nofollow" target="_blank">Video Resources by Media Literacy Council</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.scamalert.sg/resources/videos" rel="noopener noreferrer nofollow" target="_blank">Video Resources by National Crime Prevention Council</a>
-</p>
-</li>
 <li>
 <p><a href="https://sure.nlb.gov.sg/resources/audience/" rel="noopener noreferrer nofollow" target="_blank">Resources on S.U.R.E by&nbsp;National Library Board</a>
 </p>
