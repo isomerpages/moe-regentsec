@@ -109,9 +109,10 @@ En, 3-Empathy)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/SHWCHR-2.jpg">
 </div>
-<p>📹 <strong>Show Choir - Shine Like Stars</strong>
-<br>Click <strong><a href="https://youtu.be/jsTwxfiJ5wE" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the music video.</p>
+<h4>Show Choir - Shine Like Stars</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jsTwxfiJ5wE?si=j0DuoSWcMlJInC1b"></iframe>
+</div>
 <h4>Marsiling-Yew Tee GRC National Day Celebrations 2021</h4>
 <p>Recording of the National Anthem and National Day dance</p>
 <div class="isomer-image-wrapper">
@@ -142,24 +143,20 @@ motivation from their friends, choir instructor, and teachers.</p>
 </p>
 <ul>
 <li>
-<p>📹 <strong>Music Showcase Project 1</strong>
-<br>Click <strong><a href="https://youtu.be/CwrDSUVT3Zk" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/CwrDSUVT3Zk" rel="noopener noreferrer nofollow" target="_blank">Music Showcase Project 1</a></strong>
+</p>
 </li>
 <li>
-<p>📹 <strong>Music Showcase Project 2</strong>
-<br>Click <strong><a href="https://youtu.be/hlXQWLNT_Ws" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/hlXQWLNT_Ws" rel="noopener noreferrer nofollow" target="_blank">Music Showcase Project 2</a></strong>
+</p>
 </li>
 <li>
-<p>📹 <strong>Music Showcase Project 3</strong>
-<br>Click <strong><a href="https://youtu.be/8RxiMKXR3Ns" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/8RxiMKXR3Ns" rel="noopener noreferrer nofollow" target="_blank">Music Showcase Project 3</a></strong>
+</p>
 </li>
 <li>
-<p>📹 <strong>Music Showcase Project 4</strong>
-<br>Click <strong><a href="https://youtu.be/8xLE88W5KWM" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/8xLE88W5KWM" rel="noopener noreferrer nofollow" target="_blank">Music Showcase Project 4</a></strong>
+</p>
 </li>
 </ul>
 <p>Students also collaborated in groups to choreograph dance moves, practise
@@ -170,9 +167,8 @@ via Zoom.</p>
 </div>
 <p><em>Snapshot of dance session via Zoom</em>
 </p>
-<p>📹 <strong>e-CCA Dance</strong>
-<br>Click <strong><a href="https://youtu.be/55yHKuAzHsI" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/55yHKuAzHsI" rel="noopener noreferrer nofollow" target="_blank">e-CCA Dance</a></strong>
+</p>
 <hr>
 <h4><strong>Past Events</strong></h4>
 <div class="isomer-image-wrapper">
@@ -189,24 +185,20 @@ watch the video.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>📹 <strong>Show Choir - Sec 1 Dance Training</strong>
-<br>Click <a href="https://youtu.be/P4dYVlPdzSQ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/P4dYVlPdzSQ" rel="noopener noreferrer nofollow" target="_blank">Show Choir - Sec 1 Dance Training</a></strong>
+</p>
 </li>
 <li>
-<p>📹 <strong>Show Choir - Sec 3 Dance Training</strong>
-<br>Click <a href="https://youtu.be/9VJe0gZBx50" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/9VJe0gZBx50" rel="noopener noreferrer nofollow" target="_blank">Show Choir - Sec 3 Dance Training</a></strong>
+</p>
 </li>
 <li>
-<p>📹 <strong>Show Choir Reasons</strong>
-<br>Click <a href="https://youtu.be/LuH_OuM2cuQ" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/LuH_OuM2cuQ" rel="noopener noreferrer nofollow" target="_blank">Show Choir Reasons</a></strong>
+</p>
 </li>
 <li>
-<p>📹 <strong>Show Choir 2020</strong>
-<br>Click <a href="https://youtu.be/H0FNn4ti5sM" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/H0FNn4ti5sM" rel="noopener noreferrer nofollow" target="_blank">Show Choir 2020</a></strong>
+</p>
 </li>
 </ul>
 <p></p>
