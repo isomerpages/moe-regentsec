@@ -167,7 +167,6 @@ is spelt with a capital “B”.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-2.jpeg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-3.jpeg">
 </div>
