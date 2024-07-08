@@ -167,7 +167,9 @@ is spelt with a capital “B”.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-2.jpeg">
 </div>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN89yG144ZQtyNJMKZe_KB_Um_YUdcUk_ulZI221DAB0xbjXpNP8DgRYFlWUnllOOHr_9SmP0BoIXI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-3.jpeg">
 </div>
