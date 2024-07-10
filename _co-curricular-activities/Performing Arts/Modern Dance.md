@@ -85,6 +85,5 @@ not talent, but sheer determination and passion, that shines on stage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/Teachers'%20Day%20-%20Modern%20Dance_YT.png">
 </div>
-<p>📹 <strong>Modern Dance - Teachers' Day</strong>
-<br>Click <strong><a href="https://youtu.be/TMqu2Y-x_jU" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the video.</p>
+<p>📹 Click to watch <strong><a href="https://youtu.be/TMqu2Y-x_jU" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - Teachers' Day</a></strong>
+</p>
