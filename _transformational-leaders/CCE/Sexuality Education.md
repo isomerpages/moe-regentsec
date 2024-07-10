@@ -108,8 +108,8 @@ Abstinence and upholding family values are the key messages.</p>
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. Please contact HOD CCE, Ms. Jasmine
-Murat, at 6765 3828 (223) or jasmine_murat_haider@moe.edu.sg so that we
-could understand your concerns.</p>
+Murat, at 6765 3828 (223) or <a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg</a> so
+that we could understand your concerns.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Item_12_Letterhead_2024_OPT_OUT_FORM_E_TEENS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
