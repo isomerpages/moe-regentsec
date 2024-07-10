@@ -170,7 +170,11 @@ via Zoom.</p>
 <p>📹 Watch <strong><a href="https://youtu.be/55yHKuAzHsI" rel="noopener noreferrer nofollow" target="_blank">e-CCA Dance</a></strong>
 </p>
 <hr>
-<h4><strong>Past Events</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Past Activities &amp; Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/SHWCHR-7.jpg">
 </div>
@@ -201,4 +205,7 @@ via Zoom.</p>
 </p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
