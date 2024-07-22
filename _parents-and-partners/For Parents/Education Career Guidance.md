@@ -32,7 +32,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Parent_Guide_QRcode.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Parent_Guide_QRcode.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/Journeying_with_Our_Children__Supporting_Their_Aspirations_QRcode.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Parents/Journeying_with_Our_Children__Supporting_Their_Aspirations_QRcode.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/MySkillsFuture_Student_Portal__Secondary__QRcode.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Parents/MySkillsFuture_Student_Portal__Secondary__QRcode.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_N_level__QRcode.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
