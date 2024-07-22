@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h2>ECG Resources for Parents</h2>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -19,10 +18,7 @@ variant: tiptap
 <p>Topic</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>QR Code</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Links</p>
+<p>QR Code &amp; Links</p>
 </th>
 </tr>
 <tr>
@@ -32,12 +28,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Parent_Guide_QRcode.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Parent_Guide_QRcode.png">
 </div>
-<p><a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a>
 </p>
 </td>
@@ -49,12 +41,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Parents/Journeying_with_Our_Children__Supporting_Their_Aspirations_QRcode.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Journeying_with_Our_Children__Supporting_Their_Aspirations_QRcode.png">
 </div>
-<p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
 </p>
 </td>
@@ -66,12 +54,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/MySkillsFuture_Student_Portal__Secondary__QRcode.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/MySkillsFuture_Student_Portal__Secondary__QRcode.png">
 </div>
-<p><a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
 </td>
@@ -83,12 +67,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_N_level__QRcode.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_N_level__QRcode.png">
 </div>
-<p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
 </td>
@@ -100,12 +80,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_O_level__QRcode.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_O_level__QRcode.png">
 </div>
-<p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
 </p>
 </td>
@@ -116,10 +92,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/postsecondary" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecondary</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Post_Secondary_Education_QRcode.png">
+</div>
 <p><a href="https://go.gov.sg/postsecondary" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecondary</a>
 </p>
 </td>
@@ -130,10 +105,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Information_on_Polytechnic_Courses_QRcode.png">
+</div>
 <p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
 </p>
 </td>
@@ -144,10 +118,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Information_on_EAE_Polytechnic_QRcode.png">
+</div>
 <p><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/</a>
 </p>
 </td>
@@ -158,10 +131,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Information_on_Polytechnic_Foundation_Programme__PFP__QRcode.png">
+</div>
 <p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/</a>
 </p>
 </td>
@@ -173,10 +145,9 @@ variant: tiptap
 <p>Go to MySkillsFuture Portal 'Education Guide'</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Information_on_JCs_QRcode.png">
+</div>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
 </p>
 </td>
@@ -187,10 +158,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Information_on_Direct_Entry_Scheme_to_Polytechnic_Programme__DPP__QRcode.png">
+</div>
 <p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
 </p>
 </td>
