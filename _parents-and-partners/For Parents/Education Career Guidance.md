@@ -51,7 +51,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Journeying_with_Our_Children__Supporting_Their_Aspirations_QRcode.png">
 </div>
-<p></p>
+<p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
@@ -67,7 +68,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/MySkillsFuture_Student_Portal__Secondary__QRcode.png">
 </div>
-<p></p>
+<p><a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
@@ -83,7 +85,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_N_level__QRcode.png">
 </div>
-<p></p>
+<p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
@@ -99,7 +102,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_O_level__QRcode.png">
 </div>
-<p></p>
+<p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
@@ -112,7 +116,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/postsecondary" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecondary</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/postsecondary" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecondary</a>
@@ -125,7 +130,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
@@ -138,7 +144,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/</a>
@@ -151,7 +158,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/</a>
@@ -165,7 +173,8 @@ variant: tiptap
 <p>Go to MySkillsFuture Portal 'Education Guide'</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
@@ -178,7 +187,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
