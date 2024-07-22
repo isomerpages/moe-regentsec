@@ -137,5 +137,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>How to Make Appointment?</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
+</div>
+<p>
+<br><strong>Mr Peter Phoa, ECG Counsellor</strong>
+</p>
+<p>1. Use the link: <a href="https://go.gov.sg/nzsjci" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nzsjci</a> or scan the
+QR code
+<br>2. Email: <a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phoa_ang_hiok@schools.gov.sg</u></a>
+<br>3. Walk-in (if available)
+<br>4. Refer by Form Teachers</p>
 <p></p>
