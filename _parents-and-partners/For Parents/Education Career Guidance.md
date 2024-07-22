@@ -15,10 +15,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Area</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Links</p>
 </th>
 </tr>
 <tr>
@@ -27,6 +27,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Parent_Guide_QRcode.png">
+</div>
 <p><a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a>
 </p>
 </td>
@@ -83,39 +86,56 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Information on Polytechnic Courses</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Information on EAE Polytechnic</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Information on Polytechnic Foundation Programme (PFP)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information on JCs</strong>
+</p>
+<p>Go to MySkillsFuture Portal 'Education Guide'</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information on Direct Entry Scheme to Polytechnic Programme (DPP)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Download the PDF below to access education career guidance resources:</p>
-<p><a href="/files/2021-Parent-ECG-Resources.pdf" rel="noopener noreferrer nofollow" target="_blank">2021 Parent ECG Resources</a>
-</p>
+<p></p>
