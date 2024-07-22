@@ -197,7 +197,4 @@ QR code
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p></p>
