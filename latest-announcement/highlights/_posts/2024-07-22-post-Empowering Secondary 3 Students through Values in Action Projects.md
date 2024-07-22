@@ -35,3 +35,8 @@ in our students, inspiring them to continue making positive contributions
 to our community. Regent Secondary School remains committed to fostering
 compassionate leaders who understand the importance of service and community
 engagement. Together, we strive to create a brighter future for all.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/VIA/Sec3VIAProj2024.jpg">
+</div>
+<p></p>
+<p></p>
