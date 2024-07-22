@@ -34,7 +34,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Parent_Guide_QRcode.png">
 </div>
-<p></p>
+<p><a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a>
