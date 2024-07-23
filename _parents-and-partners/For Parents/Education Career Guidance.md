@@ -3,19 +3,9 @@ title: Education Career Guidance
 permalink: /parents-and-partners/for-parents/education-career-guidance/
 description: ""
 third_nav_title: For Parents
-variant: markdown
+variant: tiptap
 ---
-## ECG Resources for Parents
-
-| Topic | QR Code &amp; Links |
-| -------- | -------- |
-| **ECG Parent Guide**     | <img align="left" style="width: 20%;" src="/images/For Parents/ECG_Parent_Guide_QRcode.png"><br>[https://go.gov.sg/ecg-resources](https://go.gov.sg/ecg-resources)     |
-
-
-
-
 <h2>ECG Resources for Parents</h2>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,7 +141,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><strong>Information on JCs</strong>
 </p>
-<p>Go to MySkillsFuture Portal 'Education Guide'</p>
+<p>Go to MySkillsFuture Portal under 'Education Guide' tab</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -176,34 +166,13 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>How to Make Appointment?</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>Mr Peter Phoa, ECG Counsellor</h4>
-<p>1. Use the link: <a href="https://go.gov.sg/nzsjci" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nzsjci</a> or scan the
-QR code
-<br>2. Email: <a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phoa_ang_hiok@schools.gov.sg</u></a>
+<h4>How to Make Appointment?</h4>
+<p><strong>Mr Peter Phoa, ECG Counsellor</strong>
+<br>1. Use the link: <a href="https://go.gov.sg/nzsjci" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nzsjci</a> or scan the
+QR code</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
+</div>
+<p>2. Email: <a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>
 <br>3. Walk-in (if available)
 <br>4. Refer by Form Teachers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
