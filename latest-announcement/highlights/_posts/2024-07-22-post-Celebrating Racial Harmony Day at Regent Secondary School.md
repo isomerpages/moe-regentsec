@@ -48,4 +48,3 @@ who made this Racial Harmony Day at Regent a memorable and enriching experience!
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2024_3.jpg">
 </div>
 <p></p>
-<p></p>
