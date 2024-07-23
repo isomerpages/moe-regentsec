@@ -70,6 +70,7 @@ variant: tiptap
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_N_level__QRcode.png">
 </div>
 <p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
+<br><strong><em>This link downloads a PDF document</em></strong>
 </p>
 </td>
 </tr>
@@ -83,6 +84,7 @@ variant: tiptap
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_O_level__QRcode.png">
 </div>
 <p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
+<br><strong><em>This link downloads a PDF document</em></strong>
 </p>
 </td>
 </tr>
