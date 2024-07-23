@@ -15,6 +15,9 @@ and social cohesion.</p>
 Mosaic." It was chosen to prompt our students to contemplate how each community
 intertwines to create Singapore's unique cultural tapestry, while also
 honoring each community's distinct identity within our nation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2024_2.jpg">
+</div>
 <p>To celebrate this theme, we organised our inaugural Regent Fashion Show.
 Each class enthusiastically designed and crafted modern ethnic wear using
 recycled materials. These stunning costumes were proudly displayed on our
@@ -31,6 +34,19 @@ in our diverse society.</p>
 <p>We look forward to continuing to foster understanding and appreciation
 for Singapore's cultural diversity in the years to come. Thank you to everyone
 who made this Racial Harmony Day at Regent a memorable and enriching experience!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2024_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2024_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2024_3.jpg">
+</div>
+<p></p>
 <hr>
 <h2><strong>International Friendship Day 2024</strong></h2>
 <p>Our Regenites were in high spirits as they were treated to several performances
