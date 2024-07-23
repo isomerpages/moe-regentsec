@@ -5,6 +5,15 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
+## ECG Resources for Parents
+
+| Topic | QR Code &amp; Links |
+| -------- | -------- |
+| **ECG Parent Guide**     | <img align="left" style="width: 20%;" src="/images/For Parents/ECG_Parent_Guide_QRcode.png"><br>[https://go.gov.sg/ecg-resources](https://go.gov.sg/ecg-resources)     |
+
+
+
+
 <h2>ECG Resources for Parents</h2>
 <p></p>
 <table style="minWidth: 50px">
