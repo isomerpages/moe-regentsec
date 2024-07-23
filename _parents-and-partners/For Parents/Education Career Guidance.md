@@ -43,6 +43,7 @@ variant: tiptap
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Journeying_with_Our_Children__Supporting_Their_Aspirations_QRcode.png">
 </div>
 <p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
+<br><strong><em>This link downloads a PDF document</em></strong>
 </p>
 </td>
 </tr>
@@ -171,7 +172,7 @@ variant: tiptap
 <br>1. Use the link: <a href="https://go.gov.sg/nzsjci" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nzsjci</a> or scan the
 QR code</p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
 </div>
 <p>2. Email: <a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>
 <br>3. Walk-in (if available)
