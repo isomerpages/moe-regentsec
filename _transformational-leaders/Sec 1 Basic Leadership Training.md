@@ -4,4 +4,45 @@ permalink: /transformational-leaders/sec-1-basic-leadership-training/
 description: ""
 variant: tiptap
 ---
-<h4>Secondary 1 Cohort Camp - An Adventure to Remember!</h4><p>This year’s Secondary 1 Cohort Camp was held at the MOE Changi Coast Outdoor Adventure Learning Centre (OALC). The 4-day/3-night camp was planned to give our students opportunities to apply the knowledge and skills learnt during their Outdoor Education (OE) in PE, and Character and Citizenship Education (CCE) lessons.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/S1OutdrAdvLrningCamp2023-1.png"></div><p>After learning basic map-reading and navigation skills during their PE lessons in school, our students had the opportunity to navigate their way along East Coast Park for a full-day mini-expedition. It was indeed heartening to see how our students encouraged one another as they hiked their way along the park connector. Although the students were tired by the time they returned to the campsite, they were in high spirits, knowing that they completed the 9-10km hike together as one!</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/S1OutdrAdvLrningCamp2023-2.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/S1OutdrAdvLrningCamp2023-3.png"></div><p>For many of our students, kayaking was an entirely new experience. Some of them were nervous about being out in the open sea for the very first time in their lives but they overcame their anxiety and steadily paddled around the bay under the supervision of the instructors and teachers. Through this activity, the students pushed the boundaries of their comfort zones and learnt that courage is not the absence of fear, but the ability to overcome one’s fears.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/S1OutdrAdvLrningCamp2023-4.png"></div><p>Tomatoes, chicken franks, fish fillets, pasta…what delectable dishes could our Regent Masterchefs cook up for their lunch and dinner, with these simple ingredients? Unlike the contestants on Masterchef, our students had to rely on the most rudimentary means of starting a fire and cooking in the outdoors! The best part of the activity was savoring every bite of their own cooking! Bon Appetite, everyone!</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/S1OutdrAdvLrningCamp2023-5.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/S1OutdrAdvLrningCamp2023-6.png"></div><p>With the resumption of height-based activities, our students were encouraged to step out of their comfort zones by going through the artificial caving system, completing the Tower Circuit, zooming down the Zipline, scaling up the rockwall and abseiling down the tower!</p><p>Our students went through the five stages group development (Forming, Storming, Norming, Performing and Adjourning) as they worked together during the teambuilding games and put their teamwork to the test through a series of challenges on the Low Elements.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/S1OutdrAdvLrningCamp2023-7.png"></div><p>Over the four days of the camp, our students faced their challenges, overcame them and stepped out of their comfort zones. It was most definitely an enriching experience filled with fun and adventure for our Secondary 1 students! While the camp is over, the learning continues as the students apply their newly acquired knowledge and skills to their daily lives.</p>
+<p>In the early morning hours of 2 July, students dressed in sportswear and
+hauling oversized backpacks could be seen streaming through the gates of
+the school and towards the Netball Court. It was the first day of the Secondary
+1 Cohort Camp. For many students, this was to be their first residential
+camp experience. With an air of eager anticipation, our campers soon boarded
+the buses and headed off to the MOE Changi Coast Outdoor Adventure Learning
+Centre—their home for the next four days!</p>
+<p>The 4-day 3-night camp was organised with the intent of giving our students
+the opportunity to apply the knowledge and skills learnt during their Outdoor
+Education lessons in PE. Students had been taught basic map-reading and
+navigation skills in school and they had the opportunity to put theory
+into practice as they navigated their way along East Coast Park for a full-day
+mini-expedition. Laden with personal gear and group essentials like groundsheets
+and meal rations, students rallied together, sharing the load and encouraging
+one another every step of the 10km hike. Although the students were tired
+by the time they returned to the campsite, there was a palpable sense of
+achievement and camaraderie, having conquered the trail together as one!</p>
+<p>Part of the camp experience also included having to cook their own meals.
+All students were given the opportunity to prepare either lunch or dinner
+during the Outdoor Cooking session. It was left to the creativity of the
+campers to concoct culinary delights with ingredients on hand! From creative
+macaroni dishes to delicious secret sauce recipes, each meal was a testament
+to their resourcefulness and teamwork.</p>
+<p>But it wasn’t all about ground-level challenges—students were also urged
+to reach new heights, both literally and metaphorically. Ziplining, rockwall-climbing,
+and abseiling gave students the opportunity to step out of their comfort
+zones, proving that courage is not the absence of fear but the triumph
+over it. Another highlight of camp was caving, where students navigated
+an Artificial Caving System in total darkness. Crawling and feeling their
+way through narrow passages, they discovered resilience and learnt to trust
+in themselves and their peers.</p>
+<p>As the camp drew to a close, it was clear that these four days had left
+an indelible mark on the Secondary 1 cohort. They had faced challenges
+head-on, discovered hidden strengths, and forged friendships through shared
+experiences. More than just an adventure, the Cohort Camp was a journey
+of personal growth and discovery—a foundation upon which they will build
+their future endeavours.</p>
+<p>While the tents may be packed away and the campfire stories may fade,
+the lessons learned amidst the trees and trails will undoubtedly continue
+to shape their outlook and actions. For our young Regenites, this camp
+was not just a milestone—it was a springboard into a year filled with newfound
+confidence and resilience.</p>
