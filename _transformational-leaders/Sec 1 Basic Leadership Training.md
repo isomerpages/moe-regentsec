@@ -4,7 +4,7 @@ permalink: /transformational-leaders/sec-1-basic-leadership-training/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Secondary One Cohort Camp 2024</strong></h3>
+<h2><strong>Secondary One Cohort Camp 2024</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Camp/Sec1Camp2024_1.jpg">
 </div>
