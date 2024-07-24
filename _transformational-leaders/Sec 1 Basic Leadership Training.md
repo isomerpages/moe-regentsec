@@ -4,6 +4,7 @@ permalink: /transformational-leaders/sec-1-basic-leadership-training/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Secondary One Cohort Camp 2024</strong></h4>
 <p>In the early morning hours of 2 July, students dressed in sportswear and
 hauling oversized backpacks could be seen streaming through the gates of
 the school and towards the Netball Court. It was the first day of the Secondary
