@@ -53,5 +53,4 @@ confidence and resilience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Camp/Sec1Camp2024_2.jpg">
 </div>
-<p>📹</p>
-<p></p>
+<p>📹 Click to watch <strong><a href="https://youtu.be/XO5ejEM99pQ" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Cohort Camp 2024</a></strong> video</p>
