@@ -4,7 +4,10 @@ permalink: /transformational-leaders/sec-1-basic-leadership-training/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Secondary One Cohort Camp 2024</strong></h4>
+<h3><strong>Secondary One Cohort Camp 2024</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Camp/Sec1Camp2024_1.jpg">
+</div>
 <p>In the early morning hours of 2 July, students dressed in sportswear and
 hauling oversized backpacks could be seen streaming through the gates of
 the school and towards the Netball Court. It was the first day of the Secondary
@@ -47,3 +50,8 @@ the lessons learned amidst the trees and trails will undoubtedly continue
 to shape their outlook and actions. For our young Regenites, this camp
 was not just a milestone—it was a springboard into a year filled with newfound
 confidence and resilience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Camp/Sec1Camp2024_2.jpg">
+</div>
+<p>📹</p>
+<p></p>
