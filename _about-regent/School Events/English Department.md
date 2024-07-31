@@ -95,10 +95,7 @@ our Regenites, and we look forward to the next!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Humanities%20Department/S2EnrichProgLKYMusical-2.jpg">
 </div>
-<hr>
-<h2><strong>Geography</strong></h2>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
