@@ -62,5 +62,10 @@ students would never forget.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S3ENALitEnrichProg2024_1.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S3ENALitEnrichProg2024_2.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
