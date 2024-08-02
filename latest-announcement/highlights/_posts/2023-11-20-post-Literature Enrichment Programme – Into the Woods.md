@@ -13,5 +13,6 @@ Featuring showtunes by theatre great Stephen Sondheim, the musical intertwines t
  
 The trip to the theatre was undoubtedly a rich learning experience for our students, imbuing them with a greater appreciation of the drama texts that they have been studying in the Literature classroom. A feast for the eyes and ears, the musical was, in all, a wonderful way to round off the school year!
 
-![](/images/Highlights%20Post/Sec2LitEnrichProg2023IntotheWoods-1.png)
-![](/images/Highlights%20Post/Sec2LitEnrichProg2023IntotheWoods-2.png)
+![](/images/School%20Events/English%20Department/Sec2LitEnrichProg2023IntotheWoods-1.png)
+
+![](/images/School%20Events/English%20Department/Sec2LitEnrichProg2023IntotheWoods-2.png)
