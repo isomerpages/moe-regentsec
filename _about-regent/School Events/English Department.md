@@ -39,7 +39,7 @@ as they saw how beloved characters were transformed from page to stage!
 We are certain that this magical experience will linger long in the memories
 of Regenites long after the curtain calls.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S2LitEnrichProg2024_Matilda.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S2LitEnrichProg2024_Matilda.jpg">
 </div>
 <hr>
 <h2><strong>Literature Enrichment Programme</strong></h2>
@@ -60,11 +60,11 @@ to the themes of difference and unconditional love as exemplified in our
 Literature set text, The Chrysalids. It was certainly an afternoon our
 students would never forget.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S3ENALitEnrichProg2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S3ENALitEnrichProg2024_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S3ENALitEnrichProg2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S3ENALitEnrichProg2024_2.jpg">
 </div>
 <hr>
 <h4>Past English Department Events</h4>
@@ -91,10 +91,10 @@ them beyond the pages of our History textbooks.</p>
 <p>The trip to the theatre was undoubtedly a rich learning experience for
 our Regenites, and we look forward to the next!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Humanities%20Department/S2EnrichProgLKYMusical-1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S2EnrichProgLKYMusical-1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Humanities%20Department/S2EnrichProgLKYMusical-2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S2EnrichProgLKYMusical-2.jpg">
 </div>
 </div>
 </details>
