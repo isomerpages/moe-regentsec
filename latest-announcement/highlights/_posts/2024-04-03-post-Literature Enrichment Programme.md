@@ -25,10 +25,10 @@ to the themes of difference and unconditional love as exemplified in our
 Literature set text, The Chrysalids. It was certainly an afternoon our
 students would never forget.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S3ENALitEnrichProg2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S3ENALitEnrichProg2024_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S3ENALitEnrichProg2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S3ENALitEnrichProg2024_2.jpg">
 </div>
 <p></p>
