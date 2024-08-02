@@ -122,9 +122,13 @@ that they have been studying in the Literature classroom. A feast for the
 eyes and ears, the musical was, in all, a wonderful way to round off the
 school year!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/Sec2LitEnrichProg2023IntotheWoods-1.png">
+</div>
 <p></p>
-<p>![](/images/Highlights%20Post/Sec2LitEnrichProg2023IntotheWoods-1.png)</p>
-<p>![](/images/Highlights%20Post/Sec2LitEnrichProg2023IntotheWoods-2.png)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/Sec2LitEnrichProg2023IntotheWoods-2.png">
+</div>
 </div>
 </details>
 </div>
