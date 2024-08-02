@@ -40,6 +40,6 @@ as they saw how beloved characters were transformed from page to stage!
 We are certain that this magical experience will linger long in the memories
 of Regenites long after the curtain calls.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S2LitEnrichProg2024_Matilda.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S2LitEnrichProg2024_Matilda.jpg">
 </div>
 <p></p>
