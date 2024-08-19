@@ -801,15 +801,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Natarajan Pavithra</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>IT Desktop Engineer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamad Sufian Bin Abd Rahman</p>
 </td>
 </tr>
