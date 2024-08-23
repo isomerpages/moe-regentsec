@@ -43,7 +43,7 @@ variant: tiptap
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/Journeying_with_Our_Children__Supporting_Their_Aspirations_QRcode.png">
 </div>
 <p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
-<br><strong><em>This link downloads a PDF document</em></strong>
+<br><em>This link downloads a PDF document</em>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_N_level__QRcode.png">
 </div>
 <p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
-<br><strong><em>This link downloads a PDF document</em></strong>
+<br><em>This link downloads a PDF document</em>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/For Parents/What_s_Next__After_O_level__QRcode.png">
 </div>
 <p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
-<br><strong><em>This link downloads a PDF document</em></strong>
+<br><em>This link downloads a PDF document</em>
 </p>
 </td>
 </tr>
@@ -176,6 +176,4 @@ QR code</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
 </div>
-<p>2. Email: <a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>
-<br>3. Walk-in (if available)
-<br>4. Refer by Form Teachers</p>
+<p>2. Refer by student's Form Teachers</p>
