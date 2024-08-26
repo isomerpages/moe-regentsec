@@ -806,6 +806,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>IT Desktop Engineer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Ruzaiman Bin Ridzuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>STEM Instructor - Workshop</strong>
 </p>
 </td>
