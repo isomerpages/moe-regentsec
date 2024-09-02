@@ -32,6 +32,9 @@ Asia's oldest art forms. The students were captivated by the lively storytelling
 and vibrant visuals of the show. Some students even had the chance to try
 their hand at manipulating the shadow puppets, gaining hands-on experience
 with this intricate art form.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Mother Tongue Department/MalayCulturalExposure2024_1.jpg">
+</div>
 <p>In addition to the Wayang Kulit performance, students participated in
 the Indonesian Cultural Showcase, where they explored the cultural significance
 of traditional martial arts and dance. This enriching experience provided
@@ -43,3 +46,7 @@ neighbors.</p>
 that foster cultural awareness and appreciation. These events are invaluable
 in broadening students' horizons and enhancing their understanding of diverse
 cultural traditions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Mother Tongue Department/MalayCulturalExposure2024_2.jpg">
+</div>
+<p></p>
