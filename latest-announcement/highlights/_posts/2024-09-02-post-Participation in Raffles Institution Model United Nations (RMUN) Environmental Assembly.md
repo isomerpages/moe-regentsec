@@ -16,6 +16,9 @@ plastic pollution, offering our students—Goh Bing Yang, Lim Ying Xuan Andrea,
 Magpayo Edrin Jae Quias, and Matthew Loke Jia Cheng from 4-Gratitude—an
 invaluable opportunity to engage in inter-school discussions and advocate
 for environmental sustainability.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_RMUN_EnviroAsm_1.jpg">
+</div>
 <p>The days leading up to RMUN were both challenging and exciting. Our dedicated
 delegates worked tirelessly to craft position papers that accurately reflected
 the views of their assigned countries, while also refining their opening
@@ -27,6 +30,9 @@ integrate them into ongoing discussions highlighted their resilience and
 strategic thinking. By the end of RMUN, our delegates had successfully
 crafted a draft resolution and garnered support from other schools, showcasing
 their persuasive skills and collaborative spirit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_RMUN_EnviroAsm_2.jpg">
+</div>
 <p>Beyond these immediate achievements, the RMUN experience was truly transformative
 for our students. It allowed them to forge meaningful connections with
 peers from other schools, step out of their comfort zones, and enhance
