@@ -5,6 +5,77 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>UG Cadets’ Involvement in SG NDP</strong></h2>
+<p>Our Regenites dazzled at this year’s National Day Parade, with Ng Han
+Siang Lucas (2-Pride), Teo Chun Kai Bosco (3-Determination), and Joel Chong
+En Wei (3-Empathy) from the Boys’ Brigade (BB) as well as Red Cross Youth
+(RCY) cadets Nur Faaiqah Binte Junaidi (3-Determination) and Wendy Heng
+Wan Xin (3-Integrity) marching with their Uniformed Group contingents in
+the NDP 2024 Parade and Ceremony Segment.</p>
+<p>Months of intense training culminated in a display of exceptional skill
+and teamwork. From perfecting their foot drills to networking with fellow
+parade participants and meeting dignitaries at the National Education (NE)
+Show, our cadets were at the heart of the action! As BB boy Bosco, a two-time
+parade participant, shared: ‘Meeting new friends and people from different
+contingents was an incredible experience! I’m glad I chose to step up and
+seize the opportunity to represent my school and CCA.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/UGcadetsNDP2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/UGcadetsNDP2024_3.jpg">
+</div>
+<p>For RCY cadet Wendy, the parade was a testament to the values of discipline
+and commitment. ‘Sacrificing so many Saturdays to train for the parade
+was no mean feat, but it was worth it.’ Faaiqah echoed the sentiment of
+hard work and dedication. ‘I’ve learnt that hard work and consistent effort
+are crucial. Without these, the parade wouldn’t have come together as smoothly.’</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/UGcadetsNDP2024_5.jpg">
+</div>
+<p>Kudos to all our cadets for their outstanding performance and for making
+National Day 2024 a memorable celebration of perseverance and unity!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/UGcadetsNDP2024_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/UGcadetsNDP2024_2.jpg">
+</div>
+<hr>
+<h2><strong>Regent Drama Club Shines at Limbang National Day Carnival 2024</strong></h2>
+<p>National Day celebrations are more than just a date on the calendar; they
+are a powerful reminder of our nation's journey, identity, and aspirations.
+Participating in these events provides a unique opportunity to express
+patriotism, connect with fellow citizens, and reflect on our collective
+achievements. This year, the Regent Drama Club proudly took part in the
+Limbang National Day Carnival 2024 on August 3, showcasing their talents
+and school spirit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/LimbangND2024ELDrama_2.jpg">
+</div>
+<p>The carnival was a vibrant celebration that brought the community together,
+filled with carnival rides, engaging booth games, and dynamic performances.
+Our Drama Club stole the show with a captivating short play that beautifully
+explored the essence of the Singapore Spirit. Their performance left the
+audience both entertained and inspired, drawing enthusiastic applause and
+cheers. Parents, teachers, and fellow students watched with pride as our
+young performers brought the story to life, their energy and creativity
+lighting up the stage. The strong chemistry among the students, combined
+with their teamwork and camaraderie, added an extra layer of charm to the
+performance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/LimbangND2024ELDrama_1.jpg">
+</div>
+<p>The day was truly unforgettable for our Drama Club members, providing
+them with a meaningful way to honour National Day. The experience not only
+allowed them to celebrate but also deepened their understanding of the
+occasion's significance, reinforcing their sense of national pride. We
+commend our Drama Club for their outstanding performance and look forward
+to their continued success in future events!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/LimbangND2024ELDrama_3.jpg">
+</div>
+<hr>
 <h2><strong>Girls' Brigade Day 2024</strong></h2>
 <p>Every third Monday of July marks a special occasion at Regent Secondary
 School as students and staff gather to commemorate Girls’ Brigade (GB)
