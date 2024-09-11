@@ -20,6 +20,15 @@ teachers. The room buzzed with excitement as students presented handmade
 gifts and executed the activities they had planned for their teachers.
 This heartfelt appreciation set a positive tone for the day's subsequent
 events.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/TeachersDay2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/TeachersDay2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/TeachersDay2024_3.jpg">
+</div>
 <p>Following the classroom celebrations, the spotlight shifted to a spectacular
 concert themed 'Lights, Camera, Teach!' The concert was the highlight of
 the day, offering a stage for students to showcase their talents and celebrate
@@ -42,6 +51,12 @@ creative skits, or thoughtful games, every contribution added to the day's
 vibrant atmosphere. The collective effort highlighted the students' appreciation
 for their teachers and underscored the importance of recognizing the often-unsung
 heroes of education.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/TeachersDay2024_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/TeachersDay2024_5.jpg">
+</div>
 <p>This year's Teachers' Day celebration was a memorable occasion filled
 with joy, creativity, and genuine appreciation. From the classroom tributes
 to the concert performances and engaging games, the event successfully
