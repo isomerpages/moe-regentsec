@@ -23,9 +23,9 @@ sections:
       url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
   - infopic:
       title: Echoes of Regent
-      subtitle: "2024"
+      subtitle: School Publication
       id: infopic
-      description: Echoes of Regent eNewsletter
+      description: eNewsletter
       button: Click here
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent.png
