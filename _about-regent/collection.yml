@@ -2,6 +2,7 @@ collections:
   about-regent:
     output: true
     order:
+      - School Calendar.md
       - Direct School Admission for Secondary One in 2025 for Regent Secondary
         School.md
       - Vision, Mission & Values/.keep
