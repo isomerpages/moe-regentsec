@@ -6,7 +6,8 @@ description: ""
 ---
 <p>📖 View <strong><a href="https://www.scribd.com/document/774948823/Echoes-of-Regent-2024" rel="noopener nofollow" target="_blank">Echoes of Regent 2024</a></strong>
 </p>
-<hr>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Past School Publications</strong>
@@ -21,4 +22,5 @@ description: ""
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
