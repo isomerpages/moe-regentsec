@@ -6,18 +6,14 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h2>ECG Resources for Parents</h2>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Topic</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>QR Code &amp; Links</p>
 </th>
 </tr>
 <tr>
@@ -29,9 +25,6 @@ variant: tiptap
 </div>
 <p><a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -45,9 +38,6 @@ variant: tiptap
 <br><em>This link downloads a PDF document</em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,9 +48,6 @@ variant: tiptap
 </div>
 <p><a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -74,9 +61,6 @@ variant: tiptap
 <br><em>This link downloads a PDF document</em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -89,9 +73,6 @@ variant: tiptap
 <br><em>This link downloads a PDF document</em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -102,9 +83,6 @@ variant: tiptap
 </div>
 <p><a href="https://go.gov.sg/postsecondary" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecondary</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -117,9 +95,6 @@ variant: tiptap
 <p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,10 +106,6 @@ variant: tiptap
 <p><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -145,9 +116,6 @@ variant: tiptap
 </div>
 <p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -161,9 +129,6 @@ variant: tiptap
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -174,9 +139,6 @@ variant: tiptap
 </div>
 <p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
