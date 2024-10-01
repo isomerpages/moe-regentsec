@@ -2,6 +2,8 @@ collections:
   about-regent:
     output: true
     order:
+      - Direct School Admission for Secondary One in 2025 for Regent Secondary
+        School.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Rules.md
