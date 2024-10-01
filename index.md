@@ -21,6 +21,15 @@ sections:
       description: Regent virtual tour
       button: Click Here
       url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
+  - infopic:
+      title: Echoes of Regent
+      subtitle: "2024"
+      id: infopic
+      description: Echoes of Regent eNewsletter
+      button: Click here
+      url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
+      image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent.png
+      alt: Image alt text
   - infobar:
       title: Direct School Admission for Secondary One in 2025
       subtitle: HIGHLIGHTS
