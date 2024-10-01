@@ -2,18 +2,15 @@ collections:
   about-regent:
     output: true
     order:
-      - School Calendar.md
-      - Direct School Admission for Secondary One in 2025 for Regent Secondary
-        School.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Rules.md
       - Vision, Mission & Values/School Song.md
       - School Advisory Committee.md
       - School Management Committee & All Staff.md
+      - School Publication/.keep
       - School Publication/School Publication 2024.md
       - School Publication/School Publication 2023.md
-      - School Publication/.keep
       - School Events/.keep
       - School Events/Accolades.md
       - School Events/Co Curricular Activities.md
@@ -32,3 +29,6 @@ collections:
       - School Events/Physical Education Department.md
       - School Events/Science Department.md
       - School Events/Values In Action.md
+      - Direct School Admission for Secondary One in 2025 for Regent Secondary
+        School.md
+      - School Calendar.md
