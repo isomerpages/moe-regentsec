@@ -1,9 +1,10 @@
 ---
-title: Direct School Admission for Secondary One in 2025 for Regent Secondary School
-permalink: /direct-school-admission-dsa-2025/
+title: Direct School Admission
+permalink: /direct-school-admission/
 description: ""
 variant: tiptap
 ---
+<h3><strong>Direct School Admission for Secondary One in 2025 for Regent Secondary School</strong></h3>
 <p>We cordially invite eligible students in one of the following areas to
 apply:</p>
 <ul data-tight="true" class="tight">
@@ -21,7 +22,7 @@ apply:</p>
 Corps (NPCC) and Red Cross Youth)</p>
 </li>
 </ul>
-<h4>Students with these qualities should apply:</h4>
+<p>Students with these qualities should apply:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

@@ -172,7 +172,7 @@ variant: tiptap
 <h4>How to Make Appointment?</h4>
 <p><strong>Mr Peter Phoa, ECG Counsellor</strong>
 <br>1. Use the link: <a href="https://go.gov.sg/nzsjci" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nzsjci</a> or scan the
-QR code</p>
+QR code below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
 </div>
