@@ -16,6 +16,12 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
   - infobar:
+      title: Welcome to Regent e-Open House
+      id: infobar
+      description: Regent virtual tour
+      button: Click Here
+      url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
+  - infobar:
       title: Direct School Admission for Secondary One in 2025
       subtitle: HIGHLIGHTS
       id: infobar
