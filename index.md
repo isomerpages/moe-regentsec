@@ -37,7 +37,4 @@ sections:
       description: DSA-Sec
       button: Read More
       url: /direct-school-admission/
-  - resources:
-      subtitle: Latest Announcement
-      button: More
 ---
