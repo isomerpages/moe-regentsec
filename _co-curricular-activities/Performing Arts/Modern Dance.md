@@ -54,6 +54,15 @@ not talent, but sheer determination and passion, that shines on stage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Modern%20Dance%20Fun.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-7.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-1.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -71,17 +80,8 @@ not talent, but sheer determination and passion, that shines on stage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-6.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-9.jpg">
-</div>
 <hr>
 <h4>Teachers’ Day Performance 2021</h4><a class="isomer-image-wrapper" href="https://youtu.be/TMqu2Y-x_jU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/Teachers'%20Day%20-%20Modern%20Dance_YT.png"></a>
-<p>📹 Click to watch <strong><a href="https://youtu.be/TMqu2Y-x_jU" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - Teachers' Day</a></strong>
+<p>📹 Watch <strong><a href="https://youtu.be/TMqu2Y-x_jU" rel="noopener noreferrer nofollow" target="_blank">Modern Dance - Teachers' Day</a></strong>
 </p>
 <p></p>
