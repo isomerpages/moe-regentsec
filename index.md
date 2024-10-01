@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: DSA-Sec
       button: Read More
-      url: /direct-school-admission-dsa-2025/
+      url: /direct-school-admission/
   - resources:
       subtitle: Latest Announcement
       button: More
