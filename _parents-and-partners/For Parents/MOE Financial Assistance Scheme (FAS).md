@@ -24,6 +24,24 @@ and require financial assistance in Year 2025.</p>
 need to apply for the MOE FAS as it will be auto-granted.</p>
 <p>Please refer to the attached pamphlets for more information on the eligibility
 criteria and provisions under the MOE FAS.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MOE_FAS_pamphlet___EL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS pamphlet (English)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MOE_FAS_pamphet___CL.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (Chinese)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MOE_FAS_pamphlet___ML.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (Malay)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MOE_FAS_pamphlet___TL.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (Tamil)</a>
+</p>
+</li>
+</ul>
 <p><strong><u>Mode of Application</u></strong>
 </p>
 <p><strong>Electronic Submission via eFAS</strong>&nbsp;(<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)</p>
