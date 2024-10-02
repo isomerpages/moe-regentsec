@@ -30,20 +30,4 @@ sections:
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
-  - infopic:
-      title: Graduation Day
-      subtitle: Highlights
-      id: infopic
-      description: Class of 2024
-      button: Click here
-      url: /graduation-assembly-2024
-      image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
-      alt: Image alt text
-  - infobar:
-      title: Direct School Admission for Secondary One in 2025
-      subtitle: HIGHLIGHTS
-      id: infobar
-      description: DSA-Sec
-      button: Read More
-      url: /direct-school-admission/
 ---
