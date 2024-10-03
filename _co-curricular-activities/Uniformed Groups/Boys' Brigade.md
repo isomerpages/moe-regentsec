@@ -11,7 +11,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Ms Sng Seok Hwa Sally - IC
 <br>Mr Soo Ley Gio Sebastian
-<br>Ms Faith Ong Qi Rui</p>
+<br>Ms Faith Ong Qi Rui
+<br>Mr Chong Jie An</p>
 <h4>Vision</h4>
 <p>Every Boy a Mentor to others</p>
 <p>The Boys’ Brigade Object seeks to :</p>
@@ -40,7 +41,7 @@ to be remembered by posterity, I should like it to be as the man who taught
 people to spell Boy with a capital B.”</p>
 <p>Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy
 is spelt with a capital “B”.</p>
-<h4>Highlights and Achievements in 2023</h4>
+<h4>Highlights and Achievements in 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -68,7 +69,7 @@ is spelt with a capital “B”.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cycling @ East Coast Park 18th Feb</p>
+<p>Cycling @ East Coast Park 24th Feb</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +77,7 @@ is spelt with a capital “B”.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Week Competition – Gold Honour Roll and Most Improvement Award</p>
+<p>BB Week Competition – Silver Honour Roll</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +85,8 @@ is spelt with a capital “B”.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RTC &amp; LDC Day Camps 25th Feb &amp; 4th Mar</p>
+<p>Recruits &amp; Leadership Development Overnight Camps from 1st to 2nd
+March</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +94,7 @@ is spelt with a capital “B”.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Blaze Competition – Silver Honour Roll</p>
+<p>BB Blaze Competition – Gold Honour Roll and Champion for the Open Category</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +110,7 @@ is spelt with a capital “B”.</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Fun Camp 26th to 28th May with Wild Wild Wet</p>
+<p>BParents' Day Collaboration with PSG and other CCA - 4th May</p>
 </td>
 </tr>
 <tr>
