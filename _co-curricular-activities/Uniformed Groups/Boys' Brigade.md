@@ -110,15 +110,15 @@ March</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BParents' Day Collaboration with PSG and other CCA - 4th May</p>
+<p>Parents' Day Collaboration with PSG and other CCA - 4th May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Parade @ Padang – 3 Boys represent BBHQ Contingent</p>
+<p>BB Fun Camp at BB/GB Campsite - 24 to 26th May</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ March</p>
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Cares @ St Luke’s Eldercare Keat Hong on 18th Aug and 5th Sept</p>
+<p>National Day Parade @Padang - 3 Boys selected from 91st Coy</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +134,7 @@ March</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Character Quest on 26th August</p>
+<p>BB Cares @ St Luke’s Eldercare Keat Hong on 23rd Aug and 3rd Sept8</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ March</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Cycling cum Expedition on 27th Oct</p>
+<p>BB Character Quest on 31st Aug - Bronze Honour Roll</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ March</p>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Night Expedition on 3rd Nov</p>
+<p>Kayaking Star 1 on 19th &amp; 20th Oct</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +158,15 @@ March</p>
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Awards and Promotion Ceremony on 11th Nov</p>
+<p>BB Expedition on 25th Oct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Awards and Promotion Ceremony on 16th Nov</p>
 </td>
 </tr>
 </tbody>
