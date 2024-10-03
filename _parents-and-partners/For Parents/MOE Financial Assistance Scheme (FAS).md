@@ -5,4 +5,45 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<p>The MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.</p><p>You may also check your eligibility for the MOE FAS via the eligibility calculator available on the MOE Website (<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>) before submitting your application.</p><h4><strong>Application Procedure</strong></h4><p><strong>[Option 1] Electronic Submission via eFAS</strong>&nbsp;(<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)</p><p><strong>[Option 2] Hardcopy Form Submission</strong></p><p>The hardcopy of the MOE FAS application form is to be submitted directly to school, together with copies of the supporting documents as indicated in the attached MOE FAS application form</p><p>Click to download <a href="/files/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for MOE FAS</a></p><p>For enquiries regarding the scheme, please contact the General Office at 67653828.</p>
+<p>The MOE FAS is to help financially needy Singaporean students in Government
+and Government-aided schools to meet basic schooling expenses.</p>
+<p>Applications for the Ministry of Education’s Financial Assistance Scheme
+(MOE FAS) for 2025 are currently open. Singapore citizens in financial
+need can receive assistance on school fees and other expenses through the
+MOE FAS.</p>
+<p><strong><u>Eligibility Criteria</u></strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student must be a Singapore Citizen and
+continuing his/her study with our school in Year 2025.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross Household Income (GHI) does not
+exceed S$3,000 per month or Household Per Capita Income (PCI) does not
+exceed S$750 per month.</p>
+<p>Current MOE FAS recipients in Year 2024 must re-apply if they are eligible
+and require financial assistance in Year 2025.</p>
+<p>If your child/ward is a ComCare recipient covering Year 2025, you do not
+need to apply for the MOE FAS as it will be auto-granted.</p>
+<p>Please refer to the attached pamphlets for more information on the eligibility
+criteria and provisions under the MOE FAS.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MOE_FAS_pamphlet___EL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS pamphlet (English)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MOE_FAS_pamphet___CL.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (Chinese)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MOE_FAS_pamphlet___ML.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (Malay)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MOE_FAS_pamphlet___TL.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet (Tamil)</a>
+</p>
+</li>
+</ul>
+<p><strong><u>Mode of Application</u></strong>
+</p>
+<p><strong>Electronic Submission via eFAS</strong>&nbsp;(<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)</p>
+<p>For enquiries regarding the scheme, please contact the General Office
+at 67653828.</p>

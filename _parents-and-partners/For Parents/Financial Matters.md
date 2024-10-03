@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3><strong>School Fees</strong></h3>
+<h4>School Fees</h4>
 <p>You can apply for your child’s&nbsp;school and miscellaneous fees&nbsp;to
 be paid through GIRO. The same GIRO arrangement will also be extended to
 cover their payment of enrichment programmes, school charges and deduction
