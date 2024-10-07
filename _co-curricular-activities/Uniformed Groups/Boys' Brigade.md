@@ -172,10 +172,7 @@ March</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="709" width="1020" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="562" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <hr>
 <h4>Past Activities</h4>
