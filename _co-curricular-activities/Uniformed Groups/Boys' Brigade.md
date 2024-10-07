@@ -134,7 +134,7 @@ March</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Cares @ St Luke’s Eldercare Keat Hong on 23rd Aug and 3rd Sept8</p>
+<p>BB Cares @ St Luke’s Eldercare Keat Hong on 23rd Aug and 3rd Sep</p>
 </td>
 </tr>
 <tr>
