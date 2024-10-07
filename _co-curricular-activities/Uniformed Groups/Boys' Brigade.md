@@ -31,7 +31,7 @@ variant: tiptap
 <h4>Mission</h4>
 <p>To Nurture Boys to Lead and Serve</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Boys%20Brigade%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB_Celebrating_Teachers_Day_2024.jpg">
 </div>
 <p>The Boys’ Brigade is the world’s first uniformed organisation for youth.
 The impact of The Boys’ Brigade led to the establishment of other uniformed
