@@ -11,7 +11,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Ms Sng Seok Hwa Sally - IC
 <br>Mr Soo Ley Gio Sebastian
-<br>Ms Faith Ong Qi Rui</p>
+<br>Ms Faith Ong Qi Rui
+<br>Mr Chong Jie An</p>
 <h4>Vision</h4>
 <p>Every Boy a Mentor to others</p>
 <p>The Boys’ Brigade Object seeks to :</p>
@@ -30,7 +31,7 @@ variant: tiptap
 <h4>Mission</h4>
 <p>To Nurture Boys to Lead and Serve</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Boys%20Brigade%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB_Celebrating_Teachers_Day_2024.jpg">
 </div>
 <p>The Boys’ Brigade is the world’s first uniformed organisation for youth.
 The impact of The Boys’ Brigade led to the establishment of other uniformed
@@ -40,7 +41,7 @@ to be remembered by posterity, I should like it to be as the man who taught
 people to spell Boy with a capital B.”</p>
 <p>Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy
 is spelt with a capital “B”.</p>
-<h4>Highlights and Achievements in 2023</h4>
+<h4>Highlights and Achievements in 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -68,7 +69,7 @@ is spelt with a capital “B”.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cycling @ East Coast Park 18th Feb</p>
+<p>Cycling @ East Coast Park 24th Feb</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +77,7 @@ is spelt with a capital “B”.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Week Competition – Gold Honour Roll and Most Improvement Award</p>
+<p>BB Week Competition – Silver Honour Roll</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +85,8 @@ is spelt with a capital “B”.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RTC &amp; LDC Day Camps 25th Feb &amp; 4th Mar</p>
+<p>Recruits &amp; Leadership Development Overnight Camps from 1st to 2nd
+March</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +94,7 @@ is spelt with a capital “B”.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Blaze Competition – Silver Honour Roll</p>
+<p>BB Blaze Competition – Gold Honour Roll and Champion for the Open Category</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +110,7 @@ is spelt with a capital “B”.</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Fun Camp 26th to 28th May with Wild Wild Wet</p>
+<p>Parents' Day Collaboration with PSG and other CCA - 4th May</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +118,7 @@ is spelt with a capital “B”.</p>
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Parade @ Padang – 3 Boys represent BBHQ Contingent</p>
+<p>BB Fun Camp at BB/GB Campsite - 24 to 26th May</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +126,7 @@ is spelt with a capital “B”.</p>
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Cares @ St Luke’s Eldercare Keat Hong on 18th Aug and 5th Sept</p>
+<p>National Day Parade @Padang - 3 Boys selected from 91st Coy</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +134,7 @@ is spelt with a capital “B”.</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Character Quest on 26th August</p>
+<p>BB Cares @ St Luke’s Eldercare Keat Hong on 23rd Aug and 3rd Sep</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +142,7 @@ is spelt with a capital “B”.</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Cycling cum Expedition on 27th Oct</p>
+<p>BB Character Quest on 31st Aug - Bronze Honour Roll</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +150,7 @@ is spelt with a capital “B”.</p>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Night Expedition on 3rd Nov</p>
+<p>Kayaking Star 1 on 19th &amp; 20th Oct</p>
 </td>
 </tr>
 <tr>
@@ -156,11 +158,116 @@ is spelt with a capital “B”.</p>
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Awards and Promotion Ceremony on 11th Nov</p>
+<p>BB Expedition on 25th Oct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Awards and Promotion Ceremony on 16th Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="296" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<hr>
+<h4>Past Activities</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2021 - 2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg">
+</div>
+<p><em>BB 91st Company</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-19.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-20.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-21.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>National Day Parade 2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>📹 <strong>BB at National Day Parade 2022</strong>
+<br>Click <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+watch the video.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Activities in 2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-1.jpeg">
 </div>
@@ -309,94 +416,6 @@ is spelt with a capital “B”.</p>
 </div>
 <p><em>Parent's write-up for BB</em>
 </p>
-<p></p>
-<hr>
-<h4>Past Activities</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2021 - 2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg">
-</div>
-<p><em>BB 91st Company</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-12.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-15.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-18.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-19.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-20.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-21.jpg">
-</div>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>National Day Parade 2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>📹 <strong>BB at National Day Parade 2022</strong>
-<br>Click <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-watch the video.</p>
 </div>
 </details>
 </div>
