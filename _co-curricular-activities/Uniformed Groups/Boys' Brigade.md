@@ -178,7 +178,7 @@ March</p>
 <h4>Past Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2021 - 2022</strong>
+<summary><strong>Activities in 2021 - 2022</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -187,70 +187,9 @@ March</p>
 </div>
 <p><em>BB 91st Company</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-1.jpg">
+<div class="iframe-wrapper">
+<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvGz7VjFPaLkIv0nNTPMPVJjWiGE8thSYNlPxqolwSUkBqc6xnUcSvssKhmK4rKzPQ9-IORXvMbpjE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-12.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-15.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-18.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-19.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-20.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-21.jpg">
-</div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -258,9 +197,8 @@ March</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>📹 <strong>BB at National Day Parade 2022</strong>
-<br>Click <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener nofollow" target="_blank">BB at National Day Parade 2022</a></strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
