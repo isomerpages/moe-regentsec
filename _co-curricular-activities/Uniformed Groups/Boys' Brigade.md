@@ -171,14 +171,15 @@ March</p>
 </tr>
 </tbody>
 </table>
+<h4>Photos</h4>
 <div class="iframe-wrapper">
-<iframe height="296" width="400" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <hr>
 <h4>Past Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2021 - 2022</strong>
+<summary><strong>Activities in 2021 - 2022</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -187,70 +188,9 @@ March</p>
 </div>
 <p><em>BB 91st Company</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-1.jpg">
+<div class="iframe-wrapper">
+<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvGz7VjFPaLkIv0nNTPMPVJjWiGE8thSYNlPxqolwSUkBqc6xnUcSvssKhmK4rKzPQ9-IORXvMbpjE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-12.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-15.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-18.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-19.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-20.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB-21.jpg">
-</div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -258,9 +198,8 @@ March</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>📹 <strong>BB at National Day Parade 2022</strong>
-<br>Click <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-watch the video.</p>
+<p>📹 Watch <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener nofollow" target="_blank">BB at National Day Parade 2022</a></strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -268,154 +207,11 @@ watch the video.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-4.jpeg">
+<div class="iframe-wrapper">
+<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN1wwfqC8Pa05pXlitoweBfAzQpFc_1FJiU3PDUjFOZrEeQyvdP0VuVo1h0sXCErLLPM4oMGy5_-XA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-5.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-6.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-7.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-8.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-9.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-10.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-11.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-12.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-13.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-14.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-15.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-16.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-17.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-18.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-19.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-20.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-21.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-22.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-23.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-24.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-25.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-26.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-27.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-28.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-29.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-30.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-31.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-32.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-33.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-34.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-35.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-36.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-37.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-38.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-39.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-40.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-41.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-42.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-43.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB2023-44.jpeg">
-</div>
-<p><em>Parent's write-up for BB</em>
-</p>
 </div>
 </details>
 </div>
