@@ -35,7 +35,7 @@ sections:
       subtitle: School Publication
       id: infopic
       description: 2024 E-Newsletter
-      button: Click here
+      button: Click here to view newsletter
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
