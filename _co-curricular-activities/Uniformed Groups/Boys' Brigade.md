@@ -179,18 +179,14 @@ March</p>
 <h4>Past Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Activities in 2021 - 2022</strong>
+<summary><strong>Activities in 2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg">
-</div>
-<p><em>BB 91st Company</em>
-</p>
 <div class="iframe-wrapper">
-<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvGz7VjFPaLkIv0nNTPMPVJjWiGE8thSYNlPxqolwSUkBqc6xnUcSvssKhmK4rKzPQ9-IORXvMbpjE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN1wwfqC8Pa05pXlitoweBfAzQpFc_1FJiU3PDUjFOZrEeQyvdP0VuVo1h0sXCErLLPM4oMGy5_-XA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -203,14 +199,18 @@ March</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Activities in 2023</strong>
+<summary><strong>Activities in 2021 - 2022</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg">
+</div>
+<p><em>BB 91st Company</em>
+</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN1wwfqC8Pa05pXlitoweBfAzQpFc_1FJiU3PDUjFOZrEeQyvdP0VuVo1h0sXCErLLPM4oMGy5_-XA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvGz7VjFPaLkIv0nNTPMPVJjWiGE8thSYNlPxqolwSUkBqc6xnUcSvssKhmK4rKzPQ9-IORXvMbpjE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 <p></p>
 </div>
 </details>
