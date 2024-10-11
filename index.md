@@ -39,12 +39,4 @@ sections:
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
-  - infopic:
-      title: Graduation Assembly 2024
-      subtitle: Highlights
-      id: infopic
-      button: Click here
-      url: https://moe-regentsec-staging.netlify.app/graduation-assembly-2024/
-      image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
-      alt: Image alt text
 ---
