@@ -172,8 +172,98 @@ March</p>
 </tbody>
 </table>
 <h4>Photos</h4>
-<div class="iframe-wrapper">
-<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_19.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_20.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_21.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_22.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_23.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_26.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_27.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_28.jpg">
 </div>
 <hr>
 <h4>Past Activities</h4>
@@ -196,22 +286,6 @@ March</p>
 <p></p>
 <p>📹 Watch <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener nofollow" target="_blank">BB at National Day Parade 2022</a></strong>
 </p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Activities in 2021 - 2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB%2091st%20Company.jpg">
-</div>
-<p><em>BB 91st Company</em>
-</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvGz7VjFPaLkIv0nNTPMPVJjWiGE8thSYNlPxqolwSUkBqc6xnUcSvssKhmK4rKzPQ9-IORXvMbpjE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p></p>
 </div>
 </details>
 </div>
