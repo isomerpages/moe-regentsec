@@ -4,14 +4,13 @@ permalink: /parents-and-partners/for-parents/consent-for-photography-and-videos-
 description: ""
 variant: tiptap
 ---
-<p>Photographs or video images of pupils and their parents/guardians may
-be captured during school activities and events such as classrooms lessons,
-CCA, school camps, concerts and overseas trips.</p>
-<p>The school may use and publish such photographs and/or video recordings
-in school publications, website, banners,&nbsp;posters,&nbsp;social media
-channels and other communication channels.</p>
-<p>If parents/guardians are not comfortable with the school on the use of
-such materials featuring their child/ward in the public domain, please
-email to the school at&nbsp;<a href="mailto:regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a>. Where possible,
-the school will remove the photographs or video images of child/ward.</p>
-<p>Thank you.</p>
+<p>At Regent Secondary School, we are committed to providing students with
+engaging and meaningful learning opportunities. As part of these experiences,
+the school reserves the right to capture photographs and videos during
+various activities, including but not limited to classroom lessons, co-curricular
+activities (CCA), camps, enrichment programs, competitions, and overseas
+learning trips.</p>
+<p>The school holds all rights to reproduce these images and videos across
+multiple platforms, including print, digital media, and social channels.
+We want to assure parents and guardians that all representations of our
+students will be handled with respect and dignity at all times.</p>
