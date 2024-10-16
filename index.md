@@ -44,7 +44,7 @@ sections:
       subtitle: Highlights
       id: infopic
       button: Click here
-      url: /graduation-assembly-2024/
+      url: /graduation-ceremony-2024/
       image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
       alt: Image alt text
 ---
