@@ -63,8 +63,7 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 <p>18 to 22 November 2024</p>
 </td>
 <td rowspan="4" colspan="1">
-<p><em>0900 - 1500 hours</em>
-</p>
+<p>0900 - 1500 hours</p>
 </td>
 </tr>
 <tr>
