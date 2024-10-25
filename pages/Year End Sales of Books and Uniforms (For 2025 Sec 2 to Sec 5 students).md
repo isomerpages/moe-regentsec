@@ -50,7 +50,7 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SECONDARY 2, 3, 4 &amp; 5</strong>
+<p><strong>SECONDARY 2, 3 &amp; 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 <td rowspan="1" colspan="1">
 <p>18 to 22 November 2024</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>0900 - 1500 hours</p>
 </td>
 </tr>
@@ -74,6 +74,12 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>02 to 06 December 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ALL LEVELS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +104,7 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 </p>
 </li>
 <li>
-<p>Secondary 5 (S5) - <em>To be confirmed</em>
+<p><a href="/files/Regent_Secondary_2025_Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 (S5)</a>
 </p>
 </li>
 </ul>
