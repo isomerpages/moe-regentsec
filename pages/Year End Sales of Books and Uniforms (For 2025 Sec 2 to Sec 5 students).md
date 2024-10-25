@@ -35,71 +35,7 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 <p>3. For enquiries, please email to <a href="mailto:regent@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">regent@asencio.com.sg</a>
 </p>
 <p>4. Delivery Charges: $10 for books/ $6 for uniforms</p>
-<h4>Walk-in Purchase/Collection in School [Classrooms 1F3/1F4 &amp; 1G1/1G2]</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p><strong>DATES OF SALES IN SCHOOL</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SECONDARY 2, 3 &amp; 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>OPERATING HOURS</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 to 22 November 2024</p>
-</td>
-<td rowspan="7" colspan="1">
-<p>0900 - 1500 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 to 29 November 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>02 to 06 December 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SECONDARY 5</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23, 26 &amp; 27 December 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ALL LEVELS</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 to 27 December 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4>Walk-in Purchase/Collection in School <br>[Classrooms 1F3/1F4 &amp; 1G1/1G2]</h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
