@@ -15,12 +15,12 @@ description: ""
 <h4>Instructions from School Uniform &amp; Bookshop Vendor</h4>
 <p>1. To ensure that the correct editions of the books are purchased, parents
 are <strong>strongly encouraged</strong> to purchase them through the school
-bookshop via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">ASENCIO ONLINE PORTAL</a>.
+bookshop via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">Asencio online portal</a>.
 You are required to register an account before proceeding with your online
 purchase. Parents who order online before 17 December 2024 (Sec 2 to 4)
 / 21 December 2024 (Sec 1 &amp; 5) will be able to receive their textbooks before
 start of school. Online orders with delivery is encouraged.</p>
-<p>2. Online Ordering via <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">Homepage - Asencio Bookshop</a> available
+<p>2. Online Ordering via online portal available
 from 4 November 2024 to 17 December 2024. Refer to the following guides:</p>
 <ul data-tight="true" class="tight">
 <li>
