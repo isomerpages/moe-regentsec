@@ -62,7 +62,7 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 <td rowspan="1" colspan="1">
 <p>18 to 22 November 2024</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="7" colspan="1">
 <p>0900 - 1500 hours</p>
 </td>
 </tr>
@@ -74,6 +74,17 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>02 to 06 December 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SECONDARY 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23, 26 &amp; 27 December 2024</p>
 </td>
 </tr>
 <tr>
