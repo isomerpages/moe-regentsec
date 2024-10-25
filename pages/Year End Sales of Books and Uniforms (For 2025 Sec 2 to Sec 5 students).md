@@ -100,6 +100,52 @@ from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
 </tr>
 </tbody>
 </table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-hspo{background-color:#000000;font-size:medium;text-align:center;vertical-align:middle}
+.tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-hspo"><span style="font-weight:bold;color:#FFF">DATES OF SALES IN SCHOOL</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xwyw"><span style="font-weight:bold">SECONDARY 2, 3 &amp; 4</span></td>
+    <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">18 to 22 November 2024</td>
+    <td rowspan="8" class="tg-gfnm">0900 to 1500 hours</td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">25 to 29 November 2024</td>
+  </tr>
+	<tr>
+    <td class="tg-xwyw">02 to 06 December 2024</td>
+  </tr>
+	<tr>
+		<td class="tg-xwyw"><span style="font-weight:bold">SECONDARY 5</span></td>
+  </tr>
+	<tr>
+    <td class="tg-xwyw">23, 26 &amp; 27 December 2024</td>
+  </tr>
+	<tr>
+		<td class="tg-xwyw"><span style="font-weight:bold">ALL LEVELS</span></td>
+  </tr>
+	<tr>
+    <td class="tg-xwyw">26 &amp; 27 December 2024</td>
+  </tr>
+</tbody>
+</table>
+
 <h4>Booklist</h4>
 <ul data-tight="true" class="tight">
 <li>
