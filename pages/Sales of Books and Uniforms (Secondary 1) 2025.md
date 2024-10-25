@@ -21,7 +21,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 1\. To ensure that the correct editions of the books are purchased, parents are to purchase the above from Asencio. Parents who purchase online via [Asencio’s online portal](https://asenciobookshop.sg/) **before 21 December 2024** will be able to receive their textbooks before the start of school. Online orders with delivery is encouraged.
 
-2\. Online Ordering via online portal available till 21 December 2024.  Refer to the following guides:
+2\. Online ordering via online portal available till 21 December 2024.  Refer to the following guides:
 
 * [Uniforms](/files/uniforms%20online%20guide.pdf)
 * [Books](/files/textbooks%20online%20guide.pdf)
@@ -64,7 +64,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 </table>
 
 #### Booklist
-* [Booklist for Year 2025 Secondary 1] - *to be confirmed*
+* Booklist for Year 2025 Secondary 1 - *to be confirmed*
 
 #### Size Chart for Uniforms
 For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)
