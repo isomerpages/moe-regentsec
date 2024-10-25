@@ -54,11 +54,11 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
     <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
-    <td class="tg-xwyw">21 to 22 December 2024</td>
+		<td class="tg-xwyw"><i>Date to be confirmed</i></td>
     <td rowspan="4" class="tg-gfnm">0900 to 1500 hours</td>
   </tr>
   <tr>
-    <td class="tg-xwyw">26 to 29 December 2023</td>
+		<td class="tg-xwyw"><i>Date to be confirmed</i></td>
   </tr>
 </tbody>
 </table>
