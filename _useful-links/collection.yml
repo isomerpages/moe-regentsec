@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Books & Uniforms/.keep
-      - Books & Uniforms/Sales of Books and Uniforms (Secondary 1) 2024.md
       - Books & Uniforms/Year End Sales of Books and Uniforms (For 2024 Sec 2 to
         Sec 5 students).md
       - Timetable/.keep
@@ -11,7 +10,6 @@ collections:
       - SLS Student Services.md
       - Safety Updates/.keep
       - Safety Updates/School Traffic Control.md
-      - Consent For Photography And Videography Within Regent Secondary School
-        For School Purposes.md
+      - Consent For Photography And Videography.md
       - Quick Links (Staff).md
       - Quick Links (Students).md
