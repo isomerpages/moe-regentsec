@@ -1,6 +1,6 @@
 ---
-title: Sales of Books and Uniforms (Secondary 1) 2024
-permalink: /sales-of-books-and-uniforms-secondary-1-2024/
+title: Sales of Books and Uniforms (Secondary 1) 2025
+permalink: /sales-of-books-and-uniforms-secondary-1-2025/
 variant: markdown
 description: ""
 ---
@@ -15,13 +15,13 @@ Below is the authorised school uniform and bookshop vendor.
 #05-02 Kewalram Hillview  
 Singapore 669594  
 Tel: 6764 3102  
-Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
+Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 #### Instructions from School Uniform &amp; Bookshop Vendor
 
-1\. To ensure that the correct editions of the books are purchased, parents are to purchase the above from Asencio. Parents who purchase online via [Asencio’s weblink](https://asenciobookshop.sg/) **before 23 December 2023** will be able to receive their textbooks before the start of school. Online orders with delivery is encouraged.
+1\. To ensure that the correct editions of the books are purchased, parents are to purchase the above from Asencio. Parents who purchase online via [Asencio’s online portal](https://asenciobookshop.sg/) **before 21 December 2024** will be able to receive their textbooks before the start of school. Online orders with delivery is encouraged.
 
-2\. Online Ordering via [Homepage - Asencio Bookshop](https://asenciobookshop.sg/) available till 23 December 2023.  Refer to the following guides:
+2\. Online ordering via online portal available till 21 December 2024.  Refer to the following guides:
 
 * [Uniforms](/files/uniforms%20online%20guide.pdf)
 * [Books](/files/textbooks%20online%20guide.pdf)
@@ -54,17 +54,17 @@ Online Sales: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
     <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
-    <td class="tg-xwyw">21 to 22 December 2023</td>
-    <td rowspan="4" class="tg-gfnm">9 am to 3 pm</td>
+		<td class="tg-xwyw"><i>Date to be confirmed</i></td>
+    <td rowspan="4" class="tg-gfnm">0900 to 1500 hours</td>
   </tr>
   <tr>
-    <td class="tg-xwyw">26 to 29 December 2023</td>
+		<td class="tg-xwyw"><i>Date to be confirmed</i></td>
   </tr>
 </tbody>
 </table>
 
 #### Booklist
-* [Booklist for Year 2024 Secondary 1 students](/files/Booklist_2024___S1.pdf)
+* Booklist for Year 2025 Secondary 1 - *to be confirmed*
 
 #### Size Chart for Uniforms
 For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)

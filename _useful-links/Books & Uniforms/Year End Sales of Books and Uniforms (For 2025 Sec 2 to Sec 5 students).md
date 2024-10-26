@@ -3,6 +3,7 @@ title: Year End Sales of Books and Uniforms (For 2025 Sec 2 to Sec 5 students)
 permalink: /2025-yes-of-books-and-uniforms-s2-to-s5/
 variant: markdown
 description: ""
+third_nav_title: Books & Uniforms
 ---
 <h4>School Uniform &amp; Bookshop Vendor</h4>
 <p><strong>Asencio Pte Ltd</strong>
@@ -10,18 +11,18 @@ description: ""
 <br>#05-02 Kewalram Hillview
 <br>Singapore 669594
 <br>Tel: 6764 3102
-<br>Online Sales: <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">Homepage - Asencio Bookshop</a>
+<br>Online Portal: <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">Homepage - Asencio Bookshop</a>
 </p>
 <h4>Instructions from School Uniform &amp; Bookshop Vendor</h4>
 <p>1. To ensure that the correct editions of the books are purchased, parents
 are <strong>strongly encouraged</strong> to purchase them through the school
-bookshop via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">ASENCIO ONLINE PORTAL: asenciobookshop.sg</a>.
+bookshop via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">Asencio's online portal</a>.
 You are required to register an account before proceeding with your online
 purchase. Parents who order online before 17 December 2024 (Sec 2 to 4)
-/ 21 December 2024 (Sec 5) will be able to receive their textbooks before
+/ 21 December 2024 (Sec 1 &amp; 5) will be able to receive their textbooks before
 start of school. Online orders with delivery is encouraged.</p>
-<p>2. Online Ordering via <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">Homepage - Asencio Bookshop</a> available
-from 4 November 2024 to 13 December 2024. Refer to the following guides:</p>
+<p>2. Online ordering via online portal available
+from 4 November 2024 to 17 December 2024. Refer to the following guides:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/uniforms%20online%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniforms</a>
