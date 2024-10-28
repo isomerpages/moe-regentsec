@@ -52,5 +52,5 @@ sections:
       subtitle: Highlights
       id: infobar
       button: Click here
-      url: /latest-annoucement/highlights/cca-exchange-2024/
+      url: /latest-announcement/highlights/cca-exchange-day-2024/
 ---
