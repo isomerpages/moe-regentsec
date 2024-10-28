@@ -47,4 +47,10 @@ sections:
       url: /graduation-ceremony-2024/
       image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
       alt: Image alt text
+  - infobar:
+      title: CCA Exchange Day
+      subtitle: Highlights
+      id: infobar
+      button: Click here
+      url: /latest-annoucement/highlights/cca-exchange-2024/
 ---
