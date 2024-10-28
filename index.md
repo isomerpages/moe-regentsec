@@ -48,7 +48,7 @@ sections:
       image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
       alt: Image alt text
   - infobar:
-      title: CCA Exchange Day
+      title: CCA Exchange Day 2024
       subtitle: Highlights
       id: infobar
       button: Click here
