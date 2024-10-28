@@ -23,7 +23,16 @@ only enjoyed their time but also expressed enthusiasm for next year’s exchange
 This initiative not only nurtures camaraderie among different CCAs but
 also enriches the students’ skills and experiences, laying the foundation
 for a vibrant and interconnected school culture.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_2.jpg">
+</div>
 <p></p>
+<p></p>
+<p></p>
+<hr>
 <h2><strong>UG Cadets’ Involvement in SG NDP</strong></h2>
 <p>Our Regenites dazzled at this year’s National Day Parade, with Ng Han
 Siang Lucas (2-Pride), Teo Chun Kai Bosco (3-Determination), and Joel Chong
@@ -547,4 +556,5 @@ Forth to Glory!</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
