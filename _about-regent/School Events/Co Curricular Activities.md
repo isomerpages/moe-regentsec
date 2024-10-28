@@ -5,6 +5,25 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>CCA Exchange Day 2024</strong></h2>
+<p>On 11 September 2024, our 17 Co-Curricular Activities (CCAs) came together
+for an exciting inter-CCA exchange programme, before the stand down for
+the End-of-Year examinations. This initiative is aimed at fostering collaboration
+among students, allowing them to explore and gain insights into each other’s
+CCAs while acquiring new skills and best practices to bring back to their
+own CCAs. The enthusiasm was palpable as students participated in various
+exchanges, eagerly immersing themselves in the experiences of their peers.
+For instance, members of the Show Choir had the unique opportunity to join
+the Red Cross Youth for a day. While the Show Choir members learned essential
+bandaging and CPR skills from their Red Cross counterparts, our Red Cross
+Youth cadets delighted in discovering the art of singing and dancing in
+harmony with the Show Choir. The high level of engagement from all the
+participants underscored the success of this programme, as students not
+only enjoyed their time but also expressed enthusiasm for next year’s exchange.
+This initiative not only nurtures camaraderie among different CCAs but
+also enriches the students’ skills and experiences, laying the foundation
+for a vibrant and interconnected school culture.</p>
+<p></p>
 <h2><strong>UG Cadets’ Involvement in SG NDP</strong></h2>
 <p>Our Regenites dazzled at this year’s National Day Parade, with Ng Han
 Siang Lucas (2-Pride), Teo Chun Kai Bosco (3-Determination), and Joel Chong
