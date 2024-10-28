@@ -29,9 +29,18 @@ for a vibrant and interconnected school culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_2.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_6.jpg">
+</div>
 <hr>
 <h2><strong>UG Cadets’ Involvement in SG NDP</strong></h2>
 <p>Our Regenites dazzled at this year’s National Day Parade, with Ng Han
