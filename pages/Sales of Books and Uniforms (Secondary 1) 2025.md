@@ -54,11 +54,17 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
     <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
-		<td class="tg-xwyw"><i>19 to 20 December 2024</i></td>
+		<td class="tg-xwyw">19 to 20 December 2024</td>
     <td rowspan="4" class="tg-gfnm">0900 to 1500 hours</td>
   </tr>
   <tr>
-		<td class="tg-xwyw"><i>23 &amp; 30 December 2024</i></td>
+		<td class="tg-xwyw">23 &amp; 30 December 2024</td>
+  </tr>
+	 <tr>
+		<td class="tg-xwyw"><span style="font-weight:bold">ALL LEVELS</span></td>
+  </tr>
+	 <tr>
+		<td class="tg-xwyw">26 to 27 December 2024</td>
   </tr>
 </tbody>
 </table>
