@@ -54,17 +54,17 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
     <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
-		<td class="tg-xwyw"><i>Date to be confirmed</i></td>
+		<td class="tg-xwyw"><i>19 to 20 December 2024</i></td>
     <td rowspan="4" class="tg-gfnm">0900 to 1500 hours</td>
   </tr>
   <tr>
-		<td class="tg-xwyw"><i>Date to be confirmed</i></td>
+		<td class="tg-xwyw"><i>23 &amp; 30 December 2024</i></td>
   </tr>
 </tbody>
 </table>
 
 #### Booklist
-* Booklist for Year 2025 Secondary 1 - *to be confirmed*
+* [Booklist for Year 2025 Secondary 1](/files/Regent_Secondary_2025_Sec_1.pdf)
 
 #### Size Chart for Uniforms
 For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)
