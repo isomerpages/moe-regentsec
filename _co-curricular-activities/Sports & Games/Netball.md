@@ -9,11 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/NTBLBanner%20-%202023.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
-<p>Ms Melissa Lim - IC
-<br>Mdm Liew Yu Kun
+<p>Mdm Liew Yu Kun - IC
 <br>Ms Pek Yan Shan
-<br>
-</p>
+<br>Ms Theresa Ong Hwee Fang</p>
 <h4>Vision</h4>
 <p>To be a confident player and competent leader</p>
 <h4>Mission</h4>

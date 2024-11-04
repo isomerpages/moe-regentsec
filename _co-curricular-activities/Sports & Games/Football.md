@@ -10,9 +10,8 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Mr Isaac Jiang Yuhang - IC
-<br>Ms Sarina Binte Samat
-<br>Mr Kesavan S/O Veerappen
-<br>Mr Tan Jun Tian Terence</p>
+<br>Mr Tan Jun Tian Terence
+<br>Mr Kesavan S/O Veerappen</p>
 <h4>Vision</h4>
 <p>Every player a dedicated sportsperson and competent leader.</p>
 <h4>Mission</h4>
