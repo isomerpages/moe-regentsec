@@ -10,8 +10,9 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Ms Hap Guilian - IC
-<br>Ms Aung Min Rou
-<br>Ms Tan Zi Hyn Judith</p>
+<br>Ms Tan Zi Hyn Judith
+<br>Ms Grace Tan
+<br>Mr Ng Kian Hong</p>
 <h4>Vision</h4>
 <p>To instill character building through positive competition and to achieve
 excellence in competitions</p>
