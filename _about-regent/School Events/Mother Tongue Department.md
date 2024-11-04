@@ -19,12 +19,18 @@ petals. Traditionally made during Indian festivals like Deepavali, Rangoli
 symbolizes welcome and good fortune. Through this activity, students developed
 skills in design and color coordination while gaining a deeper understanding
 of the symbolic significance behind this beautiful art form.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Department/PEA_S1_IndianCulturalWrkshp2024_1.jpg">
+</div>
 <p>The pottery activity provided students with insight into an ancient Indian
 craft that has been cherished through generations. Under guidance, students
 shaped clay into pots similar to those traditionally used in Indian households
 for cooking and storage. This hands-on experience taught them patience,
 creativity, and an appreciation for the cultural importance of sustainable
 practices.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Department/PEA_S1_IndianCulturalWrkshp2024_2.jpg">
+</div>
 <p>In the thoranam weaving workshop, students created decorative garlands,
 typically hung at the entrances of homes during special occasions to symbolize
 prosperity and well-being. Traditionally made using mango leaves, thoranam
@@ -36,8 +42,6 @@ practices and an appreciation for the rich diversity within Singapore.
 Experiences like these contribute to the holistic development of our students,
 nurturing respect and empathy for different cultural backgrounds and strengthening
 the bonds within our vibrant community.</p>
-<p></p>
-<p></p>
 <hr>
 <h2><strong>Pesta Budaya 2024: A Gateway to Tradition</strong></h2>
 <p>At the heart of Woodlands Civic Centre, Regent Secondary School students
