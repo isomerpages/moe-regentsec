@@ -11,7 +11,7 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Mr Muhammad Muslihuddin - IC
 <br>Mr Teo Hock Siong
-<br>Mdm Ng Geok Ling Betina</p>
+<br>Ms Siti Nur Aishah Bte Suparjo</p>
 <h4>Vision</h4>
 <p>Every member is a noble leader, in the pursuit of excellence in both character
 and skill mastery</p>
