@@ -9,9 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDNBanner%20-%202023.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
-<p>Mr Yunus Bin Mohamed - IC
-<br>Ms Koh Huey Min
-<br>Mdm Siti Nur Aishah Bte Suparjo
+<p>Ms Koh Huey Min - IC
+<br>Mr Yunus Bin Mohamed
 <br>Ms Bernice Liau Wei Ting</p>
 <h4>Vision</h4>
 <p>All students are passionate in the arts, and able to create and appreciate
