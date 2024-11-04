@@ -28,3 +28,11 @@ laughing, elders reminiscing and the sounds of marbles echoing through
 time. In that sunlit corner, the past came alive alongside the present.
 And the students carried forward a legacy—one that whispered, “Play on,
 for our culture lives within you.”</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Department/PestaBudaya2024_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Department/PestaBudaya2024_2.jpg">
+</div>
+<p></p>
