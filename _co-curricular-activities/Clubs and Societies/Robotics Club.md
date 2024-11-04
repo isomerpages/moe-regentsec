@@ -10,8 +10,7 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Mr Mark Chee Kong - IC
-<br>Ms Crystal Tay Yen Yen
-<br>Mr Low Jun Hua</p>
+<br>Ms Crystal Tay Yen Yen</p>
 <h4>Vision</h4>
 <p>To enrich and develop a group of dedicated individuals who display confidence,
 mental fitness and perseverance in adverse and challenging environments.</p>
