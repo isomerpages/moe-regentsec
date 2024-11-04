@@ -9,10 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/SWCHRBanner%20-%202023.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
-<p>Ms Goh Rui Qi, Adeline - IC
-<br>Mrs Elsie Mathews
-<br>Mdm Dian Syahidah
-<br>Ms Lee Yue Yee Colette</p>
+<p>Mdm Dian Syahidah - IC
+<br>Ms Goh Rui Qi, Adeline
+<br>Mrs Elsie Mathews</p>
 <h4>Vision</h4>
 <p>All students are enthusiastic performers and appreciators of all forms
 of music and dance.</p>
