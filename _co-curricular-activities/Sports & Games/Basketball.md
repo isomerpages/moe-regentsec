@@ -10,8 +10,8 @@ variant: tiptap
 </div>
 <h4>Teacher-in-charge</h4>
 <p>Mr Michael Kwok - IC
-<br>Mr Shen Jian
-<br>Mr Zulkiflie</p>
+<br>Mr Tan Kai Yik
+<br>Mr Zulkiflie Abdul Razak</p>
 <h4>Vision</h4>
 <p>Every student-athlete a dedicated sportsperson and competent leader.</p>
 <h4>Mission</h4>
