@@ -48,12 +48,6 @@ sections:
       image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
       alt: Image alt text
   - infobar:
-      title: CCA Exchange Day 2024
-      subtitle: Highlights
-      id: infobar
-      button: Click here
-      url: /latest-announcement/highlights/cca-exchange-day-2024/
-  - infobar:
       title: Cyber Security Talk and Cyber Fair
       subtitle: Highlights
       id: infobar
@@ -65,4 +59,16 @@ sections:
       id: infobar
       button: Click Here
       url: /post-exam-activities-indian-cultural-workshop/
+  - infobar:
+      title: "Pesta Budaya 2024: A Gateway to Tradition"
+      subtitle: Highlights
+      id: infobar
+      button: Click Here
+      url: /pesta-budaya-2024-a-gateway-to-tradition/
+  - infobar:
+      title: CCA Exchange Day 2024
+      subtitle: Highlights
+      id: infobar
+      button: Click here
+      url: /latest-announcement/highlights/cca-exchange-day-2024/
 ---
