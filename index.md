@@ -53,4 +53,16 @@ sections:
       id: infobar
       button: Click here
       url: /latest-announcement/highlights/cca-exchange-day-2024/
+  - infobar:
+      title: Cyber Security Talk and Cyber Fair
+      subtitle: Highlights
+      id: infobar
+      button: Click here
+      url: /pesta-budaya-2024-a-gateway-to-tradition/
+  - infobar:
+      title: "Post-Exam Activities: Indian Cultural Workshop"
+      subtitle: Highlights
+      id: infobar
+      button: Click Here
+      url: /post-exam-activities-indian-cultural-workshop/
 ---
