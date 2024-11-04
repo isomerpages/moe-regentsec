@@ -52,7 +52,7 @@ sections:
       subtitle: Highlights
       id: infobar
       button: Click here
-      url: /pesta-budaya-2024-a-gateway-to-tradition/
+      url: /cyber-security-talk-and-cyber-fair/
   - infobar:
       title: "Post-Exam Activities: Indian Cultural Workshop"
       subtitle: Highlights
