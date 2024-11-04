@@ -14,6 +14,9 @@ on cyber security by Mr. Dayang from Touch Community Services. His insights
 into the importance of online safety, practical ways to protect personal
 information, and steps to safeguard one’s digital well-being set the stage
 for the day's activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCE/CyberFair2024_1.jpg">
+</div>
 <p>After Assembly, students headed to the Cyber Fair at the canteen. This
 interactive fair was designed to educate and inform students about three
 critical topics in today’s digital age: cyberbullying, positive online
@@ -36,14 +39,21 @@ game encouraged students to think about real-life scenarios, emphasizing
 empathy and respect in their online interactions. The presence of these
 young ambassadors not only allowed for peer-to-peer learning but also highlighted
 the importance of student leadership in promoting a safe online environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCE/CyberFair2024_2.jpg">
+</div>
 <p>Students were enthusiastic participants throughout the day, eagerly engaging
 in the activities at the Fair and conversations about online safety. The
 chance to win attractive prizes added to the excitement, but more importantly,
 each student left with a better understanding of how to be responsible
 digital citizens.</p>
+<p></p>
 <p>Overall, the Cyber Wellness post-exam activity was a tremendous success,
 blending essential education with hands-on fun. It served as a meaningful
 reminder to our students about the importance of safe, responsible online
 practices. Through this event, our students have become more informed,
 aware, and ready to navigate the digital world confidently and safely.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCE/CyberFair2024_3.jpg">
+</div>
 <p></p>
