@@ -66,6 +66,14 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: "Gardens By the Bay: Race to Sustainability"
+          date: 08 November 2024
+          announcement: Our Secondary 2 students recently embarked on an engaging and
+            educational Post-Exam Learning Journey to Gardens by the Bay.
+            Stepping beyond the classroom, they participated in the Race to
+            Sustainability — an annual inter-school competition
+          link_text: Read More
+          link_url: /latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/
         - title: Cyber Security Talk and Cyber Fair
           date: 28 October 2024
           announcement: On 23 October, our school hosted an exciting Cyber Awareness Day,
