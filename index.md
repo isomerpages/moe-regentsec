@@ -25,6 +25,12 @@ sections:
       image: /images/Sec1Reg2025_infopicheaderv2.png
       alt: Image alt text
   - infobar:
+      title: Sales of Books and Uniforms (Secondary 1) 2025
+      subtitle: For Year 2025
+      id: infobar
+      button: Click here
+      url: https://moe-regentsec-staging.netlify.app/sales-of-books-and-uniforms-secondary-1-2025/
+  - infobar:
       title: Welcome to Regent e-Open House
       id: infobar
       description: Regent virtual tour
