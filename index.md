@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
   - infopic:
-      title: Secondary  1 Registration 2025
+      title: Secondary  1 Registration
       subtitle: For Year 2025
       id: infopic
       description: FAQs on registration process and first day of school.
