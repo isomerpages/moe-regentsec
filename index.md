@@ -47,28 +47,44 @@ sections:
       url: /graduation-ceremony-2024/
       image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
       alt: Image alt text
-  - infobar:
-      title: Cyber Security Talk and Cyber Fair
-      subtitle: Highlights
-      id: infobar
-      button: Click here
-      url: /cyber-security-talk-and-cyber-fair/
-  - infobar:
-      title: "Post-Exam Activities: Indian Cultural Workshop"
-      subtitle: Highlights
-      id: infobar
-      button: Click Here
-      url: /post-exam-activities-indian-cultural-workshop/
-  - infobar:
-      title: "Pesta Budaya 2024: A Gateway to Tradition"
-      subtitle: Highlights
-      id: infobar
-      button: Click Here
-      url: /pesta-budaya-2024-a-gateway-to-tradition/
-  - infobar:
-      title: CCA Exchange Day 2024
-      subtitle: Highlights
-      id: infobar
-      button: Click here
-      url: /latest-announcement/highlights/cca-exchange-day-2024/
+  - announcements:
+      title: Announcements & Highlights
+      id: announcements
+      announcement_items:
+        - title: "Gardens By the Bay: Race to Sustainability"
+          date: 08 November 2024
+          announcement: Our Secondary 2 students recently embarked on an engaging and
+            educational Post-Exam Learning Journey to Gardens by the Bay.
+            Stepping beyond the classroom, they participated in the Race to
+            Sustainability — an annual inter-school competition
+          link_text: Read More
+          link_url: /latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/
+        - title: Cyber Security Talk and Cyber Fair
+          date: 28 October 2024
+          announcement: On 23 October, our school hosted an exciting Cyber Awareness Day,
+            filled with engaging activities aimed at empowering students to make
+            safer and kinder choices online.
+          link_text: Read More
+          link_url: /cyber-security-talk-and-cyber-fair/
+        - title: "Post Exam Activities: Indian Cultural Workshop"
+          date: 21 October 2024
+          announcement: Secondary 1 students recently participated in an enriching
+            workshop centered on Indian cultural practices.
+          link_text: Read More
+          link_url: /post-exam-activities-indian-cultural-workshop/
+        - title: CCA Exchange Day
+          date: 11 September 2024
+          announcement: This initiative is aimed at fostering collaboration among
+            students, allowing them to explore and gain insights into each
+            other’s CCAs while acquiring new skills and best practices to bring
+            back to their own CCAs.
+          link_text: Read More
+          link_url: /latest-announcement/highlights/cca-exchange-day-2024/
+        - title: "Pesta Budaya 2024: A Gateway to Tradition"
+          date: 02 September 2024
+          announcement: At the heart of Woodlands Civic Centre, Regent Secondary School
+            students proudly hosted a captivating booth during Pesta Budaya
+            2024—a celebration of Malay traditional games.
+          link_text: Read More
+          link_url: /pesta-budaya-2024-a-gateway-to-tradition/
 ---
