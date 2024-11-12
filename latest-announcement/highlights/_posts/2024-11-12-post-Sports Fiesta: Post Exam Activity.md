@@ -12,6 +12,10 @@ year before the holiday break. After weeks of hard work and the stress
 of the final examinations, our Secondary 1 to 3 students were eager to
 take to the field for some friendly competition and what an exciting event
 it was!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/Sec1SportsFiesta2024_1.jpg">
+</div>
 <p>Held on 23 and 25 October, the Sports Fiesta saw our Secondary 1 to 3
 students competing in a range of exciting sports—Football, Netball, and
 Volleyball—each tailored to their respective levels. The energy was palpable
@@ -25,3 +29,8 @@ for everyone to enjoy.</p>
 their hard work and dedication in organising this spectacular event. Without
 their efforts, the Sports Fiesta would not have been such a resounding
 success! It was a fantastic way to wrap up the year.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/Sec1SportsFiesta2024_2.jpg">
+</div>
+<p></p>
