@@ -58,28 +58,10 @@ could also be overseas trips for students to deepen their acquisition of
 21CC and for authentic learning of how countries in Southeast Asia embrace
 green technology and adopt clean energy.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-2.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-8.jpg">
 </div>
 <p>To find out more about our Applied Learning Programmes, visit our website
 at: <a href="http://for.edu.sg/regentsustainability" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/regentsustainability</a>
