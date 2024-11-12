@@ -18,9 +18,11 @@ variant: tiptap
 community.</p>
 <p>Our activities emphasise hands-on experience and learning which empowers
 every member to be creative and innovative green leaders.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI_CCA2024.png">
 </div>
+<p></p>
 <p>We achieved the <strong>Yellow Flame Award</strong>&nbsp;at the School
 Green Awards 2024. Guided by our mission to equip all students and staff
 to become responsible advocates of the environment, Regent's environmental
@@ -34,11 +36,21 @@ bags, plastic zipper containers and small gift box. Ongoing recycling and
 energy-saving efforts have also helped us become a greener school. We also
 seek to partner with CCAs and organisations to further effect a positive
 environmental impact in our school and community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental%20Science/ENVSCI-1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental%20Science/ENVSCI-2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_5.jpg">
 </div>
 <h4>Club Activities</h4>
 <ul data-tight="true" class="tight">
@@ -81,10 +93,12 @@ reducing food wastage)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental%20Science/ENVSCI-3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_6.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental%20Science/ENVSCI-4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_8.jpg">
 </div>
 <p></p>
