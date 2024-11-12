@@ -16,6 +16,7 @@ it was!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/Sec1SportsFiesta2024_1.jpg">
 </div>
+<p></p>
 <p>Held on 23 and 25 October, the Sports Fiesta saw our Secondary 1 to 3
 students competing in a range of exciting sports—Football, Netball, and
 Volleyball—each tailored to their respective levels. The energy was palpable
