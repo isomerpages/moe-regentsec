@@ -20,7 +20,7 @@ is without any natural resources to ensure a sustainable and climate resilient
 Singapore. In addition, in line with SG 2030 Green Plan, it is important
 that our students are developed as GREEN (Growing Responsible Ecology and
 ENvironment) Advocates and changemakers in resource sustainability.</p>
-<h4><strong><u>TIER 1</u></strong></h4>
+<h4><u>TIER 1</u></h4>
 <p><strong>(A) Learning about the Real World through Curriculum</strong>
 </p>
 <p>Students will learn about the global challenges associated with resource
@@ -46,7 +46,7 @@ sustainability issues.</p>
 <p>Partnership and linkages with various community sectors and relevant industries
 will allow students to experience and connect with the world beyond the
 school.</p>
-<h4><strong><u>TIER 2</u></strong></h4>
+<h4><u>TIER 2</u></h4>
 <p><strong>(D) Environment Champions and Eco-Stewardship</strong>
 </p>
 <p>Students will be given opportunities to attend and participate in external
@@ -81,4 +81,7 @@ green technology and adopt clean energy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-8.jpg">
 </div>
+<p>To find out more about our Applied Learning Programmes, visit our website
+at: <a href="http://for.edu.sg/regentsustainability" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/regentsustainability</a>
+</p>
 <p></p>
