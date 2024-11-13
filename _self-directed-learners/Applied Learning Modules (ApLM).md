@@ -4,7 +4,7 @@ permalink: /self-directed-learners/applied-learning-modules-aplm/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Purpose:</strong></h4>
+<h4>Purpose</h4>
 <p>The offering of ApLM is to</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -15,7 +15,7 @@ variant: tiptap
 application of knowledge.</p>
 </li>
 </ul>
-<h4><strong>Objectives:</strong></h4>
+<h4>Objectives</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Joy of Learning:</strong>&nbsp;To provide our students with Applied
