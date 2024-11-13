@@ -19,29 +19,87 @@ of music and dance.</p>
 <p>Spread knowledge and appreciation of Show Choir to the school and community
 as passionate advocates.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Show%20Choir%20Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Show%20Choir%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_3.jpg">
+</div>
+<p></p>
 <p>Having consistently attained the Best Showmanship Award, Regent Revolution
 Show Choir never fails to mesmerise audiences with our high-impact productions.
-We have dazzled crowds, performed as high school zombies and circus clowns,
-and we always look forward to incorporating an element of surprise in our
+We have dazzled crowds, performed as circus clowns and robots, and we always
+look forward to incorporating an element of surprise and novelty in our
 performances.</p>
 <p>We have won numerous accolades, including the Certificate of Accomplishment
-at the 2019 Singapore Youth Festival Arts Presentation and numerous awards
-at the B-Dazzled Music and Dance Festival. As a five-time Show Choir of
-the Year awardee, Regent Revolution Show Choir maintains its commitment
-to delivering show-stopping musical performances that seek to delight audiences
-young and old.</p>
+and Certification of Commendation at the 2021 and 2023 Singapore Youth
+Festival Arts Presentation and numerous awards at the B-Dazzled Music and
+Dance Festival. As a five-time Show Choir of the Year awardee, Regent Revolution
+Show Choir maintains its commitment to delivering show-stopping musical
+performances that seek to delight audiences young and old.</p>
 <p>With the support and guidance of our school leaders, teachers, and professional
-instructors, Mr John Khoo and Mr Azizi, members of the Show Choir can look
-forward to honing their singing and dancing skills and to showcase their
-talents through various platforms.</p>
-<h4>Key Activities</h4>
-<p><strong>2021</strong>
+instructors, Mr John Khoo and Ms Valerie, members of the Show Choir can
+look forward to honing their singing and dancing skills and to showcase
+their talents through various platforms.</p>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Awards Day 2024</p>
+</li>
+<li>
+<p>Environment Week @ Regent 2024</p>
+</li>
+<li>
+<p>National Day Celebration @ Regent 2024</p>
+</li>
+<li>
+<p>Limbang National Day Dinner 2024</p>
+</li>
+<li>
+<p>B-dazzled Music &amp; Dance Festival 2024</p>
+</li>
+</ul>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival Arts Presentation 2023</p>
+</li>
+<li>
+<p>Environment Week @ Regent 2023</p>
+</li>
+<li>
+<p>National Day Celebration @ Regent 2023</p>
+</li>
+<li>
+<p>Limbang National Day Dinner 2023</p>
+</li>
+<li>
+<p>B-dazzled Music &amp; Dance Festival 2023</p>
+</li>
+</ul>
+<hr>
+<h4>Past Activities &amp; Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2021-2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong>2022</strong></h4>
+<h4>B-Dazzled Music &amp; Dance Festival</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/SHWCHR-1.jpg">
+</div>
+<hr>
+<h4><strong>2021</strong></h4>
+<p></p>
+<p><strong>2021 Highlights</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,52 +115,7 @@ talents through various platforms.</p>
 <p>Teachers’ Day Assembly Performance</p>
 </li>
 </ul>
-<p><strong>2020</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Participated in National Teachers’ Day Virtual Choir Video (Wong Jing
-En, 3-Empathy)</p>
-</li>
-</ul>
-<p><strong>2019</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival Arts Presentation – Accomplishment</p>
-</li>
-<li>
-<p>&nbsp;B-Dazzled! Festival – Diamond Award, Best Showmanship and Best Choreography</p>
-</li>
-<li>
-<p>Limbang-Yew Tee 2020 New Year Countdown</p>
-</li>
-<li>
-<p>NDP Heartlands 2019 @ North West District</p>
-</li>
-</ul>
-<p><strong>2018</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;B-Dazzled! Festival – Diamond Award and Best Showmanship</p>
-</li>
-</ul>
-<p><strong>2017</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>B-Dazzled! Festival – Show Choir of the Year, Diamond Award and Best Showmanship</p>
-</li>
-</ul>
-<hr>
-<h4><strong>2022</strong></h4>
-<h4>B-Dazzled Music &amp; Dance Festival</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/SHWCHR-1.jpg">
-</div>
-<hr>
-<h4><strong>2021</strong></h4>
+<p></p>
 <h4>Singapore Youth Festival Arts Presentation</h4>
 <p>Audio recording of “Shine Like Stars”</p>
 <div class="isomer-image-wrapper">
@@ -168,12 +181,52 @@ via Zoom.</p>
 </p>
 <p>📹 Watch <strong><a href="https://youtu.be/55yHKuAzHsI" rel="noopener noreferrer nofollow" target="_blank">e-CCA Dance</a></strong>
 </p>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+</div>
+</details>
 <details class="isomer-details">
-<summary><strong>Past Activities &amp; Highlights</strong>
+<summary><strong>2017-2020</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>2020 Highlights</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participated in National Teachers’ Day Virtual Choir Video (Wong Jing
+En, 3-Empathy)</p>
+</li>
+</ul>
+<p><strong>2019 Highlights</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival Arts Presentation – Accomplishment</p>
+</li>
+<li>
+<p>&nbsp;B-Dazzled! Festival – Diamond Award, Best Showmanship and Best Choreography</p>
+</li>
+<li>
+<p>Limbang-Yew Tee 2020 New Year Countdown</p>
+</li>
+<li>
+<p>NDP Heartlands 2019 @ North West District</p>
+</li>
+</ul>
+<p><strong>2018 Highlights</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;B-Dazzled! Festival – Diamond Award and Best Showmanship</p>
+</li>
+</ul>
+<p><strong>2017 Highlights</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B-Dazzled! Festival – Show Choir of the Year, Diamond Award and Best Showmanship</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/SHWCHR-7.jpg">
 </div>
