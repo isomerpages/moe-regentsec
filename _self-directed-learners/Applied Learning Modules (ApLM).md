@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Purpose:</strong></h4>
-<p>The offering of AEM / EM is to</p>
+<p>The offering of ApLM is to</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>broaden the learning experiences of students</p>
