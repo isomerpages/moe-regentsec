@@ -20,7 +20,7 @@ is without any natural resources to ensure a sustainable and climate resilient
 Singapore. In addition, in line with SG 2030 Green Plan, it is important
 that our students are developed as GREEN (Growing Responsible Ecology and
 ENvironment) Advocates and changemakers in resource sustainability.</p>
-<h4><strong><u>TIER 1</u></strong></h4>
+<h4><u>TIER 1</u></h4>
 <p><strong>(A) Learning about the Real World through Curriculum</strong>
 </p>
 <p>Students will learn about the global challenges associated with resource
@@ -46,7 +46,7 @@ sustainability issues.</p>
 <p>Partnership and linkages with various community sectors and relevant industries
 will allow students to experience and connect with the world beyond the
 school.</p>
-<h4><strong><u>TIER 2</u></strong></h4>
+<h4><u>TIER 2</u></h4>
 <p><strong>(D) Environment Champions and Eco-Stewardship</strong>
 </p>
 <p>Students will be given opportunities to attend and participate in external
@@ -58,27 +58,27 @@ could also be overseas trips for students to deepen their acquisition of
 21CC and for authentic learning of how countries in Southeast Asia embrace
 green technology and adopt clean energy.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-2.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_1A.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_1B.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_4.jpg">
 </div>
+<p>To find out more about our Applied Learning Programmes, visit our website
+at: <a href="http://for.edu.sg/regentsustainability" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/regentsustainability</a>
+</p>
 <p></p>

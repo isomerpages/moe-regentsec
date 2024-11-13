@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/For%20Parents/PSG-1024x206.png)
 
-![](/images/For%20Parents/psg_exco_2023_2024a.png)
+![](/images/For%20Parents/PSG_EXCO_2024_2025.png)
 
 The Parent Support Group(PSG)@Regent offers a plethora of opportunities for parents to connect, share, and support one another through the highs and lows of parenting. The PSG@Regent provides guidance in parenting skills and fosters solidarity between parents as we navigate the beautiful yet challenging journey of raising teenagers. Through the PSG, you will find a community of empathetic parents ready to share experiences, offer advice, and lend a compassionate ear. 
 
@@ -21,10 +21,16 @@ In Regent, the PSG partners and supports the school by volunteering through the 
 
 ![](/images/For%20Parents/PSG2024_1.png)
 
-The PSG programmes in 2024 include:
+The PSG programmes in 2025 include:
 * Parenting talks such as Triple P Online and school-based parenting talks
 * Parent-child bonding activities 
-* Participation in school activities such as Total Defence Day,  Teachers’ Day celebrations, etc.
+* Participation in school activities such as Total Defence Day,  Teachers’ Day celebrations, etc.!
+
+![](/images/For%20Parents/PSG2025_1.jpg)
+![](/images/For%20Parents/PSG2025_2.jpg)
+![](/images/For%20Parents/PSG2025_3.jpg)
+![](/images/For%20Parents/PSG2025_4.jpg)
+![](/images/For%20Parents/PSG2025_5.jpg)
 
 ![](/images/For%20Parents/PSG2024_2.jpg)
 <center><i>Flower arrangement workshop</i></center>
