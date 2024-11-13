@@ -108,6 +108,10 @@ of the programme is on public speaking and facilitation skills, which will
 better prepare them for group and project work in and beyond the classroom.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/Photo_1_of_SEC_2__PEER_LEADERSHIP_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/Photo_2_of_SEC_2__PEER_LEADERSHIP_.jpg">
 </div>
 <p></p>
