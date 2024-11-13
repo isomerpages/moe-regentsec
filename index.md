@@ -87,4 +87,10 @@ sections:
             2024—a celebration of Malay traditional games.
           link_text: Read More
           link_url: /pesta-budaya-2024-a-gateway-to-tradition/
+  - infobar:
+      title: "Sports Fiesta: Post-Exam Activity"
+      subtitle: Highlights
+      id: infobar
+      button: Click Here
+      url: /latest-announcement/highlights/sports-fiesta-post-exam-activity/
 ---
