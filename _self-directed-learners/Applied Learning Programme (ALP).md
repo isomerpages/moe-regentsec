@@ -63,6 +63,21 @@ green technology and adopt clean energy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-3.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_1A.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_1B.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_4.jpg">
+</div>
 <p>To find out more about our Applied Learning Programmes, visit our website
 at: <a href="http://for.edu.sg/regentsustainability" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/regentsustainability</a>
 </p>
