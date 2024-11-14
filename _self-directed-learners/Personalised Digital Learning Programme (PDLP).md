@@ -49,19 +49,6 @@ to craft rich sensory descriptions to enliven their writing. Through the
 activity, students became more confident and adept users of the PLD, employing
 tools such as Google Docs and Google Sheets to jot down and share their
 ideas with their teachers and peers.</p>
-<h3><strong>Google Sites and Inquiry Learning in the Humanities</strong></h3>
-<p>Our Humanities academic programmes in History, Social Studies, and Geography
-is dedicated to cultivating critical thinking by encouraging students to
-explore multiple perspectives through inquiry-based learning. We engage
-students in dynamic projects, learning journeys, thought-provoking discussions,
-and debates that challenge them to analyze and reflect deeply on historical
-events, societal issues, and geographical concepts. Through role-plays,
-presentations, and the integration of ICT tools, our students experience
-a vibrant learning environment that enhances their skills and prepares
-them for the complexities of a globalized world.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_4_HUM.jpg">
-</div>
 <h3><strong>Collaborating on Research using Google Slides in Science</strong></h3>
 <p>Researching and building a prototype in Science often requires much collaboration
 and our young scientists at Regent Secondary School have learnt to do just
