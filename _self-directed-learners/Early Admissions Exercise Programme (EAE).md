@@ -14,8 +14,6 @@ just
 the school’s 4-D (Discover, Decide, Develop, Dream) approach to education
 and career guidance. Secondary 4 Express (4E) and Secondary 5 Normal Academic
 (5N) students are provided guidance in their EAE application.</p>
-<p>In 2023, 49.2% of 4E5N students who applied for Early Admission Exercise
-were admitted into polytechnics through the Early Admission Exercise.</p>
 <p><strong>Our Key Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
