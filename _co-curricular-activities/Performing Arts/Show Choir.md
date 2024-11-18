@@ -23,7 +23,7 @@ as passionate advocates.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_2A.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -61,7 +61,8 @@ their talents through various platforms.</p>
 <p>Limbang National Day Dinner 2024</p>
 </li>
 <li>
-<p>B-dazzled Music &amp; Dance Festival 2024</p>
+<p>B-dazzled Music &amp; Dance Festival 2024 - <strong>Show Choir of the Year, Diamond Award, Best Choreography, Best Vocal &amp; Music Arrangement</strong>
+</p>
 </li>
 </ul>
 <p><strong>2023</strong>
