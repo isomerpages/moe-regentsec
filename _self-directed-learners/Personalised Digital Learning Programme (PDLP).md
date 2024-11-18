@@ -90,9 +90,6 @@ the lesson material. - (Weng Hin, 3-Empathy)</p>
 </blockquote>
 <hr>
 <h2><strong>Personal Learning Devices (PLD) Distribution</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_1.jpg">
-</div>
 <p>The MOE National Literacy Programme aims to equip all students with the
 necessary skills and competencies to thrive in the digital age.</p>
 <p>Regent’s PDLP Vision for Students are to develop them into:</p>
@@ -107,9 +104,6 @@ With the students on-boarding programme completed, both students and teachers
 will enhance teaching and learning with the use of personal devices for
 more active, collaborative lessons based on sound e-pedagogical principles.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD2024_1.jpg">
 </div>
 <p></p>
