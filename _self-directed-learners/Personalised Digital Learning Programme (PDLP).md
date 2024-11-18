@@ -93,19 +93,19 @@ the lesson material. - (Weng Hin, 3-Empathy)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_1.jpg">
 </div>
-<p>Personal Learning Devices (PLD) Distribution</p>
 <p>The MOE National Literacy Programme aims to equip all students with the
 necessary skills and competencies to thrive in the digital age.</p>
 <p>Regent’s PDLP Vision for Students are to develop them into:</p>
-<p>1. Self-directed learners who Manage and monitor their own learning with
-confidence</p>
-<p>2. Critical thinkers who Navigate for information with discernment</p>
-<p>3. Collaborative learners who Connect with peers to co-construct knowledge</p>
+<p>1. Self-directed learners who <strong>Manage and monitor their own learning with confidence</strong>
+</p>
+<p>2. Critical thinkers who <strong>Navigate for information with discernment</strong>
+</p>
+<p>3. Collaborative learners who <strong>Connect with peers to co-construct knowledge</strong>
+</p>
 <p>On 26 March 2024, all Secondary 1 students receive their ACER Chromebooks.
 With the students on-boarding programme completed, both students and teachers
 will enhance teaching and learning with the use of personal devices for
 more active, collaborative lessons based on sound e-pedagogical principles.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_2.jpg">
 </div>
