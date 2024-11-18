@@ -38,6 +38,10 @@ problems.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_2-POA.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP2024_POA4.jpg">
+</div>
 <h3><strong>Collaborative Writing in English Language</strong></h3>
 <p>Google Workspace features prominently in Regent Secondary School’s English
 Language curriculum. For example, in a unit on Situational Writing, students
