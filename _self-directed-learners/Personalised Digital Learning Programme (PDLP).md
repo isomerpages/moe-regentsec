@@ -93,36 +93,23 @@ the lesson material. - (Weng Hin, 3-Empathy)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_1.jpg">
 </div>
+<p>Personal Learning Devices (PLD) Distribution</p>
 <p>The MOE National Literacy Programme aims to equip all students with the
 necessary skills and competencies to thrive in the digital age.</p>
-<p>In line with this initiative, Regent Secondary School was selected to
-be one of the pilot schools to embark on the&nbsp;<strong>Personal Digital Literacy Programme (PDLP) in 2020</strong>.</p>
-<p>Since August 2020, the school has been intensively preparing both teachers
-and students for the use of the Personal device in teaching and learning.</p>
 <p>Regent’s PDLP Vision for Students are to develop them into:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Self-directed learners who&nbsp;<strong>Manage and monitor their own learning with confidence</strong>
-</p>
-</li>
-<li>
-<p>Critical thinkers who&nbsp;<strong>Navigate for information with discernment</strong>
-</p>
-</li>
-<li>
-<p>Collaborative learners who&nbsp;<strong>Connect with peers to co-construct knowledge</strong>
-</p>
-</li>
-</ol>
+<p>1. Self-directed learners who Manage and monitor their own learning with
+confidence</p>
+<p>2. Critical thinkers who Navigate for information with discernment</p>
+<p>3. Collaborative learners who Connect with peers to co-construct knowledge</p>
+<p>On 26 March 2024, all Secondary 1 students receive their ACER Chromebooks.
+With the students on-boarding programme completed, both students and teachers
+will enhance teaching and learning with the use of personal devices for
+more active, collaborative lessons based on sound e-pedagogical principles.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_2.jpg">
 </div>
-<p>On 26 to 27 April 2021, all Secondary 1 to 3 students receive their&nbsp;<strong>ACER Chromebook Spin 511</strong>.</p>
-<p>With the Students On boarding programme completed, both students and teachers
-will enhance teaching and learning with the use of personal devices for
-more active, collaborative lessons based on sound e-pedagogical principles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD_3.jpg">
 </div>
-<p>Regent Secondary school is well on its way to prepare Regenites to become
-future ready learners.</p>
+<p></p>
