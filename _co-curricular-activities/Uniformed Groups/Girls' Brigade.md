@@ -146,6 +146,27 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_12.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-10.png">
+</div>
 <hr>
 <h4>Dr. Low Guat Tin Challenge</h4>
 <p><strong>LGT 2024 - Bronze</strong>
@@ -175,32 +196,6 @@ and have a willing heart to serve.</p>
 </div>
 <p><em>Company Gold Award (2022)</em>
 </p>
-<hr>
-<h4>Activities</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-6.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-7.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-8.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-10.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-11.png">
-</div>
 <hr>
 <h4>Dr. Low Guat Tin Challenge</h4>
 <p><strong>LGT 2021 - Silver</strong>
