@@ -61,10 +61,11 @@ them helpful.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Twitter</p>
+<p>X</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://about.twitter.com/safety/families" rel="noopener noreferrer nofollow" target="_blank">https://about.twitter.com/safety/families</a>
+<p><a href="https://about.twitter.com/safety/families" rel="noopener noreferrer nofollow" target="_blank">https://</a>
+<a href="http://help.x.com/en/using-x/parental-consent" rel="noopener noreferrer nofollow" target="_blank">help.x.com/en/using-x/parental-consent</a><a href="https://about.twitter.com/safety/families" rel="noopener noreferrer nofollow" target="_blank"> </a>
 </p>
 </td>
 </tr>
@@ -84,7 +85,7 @@ them helpful.</p>
 </p>
 <p>b) <a href="/files/How_You_Can_Play_An_Active_Role_In_Keeping_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">How can you play an Active Role in Keeping your Child Safe Online</a>
 </p>
-<p>c) <a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for Talking to your Child on Device Usage </a>
+<p>c) <a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for Talking to your Child on Device Usage</a>
 </p>
 <p></p>
 <h4>Cyber Wellness Resources by&nbsp;External Agencies</h4>
