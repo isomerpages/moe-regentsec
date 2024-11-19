@@ -176,7 +176,7 @@ variant: tiptap
 <br>1. Use the link: <a href="https://go.gov.sg/nzsjci" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nzsjci</a> or scan the
 QR code below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/For Parents/ECG_Counselling_Appointment_QRcode.png">
 </div>
 <p>2. Refer by student's Form Teachers</p>
 <p><strong><u>For parents</u></strong>
@@ -184,6 +184,6 @@ QR code below:</p>
 <p>Use the link: <a href="https://go.gov.sg/iqg15c" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/iqg15c</a> or
 scan the QR code below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/For Parents/ECGC_Parent_Appointment_Form_QRcode.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/For Parents/ECGC_Parent_Appointment_Form_QRcode.jpg">
 </div>
 <p></p>
