@@ -195,16 +195,8 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/LGT-Trophy.png">
 </div>
-<p></p>
-<p></p>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
-</div>
-</details>
-<p></p>
-<p>New Skillss (Sign Language)</p>
+<hr>
+<h4>Learning New Skills (Sign Language)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/sign-2-1024x683.png">
 </div>
