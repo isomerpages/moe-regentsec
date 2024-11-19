@@ -87,7 +87,7 @@ them helpful.</p>
 </p>
 <p>c) <a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for Talking to your Child on Device Usage</a>
 </p>
-<p><em>(Link above downloads a PDF document)</em>
+<p><em>(Links above downloads a PDF document)</em>
 </p>
 <h4>Cyber Wellness Resources by&nbsp;External Agencies</h4>
 <ul data-tight="true" class="tight">
