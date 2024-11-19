@@ -203,6 +203,8 @@ and have a willing heart to serve.</p>
 </div>
 <hr>
 <h4>Dr. Low Guat Tin Challenge</h4>
+<p><strong>LGT 2021 - Silver</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16.jpeg">
 </div>
