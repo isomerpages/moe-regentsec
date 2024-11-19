@@ -140,10 +140,22 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_10.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_12.jpg">
+</div>
+<hr>
+<h4>Dr. Low Guat Tin Challenge</h4>
+<p><strong>LGT 2024 - Bronze</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_14.jpg">
+</div>
 <p></p>
 <h4>Past Activities &amp; Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
