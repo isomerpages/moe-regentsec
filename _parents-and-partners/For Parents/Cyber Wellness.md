@@ -65,7 +65,7 @@ them helpful.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://about.twitter.com/safety/families" rel="noopener noreferrer nofollow" target="_blank">https://</a>
-<a href="http://help.x.com/en/using-x/parental-consent" rel="noopener noreferrer nofollow" target="_blank">help.x.com/en/using-x/parental-consent</a><a href="https://about.twitter.com/safety/families" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<a href="http://help.x.com/en/using-x/parental-consent" rel="noopener noreferrer nofollow" target="_blank">help.x.com/en/using-x/parental-consent</a>
 </p>
 </td>
 </tr>
@@ -87,7 +87,8 @@ them helpful.</p>
 </p>
 <p>c) <a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for Talking to your Child on Device Usage</a>
 </p>
-<p></p>
+<p><em>(Link above downloads a PDF document)</em>
+</p>
 <h4>Cyber Wellness Resources by&nbsp;External Agencies</h4>
 <ul data-tight="true" class="tight">
 <li>
