@@ -20,21 +20,23 @@ and monitor their progress in learning.</p>
 <h2><strong>Enhancing Student Learning Experiences</strong></h2>
 <p>Use of learner centred pedagogy creates opportunities for teachers to
 enhance our student learning experiences.</p>
-<h3><strong>English Language Classroom</strong></h3>
+<h3>English Language Classroom</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_EL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes/AcadProg_EL2024.jpg">
 </div>
-<p>Using questions to make student thinking visible in an Upper Sec&nbsp;EL
-classroom</p>
-<p>Students’ using video app to record their group discussions before presenting
-their ideas their peers in the classroom.</p>
-<h3><strong>Maths Classroom</strong></h3>
+<p>During English Language lessons, students use VR goggles to immerse themselves
+in exciting scenarios. They practice Oracy skills by narrating their virtual
+experiences of extreme sports like skydiving or surfing and improve writing
+by exploring virtual heritage tours to landmarks like the Eiffel Tower
+to craft their descriptive essays. This immersive approach makes learning
+engaging and practical.</p>
+<h3>Maths Classroom</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_Maths.jpg">
 </div>
 <p>Application of Trigononometic ratios in real world context- students uses
 an online AFL tool quiz to check for understanding in their learning</p>
-<h3><strong>Humanities Classroom</strong></h3>
+<h3>Humanities Classroom</h3>
 <p>Our Humanities academic programmes in History, Social Studies, and Geography
 is dedicated to cultivating critical thinking by encouraging students to
 explore multiple perspectives through inquiry-based learning. We engage
@@ -47,7 +49,7 @@ them for the complexities of a globalized world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_HUM.jpg">
 </div>
-<h3><strong>Science (Biology) Classroom</strong></h3>
+<h3>Science (Biology) Classroom</h3>
 <p>Infusing ethics into teaching of Upper Secondary Biology</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_Bio.jpg">

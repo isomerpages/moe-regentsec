@@ -74,6 +74,9 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_2.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_15.jpg">
+</div>
 <h4>Activities</h4>
 <p>Here are some activities that our girls are involved in:</p>
 <ul data-tight="true" class="tight">
@@ -146,37 +149,6 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_12.jpg">
 </div>
-<hr>
-<h4>Dr. Low Guat Tin Challenge</h4>
-<p><strong>LGT 2024 - Bronze</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_14.jpg">
-</div>
-<p></p>
-<h4>Past Activities &amp; Highlights</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2021-2023</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h4>Achievements &amp; Accolades</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-1-Accolades.png">
-</div>
-<p><em>Pioneer Brigadier Brooch – SSGT Yuki Khoo (2022)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-2-Accolades.png">
-</div>
-<p><em>Company Gold Award (2022)</em>
-</p>
-<hr>
-<h4>Activities</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-3.png">
 </div>
@@ -198,11 +170,17 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-10.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-11.png">
-</div>
 <hr>
 <h4>Dr. Low Guat Tin Challenge</h4>
+<p><strong>LGT 2024 - Bronze</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_14.jpg">
+</div>
+<p></p>
 <p><strong>LGT 2021 - Silver</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -217,8 +195,6 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-4.jpeg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/LGT-Trophy.png">
 </div>
@@ -226,9 +202,5 @@ and have a willing heart to serve.</p>
 <h4>Learning New Skills (Sign Language)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/sign-2-1024x683.png">
-</div>
-<p></p>
-</div>
-</details>
 </div>
 <p></p>
