@@ -21,13 +21,16 @@ and monitor their progress in learning.</p>
 <p>Use of learner centred pedagogy creates opportunities for teachers to
 enhance our student learning experiences.</p>
 <h3><strong>English Language Classroom</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_EL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes/AcadProg_EL2024.jpg">
 </div>
-<p>Using questions to make student thinking visible in an Upper Sec&nbsp;EL
-classroom</p>
-<p>Students’ using video app to record their group discussions before presenting
-their ideas their peers in the classroom.</p>
+<p>During English Language lessons, students use VR goggles to immerse themselves
+in exciting scenarios. They practice Oracy skills by narrating their virtual
+experiences of extreme sports like skydiving or surfing and improve writing
+by exploring virtual heritage tours to landmarks like the Eiffel Tower
+to craft their descriptive essays. This immersive approach makes learning
+engaging and practical.</p>
 <h3><strong>Maths Classroom</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_Maths.jpg">
