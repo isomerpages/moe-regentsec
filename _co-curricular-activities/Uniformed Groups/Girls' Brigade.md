@@ -178,6 +178,38 @@ and have a willing heart to serve.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_14.jpg">
 </div>
 <p></p>
+<p><strong>LGT 2021 - Silver</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-2.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-3.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-4.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/LGT-Trophy.png">
+</div>
+<p></p>
+<p></p>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+</div>
+</details>
+<p></p>
+<p>New Skillss (Sign Language)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/sign-2-1024x683.png">
+</div>
+<p></p>
+<p></p>
 <h4>Past Activities &amp; Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -200,28 +232,10 @@ and have a willing heart to serve.</p>
 <h4>Dr. Low Guat Tin Challenge</h4>
 <p><strong>LGT 2021 - Silver</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/WhatsApp-Image-2021-11-16-4.jpeg">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/LGT-Trophy.png">
-</div>
 <hr>
-<h4>Learning New Skills (Sign Language)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/sign-2-1024x683.png">
-</div>
+<h4></h4>
 <p></p>
 </div>
 </details>
