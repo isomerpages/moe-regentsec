@@ -115,6 +115,30 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/GB-Instagram_QRCode.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4>Past Activities &amp; Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2021-2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Achievements &amp; Accolades</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-1-Accolades.png">
+</div>
+<p><em>Pioneer Brigadier Brooch – SSGT Yuki Khoo (2022)</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-2-Accolades.png">
+</div>
+<p><em>Company Gold Award (2022)</em>
+</p>
+<hr>
+<h4>Activities</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-3.png">
 </div>
@@ -139,26 +163,6 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-11.png">
 </div>
-<hr>
-<h4></h4>
-<h4>Past Activities &amp; Highlights</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2021-2023</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h4>Achievements &amp; Accolades</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-1-Accolades.png">
-</div>
-<p><em>Pioneer Brigadier Brooch – SSGT Yuki Khoo (2022)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-2-Accolades.png">
-</div>
-<p><em>Company Gold Award (2022)</em>
-</p>
 <hr>
 <h4>Dr. Low Guat Tin Challenge</h4>
 <div class="isomer-image-wrapper">
