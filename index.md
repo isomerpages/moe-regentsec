@@ -59,6 +59,14 @@ sections:
             Sustainability — an annual inter-school competition
           link_text: Read More
           link_url: /latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/
+        - title: "Sports Fiesta: Post-Exam Activity"
+          date: 28 October 2024
+          announcement: The much-anticipated Sports Fiesta was the perfect way to end the
+            school year before the holiday break. After weeks of hard work and
+            the stress of the final examinations, our Secondary 1 to 3 students
+            were eager to take to the field for some friendly competition
+          link_text: Read More
+          link_url: /latest-announcement/highlights/sports-fiesta-post-exam-activity/
         - title: Cyber Security Talk and Cyber Fair
           date: 28 October 2024
           announcement: On 23 October, our school hosted an exciting Cyber Awareness Day,
@@ -80,17 +88,4 @@ sections:
             back to their own CCAs.
           link_text: Read More
           link_url: /latest-announcement/highlights/cca-exchange-day-2024/
-        - title: "Pesta Budaya 2024: A Gateway to Tradition"
-          date: 02 September 2024
-          announcement: At the heart of Woodlands Civic Centre, Regent Secondary School
-            students proudly hosted a captivating booth during Pesta Budaya
-            2024—a celebration of Malay traditional games.
-          link_text: Read More
-          link_url: /pesta-budaya-2024-a-gateway-to-tradition/
-  - infobar:
-      title: "Sports Fiesta: Post-Exam Activity"
-      subtitle: Highlights
-      id: infobar
-      button: Click Here
-      url: /latest-announcement/highlights/sports-fiesta-post-exam-activity/
 ---
