@@ -26,23 +26,22 @@ context. There are also research work which requires them to collect data
 for their experiment during School Holidays.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Enrichment – Learning journey to fusion world, Surprising Science, Forensic
-Science, Cluster Science for Sec 1, NUS Physics Camp, AEM – Fighting Invisible
-Enemies</p>
+<p><strong>Enrichment:</strong> Learning Journey to Lee Kong Chian Natural
+History Museum, NUS Physics Camp, ApLM – Giving Care for Acute Illnesses,
+Chemistry in our Everyday Lives, and Building and controlling Flying Machines</p>
 </li>
 <li>
-<p>Competitions – Singapore Junior Water Prize, Science Centre Research,
-Science Busking Festival</p>
+<p><strong>Competitions:</strong> Singapore Junior Chemistry Olympiad, Singapore
+Junior Physics Olympiad, Singapore Junior Biology Olympiad, Science Busking
+Festival, Singapore Junior Water Prize</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment%20Programmes/EnrichmentProg_2a-SciLJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment Programmes/EnrichProg_SciLJ2024_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment%20Programmes/EnrichmentProg_2C-SciLJ.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment Programmes/EnrichProg_SciLJ2024_2.jpg">
 </div>
-<p><em>Students experimenting with their hypothesis during Science Centre Research Programme</em>
-</p>
 <hr>
 <h2><strong>Conversational Chinese and Malay Language (CCM) Programme</strong></h2>
 <p>Conversational Chinese and Malay Language (CCM) Programme &nbsp;aims to
@@ -58,7 +57,7 @@ skills to enable them to interact with native speakers confidently.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Introduction to basic vocabulary.</p>
+<p>Introduction to basic vocabulary</p>
 </li>
 <li>
 <p>Ways of greetings</p>
