@@ -49,14 +49,18 @@ them for the complexities of a globalized world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_HUM.jpg">
 </div>
-<h3>Science (Biology) Classroom</h3>
-<p>Infusing ethics into teaching of Upper Secondary Biology</p>
+<h3>Lower Sec Science Classroom</h3>
+<p>Integrative Activities are infused into the curriculum as a culminating
+or capstone activity for a theme taught in the Lower Secondary Science
+Curriculum.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_Bio.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes/AcadProg_LSS2024_1.jpg">
 </div>
-<p>During the lesson, Team coming together to put together their presentation
-to judges.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/Bio5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes/AcadProg_LSS2024_2.jpg">
 </div>
-<p>At the consolidation stage, the judges deliberating over final decision</p>
+<p>The intent is for students to experience the joy of conducting scientific
+inquiry through the thematic approach, generate ideas and solutions in
+contexts related to Science-Technology-Society and Environment and to participate
+in non-routine learning experiences on core ideas and practices of Science.</p>
+<p></p>
