@@ -19,7 +19,7 @@ different dance forms</p>
 <p>Spread knowledge and appreciation of dance to the school and community
 as passionate advocates</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Modern%20Dance%20Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/MODDAN2024_1.jpg">
 </div>
 <p>One of the most famous lines in the film ‘Ratatouille’ is that ‘anyone
 can cook’. In Regent Modern Dance, we believe that anyone can dance. This
@@ -50,7 +50,13 @@ not talent, but sheer determination and passion, that shines on stage.</p>
 <p>As our motto so aptly goes,&nbsp;<em>“Dance with your heart, and your feet will follow”.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Modern%20Dance%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/MODDAN2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/MODDAN2024_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/MODDAN2024_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern%20Dance/MODDN-9.jpg">
