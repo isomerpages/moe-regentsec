@@ -20,12 +20,13 @@ their best effort during every training session. Each member will strive
 to demonstrate good leadership qualities and be an active contributor back
 to the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Football%20Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/FTBL2024_1A.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Football%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/FTBL2024_2A.jpg">
 </div>
+<p></p>
 <p>The Regent Football Club aims to nurture a team of dedicated footballers
 who strive for excellence and uphold the values of good sportsmanship on
 and off the pitch.</p>
@@ -34,17 +35,22 @@ to actively contribute to the community through CCA-initiated Values-in-Action
 (VIA) projects.</p>
 <h4>National School Games Football Championships</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/FTBL2024-1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/C_Division_Football_Championships_2024_League2_2nd_Placing.jpg">
 </div>
-<p><em>‘C’ Division Football Championships 2023 – League 4 </em><strong><em>(2nd Placing)</em></strong>
+<p><em>‘C’ Division Football Championships 2024 – League 2&nbsp;</em><strong><em>(2nd Placing)</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/FTBL2024-2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/B_Division_Football_Championships_2024_League4.jpg">
 </div>
-<p><em>‘B’ Division Football Championships 2023 – League 2</em>
+<p><em>‘B’ Division Football Championships 2024 – League 4</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/FTBL2024-1.png">
+</div>
+<p><em>‘C’ Division 2023 – League 4 </em><strong><em>(2nd Placing)</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/FTBL2024-3.png">
 </div>
