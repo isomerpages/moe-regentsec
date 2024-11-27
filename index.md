@@ -14,7 +14,7 @@ sections:
           url: /self-directed-learners/academic-programmes/
         - title: Transformational Leaders
           description: ""
-          url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2023/
+          url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infobar:
       title: Welcome to Regent e-Open House
       id: infobar
