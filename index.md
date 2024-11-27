@@ -53,9 +53,9 @@ sections:
       announcement_items:
         - title: School Canteen Advertisment
           date: 27 November 2024
-          announcement: "Type of Stall: Fusion/ Thai/ Japanese stall
-            (halal/non-halal)  Closing Date: 31st March 2025"
-          link_text: Read More
+          announcement: "Type of Stall: Fusion/ Thai/ Japanese stall (halal/non-halal) |
+            Closing Date: 31st March 2025"
+          link_text: Click for More Information
           link_url: /school-canteen/
         - title: "Gardens By the Bay: Race to Sustainability"
           date: 08 November 2024
