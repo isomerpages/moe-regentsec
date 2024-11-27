@@ -51,6 +51,12 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: School Canteen Advertisment
+          date: 27 November 2024
+          announcement: "Type of Stall: Fusion/ Thai/ Japanese stall (halal/non-halal)
+            Closing Date: 31/03/2025"
+          link_text: Read More
+          link_url: /school-canteen/
         - title: "Gardens By the Bay: Race to Sustainability"
           date: 08 November 2024
           announcement: Our Secondary 2 students recently embarked on an engaging and
@@ -80,12 +86,4 @@ sections:
             workshop centered on Indian cultural practices.
           link_text: Read More
           link_url: /post-exam-activities-indian-cultural-workshop/
-        - title: CCA Exchange Day
-          date: 11 September 2024
-          announcement: This initiative is aimed at fostering collaboration among
-            students, allowing them to explore and gain insights into each
-            other’s CCAs while acquiring new skills and best practices to bring
-            back to their own CCAs.
-          link_text: Read More
-          link_url: /latest-announcement/highlights/cca-exchange-day-2024/
 ---
