@@ -4,7 +4,6 @@ permalink: /transformational-leaders/peer-support-leaders/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Peer Support Leaders</strong></h3>
 <p>The school is a place where students value strong friendships. Positive
 peer relationships facilitate the provision of care and a sense of belonging
 amongst students. Such relationships can also be powerful channels of positive
