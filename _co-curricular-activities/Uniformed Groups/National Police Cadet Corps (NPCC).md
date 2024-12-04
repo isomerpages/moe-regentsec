@@ -21,7 +21,7 @@ helps to make Singapore the safest place in the world.</p>
 working in partnership with the Singapore Police Force to fight crime and
 keep Singapore safe.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20NPCC%20Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_1.jpg">
 </div>
 <p>In NPCC, we have a wide variety of exciting activities in store for our
 cadets! These include outdoor adventure camps, crime science investigation,
@@ -89,7 +89,13 @@ and etc.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20NPCC%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC-1.jpg">
