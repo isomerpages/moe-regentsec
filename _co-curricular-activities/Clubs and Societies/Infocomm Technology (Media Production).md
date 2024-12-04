@@ -132,7 +132,6 @@ handling</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMM2024_10.jpg">
 </div>
 <p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Past Activities &amp; Highlights</strong>
