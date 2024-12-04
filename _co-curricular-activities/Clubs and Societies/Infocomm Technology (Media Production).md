@@ -17,9 +17,6 @@ variant: tiptap
 <p>To cultivate the students’ passion for different forms of Digital Media
 and to train them to be technology savvy and competent in the use of audio
 and visual equipment</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Infocomm%20Formal.jpg">
-</div>
 <p>Sound, lights, cameras, ACTION! Regent Infocomm Technology (Media Production)
 is the space where we make dreams come to (reel) life. We provide experiential
 opportunities for students who are interested in photography, audio visual
@@ -63,6 +60,24 @@ handling</p>
 <p>Participated in National Cyber Wellness (NCW) Competition 2024</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMM2024_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMM2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMM2024_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMM2024_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMM2024_5.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-3.png">
 </div>
