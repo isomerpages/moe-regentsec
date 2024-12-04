@@ -30,25 +30,35 @@ juices flowing while working on website designing and&nbsp; filmmaking.
 Our members develop&nbsp; a flair for story telling and a passion for the
 screen.</p>
 <h4>Activities</h4>
-<p>Our primary purpose is to provide support for all school events internal.
-Our students are adept in skills related to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Audio Visual / Public Annoucement for assemblies at hall &amp; parade
-square</p>
+<p>Audio Visual / Public Annoucement (AVPA) support for assemblies</p>
 </li>
 <li>
-<p>Supports school event with photography and video recording</p>
+<p>Duty for major school events with photography and video recording</p>
+</li>
+<li>
+<p>Photography technique</p>
+</li>
+<li>
+<p>Video production: Storyboard, videography, editing and lighting equipment
+handling</p>
+</li>
+<li>
+<p>E-portfolio website building with Google Sites</p>
+</li>
+<li>
+<p>Participated in School Digital Media Awards (SDMA) 2024</p>
+</li>
+<li>
+<p>Participated in National Cyber Wellness (NCW) Competition 2024</p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-2.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-3.png">
 </div>
@@ -79,8 +89,12 @@ square</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-2.png">
+</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
