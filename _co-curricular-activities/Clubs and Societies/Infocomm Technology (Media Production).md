@@ -48,17 +48,21 @@ handling</p>
 <p>E-portfolio website building with Google Sites</p>
 </li>
 <li>
+<p>CCA booth at Sec 1 VIA Environment Exhibition</p>
+</li>
+<li>
+<p>VIA project at MWS Nursing Home @ Yew Tee</p>
+</li>
+<li>
+<p>Learning journey to Republic Polytechnic, and The Smart Local</p>
+</li>
+<li>
 <p>Participated in School Digital Media Awards (SDMA) 2024</p>
 </li>
 <li>
 <p>Participated in National Cyber Wellness (NCW) Competition 2024</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-3.png">
 </div>
@@ -95,8 +99,6 @@ handling</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-2.png">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOM2023-10.png">
 </div>
