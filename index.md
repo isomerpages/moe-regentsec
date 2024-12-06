@@ -16,6 +16,12 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infobar:
+      title: Sales of Books and Uniforms (Secondary 1) 2025
+      subtitle: For Year 2025
+      id: infobar
+      button: Click for more Information
+      url: /sales-of-books-and-uniforms-secondary-1-2025/
+  - infobar:
       title: Welcome to Regent e-Open House
       id: infobar
       description: Regent virtual tour
