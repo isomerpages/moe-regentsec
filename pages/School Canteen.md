@@ -46,7 +46,7 @@ a hardcopy from the School’s General Office.</p>
 </p>
 </li>
 </ul>
-<p>2. Attached the following documents together with the application form:</p>
+<p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -56,7 +56,7 @@ a hardcopy from the School’s General Office.</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
+previous NEA licenses (if any), etc.</p>
 </li>
 </ul>
 <p>3. Submit the completed application form and documents by closing date
@@ -73,27 +73,17 @@ via email OR to the School's General Office.</p>
 </p>
 </li>
 </ul>
-<p>All completed application forms must be submitted with the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Proposed menu and price list</p>
-</li>
-<li>
-<p>Photocopy of certificates of relevant courses attended, such as Basic
-Food Hygiene Course and previous NEA licenses (if any).</p>
-</li>
-</ul>
-<p><strong>How to get there?</strong>
+<p><strong>How to get to Regent Secondary School?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Yew Tee MRT (NS5 line) – 10 minutes walking distance</p>
 </li>
 <li>
-<p>Bus number: 307 and 979 - 2 minutes walking distance</p>
+<p>Bus number: 307 and 979 - 2 minutes walk</p>
 </li>
 </ul>
-<p>Interest applicants must meet the following criteria:</p>
+<p>Interested applicants must meet the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
