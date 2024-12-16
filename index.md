@@ -95,10 +95,10 @@ sections:
             safer and kinder choices online.
           link_text: Read more about it here
           link_url: /cyber-security-talk-and-cyber-fair/
-        - title: "Post Exam Activities: Indian Cultural Workshop"
-          date: 21 October 2024
-          announcement: Secondary 1 students recently participated in an enriching
-            workshop centered on Indian cultural practices.
-          link_text: Read more about it here
-          link_url: /post-exam-activities-indian-cultural-workshop/
+        - title: 2024 'N' Level Examination Results Release
+          date: 16 December 2024
+          announcement: Announcement coCongratulations to our 2024 'N' Level Examinations
+            Top Performers!ntent
+          link_text: ""
+          link_url: ""
 ---
