@@ -66,6 +66,12 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: 2024 'N' Level Examination Results Release
+          date: 16 December 2024
+          announcement: Announcement coCongratulations to our 2024 'N' Level Examinations
+            Top Performers!ntent
+          link_text: Read more about it here
+          link_url: /2024-n-level-examination-results-release/
         - title: School Canteen Advertisment
           date: 27 November 2024
           announcement: "Type of Stall: Fusion/ Thai/ Japanese stall (halal/non-halal) |
@@ -95,10 +101,4 @@ sections:
             safer and kinder choices online.
           link_text: Read more about it here
           link_url: /cyber-security-talk-and-cyber-fair/
-        - title: 2024 'N' Level Examination Results Release
-          date: 16 December 2024
-          announcement: Announcement coCongratulations to our 2024 'N' Level Examinations
-            Top Performers!ntent
-          link_text: ""
-          link_url: ""
 ---
