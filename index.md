@@ -15,6 +15,15 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
+  - infopic:
+      title: Secondary 1 Registration
+      subtitle: For Year 2025
+      id: infopic
+      description: FAQs on registration process and first day of school.
+      button: Click here to find our more
+      url: https://sites.google.com/moe.edu.sg/rgt2025s1registration/home
+      image: /images/Sec1Reg2025_infopicheaderv2.png
+      alt: Image alt text
   - infobar:
       title: Sales of Books and Uniforms (Secondary 1) 2025
       subtitle: For Year 2025
@@ -57,6 +66,11 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: 2024 'N' Level Examination Results Release
+          date: 16 December 2024
+          announcement: Congratulations to our 2024 'N' Level Examinations Top Performers!
+          link_text: Read more about it here
+          link_url: /2024-n-level-examination-results-release/
         - title: School Canteen Advertisment
           date: 27 November 2024
           announcement: "Type of Stall: Fusion/ Thai/ Japanese stall (halal/non-halal) |
@@ -86,10 +100,4 @@ sections:
             safer and kinder choices online.
           link_text: Read more about it here
           link_url: /cyber-security-talk-and-cyber-fair/
-        - title: "Post Exam Activities: Indian Cultural Workshop"
-          date: 21 October 2024
-          announcement: Secondary 1 students recently participated in an enriching
-            workshop centered on Indian cultural practices.
-          link_text: Read more about it here
-          link_url: /post-exam-activities-indian-cultural-workshop/
 ---
