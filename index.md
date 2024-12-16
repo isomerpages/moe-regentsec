@@ -68,8 +68,7 @@ sections:
       announcement_items:
         - title: 2024 'N' Level Examination Results Release
           date: 16 December 2024
-          announcement: Announcement coCongratulations to our 2024 'N' Level Examinations
-            Top Performers!ntent
+          announcement: Congratulations to our 2024 'N' Level Examinations Top Performers!
           link_text: Read more about it here
           link_url: /2024-n-level-examination-results-release/
         - title: School Canteen Advertisment
