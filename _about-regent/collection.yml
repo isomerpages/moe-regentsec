@@ -2,13 +2,13 @@ collections:
   about-regent:
     output: true
     order:
-      - Departments.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Rules.md
       - Vision, Mission & Values/School Song.md
       - School Advisory Committee.md
       - School Management Committee & All Staff.md
+      - Departments.md
       - School Publication.md
       - School Events/.keep
       - School Events/Accolades.md
