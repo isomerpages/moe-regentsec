@@ -248,7 +248,8 @@ description: ""
 <p>Mr Luqman Hakeem Bin Salim Bin Omar (English &amp; Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:luqman_hakeem_salim@moe.edu.sg" rel="noopener nofollow" target="_blank">luqman_hakeem_salim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -581,7 +582,8 @@ description: ""
 <p>Mdm Ng Ai Tee (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_ai_tee@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_ai_tee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -592,10 +594,12 @@ description: ""
 <p>Mr Zachary Wong Jiann Tsong (Math &amp; CPA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zachary_wong_jiann_tsong@moe.edu.sg" rel="noopener nofollow" target="_blank">zachary_wong_jiann_tsong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
-</p>
+<p></p>
+<p></p>
+<p></p>
