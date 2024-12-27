@@ -14,13 +14,27 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Fatima Binte Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -28,10 +42,10 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Mei Ling</p>
+<p>Mdm Foo Mei Ling (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -39,10 +53,10 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hong Jie Hui Sally</p>
+<p>Ms Hong Jie Hui Sally (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +67,8 @@ description: ""
 <p>Mr Andrew Chan Chun Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:andrew_chan_chun_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_chan_chun_yan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +76,7 @@ description: ""
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samsiyah Bte Sakoryah</p>
+<p>Mdm Samsiyah Bte Sakoryah (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Design &amp; Technology</p>
