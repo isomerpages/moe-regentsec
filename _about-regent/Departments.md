@@ -126,7 +126,7 @@ description: ""
 <p>Ms Nur Zahidah Binte A'Aidil Shari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg </a>
+<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -149,7 +149,7 @@ description: ""
 <p>HOD (English Language &amp; English Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vimala_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">vimala_subramaniam@moe.edu.sg </a>
+<p><a href="mailto:vimala_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">vimala_subramaniam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -176,7 +176,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg </a>
+<p><a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -188,7 +188,8 @@ description: ""
 <p>Ms Faith Ong Qi Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:faith_ong_qi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">faith_ong_qi_rui@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +200,8 @@ description: ""
 <p>Ms Lee Wen Chen&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:lee_wen_chen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_wen_chen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +212,8 @@ description: ""
 <p>Ms Nur Hidayah Binte Abu Mansor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:nur_hidayah_abu_mansor@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_hidayah_abu_mansor@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +224,8 @@ description: ""
 <p>Ms Siow Pei Tian Jillyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:siow_pei_tian_jillyan@moe.edu.sg" rel="noopener nofollow" target="_blank">siow_pei_tian_jillyan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +236,8 @@ description: ""
 <p>Mr Zulkiflie Abdul Razak&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +248,7 @@ description: ""
 <p>Mr Luqman Hakeem Bin Salim Bin Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English &amp; Social Studies)</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
