@@ -245,7 +245,7 @@ description: ""
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Luqman Hakeem Bin Salim Bin Omar</p>
+<p>Mr Luqman Hakeem Bin Salim Bin Omar (English &amp; Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -415,7 +415,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Su Rui Yi</p>
-<p>School Staff Developer &amp; YH - Upper Sec (Covering Sem 1)</p>
+<p>School Staff Developer &amp; YH - Upper Sec (Covering in <em>Sem 1</em>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:su_rui_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">su_rui_yi@moe.edu.sg</a>
@@ -440,7 +440,7 @@ description: ""
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lewin Sim Chin Heng (HOD/Student Management)</p>
+<p>Mr Lewin Sim Chin Heng HOD/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -451,7 +451,7 @@ description: ""
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Rui Qi Adeline (AYH/US)</p>
+<p>Ms Goh Rui Qi Adeline AYH-Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -462,7 +462,7 @@ description: ""
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Karen Lee Chai Lin (SH/ALP)</p>
+<p>Ms Karen Lee Chai Lin SH/Applied Learning Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -473,7 +473,7 @@ description: ""
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Chai Hoon Annie (SH/CCE)&nbsp;</p>
+<p>Mdm Teo Chai Hoon Annie SH/Character &amp; Citizenship Education&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -484,7 +484,7 @@ description: ""
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ching Hsia Julie (AYH/LS) *Covering</p>
+<p>Ms Tan Ching Hsia Julie AYH-Lower Sec (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
