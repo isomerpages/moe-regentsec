@@ -158,7 +158,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Goh Poh Huat</p>
+<p>Dr Goh Poh Huat
+<br><a href="mailto:goh_poh_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_poh_huat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -167,7 +169,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Su Rui Yi</p>
+<p>Ms Su Rui Yi
+<br><a href="mailto:su_rui_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">su_rui_yi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
