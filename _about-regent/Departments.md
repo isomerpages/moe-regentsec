@@ -533,7 +533,8 @@ description: ""
 <p>Mr Teo Hock Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_hock_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_hock_siong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -544,7 +545,8 @@ description: ""
 <p>Mr Koh Foo Lim, Wisely (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:koh_foo_lim_a@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_foo_lim_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -555,7 +557,8 @@ description: ""
 <p>Ms Kor Kwang Sing Lily (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kor_kwang_sing_lily@moe.edu.sg" rel="noopener nofollow" target="_blank">kor_kwang_sing_lily@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -566,7 +569,8 @@ description: ""
 <p>Mr Lee Chin Hock, Andy (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_chin_hock@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chin_hock@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
