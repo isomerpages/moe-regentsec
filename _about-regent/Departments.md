@@ -79,7 +79,8 @@ description: ""
 <p>Mdm Samsiyah Bte Sakoryah (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:samsiyah_sakaryoh@moe.edu.sg" rel="noopener nofollow" target="_blank">samsiyah_sakaryoh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
