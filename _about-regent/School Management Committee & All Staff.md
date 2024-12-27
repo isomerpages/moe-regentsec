@@ -13,6 +13,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name &amp; Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Principal</strong>
 </p>
 </td>
@@ -59,7 +69,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Su Rui Yi</p>
+<p>Ms Su Rui Yi
+<br><a href="mailto:su_rui_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">su_rui_yi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +80,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yee Ying</p>
+<p>Ms Lee Yee Ying
+<br>
+</p>
 </td>
 </tr>
 <tr>
