@@ -17,7 +17,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sng Siew Hong</p>
+<p>Mrs Sng Siew Hong
+<br><a href="mailto:regent_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">regent_ss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -26,7 +28,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Tze Fang</p>
+<p>Mdm Ng Tze Fang
+<br><a href="mailto:regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +39,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr T Pubalan</p>
+<p>Mr T Pubalan
+<br><a href="mailto:regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
