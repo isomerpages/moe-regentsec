@@ -145,8 +145,8 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vimala D/O Subramaniam</p>
-<p>HOD (English Language &amp; English Literature)</p>
+<p>Mdm Vimala D/O Subramaniam
+<br>HOD (English Language &amp; English Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vimala_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">vimala_subramaniam@moe.edu.sg</a>
@@ -158,8 +158,8 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wen Hao Joshua Augustine</p>
-<p>LH/English Language (Covering)</p>
+<p>Mr Lim Wen Hao Joshua Augustine
+<br>Level Head/English Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
@@ -171,8 +171,8 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmine Murat Haider</p>
-<p>HOD (Character &amp; Citizenship Education)</p>
+<p>Mdm Jasmine Murat Haider
+<br>HOD (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -266,8 +266,8 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janaki D/O Ramasamy</p>
-<p>HOD (Humanities)</p>
+<p>Mdm Janaki D/O Ramasamy
+<br>HOD (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
@@ -279,8 +279,8 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Theresa Ong Hwee Fang</p>
-<p>SH/Humanities</p>
+<p>Ms Theresa Ong Hwee Fang
+<br>Subject Head/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
@@ -292,8 +292,8 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jun Tian Terence</p>
-<p>SH/Student Management (Covering)</p>
+<p>Mr Tan Jun Tian Terence
+<br>Subject Head/Student Management (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
@@ -305,8 +305,8 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zainab Banu Binte Hassan</p>
-<p>ST/Geography</p>
+<p>Mdm Zainab Banu Binte Hassan
+<br>Senior Teacher/Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="zainab_banu_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">zainab_banu_hassan@moe.edu.sg</a>
