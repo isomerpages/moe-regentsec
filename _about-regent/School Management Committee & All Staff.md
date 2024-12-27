@@ -65,7 +65,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head - Upper Sec (Covering)</strong>
+<p><strong>Year Head - Upper Sec (Covering)</strong><em> Sem 1</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yee Ying
-<br>
+<br><a href="mailto:lee_yee_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_yee_ying@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kong Kok Heng Melvin</p>
+<p>Mr Kong Kok Heng Melvin
+<br><a href="mailto:kong_kok_heng_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_kok_heng_melvin@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +102,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lewin Sim Chin Heng</p>
+<p>Mr Lewin Sim Chin Heng
+<br><a href="mailto:sim_chin_heng_lewin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sim_chin_heng_lewin@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +113,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Murat Haider</p>
+<p>Ms Jasmine Murat Haider
+<br><a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jasmine_murat_haider@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +124,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Chai Hoon Annie</p>
+<p>Mdm Teo Chai Hoon Annie
+<br><a href="mailto:teo_chai_hoon_annie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_chai_hoon_annie@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +135,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Tan Jun Tian</p>
+<p>Mr Terence Tan Jun Tian
+<br><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_juntian_terence@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +146,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jiang Yuhang Isaac</p>
+<p>Mr Jiang Yuhang Isaac
+<br><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>isaac_jiang@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +157,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Rui Qi Adeline</p>
+<p>Ms Goh Rui Qi Adeline
+<br><a href="mailto:goh_rui_qi_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_rui_qi_adeline@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +168,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ching Hsia Julie</p>
+<p>Ms Tan Ching Hsia Julie
+<br><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_ching_hsia_julie@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
