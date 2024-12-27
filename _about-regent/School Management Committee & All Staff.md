@@ -545,6 +545,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Sarina Binte Samat
 <br><a href="mailto:sarina_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_samat@moe.edu.sg</a>
+<br>Soo Ley Gio Sebastian
+<br><a href="mailto:soo_ley_gio_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_ley_gio_sebastian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -554,8 +556,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liew Yu Kun</p>
-<p><a href="mailto:liew_yu_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yu_kun@moe.edu.sg</a>
+<p>Liew Yu Kun
+<br><a href="mailto:liew_yu_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yu_kun@moe.edu.sg</a>
+<br>Shawn Hong Yang
+<br><a href="mailto:hong_yang_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hong_yang_shawn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -565,8 +569,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aisha Yasmin Binte Abdul Raman</p>
-<p><a href="mailto:aisha_yasmin_abdul_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aisha_yasmin_abdul_raman@moe.edu.sg</a>
+<p>Aisha Yasmin Binte Abdul Raman
+<br><a href="mailto:aisha_yasmin_abdul_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aisha_yasmin_abdul_raman@moe.edu.sg</a>
+<br>Theresa Ong
+<br><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -576,8 +582,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Hidayah Binte Abu Mansor</p>
-<p><a href="mailto:nur_hidayah_abu_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_abu_mansor@moe.edu.sg</a>
+<p>Nur Hidayah Binte Abu Mansor
+<br><a href="mailto:nur_hidayah_abu_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_abu_mansor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -927,9 +933,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soo Ley Gio Sebastian</p>
-<p><a href="mailto:soo_ley_gio_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_ley_gio_sebastian@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -943,9 +947,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shawn Hong Yang</p>
-<p><a href="mailto:hong_yang_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hong_yang_shawn@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -959,9 +961,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Theresa Ong</p>
-<p><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
