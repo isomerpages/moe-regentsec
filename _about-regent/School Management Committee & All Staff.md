@@ -370,12 +370,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Crystal Tay Yen Yen
-<br>Ms Nur Zahidah Binte A'aidil Shari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
+<br><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
+<br>Ms Nur Zahidah Binte A'aidil Shari
 <br><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -385,12 +386,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Bernice Liau Wei Ting
-<br>Mr Teo Hock Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bernice_liau_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bernice_liau_wei_ting@moe.edu.sg</u></a>
+<br><a href="mailto:bernice_liau_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bernice_liau_wei_ting@moe.edu.sg</u></a>
+<br>Mr Teo Hock Siong
 <br><a href="mailto:teo_hock_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_hock_siong@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -400,11 +402,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zulkiflie Abdul Razak
-<br>Ms Faith Ong Qi Rui</p>
+<br><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
+<br>Ms Faith Ong Qi Rui
+<br><a href="mailto:faith_ong_qi_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_ong_qi_rui@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
-<br><a href="mailto:faith_ong_qi_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_ong_qi_rui@moe.edu.sg</a>
+<p>
+<br>
 </p>
 </td>
 </tr>
