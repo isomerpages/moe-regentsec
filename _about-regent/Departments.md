@@ -824,7 +824,8 @@ description: ""
 <br>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -836,7 +837,8 @@ description: ""
 <br>HOD/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -848,7 +850,8 @@ description: ""
 <br>Level Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kian_hong_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kian_hong_ng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -860,7 +863,8 @@ description: ""
 <br>Senior Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:koh_huey_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_huey_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -872,7 +876,8 @@ description: ""
 <br>Senior Teacher/Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nor_rasidah_mohamed_saleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_rasidah_mohamed_saleh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -883,7 +888,8 @@ description: ""
 <p>Mdm Aisha Yasmin Binte Abdul Raman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:aisha_yasmin_abdul_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aisha_yasmin_abdul_raman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -894,7 +900,8 @@ description: ""
 <p>Mr Chong Jie An</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chong_jie_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_jie_an@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -905,7 +912,8 @@ description: ""
 <p>Ms Crystal Tay Yen Yen&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -916,7 +924,8 @@ description: ""
 <p>Mrs Elsie Mathews</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:elsie_mathews@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elsie_mathews@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -927,7 +936,8 @@ description: ""
 <p>Ms Lim Hui Min Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
