@@ -497,7 +497,8 @@ description: ""
 <br>Asst Year Head - Lower Sec (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ching_hsia_julie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -508,7 +509,8 @@ description: ""
 <p>Mr Hong Yang Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hong_yang_shawn@moe.edu.sg" rel="noopener nofollow" target="_blank">hong_yang_shawn@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -519,7 +521,8 @@ description: ""
 <p>Mr Soo Ley Gio Sebastian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:soo_ley_gio_sebastian@moe.edu.sg" rel="noopener nofollow" target="_blank">soo_ley_gio_sebastian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
