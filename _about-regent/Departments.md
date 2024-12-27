@@ -79,7 +79,7 @@ description: ""
 <p>Mdm Samsiyah Bte Sakoryah (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design &amp; Technology</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,8 @@ description: ""
 <p>Ms Li Huilin Lydia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Food &amp; Consumer Education</p>
+<p><a href="mailto:li_huilin_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_huilin_lydia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +102,8 @@ description: ""
 <p>Mdm Sarina Binte Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Food &amp; Consumer Education</p>
+<p><a href="mailto:sarina_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_samat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +114,8 @@ description: ""
 <p>Ms Sng Seok Hwa Sally</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Food &amp; Consumer Education</p>
+<p><a href="mailto:sng_seok_hwa_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_seok_hwa_sally@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +126,8 @@ description: ""
 <p>Ms Nur Zahidah Binte A'Aidil Shari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music</p>
+<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg </a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -142,9 +146,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Vimala D/O Subramaniam</p>
+<p>HOD (English Language &amp; English Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (English Language &amp; English Literature)</p>
+<p><a href="mailto:vimala_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">vimala_subramaniam@moe.edu.sg </a>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,9 +159,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Wen Hao Joshua Augustine</p>
+<p>Level Head (English Language) *Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head (English Language) *Covering</p>
+<p><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -163,10 +171,13 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmine Murat Haider&nbsp;</p>
+<p>Mdm Jasmine Murat Haider</p>
+<p>HOD (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character &amp; Citizenship Education)</p>
+<p></p>
+<p><a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg </a>
+</p>
 </td>
 </tr>
 <tr>
