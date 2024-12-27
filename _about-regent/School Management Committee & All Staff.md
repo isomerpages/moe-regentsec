@@ -438,7 +438,7 @@ variant: tiptap
 <p>Mr Mohammad Suhaimi B Mohd Salleh
 <br><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
 <br>Ms Grace Tan
-<br><a href="mailto:grace_tan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tan_b@moe.edu.sg</a> 
+<br><a href="mailto:grace_tan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tan_b@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -453,7 +453,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Sharanjeet Kaur Locham
 <br><a href="mailto:sharanjeet_kaur_locham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharanjeet_kaur_locham@moe.edu.sg</a>
-<br>
+<br>Mr Low Jun Hua
+<br><a href="mailto:low_jun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_hua@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -466,8 +467,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Ching Hsia Julie</p>
-<p><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ching_hsia_julie@moe.edu.sg</a>
+<p>Ms Tan Ching Hsia Julie
+<br><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ching_hsia_julie@moe.edu.sg</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -480,8 +482,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dian Syahidah Binte Abdul Aziz</p>
-<p><a href="mailto:dian_syahidah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dian_syahidah_abdul_aziz@moe.edu.sg</a>
+<p>Mdm Dian Syahidah Binte Abdul Aziz
+<br><a href="mailto:dian_syahidah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dian_syahidah_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -874,9 +876,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Low Jun Hua</p>
-<p><a href="mailto:low_jun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_hua@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
