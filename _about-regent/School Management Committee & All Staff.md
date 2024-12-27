@@ -368,12 +368,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Crystal Tay Yen Yen</p>
-<p><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
-</p>
+<p>Ms Crystal Tay Yen Yen
+<br>Ms Nur Zahidah Binte A'aidil Shari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
+<br><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -382,12 +383,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bernice Liau Wei Ting</p>
-<p><a href="mailto:bernice_liau_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bernice_liau_wei_ting@moe.edu.sg</u></a>
-</p>
+<p>Ms Bernice Liau Wei Ting
+<br>MrTeo Hock Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:bernice_liau_wei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bernice_liau_wei_ting@moe.edu.sg</u></a>
+<br><a href="mailto:teo_hock_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_hock_siong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -788,9 +790,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Zahidah Binte A'aidil Shari</p>
-<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zahidah_aaidil_shari_nur@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
