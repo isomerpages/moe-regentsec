@@ -622,7 +622,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Muhammad Ridhwan
 <br><a href="mailto:muhammad_ridhwan_mohammad_muzaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ridhwan_mohammad_muzaki@moe.edu.sg</a>
-<br>
+<br>Andrew Chan Chun Yan
+<br><a href="mailto:andrew_chan_chun_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_chan_chun_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -632,8 +633,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Karen Lee Chai Lin</p>
-<p><a href="mailto:karen_lee_chai_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karen_lee_chai_lin@moe.edu.sg</a>
+<p>Karen Lee Chai Lin
+<br><a href="mailto:karen_lee_chai_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karen_lee_chai_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -643,8 +644,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zainab Banu Binte Hassan</p>
-<p><a href="mailto:zainab_banu_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zainab_banu_hassan@moe.edu.sg</a>
+<p>Zainab Banu Binte Hassan
+<br><a href="mailto:zainab_banu_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zainab_banu_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -654,8 +655,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mark Chee Kong</p>
-<p><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
+<p>Mark Chee Kong
+<br><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -665,8 +666,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jiang Yuhang Isaac</p>
-<p><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
+<p>Jiang Yuhang Isaac
+<br><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -676,8 +677,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adeline Goh Rui Qi</p>
-<p><a href="mailto:goh_rui_qi_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_rui_qi_adeline@moe.edu.sg</a>
+<p>Adeline Goh Rui Qi
+<br><a href="mailto:goh_rui_qi_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_rui_qi_adeline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1024,9 +1025,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Andrew Chan Chun Yan</p>
-<p><a href="mailto:andrew_chan_chun_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_chan_chun_yan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
