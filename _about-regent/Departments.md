@@ -147,7 +147,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Vimala D/O Subramaniam
-<br>HOD (English Language &amp; English Literature)</p>
+<br>HOD (English Language &amp; Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vimala_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">vimala_subramaniam@moe.edu.sg</a>
@@ -627,7 +627,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Goh Poh Huat
-<br>School-Based Master Teacher/CLL</p>
+<br>School-Based Master Teacher/Chinese Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
