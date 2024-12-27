@@ -159,7 +159,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Wen Hao Joshua Augustine</p>
-<p>Level Head (English Language) *Covering</p>
+<p>LH/English Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
@@ -280,7 +280,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Theresa Ong Hwee Fang</p>
-<p>Subject Head (Humanities)</p>
+<p>SH/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
@@ -293,7 +293,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jun Tian Terence</p>
-<p>Subject Head (Student Management) *Covering</p>
+<p>SH/Student Management (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
@@ -306,7 +306,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainab Banu Binte Hassan</p>
-<p>Senior Teacher (Geography)</p>
+<p>ST/Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="zainab_banu_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">zainab_banu_hassan@moe.edu.sg</a>
@@ -402,10 +402,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Chee Kong</p>
-<p>Level Head ( Mathematics) *Covering</p>
+<p>LH/Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -413,10 +414,12 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Su Rui Yi (SSD &amp; *Covering YH/US, Sem 1)</p>
+<p>Ms Su Rui Yi</p>
+<p>School Staff Developer &amp; YH - Upper Sec (Covering Sem 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:su_rui_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">su_rui_yi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -424,10 +427,12 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yee Ying (YH/LS)</p>
+<p>Ms Lee Yee Ying</p>
+<p>YH-Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_yee_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yee_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -575,4 +580,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
+</p>
