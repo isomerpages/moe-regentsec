@@ -948,7 +948,8 @@ description: ""
 <p>Mr Low Jun Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:low_jun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_hua@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -959,7 +960,8 @@ description: ""
 <p>Mr Muhammad Fauzan Bin Sapuan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_fauzan_sapuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fauzan_sapuan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -970,7 +972,8 @@ description: ""
 <p>Mr Muhammad Ridhwan Bin Mohammad Muzaki&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_ridhwan_mohammad_muzaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ridhwan_mohammad_muzaki@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -981,7 +984,8 @@ description: ""
 <p>Mdm Ng Ai Lin (Lower Sec Science &amp; Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_ai_lin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_lin_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -992,7 +996,8 @@ description: ""
 <p>Mr Naszry Bin Abdul Sany (Physics &amp; Computer Application)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:naszry_abdul_sany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naszry_abdul_sany@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1003,7 +1008,8 @@ description: ""
 <p>Ms Yeo Jun Yi, Kyra Joyce (Biology &amp; Chemistry)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeo_jun_yi_kyra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jun_yi_kyra@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
