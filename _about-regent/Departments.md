@@ -270,7 +270,8 @@ description: ""
 <p>HOD (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -387,10 +388,12 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tong Wee Heng (HOD/MATHS)</p>
+<p>Mdm Tong Wee Heng</p>
+<p>HOD (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tong_wee_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">tong_wee_heng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +401,8 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Chee Kong (LH/Math) *Covering</p>
+<p>Mr Mark Chee Kong</p>
+<p>Level Head ( Mathematics) *Covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
