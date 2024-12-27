@@ -2,7 +2,7 @@ collections:
   about-regent:
     output: true
     order:
-      - Craft & Technology.md
+      - Departments.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Rules.md
