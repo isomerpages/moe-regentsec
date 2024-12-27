@@ -45,7 +45,8 @@ description: ""
 <p>Mdm Foo Mei Ling (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:foo_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_mei_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +57,8 @@ description: ""
 <p>Ms Hong Jie Hui Sally (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:hong_jie_hui_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hong_jie_hui_sally@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
