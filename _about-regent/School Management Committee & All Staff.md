@@ -505,8 +505,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Hui Min, Vanessa</p>
-<p><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
+<p>Lim Hui Min, Vanessa
+<br><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -516,8 +516,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yunus Bin Mohamed</p>
-<p><a href="mailto:yunus_b_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yunus_b_mohamed@moe.edu.sg</a>
+<p>Yunus Bin Mohamed
+<br><a href="mailto:yunus_b_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yunus_b_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -527,8 +527,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siow Pei Tian Jillyan</p>
-<p><a href="mailto:siow_pei_tian_jillyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siow_pei_tian_jillyan@moe.edu.sg</a>
+<p>Siow Pei Tian Jillyan
+<br><a href="mailto:siow_pei_tian_jillyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siow_pei_tian_jillyan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
