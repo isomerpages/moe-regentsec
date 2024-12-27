@@ -584,6 +584,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Nur Hidayah Binte Abu Mansor
 <br><a href="mailto:nur_hidayah_abu_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_abu_mansor@moe.edu.sg</a>
+<br>Kwok Weng Meng Michael
+<br><a href="mailto:kwok_weng_meng_michael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_weng_meng_michael@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -593,8 +595,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Li Huilin Lydia</p>
-<p><a href="mailto:li_huilin_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_huilin_lydia@moe.edu.sg</a>
+<p>Li Huilin Lydia
+<br><a href="mailto:li_huilin_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_huilin_lydia@moe.edu.sg</a>
+<br>Muhammad Fauzan Bin Sapuan
+<br><a href="mailto:muhammad_fauzan_sapuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fauzan_sapuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -604,9 +608,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nor Rasidah Bte Mohd Salleh</p>
-<p><a href="mailto:nor_rasidah_mohamed_saleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_rasidah_mohamed_saleh@moe.edu.sg</a>
-</p>
+<p>Nor Rasidah Bte Mohd Salleh
+<br><a href="mailto:nor_rasidah_mohamed_saleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_rasidah_mohamed_saleh@moe.edu.sg</a>
+<br>Seet Xuan Yang Derek
+<br>-</p>
 </td>
 </tr>
 <tr>
@@ -615,8 +620,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Ridhwan</p>
-<p><a href="mailto:muhammad_ridhwan_mohammad_muzaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ridhwan_mohammad_muzaki@moe.edu.sg</a>
+<p>Muhammad Ridhwan
+<br><a href="mailto:muhammad_ridhwan_mohammad_muzaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ridhwan_mohammad_muzaki@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -975,9 +981,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwok Weng Meng Michael</p>
-<p><a href="mailto:kwok_weng_meng_michael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_weng_meng_michael@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -991,9 +995,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Fauzan Bin Sapuan</p>
-<p><a href="mailto:muhammad_fauzan_sapuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fauzan_sapuan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1007,7 +1009,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Seet Xuan Yang Derek</p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 </tr>
