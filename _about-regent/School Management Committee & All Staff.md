@@ -420,12 +420,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nur Aishah Bte Suparjo
-<br>Ms Lee Wen Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nur_aishah_suparjo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nur_aishah_suparjo@moe.edu.sg</u></a>
+<br><a href="mailto:siti_nur_aishah_suparjo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nur_aishah_suparjo@moe.edu.sg</u></a>
+<br>Ms Lee Wen Chen
 <br><a href="mailto:lee_wen_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wen_chen@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -435,12 +436,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Suhaimi B Mohd Salleh
-<br>Ms Grace Tan</p>
+<br><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
+<br>Ms Grace Tan
+<br><a href="mailto:grace_tan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tan_b@moe.edu.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
-<br><a href="mailto:grace_tan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tan_b@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
