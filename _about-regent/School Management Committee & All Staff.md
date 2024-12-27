@@ -398,12 +398,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zulkiflie Abdul Razak</p>
-<p><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
-</p>
+<p>Zulkiflie Abdul Razak
+<br>Faith Ong Qi Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
+<br><a href="mailto:faith_ong_qi_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_ong_qi_rui@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -820,9 +821,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faith Ong Qi Rui</p>
-<p><a href="mailto:faith_ong_qi_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_ong_qi_rui@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
