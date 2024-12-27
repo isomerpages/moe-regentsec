@@ -428,7 +428,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yee Ying</p>
-<p>YH-Lower Sec</p>
+<p>Year Head - Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yee_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yee_ying@moe.edu.sg</a>
@@ -443,7 +443,8 @@ description: ""
 <p>Mr Lewin Sim Chin Heng HOD/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sim_chin_heng_lewin@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_chin_heng_lewin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -451,10 +452,12 @@ description: ""
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Rui Qi Adeline AYH-Upper Sec</p>
+<p>Ms Goh Rui Qi Adeline</p>
+<p>Asst Year Head - Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_rui_qi_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_rui_qi_adeline@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -465,7 +468,8 @@ description: ""
 <p>Ms Karen Lee Chai Lin SH/Applied Learning Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:karen_lee_chai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">karen_lee_chai_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -476,7 +480,8 @@ description: ""
 <p>Mdm Teo Chai Hoon Annie SH/Character &amp; Citizenship Education&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_chai_hoon_annie@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_chai_hoon_annie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -484,7 +489,8 @@ description: ""
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ching Hsia Julie AYH-Lower Sec (Covering)</p>
+<p>Ms Tan Ching Hsia Julie</p>
+<p>Asst Year Head - Lower Sec (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
