@@ -507,6 +507,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Lim Hui Min, Vanessa
 <br><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
+<br>Tan Jun Tian Terence
+<br><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -518,7 +520,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Yunus Bin Mohamed
 <br><a href="mailto:yunus_b_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yunus_b_mohamed@moe.edu.sg</a>
-</p>
+<br>Siti Fatima Binte Azmi
+<br>-</p>
 </td>
 </tr>
 <tr>
@@ -529,6 +532,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Siow Pei Tian Jillyan
 <br><a href="mailto:siow_pei_tian_jillyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siow_pei_tian_jillyan@moe.edu.sg</a>
+<br>Muhammad Muslihuddin B Abdul Raza
+<br><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -538,8 +543,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sarina Binte Samat</p>
-<p><a href="mailto:sarina_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_samat@moe.edu.sg</a>
+<p>Sarina Binte Samat
+<br><a href="mailto:sarina_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_samat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -879,9 +884,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Jun Tian Terence</p>
-<p><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -895,7 +898,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Fatima Binte Azmi</p>
+<p></p>
 <p>-</p>
 </td>
 </tr>
@@ -910,9 +913,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Muslihuddin B Abdul Raza</p>
-<p><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
