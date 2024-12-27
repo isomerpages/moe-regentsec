@@ -267,9 +267,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Janaki D/O Ramasamy</p>
+<p>HOD (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Humanities)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -278,9 +279,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Theresa Ong Hwee Fang</p>
+<p>Subject Head (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Humanities)</p>
+<p><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -289,9 +292,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jun Tian Terence</p>
+<p>Subject Head (Student Management) *Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Management) *Covering</p>
+<p><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -300,9 +305,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainab Banu Binte Hassan</p>
+<p>Senior Teacher (Geography)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Geography)</p>
+<p><a href="zainab_banu_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">zainab_banu_hassan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -313,7 +320,8 @@ description: ""
 <p>Ms Bernice Liau Wei Ting&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:bernice_liau_wei_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">bernice_liau_wei_ting@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +332,8 @@ description: ""
 <p>Mr Kesavan S/O Veerappen&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:kesavan_veerappen@moe.edu.sg" rel="noopener nofollow" target="_blank">kesavan_veerappen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +344,8 @@ description: ""
 <p>Ms Liew Yu Kun&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:liew_yu_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yu_kun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +356,8 @@ description: ""
 <p>Mr Mohammad Suhaimi B Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -357,7 +368,8 @@ description: ""
 <p>Ms Sharanjeet Kaur Locham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:sharanjeet_kaur_locham@moe.edu.sg" rel="noopener nofollow" target="_blank">sharanjeet_kaur_locham@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
