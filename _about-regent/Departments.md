@@ -32,7 +32,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sng Seok Hwa Sally
-<br>Nutrition &amp; Food Science Coordinator</p>
+<br>(Nutrition &amp; Food Science Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sng_seok_hwa_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_seok_hwa_sally@moe.edu.sg</a>
@@ -44,7 +44,7 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Huilin Lydia (NFS)</p>
+<p>Ms Li Huilin Lydia (Nutrition &amp; Food Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_huilin_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_huilin_lydia@moe.edu.sg</a>
@@ -56,7 +56,7 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarina Binte Samat (NFS)</p>
+<p>Mdm Sarina Binte Samat (Nutrition &amp; Food Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sarina_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_samat@moe.edu.sg</a>
@@ -69,7 +69,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mohammad Suhaimi B Mohd Salleh
-<br>Art Coordinator</p>
+<br>(Art Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
@@ -116,7 +116,7 @@ description: ""
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Chan Chun Yan (D&amp;T)</p>
+<p>Mr Andrew Chan Chun Yan (Design &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:andrew_chan_chun_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_chan_chun_yan@moe.edu.sg</a>
@@ -128,7 +128,7 @@ description: ""
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samsiyah Bte Sakoryah (D&amp;T)</p>
+<p>Mdm Samsiyah Bte Sakoryah (Design &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:samsiyah_sakaryoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samsiyah_sakaryoh@moe.edu.sg</a>
