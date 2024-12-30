@@ -255,7 +255,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Phang Yuh Koon
-<br>
+<br><a href="mailto:phang_yuh_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phang_yuh_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -265,7 +265,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Hui Ching</p>
+<p>Ms Chew Hui Ching
+<br><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +276,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Karen Lee Chai Lin</p>
+<p>Ms Karen Lee Chai Lin
+<br><a href="mailto:karen_lee_chai_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karen_lee_chai_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +287,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Theresa Ong Hwee Fang</p>
+<p>Ms Theresa Ong Hwee Fang
+<br><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -292,7 +298,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Chee Kong</p>
+<p>Mr Mark Chee Kong
+<br><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +309,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Muslihuddin Bin Abdul Raza</p>
+<p>Mr Muhammad Muslihuddin Bin Abdul Raza
+<br><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
