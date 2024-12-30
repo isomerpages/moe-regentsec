@@ -433,7 +433,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Su Rui Yi
-<br>School Staff Developer &amp; Year Head - Upper Sec (Covering) in <em>Semester 1</em>
+<br>School Staff Developer
+<br>Year Head - Upper Sec (Covering) in <em>Semester 1</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
