@@ -329,7 +329,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Huey Min</p>
+<p>Mdm Koh Huey Min
+<br><a href="mailto:koh_huey_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_huey_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -338,7 +340,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zainab Banu Binte Hassan</p>
+<p>Mdm Zainab Banu Binte Hassan
+<br><a href="mailto:zainab_banu_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zainab_banu_hassan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +351,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Rasidah Bte Mohd Salleh</p>
+<p>Mdm Nor Rasidah Bte Mohd Salleh
+<br><a href="mailto:nor_rasidah_mohamed_saleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_rasidah_mohamed_saleh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -356,7 +362,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwok Weng Meng Michael</p>
+<p>Mr Kwok Weng Meng Michael
+<br><a href="mailto:kwok_weng_meng_michael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_weng_meng_michael@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +373,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kian Hong</p>
+<p>Mr Ng Kian Hong
+<br><a href="mailto:kian_hong_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kian_hong_ng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -374,7 +384,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wen Hao Joshua Augustine</p>
+<p>Mr Lim Wen Hao Joshua Augustine
+<br><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +395,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Chee Kong&nbsp;</p>
+<p>Mr Mark Chee Kong
+<br><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
