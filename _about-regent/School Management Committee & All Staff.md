@@ -229,6 +229,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>HOD - ICT</strong>
+<br><strong>HOD - Science (Covering)</strong>  <em>in Semester 1</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
