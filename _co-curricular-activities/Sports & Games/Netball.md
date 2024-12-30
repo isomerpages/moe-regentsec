@@ -10,8 +10,8 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Mdm Liew Yu Kun - IC
-<br>Ms Pek Yan Shan
-<br>Ms Theresa Ong Hwee Fang</p>
+<br>Ms Theresa Ong Hwee Fang
+<br>Ms Pek Yan Shan</p>
 <h4>Vision</h4>
 <p>To be a confident player and competent leader</p>
 <h4>Mission</h4>
