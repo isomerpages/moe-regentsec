@@ -32,7 +32,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sng Seok Hwa Sally
-<br>NFS Coordinator</p>
+<br>Nutrition &amp; Food Science Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sng_seok_hwa_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_seok_hwa_sally@moe.edu.sg</a>
