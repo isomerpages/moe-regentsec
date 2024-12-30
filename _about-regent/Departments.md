@@ -850,7 +850,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Ming Hwee
-<br>HOD/ICT</p>
+<br>HOD/ICT
+<br>HOD/Science (Covering) in <em>Semester 1</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
