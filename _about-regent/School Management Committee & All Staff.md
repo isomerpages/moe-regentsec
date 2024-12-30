@@ -210,7 +210,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vimala D/O Subramaniam</p>
+<p>Mdm Vimala D/O Subramaniam
+<br><a href="mailto:vimala_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vimala_subramaniam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +221,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janaki D/O Ramasamy</p>
+<p>Mdm Janaki D/O Ramasamy
+<br><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +232,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tham Ming Hwee</p>
+<p>Mr Tham Ming Hwee
+<br><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +243,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tong Wee Heng</p>
+<p>Mdm Tong Wee Heng
+<br><a href="mailto:tong_wee_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tong_wee_heng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +254,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phang Yuh Koon</p>
+<p>Mr Phang Yuh Koon
+<br>
+</p>
 </td>
 </tr>
 <tr>
