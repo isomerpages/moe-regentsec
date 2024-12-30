@@ -805,7 +805,7 @@ description: ""
 <p>Ms Grace Tan (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:grace_tan_b@moe.edu.sg" rel="noopener nofollow" target="_blank">grace_tan_b@moe.edu.sg</a>
+<p><a href="mailto:grace_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">grace_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
