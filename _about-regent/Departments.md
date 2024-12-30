@@ -433,7 +433,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Su Rui Yi
-<br>School Staff Developer &amp; Year Head - Upper Sec (Covering) in <em>Semester 1</em>
+<br>School Staff Developer
+<br>Year Head - Upper Sec (Covering) in <em>Semester 1</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -805,7 +806,7 @@ description: ""
 <p>Ms Grace Tan (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:grace_tan_b@moe.edu.sg" rel="noopener nofollow" target="_blank">grace_tan_b@moe.edu.sg</a>
+<p><a href="mailto:grace_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">grace_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -850,7 +851,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Ming Hwee
-<br>HOD/ICT</p>
+<br>HOD/ICT
+<br>HOD/Science (Covering) in <em>Semester 1</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
