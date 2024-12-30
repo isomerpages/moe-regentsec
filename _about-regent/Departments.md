@@ -31,7 +31,57 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Fatima Binte Azmi</p>
+<p>Ms Sng Seok Hwa Sally
+<br>NFS Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sng_seok_hwa_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_seok_hwa_sally@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Li Huilin Lydia (NFS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_huilin_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_huilin_lydia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarina Binte Samat (NFS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sarina_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_samat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohammad Suhaimi B Mohd Salleh
+<br>Art Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Fatima Binte Azmi (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -39,7 +89,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Foo Mei Ling (Art)</p>
@@ -51,7 +101,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hong Jie Hui Sally (Art)</p>
@@ -63,10 +113,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Chan Chun Yan</p>
+<p>Mr Andrew Chan Chun Yan (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:andrew_chan_chun_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_chan_chun_yan@moe.edu.sg</a>
@@ -75,61 +125,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Samsiyah Bte Sakoryah (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samsiyah_sakaryoh@moe.edu.sg" rel="noopener nofollow" target="_blank">samsiyah_sakaryoh@moe.edu.sg</a>
+<p><a href="mailto:samsiyah_sakaryoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samsiyah_sakaryoh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Huilin Lydia</p>
+<p>Ms Nur Zahidah Binte A'Aidil Shari (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_huilin_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_huilin_lydia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarina Binte Samat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sarina_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_samat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sng Seok Hwa Sally</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sng_seok_hwa_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_seok_hwa_sally@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Zahidah Binte A'Aidil Shari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
+<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
