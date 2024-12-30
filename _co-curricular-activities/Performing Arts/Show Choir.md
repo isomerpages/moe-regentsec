@@ -11,7 +11,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Mdm Dian Syahidah - IC
 <br>Ms Goh Rui Qi, Adeline
-<br>Mrs Elsie Mathews</p>
+<br>Mrs Elsie Mathews
+<br>Ms Siti Fatima Binte Azmi</p>
 <h4>Vision</h4>
 <p>All students are enthusiastic performers and appreciators of all forms
 of music and dance.</p>
