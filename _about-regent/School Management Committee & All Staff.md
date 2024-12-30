@@ -491,7 +491,7 @@ variant: tiptap
 <p>Mr Mohammad Suhaimi B Mohd Salleh
 <br><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
 <br>Ms Grace Tan
-<br><a href="mailto:grace_tan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tan_b@moe.edu.sg</a>
+<br><a href="mailto:grace_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
