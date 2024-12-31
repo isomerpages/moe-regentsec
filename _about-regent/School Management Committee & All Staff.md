@@ -273,7 +273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - ALP</strong>
+<p><strong>Subject Head - Applied Learning Programme</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,7 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Data Management (Covering)</strong>
+<p><strong>Level Head - Mathematics (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
