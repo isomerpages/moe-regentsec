@@ -487,7 +487,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karen Lee Chai Lin
-<br>Subject Head/Applied Learning Programme</p>
+<br>Subject Head/Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:karen_lee_chai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">karen_lee_chai_lin@moe.edu.sg</a>
