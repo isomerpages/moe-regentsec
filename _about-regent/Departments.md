@@ -163,7 +163,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Vimala D/O Subramaniam
-<br>HOD (English Language &amp; Literature)</p>
+<br>HOD - English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vimala_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">vimala_subramaniam@moe.edu.sg</a>
@@ -176,7 +176,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Wen Hao Joshua Augustine
-<br>Level Head/English Language (Covering)</p>
+<br>Level Head - English Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
@@ -189,7 +189,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jasmine Murat Haider
-<br>HOD (Character &amp; Citizenship Education)</p>
+<br>HOD - Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -285,7 +285,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Janaki D/O Ramasamy
-<br>HOD (Humanities)</p>
+<br>HOD - Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
@@ -298,7 +298,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Theresa Ong Hwee Fang
-<br>Subject Head/Humanities</p>
+<br>Subject Head - Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
@@ -311,7 +311,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jun Tian Terence
-<br>Subject Head/Student Management (Covering)</p>
+<br>Subject Head - Student Management (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
@@ -324,7 +324,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainab Banu Binte Hassan
-<br>Senior Teacher/Geography</p>
+<br>Senior Teacher - Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="zainab_banu_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">zainab_banu_hassan@moe.edu.sg</a>
@@ -407,7 +407,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tong Wee Heng
-<br>HOD (Mathematics)</p>
+<br>HOD - Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tong_wee_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">tong_wee_heng@moe.edu.sg</a>
@@ -420,7 +420,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Chee Kong
-<br>Level Head/Mathematics (Covering)</p>
+<br>Level Head - Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
@@ -434,7 +434,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Ms Su Rui Yi
 <br>School Staff Developer
-<br>Year Head - Upper Sec (Covering) in <em>Semester 1</em>
+<br>Year Head - Upper Sec (Covering)<em> in Semester 1</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,7 +461,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lewin Sim Chin Heng
-<br>HOD/Student Management</p>
+<br>HOD - Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_chin_heng_lewin@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_chin_heng_lewin@moe.edu.sg</a>
@@ -474,7 +474,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Rui Qi Adeline
-<br>Asst Year Head - Upper Sec</p>
+<br>Assistant Year Head - Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_rui_qi_adeline@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_rui_qi_adeline@moe.edu.sg</a>
@@ -487,7 +487,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karen Lee Chai Lin
-<br>Subject Head/Applied Learning Programme</p>
+<br>Subject Head - Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:karen_lee_chai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">karen_lee_chai_lin@moe.edu.sg</a>
@@ -500,7 +500,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Chai Hoon Annie
-<br>Subject Head/Character &amp; Citizenship Education&nbsp;</p>
+<br>Subject Head - Character &amp; Citizenship Education&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_chai_hoon_annie@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_chai_hoon_annie@moe.edu.sg</a>
@@ -513,7 +513,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ching Hsia Julie
-<br>Asst Year Head - Lower Sec (Covering)</p>
+<br>Assistant Year Head - Lower Sec (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ching_hsia_julie@moe.edu.sg</a>
@@ -632,7 +632,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Phang Yuh Koon
-<br>HOD/Mother Tongue</p>
+<br>HOD - Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phang_yuh_koon@moe.edu.sg" rel="noopener nofollow" target="_blank">phang_yuh_koon@moe.edu.sg</a>
@@ -645,7 +645,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Goh Poh Huat
-<br>School-Based Master Teacher/Chinese Language &amp; Literature</p>
+<br>School-Based Master Teacher - Chinese Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_poh_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_poh_huat@moe.edu.sg</a>
@@ -658,7 +658,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Muslihuddin B Abdul Raza
-<br>Subject Head/Malay Language (Covering)</p>
+<br>Subject Head - Malay Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
@@ -765,7 +765,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kong Kok Heng Melvin
-<br>HOD/PE &amp; CCA</p>
+<br>HOD - PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kong_kok_heng_melvin@moe.edu.sg" rel="noopener nofollow" target="_blank">kong_kok_heng_melvin@moe.edu.sg</a>
@@ -778,7 +778,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jiang Yuhang Isaac
-<br>Subject Head/CCA</p>
+<br>Subject Head - CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
@@ -791,7 +791,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kwok Weng Meng Michael
-<br>Senior Teacher/PE</p>
+<br>Senior Teacher - PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwok_weng_meng_michael@moe.edu.sg" rel="noopener nofollow" target="_blank">kwok_weng_meng_michael@moe.edu.sg</a>
@@ -838,7 +838,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chew Hui Ching
-<br>HOD/Science</p>
+<br>HOD - Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
@@ -851,8 +851,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Ming Hwee
-<br>HOD/ICT
-<br>HOD/Science (Covering) in <em>Semester 1</em>
+<br>HOD - ICT
+<br>HOD - Science (Covering) <em>in Semester 1</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -866,7 +866,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Kian Hong
-<br>Level Head/Science</p>
+<br>Level Head - Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kian_hong_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kian_hong_ng@moe.edu.sg</a>
@@ -879,7 +879,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Huey Min
-<br>Senior Teacher/Biology</p>
+<br>Senior Teacher - Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_huey_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_huey_min@moe.edu.sg</a>
@@ -892,7 +892,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Rasidah Bte Mohd Salleh
-<br>Senior Teacher/Physics</p>
+<br>Senior Teacher - Physics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nor_rasidah_mohamed_saleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_rasidah_mohamed_saleh@moe.edu.sg</a>
