@@ -585,7 +585,8 @@ variant: tiptap
 <p>Mr Yunus Bin Mohamed
 <br><a href="mailto:yunus_b_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yunus_b_mohamed@moe.edu.sg</a>
 <br>Ms Siti Fatima Binte Azmi
-<br>-</p>
+<br><a href="mailto:siti_fatima_bte_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_fatima_bte_azmi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
