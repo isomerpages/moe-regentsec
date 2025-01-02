@@ -32,7 +32,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sng Seok Hwa Sally
-<br>(Nutrition &amp; Food Science - Coordinator)</p>
+<br>(Nutrition &amp; Food Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sng_seok_hwa_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_seok_hwa_sally@moe.edu.sg</a>
@@ -69,7 +69,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mohammad Suhaimi B Mohd Salleh
-<br>(Art - Coordinator)</p>
+<br>(Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
