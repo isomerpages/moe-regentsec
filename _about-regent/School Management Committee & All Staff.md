@@ -295,6 +295,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Level Head - Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kian Hong
+<br><a href="mailto:kian_hong_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kian_hong_ng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head - English Language (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wen Hao Joshua Augustine
+<br><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Level Head - Mathematics (Covering)</strong>
 </p>
 </td>
@@ -365,39 +387,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Kwok Weng Meng Michael
 <br><a href="mailto:kwok_weng_meng_michael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_weng_meng_michael@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head - Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Kian Hong
-<br><a href="mailto:kian_hong_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kian_hong_ng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head - English Language (Covering)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Wen Hao Joshua Augustine
-<br><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head - Mathematics (Covering)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mark Chee Kong
-<br><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
