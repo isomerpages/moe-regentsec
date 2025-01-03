@@ -84,7 +84,8 @@ description: ""
 <p>Ms Siti Fatima Binte Azmi (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:siti_fatima_bte_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_fatima_bte_azmi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
