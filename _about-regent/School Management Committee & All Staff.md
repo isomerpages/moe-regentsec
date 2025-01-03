@@ -585,7 +585,8 @@ variant: tiptap
 <p>Mr Yunus Bin Mohamed
 <br><a href="mailto:yunus_b_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yunus_b_mohamed@moe.edu.sg</a>
 <br>Ms Siti Fatima Binte Azmi
-<br>-</p>
+<br><a href="mailto:siti_fatima_bte_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_fatima_bte_azmi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -782,6 +783,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kate Tan Lay Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Wai Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Trainee School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kang Kai Ting Vernice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Education Needs Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti'Aishah Binte Suhaimi</p>
 </td>
 </tr>
 <tr>

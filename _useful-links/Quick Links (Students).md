@@ -86,7 +86,7 @@ variant: tiptap
 <p>Regent Blended Learning Site (HBL schedule &amp; SIL Projects)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/rgtbl/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/rgtbl/home</a>
+<p><a href="https://sites.google.com/moe.edu.sg/rgthbl/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/rgthbl/home</a>
 </p>
 </td>
 </tr>

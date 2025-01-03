@@ -5,8 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p><strong>MOE&nbsp;Sexuality Education in Schools</strong>
-</p>
+<h4>MOE&nbsp;Sexuality Education in Schools</h4>
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
