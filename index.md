@@ -54,14 +54,6 @@ sections:
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
-  - infopic:
-      title: Graduation Ceremony 2024
-      subtitle: Highlights
-      id: infopic
-      button: Read more about it here
-      url: /graduation-ceremony-2024/
-      image: /images/InfoPic Widget/InfoPic_Graduation_Day.jpg
-      alt: Image alt text
   - announcements:
       title: Announcements & Highlights
       id: announcements
