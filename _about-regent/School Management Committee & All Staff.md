@@ -787,6 +787,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Wai Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Trainee School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kang Kai Ting Vernice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Education Needs Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti'Aishah Binte Suhaimi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Snr Education Career Guidance Counsellor</strong>
 </p>
 </td>
