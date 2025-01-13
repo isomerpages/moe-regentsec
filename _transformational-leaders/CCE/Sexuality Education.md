@@ -96,23 +96,25 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Regent Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in <u>2024</u>:</strong>
+<p><strong>At Regent Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in <u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2024_eTeens_updated.jpg">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>10. More information will be shared through Parent Gateway (PG) regarding
+Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers. Upon receipt of
+the letter through PG, parents/ guardians hereby approve and consent to
+the child/ward attending Sexuality Education lessons, unless a written
+request to opt-out is provided.</p>
 <p>11. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. Please contact HOD CCE, Ms. Jasmine
-Murat, at 6765 3828 (223) or <a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg</a> so
-that we could understand your concerns.</p>
-<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Item_12_Letterhead_2024_OPT_OUT_FORM_E_TEENS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 19/01/2024.</p>
-<p>13. Parents can contact the school at <a href="mailto:regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a> or 6765 3828
-for discussion or to seek clarification about the school’s Sexuality Education
+lessons and/or <em>eTeens</em> programme <strong>need to request for an opt-out form</strong> by
+contacting HOD CCE, Ms. Jasmine Murat, at 6765 3828 (223) or <a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg</a> so
+that we could understand your concerns. The opt-out form will be given
+to parent thereafter. The completed form is to be submitted by 20 January
+2025. &nbsp;</p>
+<p>12. Parents can contact the child’s Form Teacher or the school at <a href="mailto:regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a> or
+6765 3828 to seek clarification about the school’s Sexuality Education
 programme.</p>
