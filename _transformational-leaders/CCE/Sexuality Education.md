@@ -35,7 +35,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>Overview of&nbsp;Regent Secondary School’s&nbsp;&nbsp;Sexuality Education Programme for <u>2024</u></strong>
+<p><strong>Overview of&nbsp;Regent Secondary School’s&nbsp;&nbsp;Sexuality Education Programme for <u>2025</u></strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -51,38 +51,43 @@ in the school curriculum.</p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
-his/her own identity and often struggles with new social relationships.
+his or her own identity and often struggles with new social relationships.
 The period of middle adolescence (generally from 15 – 17 years old) can
 be a turbulent period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
-need for peer acceptance can be overwhelmingly strong, and hinder one’s
-ability to act responsibly. Given the pressures faced by the middle adolescent
-from within themselves and from peers, it is important to build a strong
-sense of self-worth, personal conviction and an understanding of the possible
-consequences of sexual behaviour.</p>
+need for peer acceptance can be overwhelmingly strong and hinder one’s
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
 <p>7. Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Regent Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:</strong>
+<p><strong>At Regent Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2024_SEd_Secondary_2_updated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_3.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_5.png">
 </div>
+<p></p>
 <p><strong><em><u>eTeens</u></em><u>&nbsp;Programme:</u></strong>
 </p>
 <p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
@@ -96,23 +101,25 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Regent Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in <u>2024</u>:</strong>
+<p><strong>At Regent Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in <u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2024_eTeens_updated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_eTeens.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>10. More information will be shared through Parent Gateway (PG) regarding
+Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers. Upon receipt of
+the letter through PG, parents/ guardians hereby approve and consent to
+the child/ward attending Sexuality Education lessons, unless a written
+request to opt-out is provided.</p>
 <p>11. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. Please contact HOD CCE, Ms. Jasmine
-Murat, at 6765 3828 (223) or <a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg</a> so
-that we could understand your concerns.</p>
-<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Item_12_Letterhead_2024_OPT_OUT_FORM_E_TEENS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 19/01/2024.</p>
-<p>13. Parents can contact the school at <a href="mailto:regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a> or 6765 3828
-for discussion or to seek clarification about the school’s Sexuality Education
+lessons and/or <em>eTeens</em> programme <strong>need to request for an opt-out form</strong> by
+contacting HOD CCE, Ms. Jasmine Murat, at 6765 3828 (223) or <a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg</a> so
+that we could understand your concerns. The opt-out form will be given
+to parent thereafter. The completed form is to be submitted by 20 January
+2025. &nbsp;</p>
+<p>12. Parents can contact the child’s Form Teacher or the school at <a href="mailto:regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a> or
+6765 3828 to seek clarification about the school’s Sexuality Education
 programme.</p>
