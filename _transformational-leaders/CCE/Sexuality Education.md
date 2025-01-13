@@ -69,20 +69,25 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Regent Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2024_SEd_Secondary_2_updated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_3.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality%20Education/2024_SEd_Secondary_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_5.png">
 </div>
+<p></p>
 <p><strong><em><u>eTeens</u></em><u>&nbsp;Programme:</u></strong>
 </p>
 <p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
@@ -99,7 +104,7 @@ Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Regent Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in <u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2024_eTeens_updated.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_eTeens.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
