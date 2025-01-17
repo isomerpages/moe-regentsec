@@ -64,8 +64,7 @@ them helpful.</p>
 <p>X</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://about.twitter.com/safety/families" rel="noopener noreferrer nofollow" target="_blank">https://</a>
-<a href="http://help.x.com/en/using-x/parental-consent" rel="noopener noreferrer nofollow" target="_blank">help.x.com/en/using-x/parental-consent</a>
+<p><a href="https://help.x.com/en/using-x/parental-consent" rel="noopener noreferrer nofollow" target="_blank">https://help.x.com/en/using-x/parental-consent</a>
 </p>
 </td>
 </tr>
