@@ -58,6 +58,14 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: "Start Right Programme: A Meaningful Transition into the New School Year"
+          date: 21 January 2025
+          announcement: The Start Right programme, conducted during Weeks 0 and 1 of the
+            school term, was thoughtfully designed to help Regent Secondary
+            students transition seamlessly from the holiday break back into
+            academic life.
+          link_text: Read more about it here
+          link_url: /start-right-programme-a-meaningful-transition-into-the-new-school-year/
         - title: 2024 'N' Level Examination Results Release
           date: 16 December 2024
           announcement: Congratulations to our 2024 'N' Level Examinations Top Performers!
@@ -85,11 +93,4 @@ sections:
             were eager to take to the field for some friendly competition
           link_text: Read more about it here
           link_url: /latest-announcement/highlights/sports-fiesta-post-exam-activity/
-        - title: Cyber Security Talk and Cyber Fair
-          date: 28 October 2024
-          announcement: On 23 October, our school hosted an exciting Cyber Awareness Day,
-            filled with engaging activities aimed at empowering students to make
-            safer and kinder choices online.
-          link_text: Read more about it here
-          link_url: /cyber-security-talk-and-cyber-fair/
 ---
