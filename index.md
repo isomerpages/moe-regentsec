@@ -15,27 +15,12 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
-  - infopic:
-      title: Secondary 1 Registration
-      subtitle: For Year 2025
-      id: infopic
-      description: FAQs on registration process and first day of school.
-      button: Click here to find our more
-      url: https://sites.google.com/moe.edu.sg/rgt2025s1registration/home
-      image: /images/Sec1Reg2025_infopicheaderv2.png
-      alt: Image alt text
   - infobar:
       title: Sales of Books and Uniforms (Secondary 1) 2025
       subtitle: For Year 2025
       id: infobar
       button: Click for more Information
       url: /sales-of-books-and-uniforms-secondary-1-2025/
-  - infobar:
-      title: Welcome to Regent e-Open House
-      id: infobar
-      description: Regent virtual tour
-      button: Click Here to Explore
-      url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
