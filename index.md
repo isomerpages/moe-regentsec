@@ -43,6 +43,14 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: "TAC: The Astronaut Collective"
+          date: 22 January 2025
+          announcement: Our Secondary Two students recently participated in the Astronaut
+            Collective programme, an engaging initiative designed to help them
+            explore potential career pathways and reflect on their aspirations
+            in various industries.
+          link_text: Read more about it here
+          link_url: /tac-the-astronaut-collective/
         - title: "Start Right Programme: A Meaningful Transition into the New School Year"
           date: 21 January 2025
           announcement: The Start Right programme, conducted during Weeks 0 and 1 of the
@@ -70,12 +78,4 @@ sections:
             Sustainability — an annual inter-school competition
           link_text: Read more about it here
           link_url: /latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/
-        - title: "Sports Fiesta: Post-Exam Activity"
-          date: 28 October 2024
-          announcement: The much-anticipated Sports Fiesta was the perfect way to end the
-            school year before the holiday break. After weeks of hard work and
-            the stress of the final examinations, our Secondary 1 to 3 students
-            were eager to take to the field for some friendly competition
-          link_text: Read more about it here
-          link_url: /latest-announcement/highlights/sports-fiesta-post-exam-activity/
 ---
