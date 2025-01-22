@@ -10,6 +10,7 @@ variant: tiptap
 <p>Our Secondary Two students recently participated in the Astronaut Collective
 programme, an engaging initiative designed to help them explore potential
 career pathways and reflect on their aspirations in various industries.</p>
+<p></p>
 <p>The programme began with icebreaker activities, fostering camaraderie
 among participants. Students then listened to inspiring speakers who delved
 into the concept of "worlds of work" and introduced the diverse range of
