@@ -15,27 +15,12 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
-  - infopic:
-      title: Secondary 1 Registration
-      subtitle: For Year 2025
-      id: infopic
-      description: FAQs on registration process and first day of school.
-      button: Click here to find our more
-      url: https://sites.google.com/moe.edu.sg/rgt2025s1registration/home
-      image: /images/Sec1Reg2025_infopicheaderv2.png
-      alt: Image alt text
   - infobar:
       title: Sales of Books and Uniforms (Secondary 1) 2025
       subtitle: For Year 2025
       id: infobar
       button: Click for more Information
       url: /sales-of-books-and-uniforms-secondary-1-2025/
-  - infobar:
-      title: Welcome to Regent e-Open House
-      id: infobar
-      description: Regent virtual tour
-      button: Click Here to Explore
-      url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
@@ -58,6 +43,22 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: "TAC: The Astronaut Collective"
+          date: 22 January 2025
+          announcement: Our Secondary Two students recently participated in the Astronaut
+            Collective programme, an engaging initiative designed to help them
+            explore potential career pathways and reflect on their aspirations
+            in various industries.
+          link_text: Read more about it here
+          link_url: /tac-the-astronaut-collective/
+        - title: "Start Right Programme: A Meaningful Transition into the New School Year"
+          date: 21 January 2025
+          announcement: The Start Right programme, conducted during Weeks 0 and 1 of the
+            school term, was thoughtfully designed to help Regent Secondary
+            students transition seamlessly from the holiday break back into
+            academic life.
+          link_text: Read more about it here
+          link_url: /start-right-programme-a-meaningful-transition-into-the-new-school-year/
         - title: 2024 'N' Level Examination Results Release
           date: 16 December 2024
           announcement: Congratulations to our 2024 'N' Level Examinations Top Performers!
@@ -77,19 +78,4 @@ sections:
             Sustainability — an annual inter-school competition
           link_text: Read more about it here
           link_url: /latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/
-        - title: "Sports Fiesta: Post-Exam Activity"
-          date: 28 October 2024
-          announcement: The much-anticipated Sports Fiesta was the perfect way to end the
-            school year before the holiday break. After weeks of hard work and
-            the stress of the final examinations, our Secondary 1 to 3 students
-            were eager to take to the field for some friendly competition
-          link_text: Read more about it here
-          link_url: /latest-announcement/highlights/sports-fiesta-post-exam-activity/
-        - title: Cyber Security Talk and Cyber Fair
-          date: 28 October 2024
-          announcement: On 23 October, our school hosted an exciting Cyber Awareness Day,
-            filled with engaging activities aimed at empowering students to make
-            safer and kinder choices online.
-          link_text: Read more about it here
-          link_url: /cyber-security-talk-and-cyber-fair/
 ---
