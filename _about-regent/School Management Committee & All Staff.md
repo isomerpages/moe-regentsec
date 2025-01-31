@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Co-Curriculum Activities</strong>
+<p><strong>Subject Head - Co-Curricular Activities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
