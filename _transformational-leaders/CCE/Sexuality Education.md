@@ -35,7 +35,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>Overview of&nbsp;Regent Secondary School’s&nbsp;&nbsp;Sexuality Education Programme for <u>2025</u></strong>
+<p><strong>Overview of&nbsp;Regent Secondary School’s&nbsp;&nbsp;Sexuality Education Programme for 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -66,14 +66,15 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Regent Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Regent Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_2_v2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -88,7 +89,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_5.png">
 </div>
 <p></p>
-<p><strong><em><u>eTeens</u></em><u>&nbsp;Programme:</u></strong>
+<p><strong><em>eTeens</em>&nbsp;Programme:</strong>
 </p>
 <p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in
 collaboration with the Ministry of Education, to provide Secondary 3 students
@@ -106,8 +107,7 @@ Abstinence and upholding family values are the key messages.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_eTeens.png">
 </div>
-<p><strong>Information for Parents</strong>
-</p>
+<h4>Information for Parents</h4>
 <p>10. More information will be shared through Parent Gateway (PG) regarding
 Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers. Upon receipt of
