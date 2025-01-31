@@ -5,5 +5,5 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<p>Click the URL&nbsp;<a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>&nbsp;to
-find out more info on education tips and features.</p>
+<p>For more education tips and features, visit the Schoolbag website: <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>
+</p>
