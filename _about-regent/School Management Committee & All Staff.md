@@ -87,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - CCA &amp; PE</strong>
+<p><strong>HOD - Co-Curricular Activities &amp; Physical Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
