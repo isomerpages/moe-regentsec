@@ -73,7 +73,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/2025_SEd_Secondary_2_v2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
