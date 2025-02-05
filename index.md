@@ -43,6 +43,13 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: CNY Celebrations 2025
+          date: 05 February 2025
+          announcement: Slithering into the new year with joy and celebration, Regenites
+            ushered in the Chinese New Year with a vibrant array of engaging and
+            culturally rich learning experiences!
+          link_text: Read more about it here
+          link_url: /cny-celebrations-2025/
         - title: "TAC: The Astronaut Collective"
           date: 22 January 2025
           announcement: Our Secondary Two students recently participated in the Astronaut
@@ -70,12 +77,4 @@ sections:
             Closing Date: 31st March 2025"
           link_text: Click for more information
           link_url: /school-canteen/
-        - title: "Gardens By the Bay: Race to Sustainability"
-          date: 08 November 2024
-          announcement: Our Secondary 2 students recently embarked on an engaging and
-            educational Post-Exam Learning Journey to Gardens by the Bay.
-            Stepping beyond the classroom, they participated in the Race to
-            Sustainability — an annual inter-school competition
-          link_text: Read more about it here
-          link_url: /latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/
 ---
