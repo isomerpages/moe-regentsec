@@ -22,7 +22,6 @@ with the crowd, and spread festive joy throughout the hall.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_1.jpg">
 </div>
-<p></p>
 <p>Adding to the excitement was an impressive Taekwondo performance, where
 students showcased powerful kicks, disciplined stances, and synchronized
 movements. This high-energy display then transitioned into a modern dance
@@ -47,8 +46,11 @@ popular Chinese New Year songs that left the crowd in high spirits.</p>
 event, combining cultural appreciation, joyful festivities, and strong
 school spirit while fostering a sense of togetherness among students and
 staff.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_5.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_6.jpg">
+</div>
+<p><em>CNY Celebration performers &amp; supporting crew</em>
+</p>
