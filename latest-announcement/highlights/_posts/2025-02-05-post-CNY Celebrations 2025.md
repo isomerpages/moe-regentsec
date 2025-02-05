@@ -19,6 +19,7 @@ also had students buzzing with excitement as they eagerly participated.</p>
 featuring captivating performances and a special appearance by the God
 of Fortune mascot. Dressed in a vibrant costume, he posed for photos, interacted
 with the crowd, and spread festive joy throughout the hall.</p>
+<p></p>
 <p>Adding to the excitement was an impressive Taekwondo performance, where
 students showcased powerful kicks, disciplined stances, and synchronized
 movements. This high-energy display then transitioned into a modern dance
