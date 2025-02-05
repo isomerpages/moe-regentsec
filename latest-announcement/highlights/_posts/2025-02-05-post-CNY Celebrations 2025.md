@@ -19,6 +19,9 @@ also had students buzzing with excitement as they eagerly participated.</p>
 featuring captivating performances and a special appearance by the God
 of Fortune mascot. Dressed in a vibrant costume, he posed for photos, interacted
 with the crowd, and spread festive joy throughout the hall.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_1.jpg">
+</div>
 <p></p>
 <p>Adding to the excitement was an impressive Taekwondo performance, where
 students showcased powerful kicks, disciplined stances, and synchronized
@@ -28,6 +31,15 @@ performance, blending contemporary choreography with festive tunes.</p>
 enthusiasm engaged the crowd. Rounding off the celebration on a high note,
 the Show Choir led the school in powerful and harmonious renditions of
 popular Chinese New Year songs that left the crowd in high spirits.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_3.jpg">
+</div>
 <p>Reflecting on the experience, Ho Zi Le, a student performer, shared:
 <br><em>"I am grateful to be a student performer in the CNY Concert Celebrations. It provided me with an opportunity to celebrate this festive occasion with my classmates and teachers while learning more about the CNY customs and traditions."</em>
 </p>
@@ -35,3 +47,8 @@ popular Chinese New Year songs that left the crowd in high spirits.</p>
 event, combining cultural appreciation, joyful festivities, and strong
 school spirit while fostering a sense of togetherness among students and
 staff.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2025_5.jpg">
+</div>
+<p></p>
