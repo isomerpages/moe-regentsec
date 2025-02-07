@@ -16,6 +16,12 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infobar:
+      title: Academic Target Setting 2025 Handbook
+      subtitle: "2025"
+      id: infobar
+      button: Click to dowload the document
+      url: /files/Academic_Target_Setting_2025_Handbook.pdf
+  - infobar:
       title: Sales of Books and Uniforms (Secondary 1) 2025
       subtitle: For Year 2025
       id: infobar
@@ -77,10 +83,4 @@ sections:
             Closing Date: 31st March 2025"
           link_text: Click for more information
           link_url: /school-canteen/
-  - infobar:
-      title: Academic Target Setting 2025 Handbook
-      subtitle: "2025"
-      id: infobar
-      button: Click to open the document
-      url: /files/Academic_Target_Setting_2025_Handbook.pdf
 ---
