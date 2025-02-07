@@ -82,5 +82,5 @@ sections:
       subtitle: "2025"
       id: infobar
       button: Click to open the document
-      url: /files//files/Academic_Target_Setting_2025_Handbook.pdf.pdf
+      url: /files/Academic_Target_Setting_2025_Handbook.pdf
 ---
