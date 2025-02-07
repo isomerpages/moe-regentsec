@@ -19,7 +19,7 @@ sections:
       title: Academic Target Setting 2025 Handbook
       subtitle: "2025"
       id: infobar
-      button: Click to dowload the document
+      button: Click to open the document
       url: /files/Academic_Target_Setting_2025_Handbook.pdf
   - infobar:
       title: Sales of Books and Uniforms (Secondary 1) 2025
