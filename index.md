@@ -77,4 +77,10 @@ sections:
             Closing Date: 31st March 2025"
           link_text: Click for more information
           link_url: /school-canteen/
+  - infobar:
+      title: Academic Target Setting 2025 Handbook
+      subtitle: "2025"
+      id: infobar
+      button: Click to open the document
+      url: /files//files/Academic_Target_Setting_2025_Handbook.pdf.pdf
 ---
