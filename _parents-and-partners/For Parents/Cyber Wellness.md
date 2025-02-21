@@ -46,7 +46,7 @@ them helpful.</p>
 <p>Instagram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://help.instagram.com/154475974694511/?helpref=hc_fnav" rel="noopener noreferrer nofollow" target="_blank">https://help.instagram.com/154475974694511/?helpref=hc_fnav</a>
+<p><a href="https://about.instagram.com/community/parents" rel="noopener noreferrer nofollow" target="_blank">https://about.instagram.com/community/parents</a>
 </p>
 </td>
 </tr>
@@ -73,18 +73,18 @@ them helpful.</p>
 <p>YouTube</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.commonsensemedia.org/articles/parents-ultimate-guide-to-youtube-kids" rel="noopener noreferrer nofollow" target="_blank">https://www.commonsensemedia.org/articles/parents-ultimate-guide-to-youtube-kids</a>
+<p><a href="https://www.youtube.com/howyoutubeworks/user-settings/parental-controls/" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/howyoutubeworks/user-settings/parental-controls/</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Helping Your Child</h4>
-<p>a) <a href="/files/Connecting_with_you_child_about_screen_time__For_Sec_and_Pri_.pdf" rel="noopener noreferrer nofollow" target="_blank">Connecting with your Child Online</a>
+<p>1) <a href="/files/Connecting_with_you_child_about_screen_time__For_Sec_and_Pri_.pdf" rel="noopener noreferrer nofollow" target="_blank">Connecting with your Child Online</a>
 </p>
-<p>b) <a href="/files/How_You_Can_Play_An_Active_Role_In_Keeping_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">How can you play an Active Role in Keeping your Child Safe Online</a>
+<p>2) <a href="/files/How_You_Can_Play_An_Active_Role_In_Keeping_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">How can you play an Active Role in Keeping your Child Safe Online</a>
 </p>
-<p>c) <a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for Talking to your Child on Device Usage</a>
+<p>3) <a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for Talking to your Child on Device Usage</a>
 </p>
 <p><em>(Links above downloads a PDF document)</em>
 </p>
