@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Books & Uniforms
 ---
 <h4>Financial Assistance Scheme (FAS)</h4>
-<p><strong>Online purchase will not be available for students on FAS.</strong> 
-</p>
-<p>Students with FAS Approval Letter from their Primary School are to contact
+<p><strong>Online purchase will not be available for students on FAS.</strong>
+<br>Students with FAS Approval Letter from their Primary School are to contact
 Mdm Zai at 67653828 to collect FAS vouchers for books and uniforms. New
 FAS applicants would be notified by the school upon the successful application
 of FAS.</p>
