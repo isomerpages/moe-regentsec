@@ -16,14 +16,7 @@ variant: tiptap
 <p>Moulding Entrepreneurs of Tomorrow</p>
 <h4>Mission</h4>
 <p>Ignite the entrepreneurship flame in students and grow their awareness
-of their own entreprenuer skills as well as their strengths and weaknesses</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Design%20n%20Innovation%20Formal.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Design%20_%20Innovation%20Fun.jpg">
-</div>
+of their own entreprenuer skills as well as their strengths and weaknesses.</p>
 <p>The Design and Innovation Club was started with the vision of nurturing
 young minds through design thinking to develop critical thinking and developing
 confidence in generating, conceptualizing and communicating their ideas
@@ -48,7 +41,6 @@ competitions such as the Tan Kah Kee Young Inventor’s Award.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design%20and%20Innovation/DESINV-1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design%20and%20Innovation/DESINV-2.jpg">
 </div>
