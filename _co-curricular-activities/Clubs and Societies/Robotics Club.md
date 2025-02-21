@@ -17,9 +17,6 @@ mental fitness and perseverance in adverse and challenging environments.</p>
 <h4>Mission</h4>
 <p>To nurture individuals to maximise their potential in the field of robotics
 and engineering.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Robotics%20Formal.jpg">
-</div>
 <p>In Robotics, members learn basic and intermediate programming skills to
 control movements of LEGO Mindstorm/Spike. The students also develop an
 appreciation for the automation world.</p>
