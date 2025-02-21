@@ -22,20 +22,20 @@ is the space where we make dreams come to (reel) life. We provide experiential
 opportunities for students who are interested in photography, audio visual
 technology and media production. Our core duty is to support the school
 community with photography, videography and assistance in using audio-visual
-equipment. We also educate our members on . Our members get our creative
-juices flowing while working on website designing and&nbsp; filmmaking.
-Our members develop&nbsp; a flair for story telling and a passion for the
-screen.</p>
+equipment.</p>
 <h4>Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Audio Visual / Public Annoucement (AVPA) support for assemblies</p>
 </li>
 <li>
-<p>Duty for major school events with photography and video recording</p>
+<p>Supports major school events with photography and video recording</p>
 </li>
 <li>
-<p>Photography technique</p>
+<p>Basic photography technique</p>
+</li>
+<li>
+<p>Photojournalism</p>
 </li>
 <li>
 <p>Video production: Storyboard, videography, editing and lighting equipment
