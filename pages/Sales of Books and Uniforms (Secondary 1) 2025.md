@@ -19,9 +19,9 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 #### Instructions from School Uniform &amp; Bookshop Vendor
 
-1\. To ensure that the correct editions of the books are purchased, parents are to purchase the above from Asencio. Parents who purchase online via [Asencio’s online portal](https://asenciobookshop.sg/) **before 21 December 2024** will be able to receive their textbooks before the start of school. Online orders with delivery is encouraged.
+1\. To ensure that the correct editions of the books are purchased, parents are to purchase the above from [Asencio’s online portal](https://asenciobookshop.sg/). Online orders with delivery is encouraged.
 
-2\. Online ordering via online portal available till 21 December 2024.  Refer to the following guides:
+2\. Online ordering via online portal.  Refer to the following guides:
 
 * [Uniforms](/files/uniforms%20online%20guide.pdf)
 * [Books](/files/textbooks%20online%20guide.pdf)
@@ -30,44 +30,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 4\. Delivery Charges: $10 for books/ $6 for uniforms
 
-#### Self-collection and walk-in purchases at School premises in classrooms 1F3/1F4 (textbooks) and 1G1/1G2 (uniforms)
-  
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
-.tg .tg-hspo{background-color:#000000;font-size:medium;text-align:center;vertical-align:middle}
-.tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-hspo"><span style="font-weight:bold;color:#FFF">DATES OF SALES IN SCHOOL</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-xwyw"><span style="font-weight:bold">SECONDARY 1</span></td>
-    <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
-  </tr>
-  <tr>
-		<td class="tg-xwyw">19 to 20 December 2024</td>
-    <td rowspan="4" class="tg-gfnm">0900 to 1500 hours</td>
-  </tr>
-  <tr>
-		<td class="tg-xwyw">23 &amp; 30 December 2024</td>
-  </tr>
-	 <tr>
-		<td class="tg-xwyw"><span style="font-weight:bold">ALL LEVELS</span></td>
-  </tr>
-	 <tr>
-		<td class="tg-xwyw">26 to 27 December 2024</td>
-  </tr>
-</tbody>
-</table>
+5\. Self-collection and walk-in purchases at school's bookshop
 
 #### Booklist
 * [Booklist for Year 2025 Secondary 1](/files/Regent_Secondary_2025_Sec_1.pdf)
