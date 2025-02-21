@@ -22,8 +22,8 @@ of FAS.</p>
 </p>
 <h4>Instructions from School Uniform &amp; Bookshop Vendor</h4>
 <p>1. To ensure that the correct editions of the books are purchased, parents
-are to purchase the above from Asencio. Parents who purchase online via
-<a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">Asencio's online portal.</a>Online orders with delivery is encouraged.</p>
+are to purchase the uniforms and textbooks via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">Asencio's online portal.</a> Online orders
+with delivery is encouraged.</p>
 <p>2. Online ordering via online portal, refer to the following guides:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,7 @@ are to purchase the above from Asencio. Parents who purchase online via
 <p>3. For enquiries, please email to <a href="mailto:regent@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">regent@asencio.com.sg</a>
 </p>
 <p>4. Delivery Charges: $10 for books/ $6 for uniforms</p>
-<p>5. Self-collection and walk-in purchases at school's bookshop (near the
+<p>5. Walk-in purchases and self-collection at school's bookshop (near the
 canteen)</p>
 <h4>Booklist</h4>
 <ul data-tight="true" class="tight">
