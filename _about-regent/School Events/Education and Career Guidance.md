@@ -111,7 +111,9 @@ the sessions conducted by the Polytechnic lecturers were very informative
 and she has gained a better understanding of the various career pathways.
 This experience would definitely spur our students to realise their dreams
 and goals in this final lap of their secondary education.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/PurposefulPursuitsCourseAdvisingSession.jpg">
+</div>
 </div>
 </details>
 </div>
