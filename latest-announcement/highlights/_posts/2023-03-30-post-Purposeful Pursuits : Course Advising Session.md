@@ -5,7 +5,21 @@ date: 2023-03-30
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-The Course Advising session held at Nanyang Polytechnic on 27 March 2023 had strengthened the Secondary Four & Five students’ resolve to achieve their aspirations. As the students set their sights on their dream post-secondary institutions and course, the session had given them insights about polytechnic experiences and the needs of the future industries. Students had a wonderful opportunity to interact with the polytechnic lecturers in-person. The interactions had also enlightened our students about whether the courses would suit their strengths and interests. Lee Jialu from 4-Determination shared that the sessions conducted by the Polytechnic lecturers were very informative and she has gained a better understanding of the various career pathways. This experience would definitely spur our students to realise their dreams and goals in this final lap of their secondary education.
-
-![](/images/Highlights%20Post/PurposefulPursuitsCourseAdvisingSession.jpg)
+<p>The Course Advising session held at Nanyang Polytechnic on 27 March 2023
+had strengthened the Secondary Four &amp; Five students’ resolve to achieve
+their aspirations. As the students set their sights on their dream post-secondary
+institutions and course, the session had given them insights about polytechnic
+experiences and the needs of the future industries. Students had a wonderful
+opportunity to interact with the polytechnic lecturers in-person. The interactions
+had also enlightened our students about whether the courses would suit
+their strengths and interests. Lee Jialu from 4-Determination shared that
+the sessions conducted by the Polytechnic lecturers were very informative
+and she has gained a better understanding of the various career pathways.
+This experience would definitely spur our students to realise their dreams
+and goals in this final lap of their secondary education.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/PurposefulPursuitsCourseAdvisingSession.jpg">
+</div>
+<p></p>
