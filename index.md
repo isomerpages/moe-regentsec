@@ -37,6 +37,14 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: "Experience ITE Programme: A Gateway to Future Educational Pathways"
+          date: 26 February 2025
+          announcement: Our Secondary Two and Three G1 students recently had the
+            opportunity to participate in the Experience ITE Programme at ITE
+            College West, where they gained valuable insights into the diverse
+            courses available and the entry requirements for each courses.
+          link_text: Read more about it here
+          link_url: /experience-ite-programme-a-gateway-to-future-educational-pathways/
         - title: CNY Celebrations 2025
           date: 05 February 2025
           announcement: Slithering into the new year with joy and celebration, Regenites
@@ -65,10 +73,4 @@ sections:
           announcement: Congratulations to our 2024 'N' Level Examinations Top Performers!
           link_text: Read more about it here
           link_url: /2024-n-level-examination-results-release/
-        - title: School Canteen Advertisment
-          date: 27 November 2024
-          announcement: "Type of Stall: Fusion/ Thai/ Japanese stall (halal/non-halal) |
-            Closing Date: 31st March 2025"
-          link_text: Click for more information
-          link_url: /school-canteen/
 ---
