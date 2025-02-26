@@ -21,6 +21,9 @@ conducted by the School of Business and Services (SBSS), School of Hospitality
 (SOE). These sessions encouraged active exploration, creativity, and experiential
 learning, allowing students to engage with real-world applications of various
 courses.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/ExpITEProg2025_1.jpg">
+</div>
 <p>Course coordinators were present throughout the sessions to provide guidance
 and address any queries students had regarding the modules and career prospects
 within each discipline.</p>
@@ -32,3 +35,13 @@ their passions and make informed decisions about their future educational
 and career pathways.</p>
 <p>We look forward to seeing our students take confident steps toward their
 aspirations!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/ExpITEProg2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/ExpITEProg2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/ExpITEProg2025_4.jpg">
+</div>
+<p></p>
