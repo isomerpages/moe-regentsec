@@ -5,6 +5,7 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>Regent Secondary School Celebrates Safer Internet Day 2025</strong></h2>
 <p>Regent Secondary School joined the global celebration of Safer Internet
 Day, promoting safe and responsible online use. This year’s theme, "Empowering
 a Safe and Resilient Online Community," encouraged students to navigate
