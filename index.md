@@ -37,6 +37,15 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Regent Secondary School Celebrates Safer Internet Day 2024
+          date: 27 February 2025
+          announcement: Regent Secondary School joined the global celebration of Safer
+            Internet Day, promoting safe and responsible online use. This year’s
+            theme, "Empowering a Safe and Resilient Online Community,"
+            encouraged students to navigate the digital world safely while
+            fostering a positive online environment.
+          link_text: Read more about it here
+          link_url: /regent-secondary-school-celebrates-safer-internet-day-2025/
         - title: "Experience ITE Programme: A Gateway to Future Educational Pathways"
           date: 26 February 2025
           announcement: Our Secondary Two and Three G1 students recently had the
@@ -68,9 +77,4 @@ sections:
             academic life.
           link_text: Read more about it here
           link_url: /start-right-programme-a-meaningful-transition-into-the-new-school-year/
-        - title: 2024 'N' Level Examination Results Release
-          date: 16 December 2024
-          announcement: Congratulations to our 2024 'N' Level Examinations Top Performers!
-          link_text: Read more about it here
-          link_url: /2024-n-level-examination-results-release/
 ---
