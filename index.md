@@ -37,7 +37,7 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
-        - title: Regent Secondary School Celebrates Safer Internet Day 2024
+        - title: Regent Secondary School Celebrates Safer Internet Day 2025
           date: 27 February 2025
           announcement: Regent Secondary School joined the global celebration of Safer
             Internet Day, promoting safe and responsible online use. This year’s
