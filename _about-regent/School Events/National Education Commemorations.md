@@ -5,6 +5,36 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>Total Defence Day 2025</strong></h2>
+<p>Regent Secondary School observed Total Defence Day with engaging activities,
+including the Exercise SG Ready initiative. A key highlight was the water
+disruption exercise, which allowed students to experience the inconvenience
+of limited water access, reinforcing the importance of preparedness. The
+school also conducted a Lockdown Drill as part of Character and Citizenship
+Education (CCE) lessons, ensuring students are equipped to handle security
+threats.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/TDD2025_1.jpg">
+</div>
+<p>The event featured a Total Defence Day Parade led by the Uniformed Groups,
+symbolizing discipline and national defence. They also shared insights
+on the five pillars of Total Defence, emphasizing the role of every individual
+in safeguarding Singapore. Through these experiences, students gained a
+deeper appreciation for resilience, self-reliance, and collective responsibility
+in keeping the nation secure.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/TDD2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/TDD2025_3.jpg">
+</div>
+<hr>
+<h4>Past NE Commemorations Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Celebrating Racial Harmony Day at Regent Secondary School</strong></h2>
 <p>Last week, our Regenites were filled with anticipation as we commemorated
 Racial Harmony Day (RHD) on 16 July 2024. RHD holds significant importance
@@ -123,9 +153,9 @@ in the face of crises.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/TDD2024_7.jpg">
 </div>
-<hr>
-<h4>Past NE Commemorations Events</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
 <summary><strong>2023</strong>
 </summary>
@@ -317,6 +347,7 @@ and our loved ones safe.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights%20Post/TDD2023-6.jpg">
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -597,10 +628,13 @@ familiarised themselves with the Public Warning System as well as the game,
 <p>Overall, we had a memorable TDD which enhanced our four key citizenship
 dispositions: a sense of belonging, a sense of reality, a sense of hope,
 and the will to act.</p>
+<p></p>
 <p>Together, we keep Singapore strong!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/TDD2022-1.jpg">
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -732,11 +766,9 @@ safe distancing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/National%20Education/Racial-Harmony-Day-4.jpg">
 </div>
+<p></p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
