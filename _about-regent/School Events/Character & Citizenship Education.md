@@ -32,6 +32,12 @@ online community!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCE/SaferInternetDay2025_3.jpg">
 </div>
 <hr>
+<h4>Past CCE Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>Cyber Security Talk and Cyber Fair</strong></h2>
 <p>On 23 October, our school hosted an exciting Cyber Awareness Day, filled
 with engaging activities aimed at empowering students to make safer and
@@ -187,9 +193,9 @@ embraced students of various nationalities into our school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCE/IntegrationProg2024_6.jpg">
 </div>
-<hr>
-<h4>Past CCE Events</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
 <summary><strong>2023</strong>
 </summary>
@@ -215,6 +221,7 @@ Together, we will make Regent a place where friendship thrives!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CCE/PSLTrainingSec42023.png">
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -285,6 +292,7 @@ student advocates for general wellbeing!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer%20Support%20Leaders/PeerSupLdr-1.jpg">
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">

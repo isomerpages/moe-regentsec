@@ -37,6 +37,15 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Total Defence Day 2025
+          date: 28 February 2025
+          announcement: Regent Secondary School observed Total Defence Day with engaging
+            activities, including the Exercise SG Ready initiative. A key
+            highlight was the water disruption exercise, which allowed students
+            to experience the inconvenience of limited water access, reinforcing
+            the importance of preparedness.
+          link_text: Read more about it here
+          link_url: /total-defence-day-2025/
         - title: Regent Secondary School Celebrates Safer Internet Day 2025
           date: 27 February 2025
           announcement: Regent Secondary School joined the global celebration of Safer
@@ -69,12 +78,4 @@ sections:
             in various industries.
           link_text: Read more about it here
           link_url: /tac-the-astronaut-collective/
-        - title: "Start Right Programme: A Meaningful Transition into the New School Year"
-          date: 21 January 2025
-          announcement: The Start Right programme, conducted during Weeks 0 and 1 of the
-            school term, was thoughtfully designed to help Regent Secondary
-            students transition seamlessly from the holiday break back into
-            academic life.
-          link_text: Read more about it here
-          link_url: /start-right-programme-a-meaningful-transition-into-the-new-school-year/
 ---
