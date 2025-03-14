@@ -51,7 +51,6 @@ the bonds within our vibrant community.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>
-<p>📰</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/pesta-budaya-2024-a-gateway-to-tradition/" rel="noopener nofollow" target="_blank">Pesta Budaya 2024: A Gateway to Tradition</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/cultural-learning-exposure/" rel="noopener nofollow" target="_blank">Cultural Learning Exposure</a>
