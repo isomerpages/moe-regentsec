@@ -133,3 +133,26 @@ school year!</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/literature-enrichment-programme/" rel="noopener nofollow" target="_blank">Literature Enrichment Programme</a>
+</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/literature-enrichment-programme-into-the-woods/" rel="noopener nofollow" target="_blank">Literature Enrichment Programme – Into the Woods</a>
+</p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-two-literature-enrichment-programme-the-lky-musical/" rel="noopener nofollow" target="_blank">Secondary Two Literature Enrichment Programme – The LKY Musical</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
