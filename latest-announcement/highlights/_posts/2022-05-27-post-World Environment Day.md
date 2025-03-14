@@ -10,7 +10,8 @@ variant: tiptap
 <p>World Environment Day falls on 5th June 2022. To commemorate this momentous
 day and do our part for Mother Earth, Regent held an Environment Week starting
 from 23 to 27 May!</p>
-<h4>Student Collaboration</h4>
+<p><strong>Student Collaboration</strong>
+</p>
 <p>Several CCAs came onboard to contribute with the common goal of advocating
 for changes we can make by tweaking our lifestyle. Students from the Show
 Choir came up with their very own music jiggle to spread environmental
@@ -21,7 +22,8 @@ coded a device to monitor the humidity of the plants. Our Student Council
 is partnering with Northwest CDC to conduct an online zoom workshop for
 Yew Tee residents on the fundamentals of 5Rs and to share tips on how to
 upcycle old clothes into tote bags.</p>
-<h4>Showcase Boards</h4>
+<p><strong>Showcase Boards</strong>
+</p>
 <p>To reach out to our student population, our Environmental Sciences Club
 put display boards showcasing ways to recycle right and share information
 on the nature of biodiversity in school and Singapore at large. Through
