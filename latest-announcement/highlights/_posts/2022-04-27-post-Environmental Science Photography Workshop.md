@@ -22,4 +22,13 @@ evaluating the relationship between the natural and man-made environment
 in which we live, assessing the natural symmetry as well as discordant
 notes in our surroundings. In planning their images, students began to
 understand the influence of our surroundings on how we perceive the world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Environment/Envir2022-3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Environment/Envir2022-4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Environment/Envir2022-5.jpg">
+</div>
 <p></p>
