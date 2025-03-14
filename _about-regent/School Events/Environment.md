@@ -67,6 +67,8 @@ students in participating in such enriching experiences in the future!</p>
 </p>
 <p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/interdisciplinary-learning-journey-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Interdisciplinary Learning Journey to the Gardens by the Bay</a>
 </p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/greenboot-camp/" rel="noopener nofollow" target="_blank">Greenboot Camp</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/earthday2023/" rel="noopener nofollow" target="_blank">Earth Day 2023</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/regents-edible-garden/" rel="noopener nofollow" target="_blank">Regent's Edible Garden</a>
