@@ -5,8 +5,9 @@ date: 2023-07-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![](/images/Highlights%20Post/GreenBootCamp-1.jpg)
+![](/images/School%20Events/Environment/GreenBootCamp-1.jpg)
 
 Amidst the growing interest in environmental sustainability, a dedicated group of students from Environmental Science participated in the Green Bootcamp @ North West. This 3-day programme aims to engage and empower youths to come up with innovative green solutions for various environmental issues.
 
@@ -22,7 +23,7 @@ Emerging victorious is not our main reason for joining the Bootcamp, but it is t
 
 We are immensely honoured and proud to announce that our students emerged first in the competition! Well done fellow Regenites! We look forward to seeing you soar to greater heights!
 
-![](/images/Highlights%20Post/GreenBootCamp-2.jpg)
-![](/images/Highlights%20Post/GreenBootCamp-3.jpg)
-![](/images/Highlights%20Post/GreenBootCamp-4.jpg)
-![](/images/Highlights%20Post/GreenBootCamp-5.jpg)
+![](/images/School%20Events/Environment/GreenBootCamp-2.jpg)
+![](/images/School%20Events/Environment/GreenBootCamp-3.jpg)
+![](/images/School%20Events/Environment/GreenBootCamp-4.jpg)
+![](/images/School%20Events/Environment/GreenBootCamp-5.jpg)
