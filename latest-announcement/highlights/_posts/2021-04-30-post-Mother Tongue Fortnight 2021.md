@@ -43,28 +43,11 @@ Jala Making and displaying of Malay Hari Raya Cookies.</p>
 <p>Students’ involvement had been very encouraging. They are clear indications
 of our students’ love to use and learn the Malay language. The following
 are some of students’ reflections:</p>
-<p>“I am very glad to be able to participate in the Mother Tongue Fortnight
-Programme this year, particularly the ‘Dikir Barat’ session! It brought
-my classmates from different races together as we co-ordinated our hand
-movements in unison to sing our own rendition of a classic Hari Raya song.
-I am proud to be able to expose my classmates to Malay culture and I hope
-they enjoyed the session as much as I did!” – Muhammad Erryan Bin Mohamad
-Faizul, Class 3 Empathy</p>
-<p>“This year, we had an array of activities for our Mother Tongue Fortnight
-Programme. There was a booth set up at the canteen that featured Malay
-traditional Wau painting, traditional games, and a demonstration on making
-Wayang Kulit puppets as well as making of Roti Jala, which is a Malay delicacy.
-The highlight of the week was the activity we had on Thursday afternoon
-when we had the chance to learn the skill of weaving baskets! I also had
-a chance to learn Silat, the traditional Malay self-defence art. These
-activities sparked my interest to deepen my knowledge on Malay culture
-and I look forward to participating in more cultural events in future!’’-
+<p><em>“I am very glad to be able to participate in the Mother Tongue Fortnight Programme this year, particularly the ‘Dikir Barat’ session! It brought my classmates from different races together as we co-ordinated our hand movements in unison to sing our own rendition of a classic Hari Raya song. I am proud to be able to expose my classmates to Malay culture and I hope they enjoyed the session as much as I did!”</em> –
+Muhammad Erryan Bin Mohamad Faizul, Class 3 Empathy</p>
+<p><em>"This year, we had an array of activities for our Mother Tongue Fortnight Programme. There was a booth set up at the canteen that featured Malay traditional Wau painting, traditional games, and a demonstration on making Wayang Kulit puppets as well as making of Roti Jala, which is a Malay delicacy. The highlight of the week was the activity we had on Thursday afternoon when we had the chance to learn the skill of weaving baskets! I also had a chance to learn Silat, the traditional Malay self-defence art. These activities sparked my interest to deepen my knowledge on Malay culture and I look forward to participating in more cultural events in future!"</em> -
 Ainin Sofiya Binte Md Kamal, Class 3 Determination</p>
-<p>“I had the chance to do Wau painting as well as create my own Wayang Kulit
-character. It was all worth the effort when I saw the product of my creativity.
-I also had the chance to make my own herbal insect repellent using spices
-this week. I am very happy to be able to participate in the activities
-and hope to learn more in next year during our Mother Tongue Programme!”-
+<p><em>"I had the chance to do Wau painting as well as create my own Wayang Kulit character. It was all worth the effort when I saw the product of my creativity. I also had the chance to make my own herbal insect repellent using spices this week. I am very happy to be able to participate in the activities and hope to learn more in next year during our Mother Tongue Programme!"</em> -
 Emir Affiq Bin Mohd Azhari, Class 2 Pride</p>
 <p>Overall, these activities provided authentic opportunities for all students
 to use their Mother Tongue Language and experience the Malay culture and
