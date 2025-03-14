@@ -47,7 +47,7 @@ appreciation for geography’s role in shaping the world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4EXNUSGeogChallenge2025_2.jpg">
 </div>
 <hr>
-<h4>Past Humanities Department Events</h4>
+<h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Highlights</strong>
