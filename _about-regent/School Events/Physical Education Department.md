@@ -118,7 +118,33 @@ but in having the courage to start.</p>
 is this:</p>
 <h4>‘When your legs get tired, run with your heart!’</h4>
 <hr>
-<h4>Past PE Department Events</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>2024</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p>2023</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p>2022</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p>2021</p>
+<p>📰</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
