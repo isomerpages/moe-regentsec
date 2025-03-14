@@ -37,6 +37,13 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: S4EX NUS Geography Challenge
+          date: 14 March 2025
+          announcement: Where knowledge meets action—geography in motion! The NUS
+            Geographical Challenge 2025 brought together passionate geography
+            students in a test of knowledge, analytical thinking, and teamwork.
+          link_text: Read more about it here
+          link_url: /s4ex-nus-geography-challenge/
         - title: Total Defence Day 2025
           date: 28 February 2025
           announcement: Regent Secondary School observed Total Defence Day with engaging
@@ -70,12 +77,4 @@ sections:
             culturally rich learning experiences!
           link_text: Read more about it here
           link_url: /cny-celebrations-2025/
-        - title: "TAC: The Astronaut Collective"
-          date: 22 January 2025
-          announcement: Our Secondary Two students recently participated in the Astronaut
-            Collective programme, an engaging initiative designed to help them
-            explore potential career pathways and reflect on their aspirations
-            in various industries.
-          link_text: Read more about it here
-          link_url: /tac-the-astronaut-collective/
 ---
