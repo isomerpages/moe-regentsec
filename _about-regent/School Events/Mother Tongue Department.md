@@ -167,6 +167,8 @@ where cultural diversity is celebrated and cherished.</p>
 <p>📰</p>
 <p>📰</p>
 <p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/mother-tongue-fortnight-2024/" rel="noopener nofollow" target="_blank">Mother Tongue Fortnight 2024</a>
+</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
