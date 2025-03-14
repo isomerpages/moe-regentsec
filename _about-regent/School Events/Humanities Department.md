@@ -6,6 +6,7 @@ third_nav_title: School Events
 variant: tiptap
 ---
 <h2><strong>S4EX NUS Geography Challenge</strong></h2>
+<h4>NUS Geographical Challenge 2025: Expanding Knowledge Beyond the Classroom</h4>
 <p>Where knowledge meets action—geography in motion! The NUS Geographical
 Challenge 2025 brought together passionate geography students in a test
 of knowledge, analytical thinking, and teamwork. The prestigious competition
@@ -37,6 +38,14 @@ was a celebration of intellectual curiosity, teamwork, and the real-world
 application of geographical concepts. Participants walked away not just
 with new knowledge, but also with confidence, inspiration, and a renewed
 appreciation for geography’s role in shaping the world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4EXNUSGeogChallenge2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4EXNUSGeogChallenge2025_2.jpg">
+</div>
 <hr>
 <h4>Past Humanities Department Events</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
