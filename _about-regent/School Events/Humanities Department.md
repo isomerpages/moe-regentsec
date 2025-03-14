@@ -64,6 +64,8 @@ appreciation for geography’s role in shaping the world.</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/s1-learningjourney-newater-visitor-centre/" rel="noopener nofollow" target="_blank">Secondary One Learning Journey to NEWater Visitor Centre</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/s2-learning-journey-to-ura/" rel="noopener nofollow" target="_blank">S2 Learning Journey to URA</a>
 </p>
 <p></p>
