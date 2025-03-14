@@ -62,6 +62,11 @@ appreciation for geography’s role in shaping the world.</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/geography-field-trip-at-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Geography Field Trip at Gardens by the Bay</a>
 </p>
 <p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/s2-learning-journey-to-ura/" rel="noopener nofollow" target="_blank">S2 Learning Journey to URA</a>
+</p>
+<p></p>
 <p><strong>2022</strong>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/geography-fieldwork/" rel="noopener nofollow" target="_blank">Geography Fieldwork</a>
