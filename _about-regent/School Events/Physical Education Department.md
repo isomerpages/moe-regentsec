@@ -134,8 +134,10 @@ is this:</p>
 <p>📰</p>
 <p></p>
 <p>2022</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/sec-4-5-sports-carnival-2022/" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Sports Carnival 2022</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/virtual-run-2022/" rel="noopener nofollow" target="_blank">Virtual Run 2022</a>
+</p>
 <p></p>
 <p>2021</p>
 <p>📰</p>
