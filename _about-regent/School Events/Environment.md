@@ -158,7 +158,37 @@ of the environment, we can truly make a difference!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Environment/WorldWaterDay2024_1.jpg">
 </div>
 <hr>
-<h4>Past Environment Events</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/earthday2023/" rel="noopener nofollow" target="_blank">Earth Day 2023</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/wwd2023/" rel="noopener nofollow" target="_blank">World Water Day 2023</a>
+</p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/world-environment-day/" rel="noopener nofollow" target="_blank">World Environment Day</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/environmental-science-photography-workshop/" rel="noopener nofollow" target="_blank">Environmental Science Photography Workshop</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
@@ -249,9 +279,6 @@ Earth’s ambassadors and spread the message of environmental conservation
 messages to people around us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Environment/Envir2022-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Environment/Envir2022-2.jpg">
 </div>
 <hr>
 <h2><strong>Environmental Science Photography Workshop</strong></h2>
