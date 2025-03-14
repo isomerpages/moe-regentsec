@@ -67,72 +67,7 @@ students would never forget.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S3ENALitEnrichProg2024_2.jpg">
 </div>
 <hr>
-<h4>Past English Department Events</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h2><strong>Secondary Two Literature Enrichment Programme – The LKY Musical</strong></h2>
-<p>Literature came alive for our Secondary Two students who attended Singapore
-Repertory Theatre’s production of The LKY Musical on 21 September 2022.
-Now in its second run, the blockbuster show tells the story of Singapore’s
-first Prime Minister, Mr Lee Kuan Yew, and charts his journey from student
-to politician fighting for Singapore’s independence.</p>
-<p>There were gasps of awe and delight as our students entered the Sands
-Theatre and took in the elaborate sets. They were riveted by the cast’s
-impeccable acting and singing and marveled at how music by the live orchestra
-helped add to the play’s emotional impact. For many of our students, it
-was their first time watching a play, and the experience certainly imbued
-them with a greater appreciation of the drama texts that they have been
-studying in the Literature classroom. Likewise, it was fascinating to hear
-the stories of individuals significant to our nation’s history and to encounter
-them beyond the pages of our History textbooks.</p>
-<p>The trip to the theatre was undoubtedly a rich learning experience for
-our Regenites, and we look forward to the next!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S2EnrichProgLKYMusical-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/S2EnrichProgLKYMusical-2.jpg">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2023</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h2><strong>Literature Enrichment Programme – Into the Woods</strong></h2>
-<p>Last Saturday, our Secondary Two students spent an enchanting afternoon
-at the Singtel Waterfront Theatre, where they enjoyed Pangdemonium’s production
-of the award-winning musical, Into the Woods.</p>
-<p></p>
-<p>Featuring showtunes by theatre great Stephen Sondheim, the musical intertwines
-the plots of several fairy tales, and our students were delighted to see
-well-loved characters from the likes of “Cinderella”, “Jack and the Beanstalk”,
-and “Little Red Riding Hood” take the stage! They were riveted by the cast’s
-impeccable acting and singing, as well as the play’s elaborate sets that
-helped add to its emotional impact. There were moments of levity too, with
-the musical putting a fresh spin on these beloved fairy tales and having
-characters break the fourth wall.</p>
-<p></p>
-<p>The trip to the theatre was undoubtedly a rich learning experience for
-our students, imbuing them with a greater appreciation of the drama texts
-that they have been studying in the Literature classroom. A feast for the
-eyes and ears, the musical was, in all, a wonderful way to round off the
-school year!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/Sec2LitEnrichProg2023IntotheWoods-1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/Sec2LitEnrichProg2023IntotheWoods-2.png">
-</div>
-</div>
-</details>
-</div>
-<p></p>
+<h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Highlights</strong>
