@@ -108,7 +108,31 @@ within our community!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/VIA/Sec4VIAProjShow2024_2.jpg">
 </div>
 <hr>
-<h4>Past Values-In-Action Events</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Highlights</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2021</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/s4-via-project-2021/" rel="noopener nofollow" target="_blank">S4 VIA Project 2021</a>
+</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
