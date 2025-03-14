@@ -84,7 +84,7 @@ journey.</p>
 motivation gained through this programme as they embark on their unique
 paths toward success.</p>
 <hr>
-<h4>Past ECG Events</h4>
+<h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2024</strong>
@@ -148,6 +148,33 @@ and goals in this final lap of their secondary education.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/PurposefulPursuitsCourseAdvisingSession.jpg">
 </div>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/experience-ite-programme/" rel="noopener nofollow" target="_blank">Experience ITE Programme</a>
+</p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/purposeful-pursuits-course-advising-session/" rel="noopener nofollow" target="_blank">Purposeful Pursuits: Course Advising Session</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/purposeful-pursuits/" rel="noopener nofollow" target="_blank">Purposeful Pursuits</a>
+</p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/transformational-leaders/sec-4-and-5-purposeful-pursuits/aspirations-day-2022/" rel="noopener nofollow" target="_blank">Aspirations Day 2022</a>
+</p>
 </div>
 </details>
 </div>
