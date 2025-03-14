@@ -38,6 +38,12 @@ application of geographical concepts. Participants walked away not just
 with new knowledge, but also with confidence, inspiration, and a renewed
 appreciation for geography’s role in shaping the world.</p>
 <hr>
+<h4>Past Humanities Department Events</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2><strong>National Education Museum-based Learning</strong></h2>
 <p>On July 23, our Secondary Two students embarked on a fascinating learning
 journey at the National Museum of Singapore, where they delved into the
@@ -120,9 +126,9 @@ a greater understanding of the world around them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4GeoLJGardensByTheBay2024_2.jpg">
 </div>
-<hr>
-<h4>Past Humanities Department Events</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
 <summary><strong>2022</strong>
 </summary>
