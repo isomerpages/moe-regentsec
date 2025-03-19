@@ -1012,15 +1012,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Zahar Bin Osman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>School Health Advisor</strong>
 </p>
 </td>
