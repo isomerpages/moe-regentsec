@@ -44,10 +44,14 @@ in keeping the nation secure.</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/national-day-celebration-2023/" rel="noopener nofollow" target="_blank">National Day Celebration 2023</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/rhd-2023/" rel="noopener nofollow" target="_blank">Racial Harmony Day 2023 </a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/international-friendship-day-2023/" rel="noopener nofollow" target="_blank">International Friendship Day 2023 </a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/total-defence-day-2023/" rel="noopener nofollow" target="_blank">Total Defence Day 2023</a>
+</p>
 <p></p>
 <p><strong>2022</strong>
 </p>
