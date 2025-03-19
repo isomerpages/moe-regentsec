@@ -50,6 +50,8 @@ community!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2023</strong>
 </p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/voices-of-youth-2023/" rel="noopener nofollow" target="_blank">Voices of Youth 2023</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/student-leadership-investiture-2023/" rel="noopener nofollow" target="_blank">Student Leadership Investiture 2023</a>
 </p>
 </div>
