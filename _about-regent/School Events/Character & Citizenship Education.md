@@ -52,9 +52,12 @@ online community!</p>
 <p></p>
 <p><strong>2022</strong>
 </p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/psl-anti-bullying-advocacy/" rel="noopener nofollow" target="_blank">PSL Anti Bullying Advocacy</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/cyber-wellness-ambassadors-induction-programme/" rel="noopener nofollow" target="_blank">Cyber Wellness Ambassadors Induction Programme</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/peer-support-leaders-2022/" rel="noopener nofollow" target="_blank">Peer Support Leaders 2022</a>
+</p>
 <p></p>
 <p><strong>2021</strong>
 </p>
