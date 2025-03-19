@@ -124,7 +124,35 @@ and opportunities that lie ahead in the dynamic world of entrepreneurship.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_POA_3.jpg">
 </div>
 <hr>
-<h4>Past Applied Learning Module (ApLM)</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/intelligent-facility-management-applied-learning-modules-aplm/" rel="noopener nofollow" target="_blank">Intelligent Facility Management - Applied Learning Modules (ApLM)</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/principles-of-accounts-poa-applied-learning-module-aplm/" rel="noopener nofollow" target="_blank">Principles of Accounts (POA) - Applied Learning Module (ApLM)</a>
+</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/digital-animations-aplm/" rel="noopener nofollow" target="_blank">Digital Animations - Applied Learning Module (ApLM)</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/product-design-and-development-aplm/" rel="noopener nofollow" target="_blank">Product Design and Development - Applied Learning Module (ApLM)</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/healthcare-in-action-aplm/" rel="noopener nofollow" target="_blank">Healthcare in Action - Applied Learning Module (ApLM)</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/fundamentals-of-tourism-management-aplm/" rel="noopener nofollow" target="_blank">Fundamentals of Tourism Management - Applied Learning Module (ApLM)</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/marketing-in-action-aplm/" rel="noopener nofollow" target="_blank">Marketing in Action - Applied Learning Module (ApLM)</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
