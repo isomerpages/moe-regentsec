@@ -58,7 +58,7 @@ online community!</p>
 <p></p>
 <p><strong>2021</strong>
 </p>
-<p><a href="https://www.regentsec.moe.edu.sg/singa-the-courtesy-lion-bench/" rel="noopener nofollow" target="_blank">Singa the Courtesy Lion Bench</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/singa-the-courtesy-lion-bench/" rel="noopener nofollow" target="_blank">Singa the Courtesy Lion Bench</a>
 </p>
 <p></p>
 </div>
