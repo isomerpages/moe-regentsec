@@ -32,7 +32,40 @@ online community!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCE/SaferInternetDay2025_3.jpg">
 </div>
 <hr>
-<h4>Past CCE Events</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2021</strong>
+</p>
+<p><a href="https://www.regentsec.moe.edu.sg/singa-the-courtesy-lion-bench/" rel="noopener nofollow" target="_blank">Singa the Courtesy Lion Bench</a>
+</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2024</strong>
