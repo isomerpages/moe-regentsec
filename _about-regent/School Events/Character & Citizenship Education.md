@@ -46,7 +46,7 @@ online community!</p>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-two-gratitude-fair/" rel="noopener nofollow" target="_blank">Secondary Two Gratitude Fair</a>
 </p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/integration-programme/" rel="noopener nofollow" target="_blank">Integration Programme </a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/integration-programme/" rel="noopener nofollow" target="_blank">Integration Programme</a>
 </p>
 <p></p>
 <p><strong>2023</strong>
