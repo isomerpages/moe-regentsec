@@ -37,10 +37,12 @@ in keeping the nation secure.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/celebrating-racial-harmony-day-at-regent-secondary-school/" rel="noopener nofollow" target="_blank">Celebrating Racial Harmony Day at Regent Secondary School</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/international-friendship-day-2024/" rel="noopener nofollow" target="_blank">International Friendship Day 2024 </a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/total-defence-day-2024/" rel="noopener nofollow" target="_blank">Total Defence Day 2024</a>
+</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
