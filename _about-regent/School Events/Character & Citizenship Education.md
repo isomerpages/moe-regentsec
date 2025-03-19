@@ -40,9 +40,14 @@ online community!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/cyber-security-talk-and-cyber-fair/" rel="noopener nofollow" target="_blank">Cyber Security Talk and Cyber Fair</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/national-education-museum-based-learning/" rel="noopener nofollow" target="_blank">National Education Museum based Learning</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-two-gratitude-fair/" rel="noopener nofollow" target="_blank">Secondary Two Gratitude Fair</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/integration-programme/" rel="noopener nofollow" target="_blank">Integration Programme </a>
+</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
