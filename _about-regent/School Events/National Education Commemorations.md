@@ -29,7 +29,38 @@ in keeping the nation secure.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/TDD2025_3.jpg">
 </div>
 <hr>
-<h4>Past NE Commemorations Events</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2022</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2021</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/nric-presentation-ceremony-2021/" rel="noopener nofollow" target="_blank">NRIC Presentation Ceremony 2021</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/racial-harmony-day-2021/" rel="noopener nofollow" target="_blank">Racial Harmony Day 2021</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/nric-registration-2021/" rel="noopener nofollow" target="_blank">NRIC Registration 2021</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/international-friendship-day-2021/" rel="noopener nofollow" target="_blank">International Friendship Day 2021</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/total-defence-day-2021/" rel="noopener nofollow" target="_blank">Total Defence Day 2021</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2024</strong>
