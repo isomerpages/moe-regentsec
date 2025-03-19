@@ -46,9 +46,11 @@ online community!</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec-2-learning-journey-to-national-museum-singapore/" rel="noopener nofollow" target="_blank">Sec 2 Learning Journey to National Museum of Singapore</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/quest-for-harmony-learning-journey-for-ne-ambassadors/" rel="noopener nofollow" target="_blank">Quest for Harmony – Learning Journey for NE Ambassadors</a>
 </p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/nkf-school-outreach-programme/" rel="noopener nofollow" target="_blank">NKF School Outreach Programme </a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/nkf-school-outreach-programme/" rel="noopener nofollow" target="_blank">NKF School Outreach Programme</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/psl-training-for-sec-4s/" rel="noopener nofollow" target="_blank">PSL Training for Sec 4s</a>
 </p>
