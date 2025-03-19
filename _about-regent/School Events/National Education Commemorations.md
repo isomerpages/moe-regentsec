@@ -35,6 +35,20 @@ in keeping the nation secure.</p>
 <summary><strong>Highlights</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
 <p><strong>2022</strong>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/nric-presentation-ceremony-2022/" rel="noopener nofollow" target="_blank">NRIC Presentation Ceremony 2022</a>
