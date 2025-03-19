@@ -37,11 +37,18 @@ in keeping the nation secure.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2022</strong>
 </p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/nric-presentation-ceremony-2022/" rel="noopener nofollow" target="_blank">NRIC Presentation Ceremony 2022</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/national-day-celebration-2022/" rel="noopener nofollow" target="_blank">National Day Celebration 2022</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/racial-harmony-day-2022/" rel="noopener nofollow" target="_blank">Racial Harmony Day 2022</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/einternationalisation/" rel="noopener nofollow" target="_blank">E-Internationalisation</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/international-friendship-day-2022/" rel="noopener nofollow" target="_blank">International Friendship Day 2022</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/total-defence-day-2022/" rel="noopener nofollow" target="_blank">Total Defence Day 2022</a>
+</p>
 <p></p>
 <p><strong>2021</strong>
 </p>
