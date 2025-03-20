@@ -279,7 +279,43 @@ aid education in our cadets.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/RCYFirstAidChamp2024_2.jpg">
 </div>
 <hr>
-<h4>Past CCA Events</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/girls-brigade-commemoration-day-2023/" rel="noopener nofollow" target="_blank">Girls Brigade Commemoration Day 2023</a>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-one-cca-orientation-cca-experience-2023/" rel="noopener nofollow" target="_blank">Secondary One CCA Orientation – CCA Experience 2023</a>
+</p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p></p>
+<p><strong>2021</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/regent-singapore-youth-festival-syf-2021/" rel="noopener nofollow" target="_blank">Regent Singapore Youth Festival (SYF) 2021</a>
+</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
