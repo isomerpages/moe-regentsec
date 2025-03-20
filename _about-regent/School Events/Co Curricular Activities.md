@@ -296,8 +296,9 @@ aid education in our cadets.</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/girls-brigade-commemoration-day-2023/" rel="noopener nofollow" target="_blank">Girls Brigade Commemoration Day 2023</a>
 </p>
 <p>📰</p>
-<p>📰</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-one-cca-orientation-cca-experience-2023/" rel="noopener nofollow" target="_blank">Secondary One CCA Orientation – CCA Experience 2023</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-annoucement/highlights/national-school-games-ceremony-2023/" rel="noopener nofollow" target="_blank">National School Games Ceremony 2023</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-annoucement/highlights/cca-experience-2023/" rel="noopener nofollow" target="_blank">Secondary One CCA Orientation – CCA Experience 2023</a>
 </p>
 <p></p>
 <p><strong>2022</strong>
