@@ -289,17 +289,23 @@ aid education in our cadets.</p>
 </p>
 <p>📰</p>
 <p>📰</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/ug-cadets-involvement-in-sg-ndp/" rel="noopener nofollow" target="_blank">UG Cadets’ Involvement in SG NDP</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/regent-drama-club-shines-at-limbang-national-day-carnival-2024/" rel="noopener nofollow" target="_blank">Regent Drama Club Shines at Limbang National Day Carnival 2024</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/girls-brigade-day-2024/" rel="noopener nofollow" target="_blank">Girls’ Brigade Day 2024</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/national-police-cadet-corp-world-red-cross-day-parade/" rel="noopener nofollow" target="_blank">National Police Cadet Corp &amp; World Red Cross Day Parade</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/bb-blaze/" rel="noopener nofollow" target="_blank">BB Blaze</a>
 </p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/uniformed-groups-passing-out-parade-2024/" rel="noopener nofollow" target="_blank">Uniformed Groups Passing Out Parade 2024 </a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/uniformed-groups-passing-out-parade-2024/" rel="noopener nofollow" target="_blank">Uniformed Groups Passing Out Parade 2024</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/rcy-first-aid-championships-2024/" rel="noopener nofollow" target="_blank">Red Cross Youth First Aid Championships 2024</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/national-school-games-ceremony-2024/" rel="noopener nofollow" target="_blank">National School Games Ceremony 2024</a>
 </p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/bb-day-2024/" rel="noopener nofollow" target="_blank">BB Day 2024 </a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/bb-day-2024/" rel="noopener nofollow" target="_blank">BB Day 2024</a>
 </p>
 <p></p>
 <p><strong>2023</strong>
