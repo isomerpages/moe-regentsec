@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Festive%20Celebrations/Festive%20Celebrations.jpg">
 </div>
-<h2><strong>CNY Celebrations 2025 </strong></h2>
+<h2><strong>CNY Celebrations 2025</strong></h2>
 <h4>Regenites Usher in the Lunar New Year with Joy and Excellence</h4>
 <p>Slithering into the new year with joy and celebration, Regenites ushered
 in the Chinese New Year with a vibrant array of engaging and culturally
