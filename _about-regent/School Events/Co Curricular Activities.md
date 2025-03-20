@@ -287,8 +287,6 @@ aid education in our cadets.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>
-<p>📰</p>
-<p>📰</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/ug-cadets-involvement-in-sg-ndp/" rel="noopener nofollow" target="_blank">UG Cadets’ Involvement in SG NDP</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/regent-drama-club-shines-at-limbang-national-day-carnival-2024/" rel="noopener nofollow" target="_blank">Regent Drama Club Shines at Limbang National Day Carnival 2024</a>
