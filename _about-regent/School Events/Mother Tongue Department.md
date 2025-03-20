@@ -42,7 +42,6 @@ practices and an appreciation for the rich diversity within Singapore.
 Experiences like these contribute to the holistic development of our students,
 nurturing respect and empathy for different cultural backgrounds and strengthening
 the bonds within our vibrant community.</p>
-<hr>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
