@@ -308,9 +308,12 @@ aid education in our cadets.</p>
 <p></p>
 <p><strong>2022</strong>
 </p>
-<p>📰</p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/b-dazzled-music-dance-festival-2022/" rel="noopener nofollow" target="_blank">B Dazzled Music and Dance Festival 2022</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/npcc-uopa-2022-gold/" rel="noopener nofollow" target="_blank">NPCC (UOPA) 2022 Gold</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/bb-gb-outdoor-activities/" rel="noopener nofollow" target="_blank">BB &amp; GB Outdoor Activities</a>
+</p>
 <p></p>
 <p><strong>2021</strong>
 </p>
