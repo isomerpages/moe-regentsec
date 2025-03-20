@@ -89,7 +89,30 @@ Happy New Year!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY Celebration/CNY2024_7.jpeg">
 </div>
 <hr>
-<h4>Past Festive Celebrations</h4>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Highlights</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/hari-raya-celebration/" rel="noopener nofollow" target="_blank">Hari Raya Celebration 2024</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/cny-sustainable-celebration/" rel="noopener nofollow" target="_blank">Celebration @ Regent</a>
+</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/chinese-new-year-2023-celebration/" rel="noopener nofollow" target="_blank">Chinese New Year 2023 Celebration</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/hari-raya-celebrations-2023/" rel="noopener nofollow" target="_blank">Hari Raya Celebrations 2023</a>
+</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
@@ -109,7 +132,7 @@ art of face-changing, and there was much fun and laughter to be had with
 the return of our annual crowd favourite—the God of Fortune!</p>
 <p></p>
 <p>The celebrations concluded with a finale comprising Chinese New Year-themed
-videos, and we all sang a medley of CNY songs with much gusto.Here’s wishing
+videos, and we all sang a medley of CNY songs with much gusto. Here’s wishing
 all our readers and Regenites a bountiful and joyous New Year and may we
 all leap to new heights!</p>
 <div class="isomer-image-wrapper">
