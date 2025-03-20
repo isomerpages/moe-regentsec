@@ -293,6 +293,8 @@ aid education in our cadets.</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/ug-accolades-presentation/" rel="noopener nofollow" target="_blank">UG Accolades Presentation</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/taekwondo-nsg-accolades/" rel="noopener nofollow" target="_blank">Taekwondo National School Games Accolades</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/girls-brigade-commemoration-day-2023/" rel="noopener nofollow" target="_blank">Girls Brigade Commemoration Day 2023</a>
