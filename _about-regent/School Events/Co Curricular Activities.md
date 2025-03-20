@@ -301,8 +301,10 @@ aid education in our cadets.</p>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-annoucement/highlights/cca-experience-2023/" rel="noopener nofollow" target="_blank">Secondary One CCA Orientation – CCA Experience 2023</a>
 </p>
-<p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/taekwondo-nsg-accolades/" rel="noopener nofollow" target="_blank">Taekwondo National School Games Accolades</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/boys-brigade-founders-day-2023/" rel="noopener nofollow" target="_blank">Boys’ Brigade Founders Day 2023</a>
+</p>
 <p></p>
 <p><strong>2022</strong>
 </p>
