@@ -84,70 +84,34 @@ journey.</p>
 motivation gained through this programme as they embark on their unique
 paths toward success.</p>
 <hr>
-<h4>Past ECG Events</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2024</strong>
+<summary><strong>Highlights</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/ecg-learning-journey-to-singapore-chemical-industry-council/" rel="noopener nofollow" target="_blank">ECG Learning Journey to Singapore Chemical Industry Council</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-four-nanyang-polytechnic-course-advising/" rel="noopener nofollow" target="_blank">Secondary Four Nanyang Polytechnic Course Advising </a>
+</p>
 <p></p>
-<h2>Secondary Four Nanyang Polytechnic Course Advising</h2>
-<p>The Course Advising session, which was held at Nanyang Polytechnic (NYP)
-on 15 May 2024, was an enriching experience for our Secondary Four students.
-It provided them with invaluable insights into academic and student life
-at the polytechnic as well as an overview of the evolving industry landscape
-in Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/S4NYPCrseAdvis2024_1.jpg">
-</div>
-<p>Participants had the opportunity to dialogue with polytechnic lecturers,
-and this fostered a dynamic exchange of ideas and information. Through
-these interactions, students learnt more about the various courses offered.
-‘It was an eye-opening experience as I was able to learn more about the
-courses offered at NYP’s School of Design and Media. The school’s exciting
-hands-on curriculum includes modules which will equip students with game
-design and animation skills, which is something I am interested in,’ says
-Ernest Liw En Ze (S4-Gratitude). Nurbalqis Fikrisya Binte Mohar (S4-Empathy)
-concurs, ‘The Course Advising session allowed me to better understand what
-the world of accounting, banking, and finance entails. I was intrigued
-to learn that NYP students would have the opportunity to undertake a 6-month
-internship at one of the many banks in Singapore. I am eager to enjoy such
-rich learning experiences. Learning more about the school and touring its
-facilities have motivated me to work hard for my O Levels and achieve my
-goals.’</p>
-<p>The enthusiasm and engagement displayed by our students underscored the
-significance of the session in empowering them to make informed decisions
-regarding their educational journey beyond secondary school. Armed with
-newfound knowledge and clarity, our Regenites are poised to navigate the
-final lap of their secondary education with purpose and determination to
-realise their dreams and aspirations.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/S4NYPCrseAdvis2024_2.jpg">
-</div>
+<p><strong>2023</strong>
+</p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/ecg-fair-worldskills-asean-wsa/" rel="noopener nofollow" target="_blank">ECG Fair: Worldskills ASEAN (WSA)</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/experience-ite-programme/" rel="noopener nofollow" target="_blank">Experience ITE Programme</a>
+</p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/purposeful-pursuits-course-advising-session/" rel="noopener nofollow" target="_blank">Purposeful Pursuits: Course Advising Session</a>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/purposeful-pursuits/" rel="noopener nofollow" target="_blank">Purposeful Pursuits</a>
+</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2023</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h2>Purposeful Pursuits - Course Advising Session</h2>
-<p>The Course Advising session held at Nanyang Polytechnic on 27 March 2023
-had strengthened the Secondary Four &amp; Five students’ resolve to achieve
-their aspirations. As the students set their sights on their dream post-secondary
-institutions and course, the session had given them insights about polytechnic
-experiences and the needs of the future industries. Students had a wonderful
-opportunity to interact with the polytechnic lecturers in-person. The interactions
-had also enlightened our students about whether the courses would suit
-their strengths and interests. Lee Jialu from 4-Determination shared that
-the sessions conducted by the Polytechnic lecturers were very informative
-and she has gained a better understanding of the various career pathways.
-This experience would definitely spur our students to realise their dreams
-and goals in this final lap of their secondary education.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/PurposefulPursuitsCourseAdvisingSession.jpg">
-</div>
+<p><strong>2022</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/transformational-leaders/sec-4-and-5-purposeful-pursuits/aspirations-day-2022/" rel="noopener nofollow" target="_blank">Aspirations Day 2022</a>
+</p>
 </div>
 </details>
 </div>

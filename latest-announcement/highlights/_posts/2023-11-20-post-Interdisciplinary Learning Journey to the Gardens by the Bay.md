@@ -17,6 +17,6 @@ They were also able to apply literacy and writing skills acquired in their Mothe
  
 All in all, our Regenites had an enriching learning experience at the various conservatories at Gardens by the Bay, and were able to see how their knowledge can be well-utilised in real world contexts.
 
-![](/images/Highlights%20Post/InterdiscipLJGardenbytheBay2023-1.png)
-![](/images/Highlights%20Post/InterdiscipLJGardenbytheBay2023-2.png)
-![](/images/Highlights%20Post/InterdiscipLJGardenbytheBay2023-3.png)
+![](/images/School%20Events/Environment/InterdiscipLJGardenbytheBay2023-1.png)
+![](/images/School%20Events/Environment/InterdiscipLJGardenbytheBay2023-2.png)
+![](/images/School%20Events/Environment/InterdiscipLJGardenbytheBay2023-3.png)

@@ -1,10 +1,11 @@
 ---
-title: CCA Uniformed Groups Passing Out Parade (POP)
-permalink: /latest-announcement/highlights/cca-ug-pop/
+title: Sec 4 Uniformed Groups Passing Out Parade (POP) 2023
+permalink: /latest-announcement/highlights/sec4-ug-pop-2023/
 date: 2023-04-10
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 The Passing Out Parade (POP) is a ceremony for cadets that is held when they complete their term in their respective Uniformed Groups (UGs). It is one of the many important and unique milestones that cadets in UGs experience.
 
