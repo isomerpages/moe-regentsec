@@ -293,6 +293,8 @@ aid education in our cadets.</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/taekwondo-nsg-accolades/" rel="noopener nofollow" target="_blank">Taekwondo National School Games Accolades</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/girls-brigade-commemoration-day-2023/" rel="noopener nofollow" target="_blank">Girls Brigade Commemoration Day 2023</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec4-ug-pop-2023/" rel="noopener nofollow" target="_blank">Sec 4 Uniformed Groups Passing Out Parade (POP) 2023</a>
@@ -300,8 +302,6 @@ aid education in our cadets.</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-annoucement/highlights/national-school-games-ceremony-2023/" rel="noopener nofollow" target="_blank">National School Games Ceremony 2023</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-annoucement/highlights/cca-experience-2023/" rel="noopener nofollow" target="_blank">Secondary One CCA Orientation – CCA Experience 2023</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/taekwondo-nsg-accolades/" rel="noopener nofollow" target="_blank">Taekwondo National School Games Accolades</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/boys-brigade-founders-day-2023/" rel="noopener nofollow" target="_blank">Boys’ Brigade Founders Day 2023</a>
 </p>
