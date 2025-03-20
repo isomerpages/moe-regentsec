@@ -29,6 +29,10 @@ the wide range of activities organized.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CCA/BB_FoundersDay_2023-5.png">
 </div>
+<h4>Boys' Brigade Day 2023 video</h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_1JcIvugwnM?si=b8wAMtSm1FHKQ15g"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/CCA/BB_FoundersDay_2023-4.png">
