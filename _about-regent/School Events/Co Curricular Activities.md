@@ -290,6 +290,9 @@ aid education in our cadets.</p>
 <p>📰</p>
 <p>📰</p>
 <p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
