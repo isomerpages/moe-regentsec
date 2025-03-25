@@ -6,46 +6,43 @@ third_nav_title: School Events
 variant: tiptap
 ---
 <h2><strong>Applied Learning Module (ApLM)</strong></h2>
-<h4>Physics</h4>
-<p>In March, our Secondary Three Physics students embarked on an exhilarating
-journey into the world of engineering through the Applied Learning Module,
-“Building and Controlling Flying Machines”, organised by Republic Polytechnic.
-The module offered participants a glimpse into life as an engineering student
-at the polytechnic and provided them with a platform to explore, innovate,
-and problem-solve.</p>
-<p>The three-day module had our students immersed in a dynamic learning environment,
-where they engaged a wide range of activities designed to deepen their
-understanding of the world of aerospace engineering. Guided by seasoned
-educators and industry experts, they learnt about the fundamental principles
-of aerodynamics and explored the intricacies of various aircraft flight
-control systems. They also experienced the thrill of “flying” using a B747
-flight simulator, taking to the virtual skies and piloting the commercial
-airliner through simulated flight scenarios. This experience, coupled with
-theory lessons by trainers, allowed our students to understand how control
-surfaces such as ailerons, elevators, and rudders influence aircraft movement,
-as well as uncover the principles behind crucial flight instruments like
-altimeters, airspeed indicators, and gyroscopes.</p>
-<p>The highlight of the module was the opportunity given to our students
-to build and test-fly their own gliders and flying drones! The hands-on
-session enabled our young innovators to apply the theoretical knowledge
-acquired as well as gain invaluable insights into the design process for
-optimal aerodynamic performance and stability.</p>
-<p>Overall, the module’s hands-on exploration and immersive experiences have
-enabled our students to acquire technical expertise and connect their learning
-in the Physics classroom to real-world issues in the field of aviation.
-As they continue to grow and explore new learning opportunities, we are
-confident that they will carry with them the lessons learnt about the dynamic
-world of engineering and innovation.</p>
+<h4>Applied Learning Module (ApLM) at Ngee Ann Poly: Social Innovations for Future Change</h4>
+<p>How can we tackle real-world social issues and make a difference in our
+communities? That was the challenge posed to our Secondary 4 Social Studies
+students during the Applied Learning Module (ApLM) programme at Ngee Ann
+Polytechnic, held from 19 to 21 March 2025. Over three immersive days,
+students explored pressing societal challenges, learned about social innovation
+strategies, and applied their knowledge to create practical solutions for
+a better future.</p>
+<p>The programme encouraged students to step beyond their textbooks and think
+critically about global and local issues. Working in teams, they identified
+social problems, proposed solutions, and eventually presented their findings
+to a panel of lecturers. But learning didn’t stop in the classroom—the
+experience was enriched with two eye-opening learning journeys.</p>
+<p>The first stop was the Science Centre, where students explored exhibits
+highlighting key social issues, sharpening their analytical skills as they
+connected real-world problems with theoretical concepts. Next, they visited
+the Enabling Village, an inclusive community space that champions empowerment
+for individuals with diverse abilities. The visit served as a powerful
+reminder that everyone has a role to play in building an inclusive society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_Physics_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_1.jpg">
+</div>
+<p>For many participants, ApLM was more than just an academic exercise—it
+was a personal journey of discovery and inspiration.</p>
+<p>David Gabriel (4-Empathy) reflected, "<em>The 3-day programme gave me the opportunity to learn about global issues and made me realise how fortunate we are in Singapore. The group discussions were fun and educational, as we explored creative solutions to pressing social challenges. This experience also helped me think more deeply about my post-secondary options.</em>"</p>
+<p>Echoing similar sentiments, Walton Tan (4-Determination) shared, "<em>The ApLM programme was really engaging as we got to hear trainers discuss real-world issues. It also tied in with what we learn in Social Studies about globalisation, but with deeper insights beyond the textbook. The learning journeys made me more aware of the different social strata in our society, and I now feel inspired to do my part in helping the less fortunate.</em>"</p>
+<p>Beyond deepening their understanding of social issues, students also gained
+newfound motivation for their post-secondary aspirations. By engaging with
+real-world challenges and collaborating on meaningful solutions, ApLM empowered
+them to become future changemakers—driven, compassionate, and ready to
+make a difference.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_Physics_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_3.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_Physics_3.jpg">
-</div>
-<hr>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
