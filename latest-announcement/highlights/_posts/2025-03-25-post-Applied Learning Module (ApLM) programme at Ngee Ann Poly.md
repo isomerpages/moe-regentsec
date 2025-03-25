@@ -26,7 +26,6 @@ connected real-world problems with theoretical concepts. Next, they visited
 the Enabling Village, an inclusive community space that champions empowerment
 for individuals with diverse abilities. The visit served as a powerful
 reminder that everyone has a role to play in building an inclusive society.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_1.jpg">
 </div>
