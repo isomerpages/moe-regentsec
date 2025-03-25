@@ -37,6 +37,30 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: S4EX Learning Journey to Gardens by the Bay
+          date: 25 March 2025
+          announcement: Geography comes alive when students step beyond the classroom and
+            into the real world. Our Secondary 4 and 5 Geography students
+            recently embarked on an enriching fieldwork study at Gardens by the
+            Bay, applying their knowledge and skills to investigate real-world
+            tourism dynamics.
+          link_text: Read more about it here
+          link_url: /s4ex-learning-journey-to-gardens-by-the-bay/
+        - title: CCA-Led Gratitude Challenge
+          date: 25 March 2025
+          announcement: On 12 March 2025, Regent Secondary launched its first-ever CCA-led
+            Gratitude Challenge, an initiative designed to encourage students to
+            express appreciation for their peers and school community.
+          link_text: Read more about it here
+          link_url: /cca-led-gratitude-challenge/
+        - title: Applied Learning Module (ApLM) programme at Ngee Ann Poly
+          date: 25 March 2025
+          announcement: How can we tackle real-world social issues and make a difference
+            in our communities? That was the challenge posed to our Secondary 4
+            Social Studies students during the Applied Learning Module (ApLM)
+            programme at Ngee Ann Polytechnic, held from 19 to 21 March 2025.
+          link_text: Read more about it here
+          link_url: /applied-learning-module-aplm-programme-at-ngee-ann-poly/
         - title: S4EX NUS Geography Challenge
           date: 14 March 2025
           announcement: Where knowledge meets action—geography in motion! The NUS
@@ -53,28 +77,4 @@ sections:
             the importance of preparedness.
           link_text: Read more about it here
           link_url: /total-defence-day-2025/
-        - title: Regent Secondary School Celebrates Safer Internet Day 2025
-          date: 27 February 2025
-          announcement: Regent Secondary School joined the global celebration of Safer
-            Internet Day, promoting safe and responsible online use. This year’s
-            theme, "Empowering a Safe and Resilient Online Community,"
-            encouraged students to navigate the digital world safely while
-            fostering a positive online environment.
-          link_text: Read more about it here
-          link_url: /regent-secondary-school-celebrates-safer-internet-day-2025/
-        - title: "Experience ITE Programme: A Gateway to Future Educational Pathways"
-          date: 26 February 2025
-          announcement: Our Secondary Two and Three G1 students recently had the
-            opportunity to participate in the Experience ITE Programme at ITE
-            College West, where they gained valuable insights into the diverse
-            courses available and the entry requirements for each courses.
-          link_text: Read more about it here
-          link_url: /experience-ite-programme-a-gateway-to-future-educational-pathways/
-        - title: CNY Celebrations 2025
-          date: 05 February 2025
-          announcement: Slithering into the new year with joy and celebration, Regenites
-            ushered in the Chinese New Year with a vibrant array of engaging and
-            culturally rich learning experiences!
-          link_text: Read more about it here
-          link_url: /cny-celebrations-2025/
 ---
