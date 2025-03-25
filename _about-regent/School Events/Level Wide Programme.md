@@ -51,6 +51,8 @@ make a difference.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/physics-applied-learning-module-aplm/" rel="noopener nofollow" target="_blank">Physics - Applied Learning Module (ApLM)</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/intelligent-facility-management-applied-learning-modules-aplm/" rel="noopener nofollow" target="_blank">Intelligent Facility Management - Applied Learning Modules (ApLM)</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/principles-of-accounts-poa-applied-learning-module-aplm/" rel="noopener nofollow" target="_blank">Principles of Accounts (POA) - Applied Learning Module (ApLM)</a>
