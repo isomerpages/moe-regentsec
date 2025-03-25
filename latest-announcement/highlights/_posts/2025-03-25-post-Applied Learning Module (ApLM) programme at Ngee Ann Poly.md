@@ -26,6 +26,10 @@ connected real-world problems with theoretical concepts. Next, they visited
 the Enabling Village, an inclusive community space that champions empowerment
 for individuals with diverse abilities. The visit served as a powerful
 reminder that everyone has a role to play in building an inclusive society.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_1.jpg">
+</div>
 <p>For many participants, ApLM was more than just an academic exercise—it
 was a personal journey of discovery and inspiration.</p>
 <p>David Gabriel (4-Empathy) reflected, "<em>The 3-day programme gave me the opportunity to learn about global issues and made me realise how fortunate we are in Singapore. The group discussions were fun and educational, as we explored creative solutions to pressing social challenges. This experience also helped me think more deeply about my post-secondary options.</em>"</p>
@@ -35,4 +39,10 @@ newfound motivation for their post-secondary aspirations. By engaging with
 real-world challenges and collaborating on meaningful solutions, ApLM empowered
 them to become future changemakers—driven, compassionate, and ready to
 make a difference.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_3.jpg">
+</div>
 <p></p>
