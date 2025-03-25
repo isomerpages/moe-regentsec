@@ -25,21 +25,20 @@ thinking skills but also helped them see Geography beyond the textbook.
 By engaging directly with tourists, students gained firsthand knowledge
 of visitor experiences, preferences, and perceptions of Gardens by the
 Bay.</p>
-<p>Jovan Lim shared his experience: “Overall, it was an eye-opening experience.
-Stationed at the entrance of Gardens by the Bay South, my group and I managed
-to interview 10 people regarding their feedback on the enthralling gardens
-as they stepped in. I enjoyed interacting with them to facilitate the feedback
-collection.”</p>
-<p>Similarly, Wendy Heng reflected: “The Geography fieldwork exercise at
-Gardens by the Bay was an enlightening experience. We had the chance to
-be stationed at four different locations to interview tourists about their
-experiences there. During this process, we tested our survey and identified
-its limitations. I conducted the survey and noted its shortcomings. Overall,
-visiting Gardens by the Bay and engaging in real-world data collection
-provided valuable insights.”</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4EXLJtoGBTB2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4EXLJtoGBTB2025_3.jpg">
+</div>
+<p>Jovan Lim shared his experience: “<em>Overall, it was an eye-opening experience. Stationed at the entrance of Gardens by the Bay South, my group and I managed to interview 10 people regarding their feedback on the enthralling gardens as they stepped in. I enjoyed interacting with them to facilitate the feedback collection</em>.”</p>
+<p>Similarly, Wendy Heng reflected: “<em>The Geography fieldwork exercise at Gardens by the Bay was an enlightening experience. We had the chance to be stationed at four different locations to interview tourists about their experiences there. During this process, we tested our survey and identified its limitations. I conducted the survey and noted its shortcomings. Overall, visiting Gardens by the Bay and engaging in real-world data collection provided valuable insights.</em>”</p>
 <p>Through this fieldwork experience, students not only honed their geographical
 research skills but also gained a deeper appreciation for the impact of
 tourism in Singapore. This trip exemplified the power of experiential learning,
 bringing Geography to life and preparing students to think like true geographers—curious,
 analytical, and engaged with the world around them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/S4EXLJtoGBTB2025_2.jpg">
+</div>
 <p></p>
