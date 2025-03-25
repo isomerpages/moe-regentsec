@@ -1,12 +1,13 @@
 ---
-title: Level Wide Programme
-permalink: /about-regent/school-events/level-wide-programme/
+title: Applied Learning Module (ApLM) programme at Ngee Ann Poly
+permalink: /applied-learning-module-aplm-programme-at-ngee-ann-poly/
+date: 2025-03-25
+layout: post
 description: ""
-third_nav_title: School Events
+image: ""
 variant: tiptap
 ---
-<h2><strong>Applied Learning Module (ApLM)</strong></h2>
-<h4>Applied Learning Module (ApLM) at Ngee Ann Poly: Social Innovations for Future Change</h4>
+<h4>Applied Learning Module (ApLM): Social Innovations for Future Change</h4>
 <p>How can we tackle real-world social issues and make a difference in our
 communities? That was the challenge posed to our Secondary 4 Social Studies
 students during the Applied Learning Module (ApLM) programme at Ngee Ann
@@ -42,35 +43,5 @@ make a difference.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLMSocialInnov2025_3.jpg">
-</div>
-<h4>Past Highlights</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Highlights</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>2024</strong>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/physics-applied-learning-module-aplm/" rel="noopener nofollow" target="_blank">Physics - Applied Learning Module (ApLM)</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/intelligent-facility-management-applied-learning-modules-aplm/" rel="noopener nofollow" target="_blank">Intelligent Facility Management - Applied Learning Modules (ApLM)</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/principles-of-accounts-poa-applied-learning-module-aplm/" rel="noopener nofollow" target="_blank">Principles of Accounts (POA) - Applied Learning Module (ApLM)</a>
-</p>
-<p></p>
-<p><strong>2023</strong>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/digital-animations-aplm/" rel="noopener nofollow" target="_blank">Digital Animations - Applied Learning Module (ApLM)</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/product-design-and-development-aplm/" rel="noopener nofollow" target="_blank">Product Design and Development - Applied Learning Module (ApLM)</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/healthcare-in-action-aplm/" rel="noopener nofollow" target="_blank">Healthcare in Action - Applied Learning Module (ApLM)</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/fundamentals-of-tourism-management-aplm/" rel="noopener nofollow" target="_blank">Fundamentals of Tourism Management - Applied Learning Module (ApLM)</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/marketing-in-action-aplm/" rel="noopener nofollow" target="_blank">Marketing in Action - Applied Learning Module (ApLM)</a>
-</p>
-</div>
-</details>
 </div>
 <p></p>
