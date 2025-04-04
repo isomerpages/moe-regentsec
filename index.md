@@ -37,6 +37,15 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: "Applied Learning Module (ApLM): Eyesight Matters"
+          date: 04 April 2025
+          announcement: A group of enthusiastic Regenites embarked on a deep dive into the
+            world of eye care at NYP's Applied Learning Module (ApLM) on
+            Eyesight Matters. This interactive session provided them with a
+            firsthand look at vision science, the importance of eye health, and
+            the role of optometry in daily life.
+          link_text: Read more about it here
+          link_url: /applied-learning-module-aplm-eyesight-matters/
         - title: S4EX Learning Journey to Gardens by the Bay
           date: 25 March 2025
           announcement: Geography comes alive when students step beyond the classroom and
@@ -68,13 +77,4 @@ sections:
             students in a test of knowledge, analytical thinking, and teamwork.
           link_text: Read more about it here
           link_url: /s4ex-nus-geography-challenge/
-        - title: Total Defence Day 2025
-          date: 28 February 2025
-          announcement: Regent Secondary School observed Total Defence Day with engaging
-            activities, including the Exercise SG Ready initiative. A key
-            highlight was the water disruption exercise, which allowed students
-            to experience the inconvenience of limited water access, reinforcing
-            the importance of preparedness.
-          link_text: Read more about it here
-          link_url: /total-defence-day-2025/
 ---
