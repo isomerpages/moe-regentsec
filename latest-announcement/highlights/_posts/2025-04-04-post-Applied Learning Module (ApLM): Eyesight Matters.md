@@ -23,6 +23,9 @@ was the personalised hands-on session, where students measured each other's
 pupil distances, cut tinted lenses, and even assembled their own sunglasses—bringing
 home a one-of-a-kind, practical souvenir.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_EyesightMatters2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_EyesightMatters2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -44,7 +47,4 @@ that we are not at that level of education yet."</p>
 the mind, good vision opens doors to endless possibilities. As Helen Keller
 once said, <em>“The only thing worse than being blind is having sight but no vision.” With newfound knowledge and awareness, these future changemakers walked away with a clearer vision—not just for their eyes, but for their future!"</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Level Wide Programmes/ApLM_EyesightMatters2025_4.jpg">
-</div>
 <p></p>
