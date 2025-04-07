@@ -20,7 +20,7 @@ we celebrate this achievement alongside the entire Regent community!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Accolades/RGSS___NW_Outstanding_School_Partner_Award_2024_Photo_Banner.jpg">
 </div>
 <hr>
-<h4>Past Accolades</h4>
+<h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
