@@ -21,6 +21,32 @@ we celebrate this achievement alongside the entire Regent community!</p>
 </div>
 <hr>
 <h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>More</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>2023</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/o-level-examination-results-release-2023/" rel="noopener nofollow" target="_blank">‘O’ Level Examination Results Release 2023</a>
+</p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/23rd-elementz-fair-gold-award/" rel="noopener nofollow" target="_blank">23rd Elementz Fair (Gold Award)</a>
+</p>
+<p></p>
+<p><strong>2021</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/school-green-awards-2021/" rel="noopener nofollow" target="_blank">School Green Awards 2021</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
