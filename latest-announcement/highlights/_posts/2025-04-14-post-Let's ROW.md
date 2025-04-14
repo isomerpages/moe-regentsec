@@ -1,11 +1,12 @@
 ---
-title: Environment
-permalink: /about-regent/school-events/environment/
+title: Let's ROW
+permalink: /let-s-row/
+date: 2025-04-14
+layout: post
 description: ""
-third_nav_title: School Events
+image: ""
 variant: tiptap
 ---
-<h2><strong>Let's R.O.W</strong></h2>
 <h4>World Water Day 2025: Making Every Drop Count through Glacier Preservation and Water Conservation</h4>
 <p>On 27 March, Regent Secondary commemorated World Water Day with a vibrant
 line-up of activities aimed at raising awareness about the importance of
@@ -48,45 +49,5 @@ every drop count!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Environment/LetsROW2025_5.jpg">
-</div>
-<hr>
-<h4>Past Highlights</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>More</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>2024</strong>
-</p>
-<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/participation-in-raffles-institution-model-united-nations-rmun-environmental-assembly/" rel="noopener nofollow" target="_blank">Participation in Raffles Institution Model United Nations (RMUN) Environmental Assembly</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/let-s-race/" rel="noopener nofollow" target="_blank">Let's Race</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/let-s-go-green/" rel="noopener nofollow" target="_blank">Let's Go Green!</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/commemoration-of-world-water-day/" rel="noopener nofollow" target="_blank">Commemoration of World Water Day</a>
-</p>
-<p></p>
-<p><strong>2023</strong>
-</p>
-<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/interdisciplinary-learning-journey-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Interdisciplinary Learning Journey to the Gardens by the Bay</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/greenboot-camp/" rel="noopener nofollow" target="_blank">Greenboot Camp</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/earthday2023/" rel="noopener nofollow" target="_blank">Earth Day 2023</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/regents-edible-garden/" rel="noopener nofollow" target="_blank">Regent's Edible Garden</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/wwd2023/" rel="noopener nofollow" target="_blank">World Water Day 2023</a>
-</p>
-<p></p>
-<p><strong>2022</strong>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/world-environment-day/" rel="noopener nofollow" target="_blank">World Environment Day</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/environmental-science-photography-workshop/" rel="noopener nofollow" target="_blank">Environmental Science Photography Workshop</a>
-</p>
-</div>
-</details>
 </div>
 <p></p>
