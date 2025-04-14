@@ -39,6 +39,10 @@ students a hands-on approach to learning about sustainable water practices.</p>
 penned their personal water-saving commitments on the Applied Learning
 Programme (ALP) Wall. This powerful display of student voices serves as
 a lasting reminder of our shared responsibility to safeguard water resources.</p>
+<p>World Water Day 2025 at Regent was not only educational but also deeply
+impactful, reminding us that small, conscious actions—when multiplied—can
+lead to significant change. Together, let’s keep up the momentum and make
+every drop count!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Environment/LetsROW2025_4.jpg">
 </div>
@@ -46,7 +50,4 @@ a lasting reminder of our shared responsibility to safeguard water resources.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Environment/LetsROW2025_5.jpg">
 </div>
-<p>World Water Day 2025 at Regent was not only educational but also deeply
-impactful, reminding us that small, conscious actions—when multiplied—can
-lead to significant change. Together, let’s keep up the momentum and make
-every drop count!</p>
+<p></p>
