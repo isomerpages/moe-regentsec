@@ -128,7 +128,7 @@ appreciation for geography’s role in shaping the world.</p>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Highlights</strong>
+<summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
