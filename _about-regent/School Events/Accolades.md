@@ -26,11 +26,12 @@ we celebrate this achievement alongside the entire Regent community!</p>
 <summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>2023</p>
+<p><strong>2023</strong>
+</p>
 <p>📰</p>
 <p>📰</p>
-<p>📰</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/npcc-uopa-2022-gold/" rel="noopener nofollow" target="_blank">NPCC Unit Overall Proficiency Award (UOPA) 2022 - GOLD</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/o-level-examination-results-release-2023/" rel="noopener nofollow" target="_blank">‘O’ Level Examination Results Release 2023</a>
 </p>
 <p></p>
