@@ -37,6 +37,24 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Let's R.O.W
+          date: 14 April 2025
+          announcement: On 27 March, Regent Secondary commemorated World Water Day with a
+            vibrant line-up of activities aimed at raising awareness about the
+            importance of water conservation. This year’s global theme—Glacier
+            Preservation—shone a spotlight on the urgent need to protect the
+            world's glaciers, which are...
+          link_text: Read more about it here
+          link_url: /let-s-row/
+        - title: Secondary 1G3 Virtual Tour to Fort Canning
+          date: 14 April 2025
+          announcement: History came alive for our students as they embarked on an
+            exciting virtual tour of Fort Canning Hill, led by Lion Heartlanders
+            Tour Company! This immersive experience marked the launch of our
+            inaugural Regentstorians Programme, a special initiative designed to
+            nurture passionate young...
+          link_text: Read more about it here
+          link_url: /secondary-1g3-virtual-tour-to-fort-canning/
         - title: "Applied Learning Module (ApLM): Eyesight Matters"
           date: 04 April 2025
           announcement: A group of enthusiastic Regenites embarked on a deep dive into the
@@ -62,19 +80,4 @@ sections:
             express appreciation for their peers and school community.
           link_text: Read more about it here
           link_url: /cca-led-gratitude-challenge/
-        - title: Applied Learning Module (ApLM) programme at Ngee Ann Poly
-          date: 25 March 2025
-          announcement: How can we tackle real-world social issues and make a difference
-            in our communities? That was the challenge posed to our Secondary 4
-            Social Studies students during the Applied Learning Module (ApLM)
-            programme at Ngee Ann Polytechnic, held from 19 to 21 March 2025.
-          link_text: Read more about it here
-          link_url: /applied-learning-module-aplm-programme-at-ngee-ann-poly/
-        - title: S4EX NUS Geography Challenge
-          date: 14 March 2025
-          announcement: Where knowledge meets action—geography in motion! The NUS
-            Geographical Challenge 2025 brought together passionate geography
-            students in a test of knowledge, analytical thinking, and teamwork.
-          link_text: Read more about it here
-          link_url: /s4ex-nus-geography-challenge/
 ---
