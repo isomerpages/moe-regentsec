@@ -4,7 +4,7 @@ permalink: /direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Direct School Admission for Secondary One in 2025 for Regent Secondary School</strong></h3>
+<h3><strong>Direct School Admission for Secondary One in 2026 for Regent Secondary School</strong></h3>
 <p>We cordially invite eligible students in one of the following areas to
 apply:</p>
 <ul data-tight="true" class="tight">
