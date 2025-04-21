@@ -112,21 +112,17 @@ school NAPFA test
 </tr>
 </tbody>
 </table>
-<p>For more information on Direct School Admission, please visit:</p>
-<p>DSA-Sec - <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
-</p>
-<p>DSA-Sec FAQs - <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
-</p>
-<p>DSA-Sec School Finder - <a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
-</p>
-<p><strong><u>Additional Information:</u></strong>
-</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Applicants who do not have prior experience may also apply and will be
 assessed on the basis of their potential.</p>
+<p>The selection criteria and process for the talent areas will be updated
+from early-May. For more information on DSA-Sec, please refer to the MOE
+website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
+<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
 <p>For general enquiries, you may contact the following staff:</p>
 <p><strong>Ms Siti Mashita (Admin Executive / DSA Co-ordinator)</strong> 
 <br>Tel: 6765 3828
