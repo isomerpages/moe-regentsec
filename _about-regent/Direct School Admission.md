@@ -4,7 +4,7 @@ permalink: /direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Direct School Admission for Secondary One in 2025 for Regent Secondary School</strong></h3>
+<h3>Direct School Admission for Secondary One in 2026 for Regent Secondary School</h3>
 <p>We cordially invite eligible students in one of the following areas to
 apply:</p>
 <ul data-tight="true" class="tight">
@@ -29,14 +29,6 @@ Corps (NPCC) and Red Cross Youth)</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.regentsec.moe.edu.sg/transformational-leaders/learning-for-life-programme/community-youth-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership</a></strong>
@@ -120,105 +112,21 @@ school NAPFA test
 </tr>
 </tbody>
 </table>
-<h4><strong>KEY DATES</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tue, 7 May (11am) to Mon, 3 June 2024 (3pm)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Application Period</strong> 
-<br>
-</p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
-The application is free-of-charge and will be open from Tue, 7 May 2024,
-11am to Mon, 3 Jun 2024, 3pm. For more details, please refer to MOE website
-– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p></p>
-<p><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>. If you are unable to apply online, approach your Primary School for assistance.</em> 
-<br>
-</p>
-<p><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>By Mon, 9 September 2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Period</strong> 
-<br>
-<br>Shortlisted applicants will be notified via email/phone call to attend
-a selection session by mid-September. Details of the selection session
-will be provided to the shortlisted applicants via email/phone call.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mon, 21 October (9am) to Fri, 25 October 2024 (3pm)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Preference Submission</strong> 
-<br>
-<br>Students who received offers through DSA-Sec should submit their preferred
-choice of schools through the DSA-Sec Portal.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Wed, 20 November to Fri, 22 November 2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>DSA-Sec Allocation Results Release</strong> 
-<br>
-<br>Successful candidates studying in MOE mainstream school will receive their
-results together with their PSLE Results through their primary school.
-<br>
-<br>Candidates not studying in MOE mainstream schools will receive their DSA-Sec
-results via email.</p>
-<p></p>
-<p>There are two possible allocation outcomes: successful or unsuccessful.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>For more information on Direct School Admission, please visit:</p>
-<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+<p>DSA-Sec - <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p>DSA-Sec FAQs - <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
-<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<p>DSA-Sec School Finder - <a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
-<p></p>
 <p><strong><u>Additional Information:</u></strong>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p></p>
 <p>Applicants who do not have prior experience may also apply and will be
 assessed on the basis of their potential.</p>
-<p></p>
-<p><strong><u>Please note that:</u></strong>
-</p>
-<p>Students who are successfully admitted to the school via DSA-Sec are expected
-to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from Year 1 to 4.</p>
-<p></p>
-<p><em>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
-</p>
-<p></p>
 <p>For general enquiries, you may contact the following staff:</p>
 <p><strong>Ms Siti Mashita (Admin Executive / DSA Co-ordinator)</strong> 
 <br>Tel: 6765 3828

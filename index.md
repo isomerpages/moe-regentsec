@@ -15,28 +15,19 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
-  - infopic:
-      title: 2024 School Programme
-      subtitle: Video Collection
-      id: infopic
-      description: Playlist of Regent's video highlights
-      button: Click here to watch the video
-      url: https://youtube.com/playlist?list=PLuMohdsjKgMxEt7oEJ3AJv3QdFJlNwxqA&si=oNn09CmJt_QveLe7
-      image: /images/InfoPic Widget/InfoPic_VideoCollection.jpg
-      alt: Image alt text
-  - infopic:
-      title: Echoes of Regent
-      subtitle: School Publication
-      id: infopic
-      description: 2024 E-Newsletter
-      button: Click here to view newsletter
-      url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
-      image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
-      alt: Image alt text
   - announcements:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Hari Raya Concert 2025
+          date: 21 April 2025
+          announcement: The harmonious melodies of Zapin, the magical chimes of Gamelan,
+            the joyous drumbeats, and the uplifting voices of singers
+            intertwined gracefully to illuminate vibrant performances in Malay
+            dance, Pencak Silat, Wayang Kulit, and a lively pop band sing-along
+            session...
+          link_text: Read more about it here
+          link_url: /hari-raya-concert-2025/
         - title: Let's R.O.W
           date: 14 April 2025
           announcement: On 27 March, Regent Secondary commemorated World Water Day with a
@@ -73,11 +64,22 @@ sections:
             tourism dynamics.
           link_text: Read more about it here
           link_url: /s4ex-learning-journey-to-gardens-by-the-bay/
-        - title: CCA-Led Gratitude Challenge
-          date: 25 March 2025
-          announcement: On 12 March 2025, Regent Secondary launched its first-ever CCA-led
-            Gratitude Challenge, an initiative designed to encourage students to
-            express appreciation for their peers and school community.
-          link_text: Read more about it here
-          link_url: /cca-led-gratitude-challenge/
+  - infopic:
+      title: 2024 School Programme
+      subtitle: Video Collection
+      id: infopic
+      description: Playlist of Regent's video highlights
+      button: Click here to watch the video
+      url: https://youtube.com/playlist?list=PLuMohdsjKgMxEt7oEJ3AJv3QdFJlNwxqA&si=oNn09CmJt_QveLe7
+      image: /images/InfoPic Widget/InfoPic_VideoCollection.jpg
+      alt: Image alt text
+  - infopic:
+      title: Echoes of Regent
+      subtitle: School Publication
+      id: infopic
+      description: 2024 E-Newsletter
+      button: Click here to view newsletter
+      url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
+      image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
+      alt: Image alt text
 ---
