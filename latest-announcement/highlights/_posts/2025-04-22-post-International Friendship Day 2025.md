@@ -46,4 +46,3 @@ the value of staying open-minded in a changing world.</p>
 backgrounds that make up the Regent community. The events left a lasting
 impression, reminding us that even small acts of openness and understanding
 can help forge strong friendships in a complex world.</p>
-<p>&nbsp;</p>
