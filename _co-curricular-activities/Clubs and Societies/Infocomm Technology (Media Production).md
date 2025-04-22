@@ -23,6 +23,9 @@ opportunities for students who are interested in photography, audio visual
 technology and media production. Our core duty is to support the school
 community with photography, videography and assistance in using audio-visual
 equipment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/InfoComm_2025_LJ_GardensbytheBay.jpg">
+</div>
 <h4>Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,7 +63,6 @@ handling</p>
 <p>Participated in National Cyber Wellness (NCW) Competition 2024</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMM2024_1.jpg">
 </div>
