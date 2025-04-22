@@ -55,15 +55,15 @@ sections:
             the role of optometry in daily life.
           link_text: Read more about it here
           link_url: /applied-learning-module-aplm-eyesight-matters/
-        - title: S4EX Learning Journey to Gardens by the Bay
-          date: 25 March 2025
-          announcement: Geography comes alive when students step beyond the classroom and
-            into the real world. Our Secondary 4 and 5 Geography students
-            recently embarked on an enriching fieldwork study at Gardens by the
-            Bay, applying their knowledge and skills to investigate real-world
-            tourism dynamics.
+        - title: International Friendship Day 2025
+          date: 22 April 2025
+          announcement: To commemorate International Friendship Day, Regent Secondary
+            launched a vibrant series of activities from 14 to 16 April, centred
+            around the theme “Forging Friendships in a Complex World.” The
+            events highlighted the importance of building meaningful connections
+            and embracing diversity...
           link_text: Read more about it here
-          link_url: /s4ex-learning-journey-to-gardens-by-the-bay/
+          link_url: /international-friendship-day-2025/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
