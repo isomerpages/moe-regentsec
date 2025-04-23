@@ -19,6 +19,15 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: International Friendship Day 2025
+          date: 22 April 2025
+          announcement: To commemorate International Friendship Day, Regent Secondary
+            launched a vibrant series of activities from 14 to 16 April, centred
+            around the theme “Forging Friendships in a Complex World.” The
+            events highlighted the importance of building meaningful connections
+            and embracing diversity...
+          link_text: Read more about it here
+          link_url: /international-friendship-day-2025/
         - title: Hari Raya Concert 2025
           date: 21 April 2025
           announcement: The harmonious melodies of Zapin, the magical chimes of Gamelan,
@@ -55,15 +64,6 @@ sections:
             the role of optometry in daily life.
           link_text: Read more about it here
           link_url: /applied-learning-module-aplm-eyesight-matters/
-        - title: International Friendship Day 2025
-          date: 22 April 2025
-          announcement: To commemorate International Friendship Day, Regent Secondary
-            launched a vibrant series of activities from 14 to 16 April, centred
-            around the theme “Forging Friendships in a Complex World.” The
-            events highlighted the importance of building meaningful connections
-            and embracing diversity...
-          link_text: Read more about it here
-          link_url: /international-friendship-day-2025/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
