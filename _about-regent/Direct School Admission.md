@@ -113,8 +113,6 @@ school NAPFA test
 </tbody>
 </table>
 <h4><strong>KEY DATES</strong></h4>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -135,13 +133,10 @@ The application is free-of-charge and will be open from Wed, 7 May 2025,
 11am to Tue, 3 June 2025, 3pm. For more details, please refer to MOE website
 – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
-<p>*If you are a student studying in MOE mainstream primary school, you may
-login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>.
-If you are unable to apply online, approach your Primary School for assistance.</p>
+<p><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>. If you are unable to apply online, approach your Primary School for assistance.</em>
+</p>
 <p></p>
-<p>*If you are not from MOE mainstream primary school, you will need to apply
-for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at
-<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
 </td>
 </tr>
