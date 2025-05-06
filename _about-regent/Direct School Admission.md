@@ -113,6 +113,8 @@ school NAPFA test
 </tbody>
 </table>
 <h4><strong>KEY DATES</strong></h4>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -129,14 +131,17 @@ school NAPFA test
 </p>
 <p></p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
-The application is free-of-charge and will be open from Wednesday, 7th
-May 2025, 11am to Tuesday, 3rd Jun 2025, 3pm. For more details, please
-refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from Wed, 7 May 2025,
+11am to Tue, 3 June 2025, 3pm. For more details, please refer to MOE website
+– <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
-<p><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>. If you are unable to apply online, approach your Primary School for assistance.</em>
-</p>
+<p>*If you are a student studying in MOE mainstream primary school, you may
+login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>.
+If you are unable to apply online, approach your Primary School for assistance.</p>
 <p></p>
-<p><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
+<p>*If you are not from MOE mainstream primary school, you will need to apply
+for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at
+<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -169,7 +174,7 @@ choice of schools through the DSA-Sec Portal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>20 November to 22 November 2025</strong>
+<p><strong>24 November to 26 November 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,3 +217,4 @@ an offer.</p>
 <br>Tel: 6765 3828
 <br>Email: <a href="mailto:siti_mashita_mohd_zain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mashita_mohd_zain@moe.edu.sg</a>
 </p>
+<p></p>
