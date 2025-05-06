@@ -203,8 +203,13 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Applicants who do not have prior experience may also apply and will be
 assessed on the basis of their potential.</p>
-<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
-an offer.</p>
+<p><strong><u>Please note that:</u></strong>
+</p>
+<p>Students who are successfully admitted to the school via DSA-Sec are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from Year 1 to 4.</p>
+<p><em>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
+</p>
 <p>For general enquiries, you may contact the following staff:</p>
 <p><strong>Ms Siti Mashita (Admin Executive / DSA Co-ordinator)</strong> 
 <br>Tel: 6765 3828
