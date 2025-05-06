@@ -112,6 +112,90 @@ school NAPFA test
 </tr>
 </tbody>
 </table>
+<h4><strong>KEY DATES</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wed, 7 May (11am) to Tue, 3 June 2025 (3pm)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Application Opens</strong>
+</p>
+<p></p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
+The application is free-of-charge and will be open from Wednesday, 7th
+May 2025, 11am to Tuesday, 3rd Jun 2025, 3pm. For more details, please
+refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p></p>
+<p><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>. If you are unable to apply online, approach your Primary School for assistance.</em>
+</p>
+<p></p>
+<p><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>By Thu, 4 September 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Period</strong>
+</p>
+<p></p>
+<p>Shortlisted applicants will be notified via email/phone call to attend
+a selection session by mid-September. Details of the selection session
+will be provided to the shortlisted applicants via email/phone call.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mon, 27 October (9am) to Fri, 31 October 2025 (3pm)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Preference Submission</strong>
+</p>
+<p></p>
+<p>Students who received offers through DSA-Sec should submit their preferred
+choice of schools through the DSA-Sec Portal.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>20 November to 22 November 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DSA-Sec Allocation Results Release</strong>
+</p>
+<p></p>
+<p>Successful candidates studying in MOE mainstream school will receive their
+results together with their PSLE Results through their primary school.</p>
+<p></p>
+<p>Candidates not studying in MOE mainstream schools will receive their DSA-Sec
+results via email.</p>
+<p></p>
+<p>There are two possible allocation outcomes: successful or unsuccessful.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For more information on Direct School Admission, please visit:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
+<p><strong><u>Additional Information:</u></strong>
+</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
