@@ -149,9 +149,10 @@ The application is free-of-charge and will be open from Wed, 7 May 2025,
 <p><strong>Selection Period</strong>
 </p>
 <p></p>
-<p>Shortlisted applicants will be notified via email/phone call to attend
-a selection session by mid-September. Details of the selection session
-will be provided to the shortlisted applicants via email/phone call.</p>
+<p>You will receive notification from the school by 22 August 2025, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.
+All applicants will receive their application outcomes between 25 August
+and 4 September 2025.</p>
 </td>
 </tr>
 <tr>
@@ -202,10 +203,6 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Applicants who do not have prior experience may also apply and will be
 assessed on the basis of their potential.</p>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
-</p>
 <p>Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer.</p>
 <p>For general enquiries, you may contact the following staff:</p>
