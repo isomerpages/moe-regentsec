@@ -204,7 +204,8 @@ the area of talent.</p>
 assessed on the basis of their potential.</p>
 <p>The selection criteria and process for the talent areas will be updated
 from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
+website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
 <p>Meeting all the criteria does not guarantee the student will be shortlisted/given
 an offer.</p>
 <p>For general enquiries, you may contact the following staff:</p>
