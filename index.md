@@ -15,6 +15,13 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
+  - infobar:
+      title: Direct School Admission for Secondary One in 2026
+      subtitle: HIghlights
+      id: infobar
+      description: DSA-Sec
+      button: Find out more here
+      url: /direct-school-admission/
   - announcements:
       title: Announcements & Highlights
       id: announcements
