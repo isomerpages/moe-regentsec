@@ -791,15 +791,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Wai Fong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Trainee School Counsellor</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Kang Kai Ting Vernice</p>
 </td>
 </tr>
@@ -809,7 +800,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti'Aishah Binte Suhaimi</p>
+<p>Ms Subatra D/O Ramachandra</p>
 </td>
 </tr>
 <tr>
@@ -859,6 +850,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Adjt Operation Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ravisanker S/O Selvarajoo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ICT Manager</strong>
 </p>
 </td>
@@ -900,6 +900,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ting Siong Wei Jasper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>STEM Instructor - Workshop</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Zahar Bin Osman</p>
 </td>
 </tr>
 <tr>
