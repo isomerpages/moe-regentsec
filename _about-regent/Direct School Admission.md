@@ -170,7 +170,7 @@ choice of schools through the DSA-Sec Portal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>24 November to 26 November 2025</strong>
+<p><strong>Late November 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,11 +189,11 @@ results via email.</p>
 </tbody>
 </table>
 <p>For more information on Direct School Admission, please visit:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 <p><strong><u>Additional Information:</u></strong>
 </p>
