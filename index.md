@@ -26,6 +26,15 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Secondary 1 Science Integrative Activity
+          date: 14 May 2025
+          announcement: The Secondary One Science Integrative Activity brought science to
+            life as students took on a real-world challenge—cleaning muddy water
+            using self-built water purification devices. In a country like
+            Singapore, where freshwater is scarce and clean water relies on
+            desalination...
+          link_text: Read more about it here
+          link_url: /secondary-1-science-integrative-activity/
         - title: International Friendship Day 2025
           date: 22 April 2025
           announcement: To commemorate International Friendship Day, Regent Secondary
@@ -62,15 +71,6 @@ sections:
             nurture passionate young...
           link_text: Read more about it here
           link_url: /secondary-1g3-virtual-tour-to-fort-canning/
-        - title: "Applied Learning Module (ApLM): Eyesight Matters"
-          date: 04 April 2025
-          announcement: A group of enthusiastic Regenites embarked on a deep dive into the
-            world of eye care at NYP's Applied Learning Module (ApLM) on
-            Eyesight Matters. This interactive session provided them with a
-            firsthand look at vision science, the importance of eye health, and
-            the role of optometry in daily life.
-          link_text: Read more about it here
-          link_url: /applied-learning-module-aplm-eyesight-matters/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
