@@ -19,6 +19,9 @@ With these insights, they designed and built their own water purification
 prototypes using provided materials. Their goal was to transform murky
 water into clean water by applying scientific principles such as filtration
 and adsorption.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Science Department/Sec1SciIntegrativeAct2025_1.jpg">
+</div>
 <p>Armed with their new Personal Learning Devices (PLDs), students collaborated
 online to refine their ideas and compile their findings. This digital teamwork
 not only deepened their understanding but also fostered 21st-century skills
@@ -27,6 +30,9 @@ like collaboration and communication.</p>
 water and measuring turbidity—the water’s clarity—using a turbidity disc.
 Through this, they evaluated their prototypes and discussed improvements,
 turning trial and error into valuable lessons.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Science Department/Sec1SciIntegrativeAct2025_3.jpg">
+</div>
 <p>Each group then presented their findings, walking their peers through
 the design process, results, and reflections. “I think it was interesting
 as we could build our own filtration devices and try to see if it works,”
@@ -34,3 +40,7 @@ said Liang Shan Ning, capturing the excitement of learning by doing.</p>
 <p>Beyond just science, this project empowered students to think critically,
 work creatively, and tackle real-world problems—key steps in shaping confident,
 innovative learners ready for the future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Science Department/Sec1SciIntegrativeAct2025_2.jpg">
+</div>
+<p></p>
