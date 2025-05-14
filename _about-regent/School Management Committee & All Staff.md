@@ -868,7 +868,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adjt Operation Manager</strong>
+<p><strong>Adjt Operations Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1035,15 +1035,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Murni Binte Somadi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Health Advisor</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Sulaima Othman</p>
 </td>
 </tr>
 <tr>
