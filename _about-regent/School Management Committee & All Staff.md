@@ -121,6 +121,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head - Character &amp; Citizenship Education</strong>
+<br><strong>Year Head - Upper Sec (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
