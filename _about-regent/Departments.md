@@ -621,7 +621,7 @@ description: ""
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zachary Wong Jiann Tsong (Math &amp; CPA)</p>
+<p>Mr Zachary Wong Jiann Tsong (Math &amp; Computer Application)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zachary_wong_jiann_tsong@moe.edu.sg" rel="noopener nofollow" target="_blank">zachary_wong_jiann_tsong@moe.edu.sg</a>
