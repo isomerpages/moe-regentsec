@@ -121,6 +121,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head - Character &amp; Citizenship Education</strong>
+<br><strong>Year Head - Upper Sec (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,7 +230,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>HOD - ICT</strong>
-<br><strong>HOD - Science (Covering)</strong>  <em>in Semester 1</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -675,8 +675,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Rasidah Bte Mohd Salleh
 <br><a href="mailto:nor_rasidah_mohamed_saleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_rasidah_mohamed_saleh@moe.edu.sg</a>
-<br>Mr Seet Xuan Yang Derek
-<br>-</p>
+<br>Ms Goh Zhi Qing</p>
+<p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -739,8 +740,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Jiang Yuhang Isaac
 <br><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
-<br>Ms Mary Anne Estrellas Fernandez
-<br>-</p>
+<br>Ms Kor Kwang Sing Lily</p>
+<p><a href="mailto:kor_kwang_sing_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_kwang_sing_lily@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -751,7 +753,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Goh Rui Qi
 <br><a href="mailto:goh_rui_qi_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_rui_qi_adeline@moe.edu.sg</a>
-<br>-</p>
+<br>Ms Pek Yan Shan</p>
+<p><a href="mailto:pek_yan_shan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_yan_shan_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -783,15 +787,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kate Tan Lay Yan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Counsellor</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Wai Fong</p>
 </td>
 </tr>
 <tr>
@@ -1030,7 +1025,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
+<p><strong>Adj Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
