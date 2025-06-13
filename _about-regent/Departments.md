@@ -397,7 +397,7 @@ description: ""
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Zhi Qing (History &amp; Social Studies</p>
+<p>Ms Goh Zhi Qing (History &amp; Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
