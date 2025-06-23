@@ -26,15 +26,23 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
-        - title: Secondary 1 Science Integrative Activity
-          date: 14 May 2025
-          announcement: The Secondary One Science Integrative Activity brought science to
-            life as students took on a real-world challenge—cleaning muddy water
-            using self-built water purification devices. In a country like
-            Singapore, where freshwater is scarce and clean water relies on
-            desalination...
+        - title: Immersive Learning VR Presentation at TCEFG 2025
+          date: 20 June 2025
+          announcement: A team of passionate educators from Regent Secondary School
+            proudly represented the school at the Teachers’ Conference and ExCEL
+            Fest 2025 (TCEF2025), a biennial event organised by the Ministry of
+            Education...
           link_text: Read more about it here
-          link_url: /secondary-1-science-integrative-activity/
+          link_url: /immersive-learning-vr-presentation-at-tcef-2025/
+        - title: Annual Cross-Country Run 2025
+          date: 20 June 2025
+          announcement: On the cool morning of Friday, 23 May 2025, over a thousand
+            students and staff gathered in the school hall, buzzing with
+            anticipation for Regent Secondary School’s Annual Cross Country Run.
+            The 3.6km route would see the participants making a loop around the
+            Pang Sua Park Connector...
+          link_text: Read more about it here
+          link_url: /annual-cross-country-run-2025/
         - title: Sec 3 POA Learning Journey to JEM & Westgate
           date: 20 June 2025
           announcement: As part of our commitment to authentic, hands-on learning, the
@@ -51,15 +59,6 @@ sections:
             students immersive...
           link_text: Read more about it here
           link_url: /bringing-literature-to-life-inspiring-learning-journeys-through-theatre/
-        - title: Annual Cross-Country Run 2025
-          date: 20 June 2025
-          announcement: On the cool morning of Friday, 23 May 2025, over a thousand
-            students and staff gathered in the school hall, buzzing with
-            anticipation for Regent Secondary School’s Annual Cross Country Run.
-            The 3.6km route would see the participants making a loop around the
-            Pang Sua Park Connector...
-          link_text: Read more about it here
-          link_url: /annual-cross-country-run-2025/
         - title: Parent-Child Bonding Event for Mother's Day
           date: 20 June 2025
           announcement: On Saturday, 17th May, Regent Secondary School was abuzz with joy
