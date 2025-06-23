@@ -53,24 +53,23 @@ sections:
             session...
           link_text: Read more about it here
           link_url: /hari-raya-concert-2025/
-        - title: Let's R.O.W
-          date: 14 April 2025
-          announcement: On 27 March, Regent Secondary commemorated World Water Day with a
-            vibrant line-up of activities aimed at raising awareness about the
-            importance of water conservation. This year’s global theme—Glacier
-            Preservation—shone a spotlight on the urgent need to protect the
-            world's glaciers, which are...
+        - title: Annual Cross-Country Run 2025
+          date: 20 June 2025
+          announcement: On the cool morning of Friday, 23 May 2025, over a thousand
+            students and staff gathered in the school hall, buzzing with
+            anticipation for Regent Secondary School’s Annual Cross Country Run.
+            The 3.6km route would see the participants making a loop around the
+            Pang Sua Park Connector...
           link_text: Read more about it here
-          link_url: /let-s-row/
-        - title: Secondary 1G3 Virtual Tour to Fort Canning
-          date: 14 April 2025
-          announcement: History came alive for our students as they embarked on an
-            exciting virtual tour of Fort Canning Hill, led by Lion Heartlanders
-            Tour Company! This immersive experience marked the launch of our
-            inaugural Regentstorians Programme, a special initiative designed to
-            nurture passionate young...
+          link_url: /annual-cross-country-run-2025/
+        - title: Parent-Child Bonding Event for Mother's Day
+          date: 20 June 2025
+          announcement: On Saturday, 17th May, Regent Secondary School was abuzz with joy
+            and laughter as 37 families came together for a meaningful Mother’s
+            Day Parent-Child Bonding Activity. Organised in collaboration with
+            the Parent Support Group (PSG) and our four Uniformed Groups...
           link_text: Read more about it here
-          link_url: /secondary-1g3-virtual-tour-to-fort-canning/
+          link_url: /parent-child-bonding-event-for-mothers-day/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
