@@ -35,24 +35,22 @@ sections:
             desalination...
           link_text: Read more about it here
           link_url: /secondary-1-science-integrative-activity/
-        - title: International Friendship Day 2025
-          date: 22 April 2025
-          announcement: To commemorate International Friendship Day, Regent Secondary
-            launched a vibrant series of activities from 14 to 16 April, centred
-            around the theme “Forging Friendships in a Complex World.” The
-            events highlighted the importance of building meaningful connections
-            and embracing diversity...
+        - title: Sec 3 POA Learning Journey to JEM & Westgate
+          date: 20 June 2025
+          announcement: As part of our commitment to authentic, hands-on learning, the
+            Secondary Three Principles of Accounts (POA) students recently
+            participated in an insightful learning journey to JEM and Westgate
+            malls...
           link_text: Read more about it here
-          link_url: /international-friendship-day-2025/
-        - title: Hari Raya Concert 2025
-          date: 21 April 2025
-          announcement: The harmonious melodies of Zapin, the magical chimes of Gamelan,
-            the joyous drumbeats, and the uplifting voices of singers
-            intertwined gracefully to illuminate vibrant performances in Malay
-            dance, Pencak Silat, Wayang Kulit, and a lively pop band sing-along
-            session...
+          link_url: /sec-3-poa-learning-journey-to-jem-westgate/
+        - title: Bringing Literature to Life Inspiring Learning Journeys Through Theatre
+          date: 20 June 2025
+          announcement: The English and Literature Department at Regent Secondary School
+            recently organised two enriching learning journeys that brought
+            literature beyond the classroom and onto the stage, offering
+            students immersive...
           link_text: Read more about it here
-          link_url: /hari-raya-concert-2025/
+          link_url: /bringing-literature-to-life-inspiring-learning-journeys-through-theatre/
         - title: Annual Cross-Country Run 2025
           date: 20 June 2025
           announcement: On the cool morning of Friday, 23 May 2025, over a thousand
