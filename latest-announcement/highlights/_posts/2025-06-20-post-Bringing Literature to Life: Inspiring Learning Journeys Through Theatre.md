@@ -21,6 +21,12 @@ set design and compelling storytelling, students were captivated by the
 magical retelling of the Land of Oz. The experience offered fresh perspectives
 on character development, themes, and dramatic techniques—making literature
 not just studied, but truly felt.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/LitLJ2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/English Department/LitLJ2025_2.jpg">
+</div>
 <p><strong>Bringing Texts Alive for Lower Secondary</strong>
 </p>
 <p>Our Secondary 2 Literature students enjoyed an equally impactful experience
