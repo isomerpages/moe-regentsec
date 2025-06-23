@@ -8,6 +8,9 @@ image: ""
 variant: tiptap
 ---
 <h4>Authentic Learning in Action: POA Students Explore Business Concepts at JEM and Westgate</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Mathematics Department/S3POALJJemWestgate2025_1.jpg">
+</div>
 <p>As part of our commitment to authentic, hands-on learning, the Secondary
 Three Principles of Accounts (POA) students recently participated in an
 insightful learning journey to JEM and Westgate malls. This experiential
@@ -28,6 +31,9 @@ differently from trading businesses. They noted that service businesses
 provide intangible products and often invest in long-term, non-current
 assets such as mirrors, benches, and equipment—resources that support daily
 operations but are not for sale.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Mathematics Department/S3POALJJemWestgate2025_2.jpg">
+</div>
 <p>In a meaningful collaboration with the Mathematics Department, this year's
 learning journey also introduced students to the concept of compound interest.
 By integrating mathematical calculations into their business observations,
@@ -40,3 +46,7 @@ assets businesses use. More importantly, it allowed them to see how the
 subjects they study have practical, real-life applications—laying a solid
 foundation for their future studies and potential careers in accounting
 and finance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Mathematics Department/S3POALJJemWestgate2025_3.jpg">
+</div>
+<p></p>
