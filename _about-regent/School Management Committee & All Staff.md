@@ -740,7 +740,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Jiang Yuhang Isaac
 <br><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
-<br>Ms Kor Kwang Sing Lily <a href="mailto:kor_kwang_sing_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_kwang_sing_lily@moe.edu.sg</a>
+<br>Ms Kor Kwang Sing Lily
+<br><a href="mailto:kor_kwang_sing_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_kwang_sing_lily@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -752,7 +753,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Goh Rui Qi
 <br><a href="mailto:goh_rui_qi_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_rui_qi_adeline@moe.edu.sg</a>
-<br>Ms Pek Yan Shan <a href="mailto:pek_yan_shan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_yan_shan_a@moe.edu.sg</a>
+<br>Ms Pek Yan Shan
+<br><a href="mailto:pek_yan_shan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_yan_shan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
