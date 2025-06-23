@@ -19,6 +19,9 @@ Competitive Race category. Students had to meet the qualifying time of
 at least a C-Grade for their respective age-groups in the NAPFA Test 2.4km
 run to make the cut as competitive runners. This made for a tightly-contested
 race as the runners aimed for a Top 20 and possibly even a podium finish!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/CrossCountry2025_1.jpg">
+</div>
 <p>Teachers marshalled the excited participants towards the starting line
 and when the starting horn was blasted, the runners surged forward like
 a wave, weaving down the gravel track and leaving a cloud of fine dust
@@ -27,8 +30,24 @@ patches, but the cool weather was a welcome companion, keeping spirits
 high. Along the way, students and teachers in the Fun Run category mingled
 and encouraged one another as they brisk-walked and jogged along the park
 connector.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/CrossCountry2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/CrossCountry2025_5.jpg">
+</div>
 <p>For some, it was a serious race for glory; for others, a joyful jog among
 friends. As the finish line drew near, cheers erupted for every runner
 crossing it—regardless of speed.</p>
 <p>More than just a race, the event was a celebration of perseverance, school
 spirit, and community, leaving everyone eagerly awaiting next year’s run.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/CrossCountry2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/CrossCountry2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Physical Education/CrossCountry2025_6.jpg">
+</div>
+<p></p>
