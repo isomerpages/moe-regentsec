@@ -18,6 +18,9 @@ can transform classroom experiences. The team shared how the use of VR
 goggles has opened new pathways to deepen student engagement—not just cognitively,
 but also emotionally—leading to greater motivation and stronger acquisition
 of concepts and skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/ImmersiveLrningVRPresnatTCEF2025_1.jpg">
+</div>
 <p>What made the presentation especially compelling was its breadth. Drawing
 on case studies from English, Mother Tongue Languages, Geography, and History,
 the teachers demonstrated how VR could be meaningfully integrated into
@@ -25,6 +28,12 @@ disciplinary learning. Whether it was using VR to visualise abstract geographica
 processes or spark idea generation in language learning, the results were
 consistent: students were more actively involved and invested in their
 learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/ImmersiveLrningVRPresnatTCEF2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights Post/ImmersiveLrningVRPresnatTCEF2025_3.jpg">
+</div>
 <p>The session concluded with a lively hands-on component, where educators
 got the chance to don VR goggles and experience immersive learning firsthand.
 Laughter, excitement, and curiosity filled the room as participants navigated
