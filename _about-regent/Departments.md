@@ -392,6 +392,18 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Zhi Qing (History &amp; Social Studies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Mathematics</h4>
@@ -434,9 +446,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Su Rui Yi
-<br>School Staff Developer
-<br>Year Head - Upper Sec (Covering)<em> in Semester 1</em>
-</p>
+<br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:su_rui_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">su_rui_yi@moe.edu.sg</a>
@@ -501,7 +511,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Chai Hoon Annie
-<br>Subject Head - Character &amp; Citizenship Education&nbsp;</p>
+<br>Subject Head - Character &amp; Citizenship Education
+<br>Year Head - Upper Sec (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_chai_hoon_annie@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_chai_hoon_annie@moe.edu.sg</a>
@@ -610,7 +621,7 @@ description: ""
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zachary Wong Jiann Tsong (Math &amp; CPA)</p>
+<p>Mr Zachary Wong Jiann Tsong (Math &amp; Computer Application)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zachary_wong_jiann_tsong@moe.edu.sg" rel="noopener nofollow" target="_blank">zachary_wong_jiann_tsong@moe.edu.sg</a>
@@ -852,9 +863,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Ming Hwee
-<br>HOD - ICT
-<br>HOD - Science (Covering) <em>in Semester 1</em>
-</p>
+<br>HOD - ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
