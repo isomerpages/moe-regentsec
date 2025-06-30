@@ -27,7 +27,9 @@ Secondary School on 4th September 2025 at 10.30am.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Photobooth</p>
+<p><strong>Photobooth</strong>
+</p>
+<p>[Insert URL to online photo album]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -35,7 +37,8 @@ Secondary School on 4th September 2025 at 10.30am.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meet Your Teacher</p>
+<p><strong>Meet-The-Teacher</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
