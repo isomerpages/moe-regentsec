@@ -16,12 +16,6 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infobar:
-      title: Teachers' Day Celebration
-      subtitle: To Regent Alumni
-      id: infobar
-      description: Dear Alumni, you are invited to celebrate Teachers' Day in school
-        on 4th September 2025. Please proceed to wait at the canteen at 10.30am.
-  - infobar:
       title: Direct School Admission for Secondary One in 2026
       subtitle: HIghlights
       id: infobar
