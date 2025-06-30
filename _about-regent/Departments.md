@@ -749,18 +749,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shen Jian (CL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shen_jian@moe.edu.sg" rel="noopener nofollow" target="_blank">shen_jian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Physical Education</h4>
