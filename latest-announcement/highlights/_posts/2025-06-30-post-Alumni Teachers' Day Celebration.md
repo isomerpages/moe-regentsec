@@ -22,7 +22,7 @@ Secondary School on 4th September 2025 at 10.30am.</p>
 <p>Activities</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Venue</p>
+<p>Venue &amp; Time</p>
 </th>
 </tr>
 <tr>
@@ -33,6 +33,7 @@ Secondary School on 4th September 2025 at 10.30am.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
+<p>Time: 10am to 11.40am</p>
 </td>
 </tr>
 <tr>
@@ -42,6 +43,7 @@ Secondary School on 4th September 2025 at 10.30am.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
+<p>Time: 10.40am to 11.40am</p>
 </td>
 </tr>
 </tbody>
