@@ -8,6 +8,9 @@ image: ""
 variant: tiptap
 ---
 <h4>Regent Students Make a Stand for Sustainability at Prove It! 2025</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/LowSecHistProveItContst2025_1.jpg">
+</div>
 <p>This year, two enthusiastic teams of lower secondary students proudly
 represented Regent Secondary School in the Prove It! Contest 2025—a prestigious
 national competition organised by the National Library Board (NLB), supported
@@ -25,6 +28,10 @@ a dynamic 90-second video newsreel to bring their message to life.</p>
 <p>One of the highlights came when the Secondary Two team had the opportunity
 to share their video with the entire school during a morning Zoom assembly—an
 inspiring moment of student-led advocacy in action.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/LowSecHistProveItContst2025_2.jpg">
+</div>
 <p>Josephine, one of the participants, shared, “Working on this project was
 challenging but fulfilling. We had to meet regularly to brainstorm, research,
 and divide the tasks fairly so that everyone had a role to play.” Her teammate
@@ -33,3 +40,4 @@ Teamwork, clear communication, and using reliable sources can really help.”</p
 <p>Their participation in Prove It! 2025 reflects Regent’s strong commitment
 to nurturing responsible, informed, and future-ready learners—empowered
 to make a real difference.</p>
+<p></p>
