@@ -26,6 +26,23 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Regent Celebrates 25
+          date: 08 July 2025
+          announcement: 25 in 2025 – Regent Secondary School proudly celebrated this
+            significant milestone as part of Regent Celebrates 25. Prior to the
+            event, students and staff also took time to reflect on their
+            journey. Several mementos, such as the Regent25 keychain, also
+            allowed us to treasure this moment together...
+          link_text: Read more about it here
+          link_url: /regent-celebrates-25/
+        - title: Lower Secondary History Prove It! Contest 2025
+          date: 08 July 2025
+          announcement: This year, two enthusiastic teams of lower secondary students
+            proudly represented Regent Secondary School in the Prove It! Contest
+            2025—a prestigious national competition organised by the National
+            Library Board (NLB), supported by MOE and RICE Media...
+          link_text: Read more about it here
+          link_url: /lower-secondary-history-prove-it-contest-2025/
         - title: Immersive Learning VR Presentation at TCEFG 2025
           date: 20 June 2025
           announcement: A team of passionate educators from Regent Secondary School
@@ -51,22 +68,6 @@ sections:
             malls...
           link_text: Read more about it here
           link_url: /sec-3-poa-learning-journey-to-jem-westgate/
-        - title: Bringing Literature to Life Inspiring Learning Journeys Through Theatre
-          date: 20 June 2025
-          announcement: The English and Literature Department at Regent Secondary School
-            recently organised two enriching learning journeys that brought
-            literature beyond the classroom and onto the stage, offering
-            students immersive...
-          link_text: Read more about it here
-          link_url: /bringing-literature-to-life-inspiring-learning-journeys-through-theatre/
-        - title: Parent-Child Bonding Event for Mother's Day
-          date: 20 June 2025
-          announcement: On Saturday, 17th May, Regent Secondary School was abuzz with joy
-            and laughter as 37 families came together for a meaningful Mother’s
-            Day Parent-Child Bonding Activity. Organised in collaboration with
-            the Parent Support Group (PSG) and our four Uniformed Groups...
-          link_text: Read more about it here
-          link_url: /parent-child-bonding-event-for-mothers-day/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
