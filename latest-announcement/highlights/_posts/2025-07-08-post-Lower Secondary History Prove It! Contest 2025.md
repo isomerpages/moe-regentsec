@@ -40,4 +40,3 @@ Teamwork, clear communication, and using reliable sources can really help.”</p
 <p>Their participation in Prove It! 2025 reflects Regent’s strong commitment
 to nurturing responsible, informed, and future-ready learners—empowered
 to make a real difference.</p>
-<p></p>
