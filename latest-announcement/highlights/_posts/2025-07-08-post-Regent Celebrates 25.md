@@ -15,7 +15,7 @@ together.</p>
 <p>On the last day of Semester 1, the school gathered with our various stakeholders,
 including our esteemed partners and family members, to celebrate this momentous
 occasion. Member of School Advisory Committee, Dr Poon Joe Fai, graced
-the ventt as the Guest of Honour.</p>
+the event as the Guest of Honour.</p>
 <p>We relished the moment to recognise our students’ accomplishments in their
 academic and non-academic pursuits. The Valedictorian, Lee Xin Yan Richelle,
 inspired her juniors with her stellar achievement at GCE O Level of 6 distinctions
