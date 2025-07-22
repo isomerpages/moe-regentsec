@@ -11,7 +11,8 @@ variant: tiptap
 <h4>Teachers-in-Charge</h4>
 <p>Mr Shawn Hong Yang - IC
 <br>Mr Lim Wenhao Joshua Augustine
-<br>Mdm Sarina Binte Samat</p>
+<br>Mdm Sarina Binte Samat
+<br>Mr Luqman Hakeem Salim</p>
 <h4>Vision</h4>
 <p>Every cadet a confident and competent youth leader in service to the community.</p>
 <h4>Mission</h4>
