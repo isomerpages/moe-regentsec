@@ -12,6 +12,7 @@ variant: tiptap
 <p>Mr Isaac Jiang Yuhang - IC
 <br>Mr Kesavan S/O Veerappen
 <br>Mr Tan Jun Tian Terence
+<br>Mr Naszry Abdul Sany
 <br>
 </p>
 <h4>Vision</h4>
