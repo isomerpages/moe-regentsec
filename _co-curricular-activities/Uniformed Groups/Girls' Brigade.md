@@ -9,10 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_1_Header.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
-<p>Ms Annie Teo Chai Hoon - IC <em>(until Semester One 2025)</em>
-<br><em>[Note: Ms Sally Sng covering IC from 3 Feb - 11 Apr 2025]</em>
-<br>Ms Goh Zhi Qing - IC <em>(from Semester Two 2025)</em>
-</p>
+<p>Ms Goh Zhi Qing - IC
+<br>Ms Kyra Yeo Jun Yi</p>
 <h4>Mission</h4>
 <p>Developing each girl and officer to her fullest potential by equipping,
 empowering and enabling</p>

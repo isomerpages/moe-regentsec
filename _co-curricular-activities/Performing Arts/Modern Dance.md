@@ -11,7 +11,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Ms Koh Huey Min - IC
 <br>Mr Yunus Bin Mohamed
-<br>Ms Bernice Liau Wei Ting</p>
+<br>Ms Bernice Liau Wei Ting
+<br>Mdm Ng Ai Lin</p>
 <h4>Vision</h4>
 <p>All students are passionate in the arts, and able to create and appreciate
 different dance forms</p>
