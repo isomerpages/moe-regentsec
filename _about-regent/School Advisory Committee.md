@@ -79,7 +79,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Han Li</p>
+<p>Mr Lim Han Li, PBM</p>
 </td>
 </tr>
 </tbody>
