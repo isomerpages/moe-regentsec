@@ -11,7 +11,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Mdm Nur Hidayah Abdul Mansor - IC
 <br>Ms Lim Hui Min, Vanessa
-<br>Ms Lee Wen Chen</p>
+<br>Ms Lee Wen Chen
+<br>Mr Zachary Wong Jiann Tsong</p>
 <h4>Vision</h4>
 <p>To be expressive and creative speakers with a passion for Drama</p>
 <h4>Mission</h4>
