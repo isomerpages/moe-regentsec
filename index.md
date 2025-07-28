@@ -26,7 +26,7 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
-        - title: Sec 3 Sports Fiesta 2025
+        - title: Sec 4 Sports Fiesta 2025
           date: 28 July 2025
           announcement: "On the 4th of July, our graduating cohort came together for an
             exhilarating Sports Fiesta: Ultimate Frisbee Tournament—a
