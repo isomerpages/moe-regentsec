@@ -26,6 +26,14 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Sec 3 Sports Fiesta 2025
+          date: 28 July 2025
+          announcement: "On the 4th of July, our graduating cohort came together for an
+            exhilarating Sports Fiesta: Ultimate Frisbee Tournament—a
+            well-deserved breather before they dive into their final
+            preparations for the national examinations..."
+          link_text: Read more about it here
+          link_url: /secondary-4-sports-fiesta-2025/
         - title: Regent Celebrates 25
           date: 08 July 2025
           announcement: 25 in 2025 – Regent Secondary School proudly celebrated this
@@ -60,14 +68,6 @@ sections:
             Pang Sua Park Connector...
           link_text: Read more about it here
           link_url: /annual-cross-country-run-2025/
-        - title: Sec 3 POA Learning Journey to JEM & Westgate
-          date: 20 June 2025
-          announcement: As part of our commitment to authentic, hands-on learning, the
-            Secondary Three Principles of Accounts (POA) students recently
-            participated in an insightful learning journey to JEM and Westgate
-            malls...
-          link_text: Read more about it here
-          link_url: /sec-3-poa-learning-journey-to-jem-westgate/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
