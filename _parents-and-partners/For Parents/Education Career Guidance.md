@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h2>ECG Resources for Parents</h2>
+<h4>ECG Resources for Parents</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
