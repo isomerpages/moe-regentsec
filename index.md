@@ -26,6 +26,24 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Sec 3 MOE-OBS Camp
+          date: 28 July 2025
+          announcement: The MOE-OBS Challenge Programme was conducted from 14 to 18 July.
+            A total of 178 adventurous Secondary 3 students took part in the
+            5-day/4-night residential programme designed to foster resilience,
+            teamwork, and leadership. The programme was held across three
+            locations — OBS campuses...
+          link_text: Read more about it here
+          link_url: /sec-3-moe-obs-camp/
+        - title: Sec 2G3 History Learning Journey to Old Ford Factory
+          date: 28 July 2025
+          announcement: "As part of their Historical Investigation (HI), Secondary 2G3
+            students visited the Former Ford Factory—an iconic World War II site
+            in Singapore. This enriching experience supported their inquiry
+            question: “How did the Japanese Occupation affect the lives of the
+            people?”..."
+          link_text: Read more about it here
+          link_url: /sec-2ex-history-learning-journey-to-old-ford-factory/
         - title: Sec 4 Sports Fiesta 2025
           date: 28 July 2025
           announcement: "On the 4th of July, our graduating cohort came together for an
@@ -51,23 +69,6 @@ sections:
             Library Board (NLB), supported by MOE and RICE Media...
           link_text: Read more about it here
           link_url: /lower-secondary-history-prove-it-contest-2025/
-        - title: Immersive Learning VR Presentation at TCEFG 2025
-          date: 20 June 2025
-          announcement: A team of passionate educators from Regent Secondary School
-            proudly represented the school at the Teachers’ Conference and ExCEL
-            Fest 2025 (TCEF2025), a biennial event organised by the Ministry of
-            Education...
-          link_text: Read more about it here
-          link_url: /immersive-learning-vr-presentation-at-tcef-2025/
-        - title: Annual Cross-Country Run 2025
-          date: 20 June 2025
-          announcement: On the cool morning of Friday, 23 May 2025, over a thousand
-            students and staff gathered in the school hall, buzzing with
-            anticipation for Regent Secondary School’s Annual Cross Country Run.
-            The 3.6km route would see the participants making a loop around the
-            Pang Sua Park Connector...
-          link_text: Read more about it here
-          link_url: /annual-cross-country-run-2025/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
