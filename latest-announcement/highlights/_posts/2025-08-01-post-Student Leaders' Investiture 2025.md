@@ -17,6 +17,9 @@ rang out as the 14th Student Council, new CCA Leaders, and Class Committee
 members received their badges—symbols of trust and service. The presentation
 of Class Committee badges by Form Teachers underscored the strong collaboration
 between staff and students in shaping class culture.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_1.jpg">
+</div>
 <p>A significant moment was the ceremonial handover of blazers from the 14th
 to the 15th Executive Committee, symbolising continuity and a renewed sense
 of purpose.</p>
@@ -27,6 +30,26 @@ contribute ideas, while Danish spoke about fostering a vibrant CCA culture
 where everyone feels supported.</p>
 <p>The Investiture concluded with the recitation of the Student Leaders’
 Pledge—a heartfelt commitment to serve and lead with integrity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_4.jpg">
+</div>
 <p>As we welcome our new leaders, we thank the outgoing team for their dedication
 and look forward to a new chapter of student leadership at Regent, where
 every leader blazes forth with pride and purpose!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_6.jpg">
+</div>
+<p></p>
+<p></p>
