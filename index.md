@@ -15,6 +15,15 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
+  - infopic:
+      title: Regent Celebrate 25
+      id: infopic
+      description: 25 in 2025 – Regent Secondary School proudly celebrated this
+        significant milestone as part of Regent Celebrates 25
+      button: Read more about it here
+      alt: Image alt text
+      url: /regent-celebrates-25/
+      image: /images/InfoPic Widget/InfoPic_Regent25.png
   - infobar:
       title: Direct School Admission for Secondary One in 2026
       subtitle: HIghlights
@@ -85,12 +94,5 @@ sections:
       button: Click here to view newsletter
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
 ---
