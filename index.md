@@ -52,23 +52,22 @@ sections:
             preparations for the national examinations..."
           link_text: Read more about it here
           link_url: /secondary-4-sports-fiesta-2025/
-        - title: Regent Celebrates 25
-          date: 08 July 2025
-          announcement: 25 in 2025 – Regent Secondary School proudly celebrated this
-            significant milestone as part of Regent Celebrates 25. Prior to the
-            event, students and staff also took time to reflect on their
-            journey. Several mementos, such as the Regent25 keychain, also
-            allowed us to treasure this moment together...
+        - title: Student Leaders' Investiture 2025
+          date: 01 August 2025
+          announcement: On 20 May 2025, Regenites gathered in the hall for the annual
+            Student Leaders’ Investiture, a meaningful event marking the
+            transition of leadership within our school community...
           link_text: Read more about it here
-          link_url: /regent-celebrates-25/
-        - title: Lower Secondary History Prove It! Contest 2025
-          date: 08 July 2025
-          announcement: This year, two enthusiastic teams of lower secondary students
-            proudly represented Regent Secondary School in the Prove It! Contest
-            2025—a prestigious national competition organised by the National
-            Library Board (NLB), supported by MOE and RICE Media...
+          link_url: /student-leaders-investiture-2025/
+        - title: Sec 1 Learning Journey to Marina Barrage
+          date: 01 August 2025
+          announcement: On 10 April 2025, our Secondary 1 students set off on an exciting
+            learning journey to Marina Barrage, building on classroom lessons
+            about water and conservation. This multidisciplinary trip seamlessly
+            wove together concepts from English, Mathematics, Science, and
+            Geography in a hands-on...
           link_text: Read more about it here
-          link_url: /lower-secondary-history-prove-it-contest-2025/
+          link_url: /sec-1-learning-journey-to-marina-barrage/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
@@ -86,5 +85,12 @@ sections:
       button: Click here to view newsletter
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
