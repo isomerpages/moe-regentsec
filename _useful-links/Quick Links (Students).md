@@ -90,6 +90,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regent Sec ECG Site (Post-Secondary Pathways)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/regent-sec-ecg-psei/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/regent-sec-ecg-psei/home</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

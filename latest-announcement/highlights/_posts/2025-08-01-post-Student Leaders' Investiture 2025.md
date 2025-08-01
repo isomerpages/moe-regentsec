@@ -1,11 +1,13 @@
 ---
-title: Community Youth Leadership
-permalink: /about-regent/school-events/cyl-schoolevents/
+title: Student Leaders' Investiture 2025
+permalink: /student-leaders-investiture-2025/
+date: 2025-08-01
+layout: post
 description: ""
-third_nav_title: School Events
+image: ""
 variant: tiptap
 ---
-<h2><strong>Igniting Our Potential: Student Leaders’ Investiture 2025</strong></h2>
+<h4>Igniting Our Potential: Student Leaders’ Investiture 2025</h4>
 <p>On 20 May 2025, Regenites gathered in the hall for the annual Student
 Leaders’ Investiture, a meaningful event marking the transition of leadership
 within our school community.</p>
@@ -48,28 +50,6 @@ every leader blazes forth with pride and purpose!</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_6.jpg">
-</div>
-<p></p>
-<hr>
-<h4>Past Highlights</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>More</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>2024</strong>
-</p>
-<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/student-leaders-investiture-2024/" rel="noopener nofollow" target="_blank">Student Leaders Investiture 2024</a>
-</p>
-<p></p>
-<p><strong>2023</strong>
-</p>
-<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/voices-of-youth-2023/" rel="noopener nofollow" target="_blank">Voices of Youth 2023</a>
-</p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/student-leadership-investiture-2023/" rel="noopener nofollow" target="_blank">Student Leadership Investiture 2023</a>
-</p>
-</div>
-</details>
 </div>
 <p></p>
 <p></p>

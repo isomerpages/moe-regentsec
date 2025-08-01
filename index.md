@@ -15,17 +15,37 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
-  - infobar:
-      title: Direct School Admission for Secondary One in 2026
-      subtitle: HIghlights
-      id: infobar
-      description: DSA-Sec
-      button: Find out more here
-      url: /direct-school-admission/
+  - infopic:
+      title: Regent Celebrate 25
+      id: infopic
+      description: 25 in 2025 – Regent Secondary School proudly celebrated this
+        significant milestone as part of Regent Celebrates 25
+      button: Read more about it here
+      alt: Image alt text
+      url: /regent-celebrates-25/
+      image: /images/InfoPic Widget/InfoPic_Regent25.png
   - announcements:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Sec 3 MOE-OBS Camp
+          date: 28 July 2025
+          announcement: The MOE-OBS Challenge Programme was conducted from 14 to 18 July.
+            A total of 178 adventurous Secondary 3 students took part in the
+            5-day/4-night residential programme designed to foster resilience,
+            teamwork, and leadership. The programme was held across three
+            locations — OBS campuses...
+          link_text: Read more about it here
+          link_url: /sec-3-moe-obs-camp/
+        - title: Sec 2G3 History Learning Journey to Old Ford Factory
+          date: 28 July 2025
+          announcement: "As part of their Historical Investigation (HI), Secondary 2G3
+            students visited the Former Ford Factory—an iconic World War II site
+            in Singapore. This enriching experience supported their inquiry
+            question: “How did the Japanese Occupation affect the lives of the
+            people?”..."
+          link_text: Read more about it here
+          link_url: /sec-2ex-history-learning-journey-to-old-ford-factory/
         - title: Sec 4 Sports Fiesta 2025
           date: 28 July 2025
           announcement: "On the 4th of July, our graduating cohort came together for an
@@ -34,40 +54,41 @@ sections:
             preparations for the national examinations..."
           link_text: Read more about it here
           link_url: /secondary-4-sports-fiesta-2025/
-        - title: Regent Celebrates 25
-          date: 08 July 2025
-          announcement: 25 in 2025 – Regent Secondary School proudly celebrated this
-            significant milestone as part of Regent Celebrates 25. Prior to the
-            event, students and staff also took time to reflect on their
-            journey. Several mementos, such as the Regent25 keychain, also
-            allowed us to treasure this moment together...
+        - title: Let's Be G.R.E.E.N
+          date: 01 August 2025
+          announcement: On 21 May, Regent Secondary School celebrated its annual
+            Environment Week, “Let’s Be G.R.E.EN!”, with enthusiastic
+            participation from the Secondary 1 cohort and various CCA groups.
+            The event promoted environmental awareness through creative
+            student-led initiatives and collaborative activities...
           link_text: Read more about it here
-          link_url: /regent-celebrates-25/
-        - title: Lower Secondary History Prove It! Contest 2025
-          date: 08 July 2025
-          announcement: This year, two enthusiastic teams of lower secondary students
-            proudly represented Regent Secondary School in the Prove It! Contest
-            2025—a prestigious national competition organised by the National
-            Library Board (NLB), supported by MOE and RICE Media...
+          link_url: /let-s-be-green/
+        - title: Sec 1 Learning Journey to Marina Barrage
+          date: 01 August 2025
+          announcement: On 10 April 2025, our Secondary 1 students set off on an exciting
+            learning journey to Marina Barrage, building on classroom lessons
+            about water and conservation. This multidisciplinary trip seamlessly
+            wove together concepts from English, Mathematics, Science, and
+            Geography in a hands-on...
           link_text: Read more about it here
-          link_url: /lower-secondary-history-prove-it-contest-2025/
-        - title: Immersive Learning VR Presentation at TCEFG 2025
-          date: 20 June 2025
-          announcement: A team of passionate educators from Regent Secondary School
-            proudly represented the school at the Teachers’ Conference and ExCEL
-            Fest 2025 (TCEF2025), a biennial event organised by the Ministry of
-            Education...
-          link_text: Read more about it here
-          link_url: /immersive-learning-vr-presentation-at-tcef-2025/
-        - title: Annual Cross-Country Run 2025
-          date: 20 June 2025
-          announcement: On the cool morning of Friday, 23 May 2025, over a thousand
-            students and staff gathered in the school hall, buzzing with
-            anticipation for Regent Secondary School’s Annual Cross Country Run.
-            The 3.6km route would see the participants making a loop around the
-            Pang Sua Park Connector...
-          link_text: Read more about it here
-          link_url: /annual-cross-country-run-2025/
+          link_url: /sec-1-learning-journey-to-marina-barrage/
+  - infopic:
+      title: Student Leaders' Investiture 2025
+      subtitle: Highlights
+      id: infopic
+      description: On 20 May 2025, Regenites gathered in the hall for the annual
+        Student Leaders’ Investiture
+      button: Read more about it here
+      url: /student-leaders-investiture-2025/
+      image: /images/InfoPic Widget/InfoPic_Student_Investiture_2025.png
+      alt: Image alt text
+  - infobar:
+      title: Direct School Admission for Secondary One in 2026
+      subtitle: HIghlights
+      id: infobar
+      description: DSA-Sec
+      button: Find out more here
+      url: /direct-school-admission/
   - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
