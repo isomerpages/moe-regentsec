@@ -61,13 +61,15 @@ sections:
             preparations for the national examinations..."
           link_text: Read more about it here
           link_url: /secondary-4-sports-fiesta-2025/
-        - title: Student Leaders' Investiture 2025
+        - title: Let's Be G.R.E.E.N
           date: 01 August 2025
-          announcement: On 20 May 2025, Regenites gathered in the hall for the annual
-            Student Leaders’ Investiture, a meaningful event marking the
-            transition of leadership within our school community...
+          announcement: On 21 May, Regent Secondary School celebrated its annual
+            Environment Week, “Let’s Be G.R.E.EN!”, with enthusiastic
+            participation from the Secondary 1 cohort and various CCA groups.
+            The event promoted environmental awareness through creative
+            student-led initiatives and collaborative activities...
           link_text: Read more about it here
-          link_url: /student-leaders-investiture-2025/
+          link_url: /let-s-be-green/
         - title: Sec 1 Learning Journey to Marina Barrage
           date: 01 August 2025
           announcement: On 10 April 2025, our Secondary 1 students set off on an exciting
