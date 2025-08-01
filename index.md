@@ -24,13 +24,6 @@ sections:
       alt: Image alt text
       url: /regent-celebrates-25/
       image: /images/InfoPic Widget/InfoPic_Regent25.png
-  - infobar:
-      title: Direct School Admission for Secondary One in 2026
-      subtitle: HIghlights
-      id: infobar
-      description: DSA-Sec
-      button: Find out more here
-      url: /direct-school-admission/
   - announcements:
       title: Announcements & Highlights
       id: announcements
@@ -80,6 +73,23 @@ sections:
           link_text: Read more about it here
           link_url: /sec-1-learning-journey-to-marina-barrage/
   - infopic:
+      title: Student Leaders' Investiture 2025
+      subtitle: Highlights
+      id: infopic
+      description: On 20 May 2025, Regenites gathered in the hall for the annual
+        Student Leaders’ Investiture
+      button: Read more about it here
+      url: /student-leaders-investiture-2025/
+      image: /images/InfoPic Widget/InfoPic_Student_Investiture_2025.png
+      alt: Image alt text
+  - infobar:
+      title: Direct School Admission for Secondary One in 2026
+      subtitle: HIghlights
+      id: infobar
+      description: DSA-Sec
+      button: Find out more here
+      url: /direct-school-admission/
+  - infopic:
       title: 2024 School Programme
       subtitle: Video Collection
       id: infopic
@@ -96,15 +106,5 @@ sections:
       button: Click here to view newsletter
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Student Leaders' Investiture 2025
-      subtitle: Highlights
-      id: infopic
-      description: On 20 May 2025, Regenites gathered in the hall for the annual
-        Student Leaders’ Investiture
-      button: Read more about it here
-      url: /student-leaders-investiture-2025/
-      image: /images/InfoPic Widget/InfoPic_Student_Investiture_2025.png
       alt: Image alt text
 ---
