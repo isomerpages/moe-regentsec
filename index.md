@@ -97,4 +97,14 @@ sections:
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
+  - infopic:
+      title: Student Leaders' Investiture 2025
+      subtitle: Highlights
+      id: infopic
+      description: On 20 May 2025, Regenites gathered in the hall for the annual
+        Student Leaders’ Investiture
+      button: Read more about it here
+      url: /student-leaders-investiture-2025/
+      image: /images/InfoPic Widget/InfoPic_Student_Investiture_2025.png
+      alt: Image alt text
 ---
