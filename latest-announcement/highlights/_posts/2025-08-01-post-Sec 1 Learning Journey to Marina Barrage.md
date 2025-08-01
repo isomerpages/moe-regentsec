@@ -13,6 +13,9 @@ journey to Marina Barrage, building on classroom lessons about water and
 conservation. This multidisciplinary trip seamlessly wove together concepts
 from English, Mathematics, Science, and Geography in a hands-on, real-world
 setting.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Science Department/Sec1LJtoMarinaBarrage2025_1.jpg">
+</div>
 <p>Students witnessed a live demonstration of the Marina Barrage dam in action,
 gaining insights into how it helps regulate water levels and prevents flooding.
 This was an eye-opening example of Singapore’s innovative water management
@@ -29,3 +32,7 @@ Wei Eason from 1 Pride shared, “I learnt how to upcycle old clothes into
 a tote bag. I also thoroughly enjoyed the water show as they showed how
 the Marina Barrage dam works!”</p>
 <p>It was truly a memorable day of learning, exploration and reflection!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Science Department/Sec1LJtoMarinaBarrage2025_2.jpg">
+</div>
+<p></p>
