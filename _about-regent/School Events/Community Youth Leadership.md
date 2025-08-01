@@ -5,49 +5,63 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
-<h2><strong>Student Leaders Investiture 2024</strong></h2>
+<h2><strong>Igniting Our Potential: Student Leaders’ Investiture 2025</strong></h2>
+<p>On 20 May 2025, Regenites gathered in the hall for the annual Student
+Leaders’ Investiture, a meaningful event marking the transition of leadership
+within our school community.</p>
+<p>This year’s theme, “Igniting Our Potential,” captured the spirit of the
+ceremony, highlighting the role students play as changemakers. Applause
+rang out as the 14th Student Council, new CCA Leaders, and Class Committee
+members received their badges—symbols of trust and service. The presentation
+of Class Committee badges by Form Teachers underscored the strong collaboration
+between staff and students in shaping class culture.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_1.jpg">
 </div>
-<p>A sense of anticipation and pride were palpable as Regenites gathered
-in the Hall to bear witness to the passing of the mantle of leadership
-at our Student Leaders’ Investiture on 30 April 2024.</p>
-<p>‘Igniting our potential’ was the theme of this year’s Investiture, a reminder
-of the transformative power Regenites hold as agents of change in the community.
-Applause and cheers resounded through the hall as the 13<sup>th</sup> Student
-Council and incoming CCA Leaders marched down the aisle and were handed
-their blazers by their predecessors. In her speech, newly-appointed President
-of the 13<sup>th</sup> Student Council, Putri Nur Adawiyah Mohammad Faizal
-(S3-Honour), outlined her wish to build a more inclusive school community,
-where ‘every idea and suggestion is valued, and the unique perspectives
-and needs of Regenites are recognised’.</p>
-<p>A highlight of this year’s event was the Class Committee Badge Presentation,
-a special segment dedicated to honouring the invaluable contributions of
-the class committee, particularly our Chairpersons who serve as an important
-bridge between their Form Teachers and the class.</p>
-<p>As the baton is passed to our incoming student leaders, we wish them a
-most successful term ahead. It is our fervent hope that they will build
-upon the fine traditions and legacy established by those who have gone
-before them, and to lead with integrity, compassion, and vision.</p>
-<p>Together, may we continue to blaze forth to glory and let us harness the
-boundless potential that lies within each and every member of our school
-community!</p>
+<p>A significant moment was the ceremonial handover of blazers from the 14th
+to the 15th Executive Committee, symbolising continuity and a renewed sense
+of purpose.</p>
+<p>In their speeches, Lydia Binte Imbran (President of the 15th Student Council)
+and Muhammad Khairy Danish Bin Rozaini (President of the CCA Leaders) pledged
+to lead with empathy, inclusivity, and unity. Lydia encouraged peers to
+contribute ideas, while Danish spoke about fostering a vibrant CCA culture
+where everyone feels supported.</p>
+<p>The Investiture concluded with the recitation of the Student Leaders’
+Pledge—a heartfelt commitment to serve and lead with integrity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2024_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_4.jpg">
 </div>
+<p>As we welcome our new leaders, we thank the outgoing team for their dedication
+and look forward to a new chapter of student leadership at Regent, where
+every leader blazes forth with pride and purpose!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/StuLeadrInvesti2025_6.jpg">
+</div>
+<p></p>
 <hr>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Highlights</strong>
+<summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/student-leaders-investiture-2024/" rel="noopener nofollow" target="_blank">Student Leaders Investiture 2024</a>
+</p>
+<p></p>
 <p><strong>2023</strong>
 </p>
 <p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/voices-of-youth-2023/" rel="noopener nofollow" target="_blank">Voices of Youth 2023</a>
