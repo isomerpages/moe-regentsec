@@ -28,6 +28,20 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Sec 1G3 Regentstorians ACM Visit
+          date: 12 August 2025
+          announcement: On July 16th, the Secondary 1 Regentstorians embarked on a
+            meaningful learning journey to the Asian Civilisations Museum (ACM),
+            located in the heart of Singapore’s civic district.
+          link_text: Read more about it here
+          link_url: /sec-1g3-regentstorians-acm-visit/
+        - title: Sec 2 National Museum Learning Journey 2025
+          date: 12 August 2025
+          announcement: On 31 July 2025, our Secondary Two students embarked on an
+            enriching museum-based learning journey to Singapore’s oldest
+            museum, the National Museum of Singapore.
+          link_text: Read more about it here
+          link_url: /sec-2-national-museum-learning-journey-2025/
         - title: Sec 3 MOE-OBS Camp
           date: 28 July 2025
           announcement: The MOE-OBS Challenge Programme was conducted from 14 to 18 July.
@@ -54,22 +68,6 @@ sections:
             preparations for the national examinations..."
           link_text: Read more about it here
           link_url: /secondary-4-sports-fiesta-2025/
-        - title: Let's Be G.R.E.E.N
-          date: 01 August 2025
-          announcement: On 21 May, Regent Secondary School celebrated its annual
-            Environment Week, “Let’s Be G.R.E.EN!”, with enthusiastic
-            participation from the Secondary 1 cohort and various CCA groups.
-            The event promoted environmental awareness through creative
-            student-led initiatives and collaborative activities...
-          link_text: Read more about it here
-          link_url: /let-s-be-green/
-        - title: Sec 2 National Museum Learning Journey 2025
-          date: 12 August 2025
-          announcement: On 31 July 2025, our Secondary Two students embarked on an
-            enriching museum-based learning journey to Singapore’s oldest
-            museum, the National Museum of Singapore.
-          link_text: Read more about it here
-          link_url: /sec-2-national-museum-learning-journey-2025/
   - infopic:
       title: Student Leaders' Investiture 2025
       subtitle: Highlights
