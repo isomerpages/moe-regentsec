@@ -63,15 +63,13 @@ sections:
             student-led initiatives and collaborative activities...
           link_text: Read more about it here
           link_url: /let-s-be-green/
-        - title: Sec 1 Learning Journey to Marina Barrage
-          date: 01 August 2025
-          announcement: On 10 April 2025, our Secondary 1 students set off on an exciting
-            learning journey to Marina Barrage, building on classroom lessons
-            about water and conservation. This multidisciplinary trip seamlessly
-            wove together concepts from English, Mathematics, Science, and
-            Geography in a hands-on...
+        - title: Sec 2 National Museum Learning Journey 2025
+          date: 12 August 2025
+          announcement: On 31 July 2025, our Secondary Two students embarked on an
+            enriching museum-based learning journey to Singapore’s oldest
+            museum, the National Museum of Singapore.
           link_text: Read more about it here
-          link_url: /sec-1-learning-journey-to-marina-barrage/
+          link_url: /sec-2-national-museum-learning-journey-2025/
   - infopic:
       title: Student Leaders' Investiture 2025
       subtitle: Highlights
