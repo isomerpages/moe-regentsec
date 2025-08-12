@@ -5,6 +5,46 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>Regentstorians Explore the Asian Civilisations Museum</strong></h2>
+<p>On July 16th, the Secondary 1 Regentstorians embarked on a meaningful
+learning journey to the Asian Civilisations Museum (ACM), located in the
+heart of Singapore’s civic district. This visit, part of the school’s efforts
+to extend classroom learning beyond school walls, was more than just a
+museum tour. It was an enriching experience that deepened students’ understanding
+of Singapore’s diverse cultural roots and the broader Asian heritage that
+shapes our society today.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_2.jpg">
+</div>
+<p>The highlight was the chance to be guided by trained student docents from
+Singapore Chinese Girls' School (SCGS). Confident and articulate, these
+docents brought the exhibits to life through engaging presentations and
+well-researched stories. Students learned about ancient trade routes, religious
+artefacts, and the influences of various civilisations on the region’s
+development.</p>
+<p>Listening to their peers from another school inspired our students to
+see the value of student-led learning. It showed them the impact of taking
+ownership of knowledge and the confidence that comes with sharing it with
+others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_3.jpg">
+</div>
+<p>For Secondary 1 student Praveen Nair Prathana, the visit was particularly
+memorable. He reflected, “I really enjoyed the visit to the Asian Civilisations
+Museum! Seeing the ancient artefacts up close and listening to the student
+docents made history feel real and alive.”</p>
+<p>The visit not only broadened their understanding of Asia’s civilisations
+but also encouraged them to reflect on their own role in preserving Singapore’s
+multicultural identity. Walking through the museum’s halls, they were reminded
+that history connects us all and that sometimes, the best teachers are
+fellow students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_4.jpg">
+</div>
+<hr>
 <h2><strong>Secondary 1G3 Virtual Tour to Fort Canning</strong></h2>
 <h4>Exploring History, Virtually: Regentstorians Embark on Their First Learning Adventure</h4>
 <p>History came alive for our students as they embarked on an exciting virtual
