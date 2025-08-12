@@ -15,6 +15,12 @@ to extend classroom learning beyond school walls, was more than just a
 museum tour. It was an enriching experience that deepened students’ understanding
 of Singapore’s diverse cultural roots and the broader Asian heritage that
 shapes our society today.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_2.jpg">
+</div>
 <p>The highlight was the chance to be guided by trained student docents from
 Singapore Chinese Girls' School (SCGS). Confident and articulate, these
 docents brought the exhibits to life through engaging presentations and
@@ -25,6 +31,9 @@ development.</p>
 see the value of student-led learning. It showed them the impact of taking
 ownership of knowledge and the confidence that comes with sharing it with
 others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_3.jpg">
+</div>
 <p>For Secondary 1 student Praveen Nair Prathana, the visit was particularly
 memorable. He reflected, “I really enjoyed the visit to the Asian Civilisations
 Museum! Seeing the ancient artefacts up close and listening to the student
@@ -34,4 +43,8 @@ but also encouraged them to reflect on their own role in preserving Singapore’
 multicultural identity. Walking through the museum’s halls, they were reminded
 that history connects us all and that sometimes, the best teachers are
 fellow students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_4.jpg">
+</div>
+<p></p>
 <p>&nbsp;</p>
