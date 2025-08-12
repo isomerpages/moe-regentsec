@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
-<h4>Stepping Back in Time: Secondary 2’s National Museum Adventure</h4>
+<h2><strong>Stepping Back in Time: Secondary 2’s National Museum Adventure</strong></h2>
 <p>On 31 July 2025, our Secondary Two students embarked on an enriching museum-based
 learning journey to Singapore’s oldest museum, the National Museum of Singapore.</p>
 <p>In celebration of SG60, students took part in a special programme, ‘Artefactually
