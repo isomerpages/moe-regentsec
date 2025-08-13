@@ -16,10 +16,10 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infopic:
-      title: National Day 2025
+      title: Regent Celebrates SG60
       subtitle: Highlights
       id: infopic
-      description: Regent Celebrates SG60
+      description: National Day 2025
       button: Read more about it here
       url: /national-day-2025/
       image: /images/InfoPic Widget/InfoPic_National_Day_2025.png
