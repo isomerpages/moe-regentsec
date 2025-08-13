@@ -16,6 +16,15 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infopic:
+      title: Regent Celebrates SG60
+      subtitle: Highlights
+      id: infopic
+      description: National Day 2025
+      button: Read more about it here
+      url: /national-day-2025/
+      image: /images/InfoPic Widget/InfoPic_National_Day_2025.png
+      alt: Image alt text
+  - infopic:
       title: Regent Celebrate 25
       id: infopic
       description: 25 in 2025 – Regent Secondary School proudly celebrated this
@@ -28,6 +37,15 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Racial Harmony Day 2025
+          date: 13 August 2025
+          announcement: On 22 July 2025, Regent Secondary School came alive with vibrant
+            performances, heartfelt stories, and the united spirit of our
+            multicultural community as we celebrated Racial Harmony Day. This
+            year’s theme, “Our People, Our Tapestry”, shone a spotlight on how
+            Singapore’s diverse cultural threads...
+          link_text: Read more about it here
+          link_url: /racial-harmony-day-2025/
         - title: Sec 1G3 Regentstorians ACM Visit
           date: 12 August 2025
           announcement: On July 16th, the Secondary 1 Regentstorians embarked on a
@@ -60,14 +78,6 @@ sections:
             people?”..."
           link_text: Read more about it here
           link_url: /sec-2ex-history-learning-journey-to-old-ford-factory/
-        - title: Sec 4 Sports Fiesta 2025
-          date: 28 July 2025
-          announcement: "On the 4th of July, our graduating cohort came together for an
-            exhilarating Sports Fiesta: Ultimate Frisbee Tournament—a
-            well-deserved breather before they dive into their final
-            preparations for the national examinations..."
-          link_text: Read more about it here
-          link_url: /secondary-4-sports-fiesta-2025/
   - infopic:
       title: Student Leaders' Investiture 2025
       subtitle: Highlights

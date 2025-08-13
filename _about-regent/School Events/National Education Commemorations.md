@@ -5,6 +5,88 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
+<h2><strong>National Day 2025</strong></h2>
+<h4>Regent Celebrates SG60</h4>
+<p>This year’s National Day theme, “Building Our Singapore Together”, gave
+us an opportunity not only to reflect on 60 years of our nation’s shared
+journey, but also to reaffirm our commitment as Singaporeans to contribute
+to the next chapter of nation-building.</p>
+<p>On 8 August, the Regent family gathered in the school hall for a majestic
+Observance Ceremony, marked by the Uniformed Groups’ patriotic display
+and the symbolic march-in of the national flag. The live performance of
+the National Anthem by our Concert Band made the moment especially meaningful.
+Through the Recollections segment, students looked back on our nation’s
+past and were inspired by the National Day message from the Minister for
+Education, Mr Desmond Lee.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/NationalDay2025_1.jpg">
+</div>
+<p>The Observance Ceremony seamlessly transitioned into the Concert Segment,
+taking Regenites on a heartwarming journey across four significant time
+periods in Singapore’s history. Each class participated in engaging and
+symbolic games that tested their knowledge of our country, sparking both
+excitement and learning. Our Performing Arts groups, Infocomm CCA, and
+the Regent Pop Band presented a vibrant showcase of music and dance, culminating
+in a spirited singalong of our favourite National Day songs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/NationalDay2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/NationalDay2025_3.jpg">
+</div>
+<p>The celebrations ended on a reflective note, as students discussed how
+Singapore’s shared values have helped us overcome challenges and explored
+ways they could contribute to a shared future. Their dreams for Singapore
+came to life in Regent’s SG Reimagined Showcase—a captivating display of
+artefacts accessible via the RGTSG60 Padlet.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/NationalDay2025_4.jpg">
+</div>
+<p>A special video montage captured memorable moments from all our National
+Education activities, featuring a surprise guest appearance by <em>August</em>,
+the National Day mascot, much to the delight of our students.</p>
+<p>With one heart and one voice, we proudly wish Singapore a Happy 60<sup>th</sup> Birthday!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/NationalDay2025_5.jpg">
+</div>
+<hr>
+<h2><strong>Racial Harmony Day 2025</strong></h2>
+<h4>Celebrating Diversity: Racial Harmony Day Concert 2025 – Our People, Our Tapestry</h4>
+<p>On 22 July 2025, Regent Secondary School came alive with vibrant performances,
+heartfelt stories, and the united spirit of our multicultural community
+as we celebrated Racial Harmony Day. This year’s theme, “Our People, Our
+Tapestry”, shone a spotlight on how Singapore’s diverse cultural threads
+are beautifully woven together to form our shared national identity.</p>
+<p>The celebration began with the Culture Uncovered segment, where students
+and teachers shared personal insights on their cultural backgrounds. These
+reflections highlighted how different beliefs can share common values such
+as empathy, discipline, and strong family ties.</p>
+<p>A particularly memorable moment was a live Pipa performance of <em>Lan Ting Xu</em> by
+Jay Chou, performed by Hanning from 1 Gratitude. Her skill and artistry
+offered a beautiful glimpse into musical heritage and left the audience
+captivated.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2025_2.jpg">
+</div>
+<p>In the spirit of creativity and inclusivity, Secondary 1 and 2 students
+took part in the Harmony Video Challenge, producing 1-minute videos centred
+on the themes of <em>Food</em> and <em>Festival</em>. The winning entries
+stood out for their thoughtful reflections on how food and cultural celebrations
+can foster deeper understanding and stronger friendships across communities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2025_1.jpg">
+</div>
+<p>The concert ended on a high note with an energetic musical mash-up by
+the Regent Pop Band, blending Mandarin, Hindi, and Malay songs into a joyful
+and powerful celebration of unity in diversity.</p>
+<p>We are proud of all our students and staff who contributed to making this
+event such a meaningful success. As we continue to weave our tapestry of
+respect, resilience, and harmony, may every thread bring us closer together.
+Happy Racial Harmony Day!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2025_3.jpg">
+</div>
+<hr>
 <h2><strong>International Friendship Day 2025</strong></h2>
 <h4>Celebrating Diversity and Connection: International Friendship Day 2025</h4>
 <p>To commemorate International Friendship Day (IFD), Regent Secondary launched
