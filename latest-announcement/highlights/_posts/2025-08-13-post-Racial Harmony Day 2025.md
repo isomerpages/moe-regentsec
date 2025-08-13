@@ -21,11 +21,17 @@ as empathy, discipline, and strong family ties.</p>
 Jay Chou, performed by Hanning from 1 Gratitude. Her skill and artistry
 offered a beautiful glimpse into musical heritage and left the audience
 captivated.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2025_2.jpg">
+</div>
 <p>In the spirit of creativity and inclusivity, Secondary 1 and 2 students
 took part in the Harmony Video Challenge, producing 1-minute videos centred
 on the themes of <em>Food</em> and <em>Festival</em>. The winning entries
 stood out for their thoughtful reflections on how food and cultural celebrations
 can foster deeper understanding and stronger friendships across communities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2025_1.jpg">
+</div>
 <p>The concert ended on a high note with an energetic musical mash-up by
 the Regent Pop Band, blending Mandarin, Hindi, and Malay songs into a joyful
 and powerful celebration of unity in diversity.</p>
@@ -33,4 +39,7 @@ and powerful celebration of unity in diversity.</p>
 event such a meaningful success. As we continue to weave our tapestry of
 respect, resilience, and harmony, may every thread bring us closer together.
 Happy Racial Harmony Day!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/National Education/RHD2025_3.jpg">
+</div>
 <p></p>
