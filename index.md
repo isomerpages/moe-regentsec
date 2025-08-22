@@ -31,6 +31,15 @@ sections:
       image: /images/InfoPic Widget/InfoPic_SG_Book_of_Records_2025.png
       alt: Image alt text
   - infopic:
+      title: Mirror That Echoes
+      subtitle: School Publication
+      id: infopic
+      description: Infopic description
+      button: Click here to view the E-book
+      alt: Image alt text
+      url: Mirror_That_Echoes___A_Literary_Production_by_the_students_of_Regent_Sec_School
+      image: /images/InfoPic Widget/InfoPic_School_Publication.png
+  - infopic:
       title: Regent Celebrates SG60
       subtitle: Highlights
       id: infopic
@@ -127,12 +136,5 @@ sections:
       button: Click here to view newsletter
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
 ---
