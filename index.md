@@ -34,7 +34,7 @@ sections:
       title: Mirror That Echoes
       subtitle: School Publication
       id: infopic
-      description: Infopic description
+      description: A Literary Production by the students of Regent Sec School
       button: Click here to view the E-book
       alt: Image alt text
       url: Mirror_That_Echoes___A_Literary_Production_by_the_students_of_Regent_Sec_School
