@@ -47,4 +47,4 @@ teachers and students. As Helen Keller once said:</p>
 </blockquote>
 <p>We extend our heartfelt thanks to everyone who contributed to this project.
 Let us continue to Blaze Forth to Glory!</p>
-<p>You can find the E-copy of the story at &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<p>You can find the E-copy of the story at <a href="https://www.regentsec.moe.edu.sg/school-publication/" rel="noopener nofollow" target="_blank">School Publication</a> webpage</p>
