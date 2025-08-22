@@ -22,6 +22,15 @@ sections:
       image: /images/InfoPic Widget/InfoPic_Teachers_Day_for_Alumni.png
       alt: Image alt text
   - infopic:
+      title: Singapore Book of Records
+      subtitle: Highlights
+      id: infopic
+      description: Regent Secondary Sets Record for Collaborative Storybook Project
+      button: Read more about it here
+      url: /singapore-book-of-records/
+      image: /images/InfoPic Widget/InfoPic_SG_Book_of_Records_2025.png
+      alt: Image alt text
+  - infopic:
       title: Regent Celebrates SG60
       subtitle: Highlights
       id: infopic
@@ -118,5 +127,12 @@ sections:
       button: Click here to view newsletter
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
