@@ -4,4 +4,43 @@ permalink: /transformational-leaders/sec-3-obs-camp/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec%203%20Camp/20190423_121423-e1565230713520.jpg"></div><p>The Secondary 3 students were slated to go for their annual Outward Bound Singapore (OBS) 5 Day 4 Night Outdoor Adventure Camp in Pulau Ubin this year but due to Covid-19, it was cancelled. But with the relaxing of the circuit breaker restrictions in Phase 3, the students were allowed to attend a 1 Day Outdoor Adventure Camp at Changi Coast Outdoor Adventure Learning Center. The students were given the chance to head out to the open waters along the coasts of Changi Beach to do Kayaking, a Coastal Exploration at East Coast Park and participate in Team Building Activities along the way. Some students have never had the chance to Kayak in the open waters and the experience was both thrilling and eye-opening them to sail through the waves and learn how to maneuver in the water. The students also chartered into unknown corners of East Coast Park during their Coastal Exploration where they were introduced to the various environments and habitats along the Changi coastline. The Team Building Activities served to forge their determination and willpower to overcome all obstacles and challenges that come their way as a cohesive unit. Overall, the 1 Day Camp was a memorable experience for the Secondary 3 students as they got to try a new adventure sport, build up their ruggedness and resilience in new terrains as well as strengthen their class spirit and togetherness.</p><p>Secondary Three student, Joi Lin shares, “We could not stay overnight and had to be in smaller groups, but it was still amazing because I got to try rock climbing, abseiling and kayaking for the first time. This was definitely a special and fruitful camp experience for me. “<br>Secondary 3 student, Darren Tan shares, “Our OBS experience was cancelled due to COVID-19, but it was great that the school organised this day camp for us as a substitute. It was a really fun and thrilling experience and I enjoyed myself even though we met with some bad weather and couldn’t complete all the activities.”</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec%203%20Camp/IMG_1309-1024x768.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec%203%20Camp/IMG_9709-1024x576.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec%203%20Camp/IMG_9808-1024x576.jpg"></div><p></p>
+<h4>MOE-OBS Challenge Programme 2025</h4>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging-lite.d2ev3bw0des3y6.amplifyapp.com/images/Sec%203%20Camp/Sec3OBS2025_1.jpg">
+</div>
+<p>The MOE-OBS Challenge Programme was conducted from 14 to 18 July. A total
+of 178 adventurous Secondary 3 students took part in the 5-day/4-night
+residential programme designed to foster resilience, teamwork, and leadership.
+The programme was held across three locations — OBS campuses at Pulau Ubin,
+Punggol, and East Coast — offering a rich and diverse outdoor experience.</p>
+<p>Throughout the five days, students were pushed beyond their comfort zones
+through a series of physically and mentally demanding activities. Highlights
+included a land expedition where students navigated trails while carrying
+their gear, a high ropes challenge that tested their courage and trust,
+and rafting sessions that required teamwork and problem-solving under pressure.</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 422.656px;" height="auto" width="100%" alt="" src="https://staging-lite.d2ev3bw0des3y6.amplifyapp.com/images/Sec%203%20Camp/Sec3OBS2025_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 422.656px;" height="auto" width="100%" alt="" src="https://staging-lite.d2ev3bw0des3y6.amplifyapp.com/images/Sec%203%20Camp/Sec3OBS2025_3.jpg">
+</div>
+<p></p>
+<p>Participants also learned to be self-reliant, taking charge of cooking
+their own meals and managing their daily routines in an outdoor environment.
+Through these experiences, students developed important life skills such
+as perseverance, adaptability, and effective communication.</p>
+<p>More than just an adventure, the MOE-OBS Challenge Programme served as
+a platform for students to build stronger bonds with their peers and grow
+as individuals. Many came away from the camp with newfound confidence,
+a deeper appreciation for nature, and lasting memories of overcoming challenges
+together.</p>
+<p>This immersive experience exemplifies the school’s commitment to holistic
+education and the development of character and leadership among its students.
+Congratulations to all participants for rising to the challenge and making
+the most of this unique opportunity!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 422.656px;" height="auto" width="100%" alt="" src="https://staging-lite.d2ev3bw0des3y6.amplifyapp.com/images/Sec%203%20Camp/Sec3OBS2025_4.jpg">
+</div>
+<p></p>
