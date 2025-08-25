@@ -45,6 +45,72 @@ fellow students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec1G3RegentstoriansACM2025_4.jpg">
 </div>
 <hr>
+<h2><strong>Sec 2EX History Learning Journey to Old Ford Factory</strong></h2>
+<h4>Historical Learning Journey to Former Ford Factory</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec2EXHistLJtoOldFordFactory_1.jpg">
+</div>
+<p>As part of their Historical Investigation (HI), Secondary 2G3 students
+visited the Former Ford Factory—an iconic World War II site in Singapore.
+This enriching experience supported their inquiry question: <em>“How did the Japanese Occupation affect the lives of the people?”</em>
+</p>
+<p>At the site, students explored preserved artefacts, visual displays, and
+historical documents. A key highlight was standing in the very room where
+the British surrendered to the Japanese on 15 February 1942, offering a
+profound sense of historical significance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec2EXHistLJtoOldFordFactory_2.jpg">
+</div>
+<p>Students also read personal accounts from survivors, which provided emotional
+insight into the hardships endured during the Occupation—deepening their
+understanding beyond textbooks. Their engagement during the visit was commendable,
+with thoughtful questions and reflective discussions throughout.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec2EXHistLJtoOldFordFactory_3.jpg">
+</div>
+<p></p>
+<p>Back in school, the experience enhanced their final HI projects, enabling
+them to craft evidence-based responses using primary and secondary sources.
+The visit not only strengthened their historical thinking but also fostered
+empathy and appreciation for those who lived through that challenging period.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/Sec2EXHistLJtoOldFordFactory_4.jpg">
+</div>
+<hr>
+<h2><strong>Lower Secondary History Prove It! Contest 2025</strong></h2>
+<h4>Regent Students Make a Stand for Sustainability at Prove It! 2025</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/LowSecHistProveItContst2025_1.jpg">
+</div>
+<p>This year, two enthusiastic teams of lower secondary students proudly
+represented Regent Secondary School in the Prove It! Contest 2025—a prestigious
+national competition organised by the National Library Board (NLB), supported
+by MOE and RICE Media. Centred on the theme “Singapore’s green future:
+How can teenagers create maximum impact in promoting sustainability via
+digital tools?”, the competition challenged participants to explore pressing
+climate issues while honing their information literacy and digital communication
+skills.</p>
+<p>Comprising Secondary One and Two students, the Regent teams displayed
+remarkable commitment throughout their journey. They conducted in-depth
+research using credible online and library sources, surveyed their peers,
+and produced a compelling 600-word article supported by visuals and citations.
+As part of their submission, students also scripted, filmed, and edited
+a dynamic 90-second video newsreel to bring their message to life.</p>
+<p>One of the highlights came when the Secondary Two team had the opportunity
+to share their video with the entire school during a morning Zoom assembly—an
+inspiring moment of student-led advocacy in action.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Humanities Department/LowSecHistProveItContst2025_2.jpg">
+</div>
+<p>Josephine, one of the participants, shared, “Working on this project was
+challenging but fulfilling. We had to meet regularly to brainstorm, research,
+and divide the tasks fairly so that everyone had a role to play.” Her teammate
+Mirdhula added, “If you find yourself in a tough situation, don’t worry!
+Teamwork, clear communication, and using reliable sources can really help.”</p>
+<p>Their participation in Prove It! 2025 reflects Regent’s strong commitment
+to nurturing responsible, informed, and future-ready learners—empowered
+to make a real difference.</p>
+<hr>
 <h2><strong>Secondary 1G3 Virtual Tour to Fort Canning</strong></h2>
 <h4>Exploring History, Virtually: Regentstorians Embark on Their First Learning Adventure</h4>
 <p>History came alive for our students as they embarked on an exciting virtual
