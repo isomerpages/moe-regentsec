@@ -22,23 +22,23 @@ sections:
       image: /images/InfoPic Widget/InfoPic_Teachers_Day_for_Alumni.png
       alt: Image alt text
   - infopic:
-      title: Regent Celebrates SG60
+      title: Singapore Book of Records
       subtitle: Highlights
       id: infopic
-      description: National Day 2025
+      description: Regent Secondary Sets Record for Collaborative Storybook Project
       button: Read more about it here
-      url: /national-day-2025/
-      image: /images/InfoPic Widget/InfoPic_National_Day_2025.png
+      url: /singapore-book-of-records/
+      image: /images/InfoPic Widget/InfoPic_SG_Book_of_Records_2025.png
       alt: Image alt text
   - infopic:
-      title: Regent Celebrate 25
+      title: Mirror That Echoes
+      subtitle: School Publication
       id: infopic
-      description: 25 in 2025 – Regent Secondary School proudly celebrated this
-        significant milestone as part of Regent Celebrates 25
-      button: Read more about it here
+      description: A Literary Production by the students of Regent Sec School
+      button: Click here to view the E-book
       alt: Image alt text
-      url: /regent-celebrates-25/
-      image: /images/InfoPic Widget/InfoPic_Regent25.png
+      url: /school-publication/
+      image: /images/InfoPic Widget/InfoPic_School_Publication.png
   - announcements:
       title: Announcements & Highlights
       id: announcements
@@ -85,15 +85,23 @@ sections:
           link_text: Read more about it here
           link_url: /sec-2ex-history-learning-journey-to-old-ford-factory/
   - infopic:
-      title: Student Leaders' Investiture 2025
+      title: Regent Celebrates SG60
       subtitle: Highlights
       id: infopic
-      description: On 20 May 2025, Regenites gathered in the hall for the annual
-        Student Leaders’ Investiture
+      description: National Day 2025
       button: Read more about it here
-      url: /student-leaders-investiture-2025/
-      image: /images/InfoPic Widget/InfoPic_Student_Investiture_2025.png
+      url: /national-day-2025/
+      image: /images/InfoPic Widget/InfoPic_National_Day_2025.png
       alt: Image alt text
+  - infopic:
+      title: Regent Celebrate 25
+      id: infopic
+      description: 25 in 2025 – Regent Secondary School proudly celebrated this
+        significant milestone as part of Regent Celebrates 25
+      button: Read more about it here
+      alt: Image alt text
+      url: /regent-celebrates-25/
+      image: /images/InfoPic Widget/InfoPic_Regent25.png
   - infobar:
       title: Direct School Admission for Secondary One in 2026
       subtitle: HIghlights
