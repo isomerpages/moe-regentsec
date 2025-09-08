@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
-<h2><strong>CCA Led Gratitude Challenge</strong></h2>
+<h2><strong>CCA-Led Gratitude Challenge</strong></h2>
 <p>On 12 March 2025, Regent Secondary launched its first-ever CCA-led Gratitude
 Challenge, an initiative designed to encourage students to express appreciation
 for their peers and school community. In their respective Co-Curricular
