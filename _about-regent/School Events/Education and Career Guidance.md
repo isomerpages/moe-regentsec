@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Events
 ---
-<h2>Experience ITE Programme: A Gateway to Future Educational Pathways</h2>
+<h2><strong>Experience ITE Programme: A Gateway to Future Educational Pathways</strong></h2>
 <p>Our Secondary Two and Three G1 students recently had the opportunity to
 participate in the Experience ITE Programme at ITE College West, where
 they gained valuable insights into the diverse courses available and the
@@ -44,7 +44,7 @@ aspirations!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG/ExpITEProg2025_4.jpg">
 </div>
 <hr>
-<h2>TAC: The Astronaut Collective</h2>
+<h2><strong>TAC: The Astronaut Collective</strong></h2>
 <p>Our Secondary Two students recently participated in the Astronaut Collective
 programme, an engaging initiative designed to help them explore potential
 career pathways and reflect on their aspirations in various industries.</p>
@@ -87,14 +87,14 @@ paths toward success.</p>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Highlights</strong>
+<summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/ecg-learning-journey-to-singapore-chemical-industry-council/" rel="noopener nofollow" target="_blank">ECG Learning Journey to Singapore Chemical Industry Council</a>
 </p>
-<p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-four-nanyang-polytechnic-course-advising/" rel="noopener nofollow" target="_blank">Secondary Four Nanyang Polytechnic Course Advising </a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/secondary-four-nanyang-polytechnic-course-advising/" rel="noopener nofollow" target="_blank">Secondary Four Nanyang Polytechnic Course Advising</a>
 </p>
 <p></p>
 <p><strong>2023</strong>
