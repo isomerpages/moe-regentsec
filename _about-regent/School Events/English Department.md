@@ -92,7 +92,8 @@ and culturally engaged learners—one performance at a time.</p>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>More</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>

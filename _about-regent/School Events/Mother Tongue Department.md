@@ -45,10 +45,12 @@ the bonds within our vibrant community.</p>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Highlights</strong>
+<summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
+</p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/" rel="noopener nofollow" target="_blank">Gardens By the Bay: Race to Sustainability</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/pesta-budaya-2024-a-gateway-to-tradition/" rel="noopener nofollow" target="_blank">Pesta Budaya 2024: A Gateway to Tradition</a>
 </p>
@@ -58,6 +60,8 @@ the bonds within our vibrant community.</p>
 </p>
 <p></p>
 <p><strong>2023</strong>
+</p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/interdisciplinary-learning-journey-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Interdisciplinary Learning Journey to the Gardens by the Bay</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/conversational-chinese-malay-language-programme-2023/" rel="noopener nofollow" target="_blank">Conversational Chinese Malay Language Programme 2023</a>
 </p>
