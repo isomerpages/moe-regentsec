@@ -87,6 +87,8 @@ innovative learners ready for the future.</p>
 </p>
 <p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec-2-learning-journey-to-science-centre/" rel="noopener nofollow" target="_blank">Sec 2 Learning Journey to Science Centre</a>
 </p>
+<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/s1-learningjourney-newater-visitor-centre/" rel="noopener nofollow" target="_blank">Secondary One Learning Journey to NEWater Visitor Centre</a>
+</p>
 <p></p>
 <p><strong>2022</strong>
 </p>
