@@ -44,7 +44,7 @@ for a vibrant and interconnected school culture.</p>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Highlights</strong>
+<summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
