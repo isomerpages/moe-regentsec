@@ -5,42 +5,45 @@ description: ""
 third_nav_title: School Events
 variant: tiptap
 ---
-<h2><strong>CCA Exchange Day 2024</strong></h2>
-<p>On 11 September 2024, our 17 Co-Curricular Activities (CCAs) came together
-for an exciting inter-CCA exchange programme, before the stand down for
-the End-of-Year examinations. This initiative is aimed at fostering collaboration
-among students, allowing them to explore and gain insights into each other’s
-CCAs while acquiring new skills and best practices to bring back to their
-own CCAs. The enthusiasm was palpable as students participated in various
-exchanges, eagerly immersing themselves in the experiences of their peers.
-For instance, members of the Show Choir had the unique opportunity to join
-the Red Cross Youth for a day. While the Show Choir members learned essential
-bandaging and CPR skills from their Red Cross counterparts, our Red Cross
-Youth cadets delighted in discovering the art of singing and dancing in
-harmony with the Show Choir. The high level of engagement from all the
-participants underscored the success of this programme, as students not
-only enjoyed their time but also expressed enthusiasm for next year’s exchange.
-This initiative not only nurtures camaraderie among different CCAs but
-also enriches the students’ skills and experiences, laying the foundation
-for a vibrant and interconnected school culture.</p>
+<h2><strong>CCA Led Gratitude Challenge</strong></h2>
+<p>On 12 March 2025, Regent Secondary launched its first-ever CCA-led Gratitude
+Challenge, an initiative designed to encourage students to express appreciation
+for their peers and school community. In their respective Co-Curricular
+Activity (CCA) groups, students took part in a series of meaningful gratitude-themed
+activities, including Gratitude Bingo, Gratitude Chains, and Gratitude
+Cards.</p>
+<p>In Gratitude Bingo, students completed a sheet filled with simple yet
+powerful acts of gratitude, such as thanking a friend or offering words
+of kindness. This activity encouraged them to be mindful of the small but
+impactful ways they could show appreciation daily.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_1.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://www.regentsec.moe.edu.sg/images/School%20Events/CCE/CCAledGratitudeChal2025_1.jpg">
 </div>
+<p>The Gratitude Chain saw students writing heartfelt messages on paper strips
+about peers, teachers, or memorable school experiences. These strips were
+then linked together to form a colorful chain—a symbol of how appreciation
+strengthens relationships and connects the school community. Similarly,
+the Gratitude Cards activity allowed students to express their appreciation
+through personal, handwritten notes to their CCA teammates. Emma Rose from
+Red Cross Youth reflected on this experience, saying, “<em>I think that the CCE Gratitude Challenge was able to strengthen the existing bonds our CCA has for each other by expressing our gratefulness to them on cards.</em>”
+These simple gestures created a warm and uplifting atmosphere as students
+shared their thanks in meaningful ways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_2.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://www.regentsec.moe.edu.sg/images/School%20Events/CCE/CCAledGratitudeChal2025_3.jpg">
 </div>
+<p>Throughout the 35-minute session, students laughed, shared stories, and
+actively engaged in showing appreciation. Many found it to be a refreshing
+break from the usual CCE lessons, allowing them to interact with their
+CCA peers in a more personal and heartfelt manner. Ho Ming Yuan Daniel
+from English Drama shared, “<em>I felt that the CCA-led Gratitude Challenge was very fun as it really allowed me to bond with the members in my CCA. I would say it benefited me and the CCA quite a lot as now we get to know each other better and grow closer.</em>”</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_3.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://www.regentsec.moe.edu.sg/images/School%20Events/CCE/CCAledGratitudeChal2025_2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CCA/CCAExchDay2024_6.jpg">
-</div>
+<p>By the end of the event, the school was buzzing with positivity and renewed
+appreciation. The CCA-led Gratitude Challenge was not just about saying
+“Thank You”—it was about recognising and celebrating one another’s contributions,
+reinforcing the school’s values of empathy, respect, and community spirit.</p>
+<hr>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -48,6 +51,8 @@ for a vibrant and interconnected school culture.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
+</p>
+<p><strong>📰 </strong><a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/cca-exchange-day-2024/" rel="noopener nofollow" target="_blank">CCA Exchange Day 2024</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/ug-cadets-involvement-in-sg-ndp/" rel="noopener nofollow" target="_blank">UG Cadets’ Involvement in SG NDP</a>
 </p>
