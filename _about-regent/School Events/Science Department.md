@@ -80,23 +80,23 @@ innovative learners ready for the future.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2024</strong>
 </p>
-<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/" rel="noopener nofollow" target="_blank">Gardens By the Bay: Race to Sustainability</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/" rel="noopener nofollow" target="_blank">Gardens By the Bay: Race to Sustainability</a>
 </p>
 <p></p>
 <p><strong>2023</strong>
 </p>
-<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/interdisciplinary-learning-journey-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Interdisciplinary Learning Journey to the Gardens by the Bay</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/interdisciplinary-learning-journey-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Interdisciplinary Learning Journey to the Gardens by the Bay</a>
 </p>
-<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec1-learning-journey-science-centre/" rel="noopener nofollow" target="_blank">Secondary 1 Learning Journey to Science Centre</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec1-learning-journey-science-centre/" rel="noopener nofollow" target="_blank">Secondary 1 Learning Journey to Science Centre</a>
 </p>
-<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/s1-learningjourney-newater-visitor-centre/" rel="noopener nofollow" target="_blank">Secondary One Learning Journey to NEWater Visitor Centre</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/s1-learningjourney-newater-visitor-centre/" rel="noopener nofollow" target="_blank">Secondary One Learning Journey to NEWater Visitor Centre</a>
 </p>
-<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec-2-learning-journey-to-science-centre/" rel="noopener nofollow" target="_blank">Sec 2 Learning Journey to Science Centre</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec-2-learning-journey-to-science-centre/" rel="noopener nofollow" target="_blank">Sec 2 Learning Journey to Science Centre</a>
 </p>
 <p></p>
 <p><strong>2022</strong>
 </p>
-<p>📖 <a href="https://www.regentsec.moe.edu.sg/23rd-elementz-fair-gold-award/" rel="noopener nofollow" target="_blank">23rd Elementz Fair (Gold Award)</a>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/23rd-elementz-fair-gold-award/" rel="noopener nofollow" target="_blank">23rd Elementz Fair (Gold Award)</a>
 </p>
 </div>
 </details>
