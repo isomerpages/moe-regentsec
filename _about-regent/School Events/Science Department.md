@@ -85,6 +85,8 @@ innovative learners ready for the future.</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
+<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/interdisciplinary-learning-journey-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Interdisciplinary Learning Journey to the Gardens by the Bay</a>
+</p>
 <p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec1-learning-journey-science-centre/" rel="noopener nofollow" target="_blank">Secondary 1 Learning Journey to Science Centre</a>
 </p>
 <p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/s1-learningjourney-newater-visitor-centre/" rel="noopener nofollow" target="_blank">Secondary One Learning Journey to NEWater Visitor Centre</a>
