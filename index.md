@@ -16,12 +16,6 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infopic:
-      title: Teachers' Day Celebration
-      subtitle: For Regent Alumni
-      id: infopic
-      image: /images/InfoPic Widget/InfoPic_Teachers_Day_for_Alumni.png
-      alt: Image alt text
-  - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
       id: infopic
