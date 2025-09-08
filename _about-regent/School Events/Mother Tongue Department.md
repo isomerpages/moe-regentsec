@@ -61,6 +61,8 @@ the bonds within our vibrant community.</p>
 <p></p>
 <p><strong>2023</strong>
 </p>
+<p>📰 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/interdisciplinary-learning-journey-gardens-by-the-bay/" rel="noopener nofollow" target="_blank">Interdisciplinary Learning Journey to the Gardens by the Bay</a>
+</p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/conversational-chinese-malay-language-programme-2023/" rel="noopener nofollow" target="_blank">Conversational Chinese Malay Language Programme 2023</a>
 </p>
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/mt-fortnight-2023/" rel="noopener nofollow" target="_blank">MT Fortnight 2023</a>
