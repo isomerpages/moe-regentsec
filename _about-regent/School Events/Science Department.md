@@ -137,3 +137,26 @@ and presentation skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/Accolades/23rdElementzFair-3.jpg">
 </div>
 <p></p>
+<h4>Past Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>More</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/gardens-by-the-bay-race-to-sustainability/" rel="noopener nofollow" target="_blank">Gardens By the Bay: Race to Sustainability</a>
+</p>
+<p></p>
+<p><strong>2023</strong>
+</p>
+<p>📖 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/sec-2-learning-journey-to-science-centre/" rel="noopener nofollow" target="_blank">Sec 2 Learning Journey to Science Centre</a>
+</p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p>📖 <a href="https://www.regentsec.moe.edu.sg/23rd-elementz-fair-gold-award/" rel="noopener nofollow" target="_blank">23rd Elementz Fair (Gold Award)</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
