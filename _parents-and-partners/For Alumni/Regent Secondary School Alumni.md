@@ -31,7 +31,7 @@ be updated on school events and programmes.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Tan Yi Jun Cherlyn</strong>
-<br><em>Graduated 2024</em> | Community Nursing Scholarship</p>
+<br><em>Graduated in 2024</em> | Community Nursing Scholarship</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
