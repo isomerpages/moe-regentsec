@@ -26,6 +26,15 @@ be updated on school events and programmes.</p>
 <h3><strong>Achievements of Alumni</strong></h3>
 <h4><strong>Achievements of 2025</strong></h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Alumni/TAN_YI_JUN_CHERLYN_Graduated_2024_Community_Nursing_Scholarship.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Tan Yi Jun Cherlyn</strong>
+<br><em>Graduated 2024</em> | Community Nursing Scholarship</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Alumni/Geri_Neo.png">
 </div>
 <ul data-tight="true" class="tight">
