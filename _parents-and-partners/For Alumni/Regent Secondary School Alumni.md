@@ -25,7 +25,6 @@ Regent family and inspire and influence our students to pursue excellence.</p>
 be updated on school events and programmes.</p>
 <h3><strong>Achievements of Alumni</strong></h3>
 <h4><strong>Achievements of 2025</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Alumni/Geri_Neo.png">
 </div>
