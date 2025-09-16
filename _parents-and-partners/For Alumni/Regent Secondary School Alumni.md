@@ -76,6 +76,63 @@ required for reproduction”.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Achievements of 2015</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Achievements of 2014</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h5></h5>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Achievements of 2013</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4>Achievements</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2016</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/For%20Alumni/Siti-zaliha-bte.jpeg">
 </div>
@@ -121,8 +178,8 @@ Award</p>
 <p>Infinite Frameworks Award for Outstanding Project Work (MGBD)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>📹 Click <strong><a href="https://youtu.be/9Fd9I2U06Ko" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-watch the video of Lee Hsien Loong Award recipient Rachael Lum.</p>
+<p>📹 <strong><a href="https://youtu.be/9Fd9I2U06Ko" rel="noopener nofollow" target="_blank">Click here to watch</a></strong> video
+of Lee Hsien Loong Award recipient Rachael Lum.</p>
 </li>
 </ul>
 </li>
@@ -159,24 +216,26 @@ Scholarship</p>
 <br><em>Diploma in Materials Science</em> | Republic Award</p>
 </li>
 </ul>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Achievements of 2015</strong>
+<summary><strong>2015</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Alumni/2015-RP.jpg">
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Achievements of 2014</strong>
+<summary><strong>2014</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h5><strong>Nanyang Polytechnic</strong></h5>
+<h4><strong>Nanyang Polytechnic</strong></h4>
 <p><strong>Outstanding Graduands 2014</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -199,10 +258,11 @@ Council Bronze Medal</p>
 Medal</p>
 </li>
 </ul>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Achievements of 2013</strong>
+<summary><strong>2013</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -213,10 +273,11 @@ Medal</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Alumni/123.png">
 </div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Achievements of 2012</strong>
+<summary><strong>2012</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -331,11 +392,14 @@ Medal</p>
 </ul>
 </div>
 </details>
+</div>
+<p></p>
+<h4>Our Successful Students</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Our Successful Students</strong>
+<summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Alumni/successful-student-1.png">
 </div>
