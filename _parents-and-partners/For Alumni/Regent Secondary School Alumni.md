@@ -24,30 +24,101 @@ Regent family and inspire and influence our students to pursue excellence.</p>
 <p>Like us on Regent Secondary School’s Facebook page&nbsp;<a href="https://www.facebook.com/RGTSecondary/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/RGTSecondary/</a>&nbsp;to
 be updated on school events and programmes.</p>
 <h3><strong>Achievements of Alumni</strong></h3>
+<h4><strong>Achievements of 2025</strong></h4>
 <p></p>
-<h4><strong>Achievements of 2018</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Alumni/Geri_Neo.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Geri Neo</strong>
+<br><em>Diploma in Pharmaceutical Science with Merit</em> | Tan Sri (Dr) Tan
+Chin Tuan Scholarship</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Alumni/Marinas_Ciara.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Marinas Ciara Alyssa Delos Reyes</strong>
+<br><em>Diploma in Business with Merit</em> | Holywell Foundation Scholarship</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Alumni/Neo_Wei_En.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Neo Wei En</strong>
+<br><em>Diploma in Sport Coaching with Merit</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lee Foundation Scholarship</p>
+</li>
+<li>
+<p>BearyFun Gym Gold Medal</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Alumni/Nikki_Loo_En_Qi.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Nikki Loo En Qi</strong>
+<br><em>Diploma in Applied Chemistry with Merit</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wilmar Scholarship</p>
+</li>
+<li>
+<p>Module Prize</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Past Achievements</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2018</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/For%20Alumni/37370425_1945674552155539_8707109778100322304_n.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/For%20Alumni/Siddiq-Amsyar_Regent.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Chok Hui Ling</strong>
 <br><em>Diploma In Visual Communication</em> | Robinson &amp; Co Silver Medal</p>
 </li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/For%20Alumni/Siddiq-Amsyar_Regent.jpg">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Siddiq Amsyar Bin Shalan</strong>
 <br><em>Diploma In Civil Engineering with Business</em> | Singapore Contractors
 Association Silver Medal</p>
 </li>
 </ul>
-<hr>
-<h4><strong>Achievements of 2017</strong></h4>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2017</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h5><strong>Ex Regenite Graduates with an Honours Degree</strong></h5>
 <p><em>Mr&nbsp;Randy&nbsp;(ex-Regenite 2004-2007) just graduated from Nanyang Technological University with an honours degree in Business Management and Accountancy under the University Scholars Programme. He is working with Visa as a business consultant now. He returned Regent Secondary School to share his learning journey with our graduating cohort. All from Regent Secondary is proud of his achievements.</em>
 </p>
@@ -55,6 +126,7 @@ Association Silver Medal</p>
 view the achievement which was published in the Lianhe&nbsp;Wanbao</p>
 <p>“Source: [Lianhe Wanbao] © Singapore Press Holdings Limited. Permission
 required for reproduction”.</p>
+<p></p>
 <h5><strong>Republic Polytechnic Graduate</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Alumni/RP-Grad-Former_12_09_17-e1505192740467.png">
@@ -69,64 +141,6 @@ required for reproduction”.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Alumni/image001.jpg">
 </div>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Achievements of 2016</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Achievements of 2015</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Achievements of 2014</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h5></h5>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Achievements of 2013</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h4>Achievements</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2018</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2017</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
