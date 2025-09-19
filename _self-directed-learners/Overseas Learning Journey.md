@@ -4,232 +4,24 @@ permalink: /overseas-learning-journey/
 variant: tiptap
 description: ""
 ---
-<h4>2024</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Secondary 3 Cultural Immersion Trip to Ho Chi Minh City</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h2><strong>Secondary 3 Cultural Immersion Trip to Ho Chi Minh City</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HCM_1.jpg">
-</div>
-<p>A select group of Secondary 3 students had an exciting chance to visit
-Ho Chi Minh City of Vietnam month. &nbsp;During the 4 days 3 nights trip,
-there were many learning opportunities offered as they explored the old
-city via a City Tour. Among some of the places that sparked interest were
-the Reunification Palace, History Museum of Ho Chi Minh City, War Remnants
-Museum and The Central Post Office where students basked in the rich cultural
-heritage of the city and learnt more about their unique history.</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_5.jpg">
-</div>
-<p></p>
-<p>However, the highlight of the day was the visit to the Agriculture Village
-where students participated in a farm-to-table dining experience where
-they prepared their own lunch, something new for all of them. The group
-also made time to visit and interact with children from the Masion Chance
-Orphanage and Nguyen Gia Thieu Secondary School. There, students not only
-exchanged performances to learn more about oneanother’s culture, but also
-spent time taking part in group activities together, including teaching
-common conversational English Language phrases to the children.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_12.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_15.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_18.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_19.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_20.jpg">
-</div>
-<p></p>
-<p>It was a meaningful and engaging overseas trip and an opportunity for
-our students to develop cross-cultural skills through interaction with
-local students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_HoChiMinhCity_21.jpg">
-</div>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Secondary 2 Cultural Immersion Programme to Johore and Malacca</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h2><strong>Secondary 2 Cultural Immersion Programme to Johore and Malacca</strong></h2>
-<p>The month of May was awaited with much anticipation and excitement by
-our Secondary Two students. For most of the cohort, it marked the first
-ever cross-border trip they would have with their teachers and classmates.
-The 2 Days and 1 Night cultural immersion trip to Johore and Malacca, provided
-the students with plenty of opportunities to learn about the historical
-background as well as cultural and agricultural practices of Johore and
-Malacca. During the trip, the students were given the chance to have close
-interactions with students from a partner school where they participated
-in cultural activities. This allowed students from both sides to understand
-and appreciate the cultural differences and diversity between Singapore
-and the Malaysian school curriculum and programmes.</p>
-<p>During the trip, our students also visited a Johore farm (UK Farm) to
-understand modern agricultural practices and better appreciate how our
-food products are produced in the farm. In Malacca, students visited key
-cultural sites such as A’Famosa, Dutch Square as well as a Baba and Nonya
-museum to understand the historical and cultural evolution of Malacca,
-making their Secondary One History lessons come alive. It was definitely
-an unforgettable experience for our Secondary Two students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_JohoreMalacca_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_JohoreMalacca_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_JohoreMalacca_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_JohoreMalacca_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_JohoreMalacca_5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_JohoreMalacca_6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_JohoreMalacca_7.jpg">
-</div>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Overseas Cultural Immersion Trip to Surabaya</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h2><strong>Overseas Cultural Immersion Trip to Surabaya</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_1.jpg">
-</div>
-<p>A fun fact that not many visitors know about Surabaya is that its moniker
-is “city of heroes”. And this was indeed proven true when our Secondary
-3 and 4 Regenites enjoyed a hero’s welcome and friendly hospitality during
-their visit to Indonesia’s second largest metropolis. This has definitely
-made our 4-day 3-night learning journey a memorable experience for our
-students which will be remembered fondly for years to come.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_2.jpg">
-</div>
-<p>During the trip, our 15 students and 4 teachers were immersed in a cultural
-kaleidoscope. Through the visit to historical landmarks such as the Majapahit
-Hotel and Heroes Monument, the group was able to take a step back into
-history to understand Indonesia’s struggle for independence against the
-Dutch. The visit to the Cheng Ho Mosque, the Blue Mosque and Hong Tiek
-Hian Temple allowed our students to have a better understanding of the
-rich cultural and religious tapestry that made up Surabaya and Indonesia’s
-multicultural heritage.</p>
-<p>The warmth of the city was only exceeded by the rapturous welcome from
-our partner schools, SMPN 4 Surabaya and SMPK St Vincentius. Both schools
-provided memorable insights into the Indonesian and East Javan cultures
-and ways of life. During the visit to SMPN 4 Surabaya, our students were
-meaningfully engaged in a series of cultural activities such as Karawitan,
-Remo Traditional Dance, traditional games and Batik Painting and had the
-opportunity of learning the Angklung during their visit to SMPK St Vincentius.</p>
-<p></p>
-<p>They also visited an orphanage and an Old Folks’ Home where students applied
-what they had learnt in their Community Youth Leadership Programme to plan
-a series of interaction activities to reach out to the elderly and the
-children in Surabaya to be a positive influence and agent of change.</p>
-<p></p>
-<p>Through the varied activities during the trip, our students immersed themselves
-and gained a deeper understanding and appreciation for the Indonesian culture.
-Most importantly, they learnt what it means to be a student agent and changemaker
-through their active planning for and participation in the trip.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_12.jpg">
-</div>
-</div>
-</details>
-</div>
-<hr>
-<p></p>
+<h4>2025</h4>
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/secondary-2-3-cultural-immersion-trip-to-surabaya-indonesia-2025/" rel="noopener nofollow" target="_blank">Secondary 2 &amp; 3 Cultural Immersion Trip to Surabaya, Indonesia 2025</a>
+</p>
 <h4>Past Overseas Learning Journey</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/secondary-3-cultural-immersion-trip-to-ho-chi-minh-city/" rel="noopener nofollow" target="_blank">Secondary 3 Cultural Immersion Trip to Ho Chi Minh City</a>
+</p>
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/secondary-2-cultural-immersion-programme-to-johore-and-malacca/" rel="noopener nofollow" target="_blank">Secondary 2 Cultural Immersion Programme to Johore and Malacca</a>
+</p>
+<p>📌 <a href="/overseas-cultural-immersion-trip-to-surabaya/" rel="noopener nofollow" target="_blank">Overseas Cultural Immersion Trip to Surabaya</a>
+</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2022</strong>
@@ -436,6 +228,4 @@ have in Singapore.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <p></p>

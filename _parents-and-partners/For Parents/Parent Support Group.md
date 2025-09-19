@@ -27,9 +27,11 @@ The PSG programmes in 2025 include:
 * Participation in school activities such as Total Defence Day,  Teachers’ Day celebrations, etc.!
 
 ![](/images/For%20Parents/PSG2025_1.jpg)
+![](/images/For%20Parents/PSG2025_A1.jpg)
 ![](/images/For%20Parents/PSG2025_2.jpg)
 ![](/images/For%20Parents/PSG2025_3.jpg)
 ![](/images/For%20Parents/PSG2025_4.jpg)
+![](/images/School%20Events/PSG/ParentChildBonding2025_1.jpg)
 ![](/images/For%20Parents/PSG2025_5.jpg)
 
 ![](/images/For%20Parents/PSG2024_2.jpg)
