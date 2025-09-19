@@ -81,42 +81,29 @@ also returned with an appreciation for the educational opportunities they
 have in Singapore.</p>
 <p><strong>Day 1: School tour at Suanboonypatham Lamphun School, Cultural and Language Exchange with local Thai students</strong>
 </p>
-<p>“I was inspired by the warm and friendly nature of the Thai students.
-They patiently taught us the Thai language and were equally enthusiastic
-about learning our language. This trip showed me that communication is
-possible despite language barriers so long as we are willing to try and
-help each other along the way.” – Weng Yuan 3-6</p>
+<p><em>“I was inspired by the warm and friendly nature of the Thai students. They patiently taught us the Thai language and were equally enthusiastic about learning our language. This trip showed me that communication is possible despite language barriers so long as we are willing to try and help each other along the way.”</em> –
+Weng Yuan 3-6</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_ChiangMaiDay1.jpg">
 </div>
 <p><strong>Day 2: Trekking at Doi Inthanon National Park, Enjoying Nature and Having Fun at Wachirathan Waterfall</strong>
 </p>
-<p>“As a Geography student, the hike allowed me to experience first-hand
-the wonders of nature and ingrained in me the importance of environment
-conservation. This experience also helped to bond our group as we encouraged
-each other along the way and persevered to complete the trek.” – Hazirah
-3-3</p>
+<p><em>“As a Geography student, the hike allowed me to experience first-hand the wonders of nature and ingrained in me the importance of environment conservation. This experience also helped to bond our group as we encouraged each other along the way and persevered to complete the trek.”</em> –
+Hazirah 3-3</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_ChiangMaiDay2.jpg">
 </div>
 <p><strong>Day 3: Learning about Elephant Conservation and Making Poopoopaper, Visit to Long Neck Village and Umbrella Painting</strong>
 </p>
-<p>“I was given the chance to take part in activities that I have never experienced
-in Singapore such as the making of “Poopoopaper” from elephant dung and
-painting umbrellas. At first, I was afraid that I would not be able to
-paint my umbrella beautifully. However, through the activity, I grew in
-confidence as I put in my best effort to complete each given task.” – Sarah
-3-7</p>
+<p><em>“I was given the chance to take part in activities that I have never experienced in Singapore such as the making of “Poopoopaper” from elephant dung and painting umbrellas. At first, I was afraid that I would not be able to paint my umbrella beautifully. However, through the activity, I grew in confidence as I put in my best effort to complete each given task.”</em> –
+Sarah 3-7</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_ChiangMaiDay3.jpg">
 </div>
 <p><strong>Day 4: Cultural Orientation Tour to Chedi Luang Temple, Three-King Monument and City Moat</strong>
 </p>
-<p>“We were exposed to many aspects of the Thai culture which includes its
-traditional costumes, its language and the country’s charming history.
-I felt welcomed in all the places that we went to as we were always received
-with warmth and exuberance. This trip has been an enriching trip in terms
-of knowledge and experience.” – Asta 3-6</p>
+<p><em>“We were exposed to many aspects of the Thai culture which includes its traditional costumes, its language and the country’s charming history. I felt welcomed in all the places that we went to as we were always received with warmth and exuberance. This trip has been an enriching trip in terms of knowledge and experience.”</em> –
+Asta 3-6</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_ChiangMaiDay4.jpg">
 </div>
