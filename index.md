@@ -37,6 +37,13 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Secondary 2 & 3 Cultural Immersion Trip to Surabaya, Indonesia 2025
+          date: 18 September 2025
+          announcement: From 3 to 6 June 2025, our Secondary 2 and 3 students travelled to
+            Surabaya, Indonesia’s second-largest city, for a 4-day, 3-night
+            cultural and immersion programme.
+          link_text: Read more about it here
+          link_url: /secondary-2-3-cultural-immersion-trip-to-surabaya-indonesia-2025/
         - title: Racial Harmony Day 2025
           date: 13 August 2025
           announcement: On 22 July 2025, Regent Secondary School came alive with vibrant
@@ -69,15 +76,6 @@ sections:
             locations — OBS campuses...
           link_text: Read more about it here
           link_url: /sec-3-moe-obs-camp/
-        - title: Sec 2G3 History Learning Journey to Old Ford Factory
-          date: 28 July 2025
-          announcement: "As part of their Historical Investigation (HI), Secondary 2G3
-            students visited the Former Ford Factory—an iconic World War II site
-            in Singapore. This enriching experience supported their inquiry
-            question: “How did the Japanese Occupation affect the lives of the
-            people?”..."
-          link_text: Read more about it here
-          link_url: /sec-2ex-history-learning-journey-to-old-ford-factory/
   - infopic:
       title: Regent Celebrates SG60
       subtitle: Highlights
