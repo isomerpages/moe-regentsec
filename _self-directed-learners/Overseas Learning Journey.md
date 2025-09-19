@@ -23,6 +23,12 @@ description: ""
 </p>
 <p></p>
 <p></p>
+<p></p>
+<p><strong>2019</strong>
+</p>
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/2019-olj/" rel="noopener nofollow" target="_blank">2019 Overseas Learning Journey</a>
+</p>
+<p></p>
 <p><strong>2018</strong>
 </p>
 <p>📌 <a href="https://www.regentsec.moe.edu.sg/2018-olj/" rel="noopener nofollow" target="_blank">2018 Overseas Learning Journey</a>
@@ -102,4 +108,5 @@ school in China!</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
