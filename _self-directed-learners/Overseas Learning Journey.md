@@ -13,7 +13,11 @@ description: ""
 <summary><strong>2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/secondary-3-cultural-immersion-trip-to-ho-chi-minh-city/" rel="noopener nofollow" target="_blank">Secondary 3 Cultural Immersion Trip to Ho Chi Minh City</a>
+</p>
 <p>📌 <a href="/secondary-2-cultural-immersion-programme-to-johore-and-malacca/" rel="noopener nofollow" target="_blank">Secondary 2 Cultural Immersion Programme to Johore and Malacca</a>
+</p>
+<p>📌 <a href="/overseas-cultural-immersion-trip-to-surabaya/" rel="noopener nofollow" target="_blank">Overseas Cultural Immersion Trip to Surabaya</a>
 </p>
 </div>
 </details>
