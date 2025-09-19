@@ -107,4 +107,31 @@ Asta 3-6</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_ChiangMaiDay4.jpg">
 </div>
+<h4><strong>Surabaya, Indonesia</strong><br>5-9 November 2018</h4>
+<p><strong>Day 1: Visiting Submarine Museum, Places of Historical and Religious significance</strong>
+</p>
+<p>“I was very intrigued by the beauty of the temple which was built next
+to the sea. The view was simply spectacular. I also had the chance to learn
+about the history and significance of a Chinese temple in an Indonesian
+community.” – Raine Ng 3-7</p>
+<p><strong>Day 2: School Visit to SMA Petra 1</strong>
+</p>
+<p>“During the school visit, I made many new friends. I had the opportunity
+to learn the Indonesian mass dance and baking too. Perhaps when I return
+to Singapore I can bake Indonesian cookies for my family and friends.”–
+Syed Rusydi 3-6</p>
+<p><strong>Day 3: School Visit to SMK Negeri Surabaya, Catholic Vocational High School Mater Amabilis</strong>
+</p>
+<p>“I felt very excited when we were given the challenge to do batik painting
+and fishing. We also had the opportunity to showcase our talent in cooking
+and present our dishes. Cooking with my team members was fun and it helped
+to build my self-confidence too.” – Ying Teng 3-8</p>
+<p><strong>Day 4: Activities at Pandaan International Cultural Centre (PICC)</strong>
+</p>
+<p>“I enjoyed the trip to Pandaan International Cultural Centre because we
+had the chance to carry out activities that we normally don’t get to do
+in Singapore, like paddy harvesting. I had a memorable experience at PICC
+and was really mesmerized by the beautiful landscape that surrounded the
+centre.” – Johazrai, 3-7</p>
+<p></p>
 <p></p>
