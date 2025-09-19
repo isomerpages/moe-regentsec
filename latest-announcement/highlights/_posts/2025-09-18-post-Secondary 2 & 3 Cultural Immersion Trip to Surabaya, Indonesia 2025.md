@@ -7,7 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2025/OLJ2025_Surabaya_1.jpg">
+</div>
 <p>From 3 to 6 June 2025, our Secondary 2 and 3 students travelled to Surabaya,
 Indonesia’s second-largest city, for a 4-day, 3-night cultural and immersion
 programme.</p>
@@ -17,11 +19,20 @@ they learnt about Indonesia’s fight for independence from the Dutch. Visits
 to the Cheng Ho Mosque, the Blue Mosque, and Hong Tiek Hian Temple also
 gave them a deeper understanding of Surabaya’s cultural and religious diversity,
 as well as Indonesia’s multicultural heritage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2025/OLJ2025_Surabaya_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2025/OLJ2025_Surabaya_3.jpg">
+</div>
 <p>The warm welcome from our partner school, SMPK St Vincentius, made the
 trip even more special. The school had planned a meaningful programme that
 gave our students insights into Indonesian and East Javanese traditions.
 They took part in activities such as the Remo Traditional Dance, learning
 to play the Angklung, and making the traditional food, <em>tempe</em>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2025/OLJ2025_Surabaya_5.jpg">
+</div>
 <p>Another highlight was a visit to a local orphanage. Here, our students
 put into practice what they had learnt in the Community Youth Leadership
 Programme. They organised fun activities such as board games and keychain-making
@@ -31,3 +42,7 @@ impact.</p>
 of Indonesian culture. More importantly, they learnt the value of being
 active contributors and changemakers—lessons that will stay with them beyond
 the trip.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2025/OLJ2025_Surabaya_4.jpg">
+</div>
+<p></p>
