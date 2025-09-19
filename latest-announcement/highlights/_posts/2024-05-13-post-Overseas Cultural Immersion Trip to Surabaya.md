@@ -63,6 +63,12 @@ children in Surabaya to be a positive influence and agent of change.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_10.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas Learning Journey/OLJ 2024/OLJ2024_Surabaya_12.jpg">
+</div>
 <p>Through the varied activities during the trip, our students immersed themselves
 and gained a deeper understanding and appreciation for the Indonesian culture.
 Most importantly, they learnt what it means to be a student agent and changemaker
