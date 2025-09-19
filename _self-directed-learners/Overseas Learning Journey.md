@@ -22,8 +22,10 @@ description: ""
 <p>📌 <a href="/overseas-cultural-immersion-trip-to-surabaya/" rel="noopener nofollow" target="_blank">Overseas Cultural Immersion Trip to Surabaya</a>
 </p>
 <p></p>
-<p>2022</p>
-<p>📌</p>
+<p><strong>2022</strong>
+</p>
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/visit-by-delegates-from-the-embassy-of-the-people-s-republic-of-china/" rel="noopener nofollow" target="_blank">Visit by Delegates from the Embassy of the People’s Republic of China</a>
+</p>
 <p></p>
 <p><strong>2019</strong>
 </p>
