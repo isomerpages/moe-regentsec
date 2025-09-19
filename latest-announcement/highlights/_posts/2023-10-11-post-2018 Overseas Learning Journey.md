@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>Xiamen, China</strong><br>5-9 November 2018</h3>
+<h4><strong>Xiamen, China</strong><br>5-9 November 2018</h4>
 <p>The learning journey to Xiamen allowed our students to work together and
 interact with youths from a different country. Not only did they get to
 experience the lifestyle of the Chinese in Xiamen, they also appreciated
@@ -40,5 +40,39 @@ Yi Ting 3-6</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_XiamenDay4.jpg">
 </div>
+<h3><strong>Kunming, China</strong><br>11-15 November 2018</h3>
+<p>Our students were fascinated by the richness and vibrancy of the cultures
+in Kunming. This learning journey provided great opportunities to our students
+to learn from and work with youths from a diverse culture. The experience
+definitely helped them to grow in confidence and independence.</p>
+<p><strong>Day 1: Visiting Daguan Park, West Hill Scenic Spot</strong>
+</p>
+<p><em>“I enjoyed taking the sky lift and watching the spectacular view from high above. I was very nervous initially but managed to overcome my fear of heights. Truly, no venture no gain.”</em> –
+Cervone, 3-8</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_KunmingDay1.jpg">
+</div>
+<p><strong>Day 2: School Visit To Kunming Xishan Experimental Middle School</strong>
+</p>
+<p><em>“My most memorable experience was our interaction with the Kunming students. They told many interesting stories about the school to us. In fact, they share the same school values of Respect, Empathy, Determination and Integrity, just like our school.”</em> –
+Anders 3-8</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_KunmingDay2.jpg">
+</div>
+<p><strong>Day 3: Visiting Jiuxiang Karst Caves, Shilin (Stone Forest)</strong>
+</p>
+<p><em>“The most interesting activity would be the visit to the Caves and Stone Forest. They were an eye-opener and we were definitely awed by the imposing structures. We were able to see that natural phenomenon of rock formations from millions of years ago. Learning from books and internet can never compare to the rich and authentic learning that we were lucky enough to experience!”</em> –
+Keagan 3-5 and Ron Jin 3-8</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_KunmingDay3.jpg">
+</div>
+<p><strong>Day 4: Visiting Yunnan Provincial Museum, Nationalities Village</strong>
+</p>
+<p><em>“Learning about the different Yunnan minorities and their unique traditions really amazed me. Diverse groups of people have all been living in harmony for ages despite their cultural differences. This reminded me very much of Singapore as it is similar to the way we seek to understand and live as one big community regardless of race, language or religion. ” </em>–
+Shannon 3-5</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Learning%20Journey/OLJ%202018/OLJ2018_KunmingDay4.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
