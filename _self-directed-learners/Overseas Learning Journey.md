@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4>2025</h4>
-<hr>
-<p></p>
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/secondary-2-3-cultural-immersion-trip-to-surabaya-indonesia-2025/" rel="noopener nofollow" target="_blank">Secondary 2 &amp; 3 Cultural Immersion Trip to Surabaya, Indonesia 2025</a>
+</p>
 <h4>Past Overseas Learning Journey</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
