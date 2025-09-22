@@ -75,6 +75,7 @@ congratulations to our Regenites!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Achievements/CCAAchievement2025_17_Hijrah_Walk.jpg">
 </div>
+<p></p>
 <h4>Past CCA Achievements</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
