@@ -21,19 +21,19 @@ hands-on art making in the classroom.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_1-ART.jpg">
 </div>
 <h3><strong>Active Student Participation in Principles of Accounts and Mathematics</strong></h3>
-<p>Classpoint and Nearpod are some of the tools that are regularly used in
-our Principles of Accounts lessons to better engage students and monitor
+<p>Classpoint and Google Suite are some of the ICT tools that are incorporated
+in our Principles of Accounts lessons to better engage students and monitor
 their learning. The real-time feedback that students receive through these
 online check-in quizzes allows students to assess their own learning gaps
-in a timely and personalised manner. Our teachers have also used Google
-Forms to create Escape Rooms—an enjoyable mode of hands-on assessment for
-students to apply what they have learnt. Likewise, in Mathematics, our
-Secondary Three students learnt to measure the diameter of a chord through
-an exciting inquiry-based project. They used their PLDs to watch an explanatory
-video on the concept online and worked in groups to apply their learning
-using GeoGebra and other hands-on materials. Students also learn to use
-flowcharts as an effective way to visualize and apply computational thinking
-concepts, helping students understand the steps involved in solving mathematical
+in a timely and personalised manner. In particular, the Google Forms to
+create Escape Rooms—an enjoyable mode of hands-on assessment for students
+to apply what they have learnt. Likewise, in Mathematics, our Secondary
+Three students learnt to measure the diameter of a chord through an exciting
+inquiry-based project. They used their PLDs to watch an explanatory video
+on the concept online and worked in groups to apply their learning using
+GeoGebra and other hands-on materials. Students also learn to use flowcharts
+as an effective way to visualize and apply computational thinking concepts,
+helping students understand the steps involved in solving mathematical
 problems.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_2-POA.jpg">
