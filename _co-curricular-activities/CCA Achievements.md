@@ -4,7 +4,9 @@ permalink: /co-curricular-activities/cca-achievements/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3><strong>CCA Accolades &amp; Achievements 2025</strong></h3>
+<p>We celebrated the accolades and achievements of our CCAs for 2025. A big
+congratulations to our Regenites!</p>
 <p></p>
 <h4>Past CCA Achievements</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
