@@ -39,19 +39,7 @@ partner with CCAs and organisations to further effect a positive environmental
 impact in our school and community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_5.jpg">
 </div>
 <h4>Club Activities</h4>
 <ul data-tight="true" class="tight">
@@ -89,9 +77,6 @@ reducing food wastage)</p>
 <p>Limbang PassionArts 2024</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_6.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_7.jpg">
 </div>
