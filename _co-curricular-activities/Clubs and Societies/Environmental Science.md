@@ -10,7 +10,8 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Ms Karen Lee Chai Lin - IC
-<br>Mdm Zainab Banu Binte Hassan</p>
+<br>Mdm Zainab Banu Binte Hassan
+<br>Ms Sally Hong</p>
 <h4>Vision</h4>
 <p>Everyone in the community is an environment advocate</p>
 <h4>Mission</h4>
@@ -23,7 +24,7 @@ every member to be creative and innovative green leaders.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI_CCA2024.png">
 </div>
 <p></p>
-<p>We achieved the <strong>Yellow Flame Award</strong>&nbsp;at the School
+<p>We achieved the&nbsp;<strong>Yellow Flame Award</strong>&nbsp;at the School
 Green Awards 2024. Guided by our mission to equip all students and staff
 to become responsible advocates of the environment, Regent's environmental
 programmes seek to promote good environmental habits and involve the wider
@@ -34,8 +35,8 @@ conserving resources.</p>
 effort to turn used items into new products, including tote bags, paper
 bags, plastic zipper containers and small gift box. Ongoing recycling and
 energy-saving efforts have also helped us become a greener school. We also
-seek to partner with CCAs and organisations to further effect a positive
-environmental impact in our school and community.</p>
+partner with CCAs and organisations to further effect a positive environmental
+impact in our school and community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_1.jpg">
@@ -79,11 +80,7 @@ level (e.g. water and energy conservation, e-waste recycling, public health,
 reducing food wastage)</p>
 </li>
 <li>
-<p>Sustainability Advocacy Challenge (SAC) 2024 Advocacy Module&nbsp;(Sec
-3)</p>
-</li>
-<li>
-<p>Training of Environment Champions to be advocates in each class</p>
+<p>Sustainability Advocacy Challenge (SAC) 2025</p>
 </li>
 <li>
 <p>Reduce@Northwest</p>
