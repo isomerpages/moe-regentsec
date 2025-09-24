@@ -25,22 +25,22 @@ ENvironment) Advocates and changemakers in resource sustainability.</p>
 </p>
 <p>Students will learn about the global challenges associated with resource
 scarcity and responsible consumption and management of food and water resources
-through the various subject syllabi in Geography, Science and Nutrition
-&amp; Food Science.</p>
+through the various subject syllabi in English, Geography, Science, Mathematics
+and Nutrition &amp; Food Science.</p>
 <p>Students will also be engaged in group projects and meaningful conversations
 through participating in Inter-disciplinary Learning Journeys, e.g. to
-Marina Barrage, Science Centre, Smart Nation CityScape, etc., to gain deeper
-and broadened understanding of ‘Go Green SG’ and Singapore’s efforts towards
-water sustainability</p>
+Marina Barrage, Gardens by the Bay, etc., to gain deeper and broadened
+understanding of ‘Go Green SG’ and Singapore’s efforts towards water and
+energy sustainability.</p>
 <p><strong>(B) Learning by Doing and Applying through Culture, Community and within Campus</strong>
 </p>
 <p>Students will be able to apply what they have learnt through the Student-Initiated
 Learning project (during HBL) to promote sustainability efforts, Cohort-wide
 VIA which involves school collaborations with various community partners
-and CCA-based projects such as Edible Garden, Indoor Spice Garden, etc.
-These platforms and opportunities enable students to showcase applications
-of learning, advocate behaviour or explore new solutions to reduce environmental
-sustainability issues.</p>
+and CCA-based projects such as Let's be G.R.E.EN, etc. These platforms
+and opportunities enable students to showcase applications of learning,
+advocate behaviour or explore new solutions to reduce environmental sustainability
+issues.</p>
 <p><strong>(C) Learning for Life and Advocating for causes in Community</strong>
 </p>
 <p>Partnership and linkages with various community sectors and relevant industries
@@ -50,13 +50,9 @@ school.</p>
 <p><strong>(D) Environment Champions and Eco-Stewardship</strong>
 </p>
 <p>Students will be given opportunities to attend and participate in external
-forums organised by North West CDC, Nature Society, etc. With their beyond
-the school exposure and enhanced Awareness, they will also take lead to
-Amplify conservation efforts for the four environmental commemorative days,
-i.e. Earth Day, Water Day, Environment Day and ASEAN Dengue Day. There
-could also be overseas trips for students to deepen their acquisition of
-21CC and for authentic learning of how countries in Southeast Asia embrace
-green technology and adopt clean energy.</p>
+forums and competitions. With their beyond the school exposure and enhanced
+Awareness, they will also take lead to Amplify conservation efforts during
+Let's R.O.W!, Let's R.A.C.E! and Let's be G.R.E.EN!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-2.jpg">
 </div>

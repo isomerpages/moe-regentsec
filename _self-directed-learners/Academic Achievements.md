@@ -4,8 +4,14 @@ permalink: /self-directed-learners/academic-achievements/
 description: ""
 variant: tiptap
 ---
-<p>Congratulations to our 2024 'N' Level Examinations Top Performers!</p>
+<p><em>Congratulations to our 2024 'O' Level Examinations Top Performers!</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Achievements/2024_O_Level_Top_Performers.jpg">
+</div>
 <p></p>
+<p><em>Congratulations to our 2024 'N' Level Examinations Top Performers!</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_16_at_14_51_03__1_.jpg">
 </div>
@@ -13,7 +19,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_16_at_14_51_03.jpg">
 </div>
-<p></p>
 <h4>Past Academic Achievements</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

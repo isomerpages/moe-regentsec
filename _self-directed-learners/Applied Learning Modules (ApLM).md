@@ -45,9 +45,15 @@ of purpose and motivation to acquire knowledge and skills of the subject.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2024_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2024_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2025_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2024_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2025_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2025_6.jpg">
 </div>
 <p></p>
