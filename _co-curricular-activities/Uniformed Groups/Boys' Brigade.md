@@ -301,21 +301,27 @@ February</p>
 <h4>Past Activities</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Activities in 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4V3gsTP9hMVhwCXe5vNgtv-Jg7vuefHuQwSORzk6mETwxWTWSnzldOP1mZuk5EOLdvOU7dcCQPjuL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Activities in 2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="369" width="510" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN1wwfqC8Pa05pXlitoweBfAzQpFc_1FJiU3PDUjFOZrEeQyvdP0VuVo1h0sXCErLLPM4oMGy5_-XA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>National Day Parade 2022</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>📹 Watch <strong><a href="https://youtu.be/sTGLww9N8WE" rel="noopener nofollow" target="_blank">BB at National Day Parade 2022</a></strong>
 </p>
 </div>
