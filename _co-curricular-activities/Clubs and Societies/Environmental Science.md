@@ -31,13 +31,21 @@ programmes seek to promote good environmental habits and involve the wider
 community in environmental efforts. Our school’s project focused on upcycling
 as a way to "be the change" in working towards sustainable living through
 conserving resources.</p>
-<p>Our students from the Environmental Sciences Club led the school-wide
-effort to turn used items into new products, including tote bags, paper
-bags, plastic zipper containers and small gift box. Ongoing recycling and
-energy-saving efforts have also helped us become a greener school. We also
-partner with CCAs and organisations to further effect a positive environmental
-impact in our school and community.</p>
-<p></p>
+<p>Our students from the Environmental Science Club led the school-wide effort
+to turn used items into new products, including tote bags, paper bags,
+plastic zipper containers and small gift box. Ongoing recycling and energy-saving
+efforts have also helped us become a greener school. We also partner with
+CCAs and organisations to further effect a positive environmental impact
+in our school and community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVISCI2026_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVISCI2026_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVISCI2026_3.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_3.jpg">
 </div>
