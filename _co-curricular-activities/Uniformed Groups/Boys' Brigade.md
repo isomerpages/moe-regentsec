@@ -41,7 +41,7 @@ to be remembered by posterity, I should like it to be as the man who taught
 people to spell Boy with a capital B.”</p>
 <p>Thus the Boys’ Brigade at Regent believe in First for Boys! So every Boy
 is spelt with a capital “B”.</p>
-<h4>Highlights and Achievements in 2024</h4>
+<h4>Highlights and Achievements in 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
