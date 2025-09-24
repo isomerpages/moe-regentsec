@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BBBanner%20-%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BBBanner___2026.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Ms Sng Seok Hwa Sally - IC
