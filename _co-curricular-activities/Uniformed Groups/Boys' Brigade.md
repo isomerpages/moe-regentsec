@@ -31,7 +31,7 @@ variant: tiptap
 <h4>Mission</h4>
 <p>To Nurture Boys to Lead and Serve</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB_Celebrating_Teachers_Day_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB_91st_Company.jpg">
 </div>
 <p>The Boys’ Brigade is the world’s first uniformed organisation for youth.
 The impact of The Boys’ Brigade led to the establishment of other uniformed
@@ -61,7 +61,7 @@ is spelt with a capital “B”.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JM Fraser Unit Award – High Distinction</p>
+<p>JM Fraser Unit Award – Distinction</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ is spelt with a capital “B”.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cycling @ East Coast Park 24th Feb</p>
+<p>Cycling @ East Coast Park -&nbsp;8 February</p>
 </td>
 </tr>
 <tr>
@@ -85,8 +85,8 @@ is spelt with a capital “B”.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recruits &amp; Leadership Development Overnight Camps from 1st to 2nd
-March</p>
+<p>Recruits &amp; Leadership Development Overnight Camps from 22nd to 23rd
+February</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ March</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Blaze Competition – Gold Honour Roll and Champion for the Open Category</p>
+<p>BB Blaze Competition – Gold Honour Roll&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,8 @@ March</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Enrolment and Dedication Ceremony with 150 parents and BPGC Members support</p>
+<p>Enrolment and Dedication Ceremony with 150 parents and BPGC Members support
+- 15 March</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +111,7 @@ March</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents' Day Collaboration with PSG and other CCA - 4th May</p>
+<p>Parents' Day Collaboration with PSG and other CCA - 17th&nbsp;May</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +119,7 @@ March</p>
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Fun Camp at BB/GB Campsite - 24 to 26th May</p>
+<p>BB Fun Camp at BB/GB Campsite - 23rd to 25th May</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +135,7 @@ March</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Cares @ St Luke’s Eldercare Keat Hong on 23rd Aug and 3rd Sep</p>
+<p>BB Cares @ BB 95th Anniversary Carnival&nbsp;on 23rd August</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +143,7 @@ March</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Character Quest on 31st Aug - Bronze Honour Roll</p>
+<p>BB Night Expedition on 24th October</p>
 </td>
 </tr>
 <tr>
@@ -150,27 +151,13 @@ March</p>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kayaking Star 1 on 19th &amp; 20th Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BB Expedition on 25th Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BB Awards and Promotion Ceremony on 16th Nov</p>
+<p>BB Awards and Promotion Ceremony on 8th November&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <h4>Photos</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2024_1.jpg">
