@@ -180,7 +180,9 @@ Boy Tan Hao Yang serving as Awards Orderly</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2025_2.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys Brigade/BB2025_3.jpg">
+</div>
 <p></p>
 <p></p>
 <hr>
