@@ -25,6 +25,14 @@ Games ‘B’ and ‘C’ Division Basketball Championships, and tournaments lik
 the ActiveSG Cup and PESTA SUKAN 3 x 3 Basketball Competition.</p>
 <p>Our athletes also learn to organise and officiate during friendly competitions
 during the end-of-year school holidays.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2025_B_Division.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2025_C_Division.jpg">
+</div>
+<p></p>
 <h4>Values-in-Action</h4>
 <p>Our Basketball CCA seeks to nurture a team of athletes with a heart to
 serve. Every year, our athletes plan and organise projects to serve the
@@ -34,6 +42,19 @@ like The Girls’ Brigade and Lions Befrienders for our VIA projects.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2025_1.jpg">
 </div>
 <h4>Our Achievements</h4>
+<p><strong>2025</strong>
+</p>
+<p>Our U-16 Boys teams emerged Champions and Runners-up after an All-Regent
+Final of the Bartley 3x3 Basketball Friendship Cup.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2026_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2026_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2026_3.jpg">
+</div>
 <p><strong>2023</strong>
 </p>
 <p>Our B-Division Boys team placed 4th in the Yio Chu Kang Secondary School
