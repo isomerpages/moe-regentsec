@@ -23,12 +23,6 @@ on and off the court.</p>
 <p>Training is conducted twice a week in preparation for the National School
 Games ‘B’ and ‘C’ Division Basketball Championships, and tournaments like
 the ActiveSG Cup and PESTA SUKAN 3 x 3 Basketball Competition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024_C_Division.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024_B_Division.jpg">
-</div>
 <p>Our athletes also learn to organise and officiate during friendly competitions
 during the end-of-year school holidays.</p>
 <h4>Values-in-Action</h4>
@@ -52,9 +46,9 @@ U-17 Invitational Cup 2023.</p>
 <p>Our B-Division Boys team placed 4th in the National School Games West
 Zone Basketball Championships 2022.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/NSG_2022_B_Division_Basketball_4th.jpg">
 </div>
-<p></p>
+<h4>Photos</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2025_2.jpg">
 </div>
@@ -78,10 +72,21 @@ Zone Basketball Championships 2022.</p>
 <summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>2024</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024_C_Division.jpg">
+</div>
+<p><em>National School Games 2024 C-Division Team</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024_B_Division.jpg">
+</div>
+<p><em>National School Games 2024 B-Division Team</em>
+</p>
 <p></p>
-<p></p>
-<p></p>
-<h4>National School Games 2023</h4>
+<p><strong>2023</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-1.png">
 </div>
@@ -93,7 +98,6 @@ Zone Basketball Championships 2022.</p>
 </div>
 <p><em>National School Games 2023 C-Division Team</em>
 </p>
-<p></p>
 </div>
 </details>
 </div>
