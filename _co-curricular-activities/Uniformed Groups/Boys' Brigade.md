@@ -127,7 +127,7 @@ February</p>
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Parade @Padang - 3 Boys selected from 91st Coy</p>
+<p>BB Founders' Award on 28 June - See Jun Xiang, Bosco Teo and Josiah Eang</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,8 @@ February</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Cares @ BB 95th Anniversary Carnival&nbsp;on 23rd August</p>
+<p>Primer Andric Goh received the President's Award on 23 July, with Best
+Boy Tan Hao Yang serving as Awards Orderly</p>
 </td>
 </tr>
 <tr>
@@ -143,12 +144,28 @@ February</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BB Night Expedition on 24th October</p>
+<p>National Day Parade @Padang - 3 Boys selected from 91st Coy</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Cares @ BB 95th Anniversary Carnival&nbsp;on 23rd August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Night Expedition on 24th October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BB Awards and Promotion Ceremony on 8th November&nbsp;</p>
