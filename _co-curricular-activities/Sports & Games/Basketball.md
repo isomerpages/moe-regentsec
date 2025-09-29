@@ -10,8 +10,8 @@ variant: tiptap
 </div>
 <h4>Teacher-in-charge</h4>
 <p>Mr Michael Kwok - IC
-<br>Mr Tan Kai Yik
-<br>Mr Zulkiflie Abdul Razak</p>
+<br>Mr Zulkiflie Abdul Razak
+<br>Mr Tan Kai Yik</p>
 <h4>Vision</h4>
 <p>Every student-athlete a dedicated sportsperson and competent leader.</p>
 <h4>Mission</h4>
@@ -71,11 +71,16 @@ Zone Basketball Championships 2022.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2025_6.jpg">
 </div>
 <p></p>
+<p><strong>Past Activities &amp; Highlights</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Past Activities &amp; Highlights</strong>
+<summary><strong>More</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p></p>
 <h4>National School Games 2023</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/BBALL2024-1.png">
