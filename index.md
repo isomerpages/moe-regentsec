@@ -15,24 +15,6 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
-  - infopic:
-      title: Singapore Book of Records
-      subtitle: Highlights
-      id: infopic
-      description: Regent Secondary Sets Record for Collaborative Storybook Project
-      button: Read more about it here
-      url: /singapore-book-of-records/
-      image: /images/InfoPic Widget/InfoPic_SG_Book_of_Records_2025.png
-      alt: Image alt text
-  - infopic:
-      title: Mirror That Echoes
-      subtitle: School Publication
-      id: infopic
-      description: A Literary Production by the students of Regent Sec School
-      button: Click here to view the E-book
-      alt: Image alt text
-      url: /school-publication/
-      image: /images/InfoPic Widget/InfoPic_School_Publication.png
   - announcements:
       title: Announcements & Highlights
       id: announcements
@@ -77,6 +59,42 @@ sections:
           link_text: Read more about it here
           link_url: /sec-3-moe-obs-camp/
   - infopic:
+      title: 2024 School Programme
+      subtitle: Video Collection
+      id: infopic
+      description: Playlist of Regent's video highlights
+      button: Click here to watch the video
+      url: https://youtube.com/playlist?list=PLuMohdsjKgMxEt7oEJ3AJv3QdFJlNwxqA&si=oNn09CmJt_QveLe7
+      image: /images/InfoPic Widget/InfoPic_VideoCollection.jpg
+      alt: Image alt text
+  - infopic:
+      title: Echoes of Regent
+      subtitle: School Publication
+      id: infopic
+      description: 2024 E-Newsletter
+      button: Click here to view newsletter
+      url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
+      image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Singapore Book of Records
+      subtitle: Highlights
+      id: infopic
+      description: Regent Secondary Sets Record for Collaborative Storybook Project
+      button: Read more about it here
+      url: /singapore-book-of-records/
+      image: /images/InfoPic Widget/InfoPic_SG_Book_of_Records_2025.png
+      alt: Image alt text
+  - infopic:
+      title: Mirror That Echoes
+      subtitle: School Publication
+      id: infopic
+      description: A Literary Production by the students of Regent Sec School
+      button: Click here to view the E-book
+      alt: Image alt text
+      url: /school-publication/
+      image: /images/InfoPic Widget/InfoPic_School_Publication.png
+  - infopic:
       title: Regent Celebrates SG60
       subtitle: Highlights
       id: infopic
@@ -101,22 +119,4 @@ sections:
       description: DSA-Sec
       button: Find out more here
       url: /direct-school-admission/
-  - infopic:
-      title: 2024 School Programme
-      subtitle: Video Collection
-      id: infopic
-      description: Playlist of Regent's video highlights
-      button: Click here to watch the video
-      url: https://youtube.com/playlist?list=PLuMohdsjKgMxEt7oEJ3AJv3QdFJlNwxqA&si=oNn09CmJt_QveLe7
-      image: /images/InfoPic Widget/InfoPic_VideoCollection.jpg
-      alt: Image alt text
-  - infopic:
-      title: Echoes of Regent
-      subtitle: School Publication
-      id: infopic
-      description: 2024 E-Newsletter
-      button: Click here to view newsletter
-      url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
-      image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
-      alt: Image alt text
 ---
