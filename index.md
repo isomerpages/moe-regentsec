@@ -15,14 +15,12 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
-  - infopic:
+  - infobar:
       title: School Virtual Tour
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
+      subtitle: E-Open House
+      id: infobar
+      button: Click to explore the virtual tour
       url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
-      alt: Image alt text
   - infopic:
       title: 2025 School Video Highlights
       subtitle: Video Collection
