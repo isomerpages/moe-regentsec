@@ -15,6 +15,32 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
+  - infopic:
+      title: School Virtual Tour
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
+      alt: Image alt text
+  - infopic:
+      title: 2025 School Video Highlights
+      subtitle: Video Collection
+      id: infopic
+      description: Playlist of Regent's video highlights
+      button: Click here to watch the videos
+      url: https://www.youtube.com/playlist?list=PLuMohdsjKgMzOCr54wFs0H6Khsk6bFM7G
+      image: /images/InfoPic Widget/InfoPic_VideoCollection2026.jpg
+      alt: Image alt text
+  - infopic:
+      title: Echoes of Regent
+      subtitle: School Publication
+      id: infopic
+      description: 2025 E-Newsletter
+      button: Click here to view newsletter
+      url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
+      image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements & Highlights
       id: announcements
@@ -58,24 +84,6 @@ sections:
             locations — OBS campuses...
           link_text: Read more about it here
           link_url: /sec-3-moe-obs-camp/
-  - infopic:
-      title: 2024 School Programme
-      subtitle: Video Collection
-      id: infopic
-      description: Playlist of Regent's video highlights
-      button: Click here to watch the video
-      url: https://youtube.com/playlist?list=PLuMohdsjKgMxEt7oEJ3AJv3QdFJlNwxqA&si=oNn09CmJt_QveLe7
-      image: /images/InfoPic Widget/InfoPic_VideoCollection.jpg
-      alt: Image alt text
-  - infopic:
-      title: Echoes of Regent
-      subtitle: School Publication
-      id: infopic
-      description: 2025 E-Newsletter
-      button: Click here to view newsletter
-      url: https://www.regentsec.moe.edu.sg/school-publication/
-      image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
-      alt: Image alt text
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
