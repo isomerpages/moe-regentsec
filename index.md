@@ -33,7 +33,7 @@ sections:
       id: infopic
       description: 2025 E-Newsletter
       button: Click here to view newsletter
-      url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
+      url: /school-publication/
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
   - infopic:
