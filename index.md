@@ -21,15 +21,12 @@ sections:
       id: infobar
       button: Click to explore the virtual tour
       url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
-  - infopic:
-      title: 2025 School Video Highlights
-      subtitle: Video Collection
-      id: infopic
-      description: Playlist of Regent's video highlights
-      button: Click here to watch the videos
-      url: https://www.youtube.com/playlist?list=PLuMohdsjKgMzOCr54wFs0H6Khsk6bFM7G
-      image: /images/InfoPic Widget/InfoPic_VideoCollection2026.jpg
-      alt: Image alt text
+  - infobar:
+      title: 2025 School Programme
+      subtitle: E-Open House
+      id: infobar
+      button: Click here to watch the video
+      url: https://youtu.be/Hqwky6Bsfj8
   - infopic:
       title: Echoes of Regent
       subtitle: School Publication
@@ -38,6 +35,15 @@ sections:
       button: Click here to view newsletter
       url: https://www.scribd.com/document/774948823/Echoes-of-Regent-2024
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2025 School Video Highlights
+      subtitle: Video Collection
+      id: infopic
+      description: Playlist of Regent's video highlights
+      button: Click here to watch the videos
+      url: https://www.youtube.com/playlist?list=PLuMohdsjKgMzOCr54wFs0H6Khsk6bFM7G
+      image: /images/InfoPic Widget/InfoPic_VideoCollection2026.jpg
       alt: Image alt text
   - announcements:
       title: Announcements & Highlights
