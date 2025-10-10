@@ -73,15 +73,6 @@ seeing a bigger world than themselves.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_4.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_15.jpg">
-</div>
 <h4>Activities</h4>
 <p>Here are some activities that our girls are involved in:</p>
 <ul>
@@ -119,14 +110,37 @@ seeing a bigger world than themselves.</p>
 <p>Learning Journeys to Singapore Discovery Centre, Snow City, Museums, etc.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_7.jpg">
+</div>
 <p>Check out our Instagram page for updates (<a href="https://www.instagram.com/girlsbrigade81sg/" rel="noopener nofollow" target="_blank">@girlsbrigade81sg</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/GB-Instagram_QRCode.jpg">
 </div>
+<h4>Past Achievements &amp; Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_3_Header.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_15.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_3.jpg">
 </div>
@@ -178,7 +192,7 @@ seeing a bigger world than themselves.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-10.png">
 </div>
-<hr>
+<p></p>
 <h4>Dr. Low Guat Tin Challenge</h4>
 <p><strong>LGT 2024 - Bronze</strong>
 </p>
@@ -206,9 +220,14 @@ seeing a bigger world than themselves.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/LGT-Trophy.png">
 </div>
-<hr>
+<p></p>
 <h4>Learning New Skills (Sign Language)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/sign-2-1024x683.png">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
