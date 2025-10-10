@@ -16,11 +16,12 @@ variant: tiptap
 <h4>Vision</h4>
 <p>To be expressive and creative speakers with a passion for Drama</p>
 <h4>Mission</h4>
-<p>To create awareness of and spread meaningful ideas through productions</p>
+<p>To create awareness of and spread meaningful ideas through productions.</p>
+<h4>About Us</h4>
 <p>Regent’s English Drama aims to empower students with the skills to become
-expressive and creative speakers with a passion for the arts and drama
-in Singapore. We also strive to mould our students to be able to create
-awareness and spread meaningful ideas through drama productions.</p>
+expressive and creative speakers with a passion for the arts and drama.
+We also strive to mould our students to be able to create awareness and
+spread meaningful ideas through drama productions.</p>
 <h4>Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,6 +46,17 @@ awareness and spread meaningful ideas through drama productions.</p>
 <p>School-based and External Community Performances</p>
 </li>
 </ul>
+<p><strong>2025</strong>
+</p>
+<ul>
+<li>
+<p>Singapore Youth Festival –&nbsp;<strong>Accomplishment</strong>
+</p>
+</li>
+<li>
+<p>Regent25 Video Production</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -54,6 +66,9 @@ awareness and spread meaningful ideas through drama productions.</p>
 </li>
 <li>
 <p>Community Performances</p>
+</li>
+<li>
+<p>Regent Secondary School Awards' Day and National Day&nbsp;</p>
 </li>
 </ul>
 <p><strong>2022</strong>
