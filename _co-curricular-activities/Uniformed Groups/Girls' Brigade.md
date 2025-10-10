@@ -49,9 +49,6 @@ terrarium building, growing their curiosity and mind.&nbsp;</p>
 seeing a bigger world than themselves.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_3_Header.jpg">
-</div>
 <h4>Achievements &amp; Accolades</h4>
 <ul>
 <li>
@@ -70,6 +67,12 @@ seeing a bigger world than themselves.</p>
 <p>Company Silver Award (2023)</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_4.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_1.jpg">
 </div>
@@ -119,6 +122,9 @@ seeing a bigger world than themselves.</p>
 <p>Check out our Instagram page for updates (<a href="https://www.instagram.com/girlsbrigade81sg/" rel="noopener nofollow" target="_blank">@girlsbrigade81sg</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/GB-Instagram_QRCode.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_3_Header.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
