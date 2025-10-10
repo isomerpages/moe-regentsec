@@ -14,11 +14,14 @@ variant: tiptap
 <h4>Mission</h4>
 <p>Developing each girl and officer to her fullest potential by equipping,
 empowering and enabling</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_10.jpg">
+</div>
 <h4>Vision</h4>
 <p>Every Girl a leader</p>
 <p>Every Officer a Servant Leader</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_2_Header.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_2.jpg">
 </div>
 <p>The 81st&nbsp;Girls’ Brigade @ Regent started in 2020 with 6 girls.&nbsp;
 This year, we have an additional 7 girls who joined us. The motto of Girls’
