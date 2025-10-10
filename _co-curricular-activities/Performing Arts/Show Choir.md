@@ -125,13 +125,13 @@ and passion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_6.jpg">
 </div>
 <h4>Videos</h4>
-<p><a href="https://drive.google.com/file/d/1x_zLEgqbWvL9L-Pd95VN8VHiHhGWNfHw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Environmental Song</a>
+<p>📹 <a href="https://drive.google.com/file/d/1x_zLEgqbWvL9L-Pd95VN8VHiHhGWNfHw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Environmental Song</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1oKSsCV3XVWG61Uzy5qGcQ41tONIhzX0L/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Environmental Song - Our World, Our Fight</a>
+<p>📹 <a href="https://drive.google.com/file/d/1oKSsCV3XVWG61Uzy5qGcQ41tONIhzX0L/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Environmental Song - Our World, Our Fight</a>
 </p>
-<p><a href="https://www.youtube.com/watch?v=TQHGlcohczc" rel="noopener noreferrer nofollow" target="_blank">Regent Secondary School | Show Choir Of The Year | B-Dazzled 2024</a>
+<p>📹 <a href="https://www.youtube.com/watch?v=TQHGlcohczc" rel="noopener noreferrer nofollow" target="_blank">Regent Secondary School | Show Choir Of The Year | B-Dazzled 2024</a>
 </p>
-<p><a href="https://www.youtube.com/watch?v=7BPy5JrNjLE" rel="noopener noreferrer nofollow" target="_blank">B-dazzled 2023 - REGENT SECONDARY SCHOOL</a>
+<p>📹 <a href="https://www.youtube.com/watch?v=7BPy5JrNjLE" rel="noopener noreferrer nofollow" target="_blank">B-dazzled 2023 - REGENT SECONDARY SCHOOL</a>
 </p>
 <hr>
 <h4>Past Activities &amp; Highlights</h4>
