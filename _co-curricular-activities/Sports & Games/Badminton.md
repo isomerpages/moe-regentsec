@@ -14,12 +14,12 @@ variant: tiptap
 <br>Ms Grace Tan
 <br>Mr Ng Kian Hong</p>
 <h4>Vision</h4>
-<p>To instill character building through positive competition and to achieve
-excellence in competitions</p>
+<p>To nurture strong character through positive competition and to strive
+for excellence in all badminton endeavours.</p>
 <h4>Mission</h4>
-<p>To promote camaraderie, friendship and the development of fitness and
-health, so that all players may become physically fit, emotionally mature,
-mentally well and morally upright through Badminton as a sport</p>
+<p>To foster camaraderie, friendship, and the development of fitness and
+health — enabling all players to become physically fit, emotionally mature,
+mentally resilient, and morally upright through the sport of badminton.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Badminton%20Formal.jpg">
 </div>
@@ -27,22 +27,21 @@ mentally well and morally upright through Badminton as a sport</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Badminton%20Fun.jpg">
 </div>
-<h4>Highlights</h4>
-<p>Badminton practices are held twice a week at our school’s Indoor Sports
-Hall. Players are taught various badminton techniques by our coach during
-training sessions. In addition, physical training activities are incorporated
-into our sessions. We participated in the ‘B’ and ‘C’ Division (Boys and
-Girls) West Zone National Inter-School Badminton Championships 2020 and
-have gained invaluable insight through this experience. We also have friendly
-matches with other schools to enhance our players’ skills.</p>
-<p>Apart from gaining badminton skills, our members are also introduced to
-other sports such as bowling, rock-climbing and trampoline. Badminton student
-leaders also plan annual overnight camps where the students take charge
-of the entire programme. Our CCA members had been actively involved in
-VIA projects such as the Passion Arts community sing-along session and
-SG50 Small Actions, Big Impact fund-raising activity. We also carry out
-student-initiated VIA projects, hosting badminton mixed doubles tournaments
-for Yew Tee residents, our own students and the Regent Badminton alumni.</p>
+<p>Our weekly badminton trainings are conducted at the school’s Indoor Sports
+Hall, where players receive coaching in a range of badminton techniques
+and participate in physical conditioning sessions.</p>
+<p>Each year, the team takes part in the <strong>National School Games 2025 (‘B’ and ‘C’ Division, Boys and Girls)</strong>,
+gaining valuable experience and sportsmanship from the competition. To
+further hone our players’ skills, we also engage in friendly matches with
+other schools.</p>
+<p>Beyond badminton, our members are exposed to a variety of sports such
+as <strong>bowling, rock climbing, and trampoline</strong>, broadening their
+physical experience and teamwork. Our <strong>Badminton student leaders</strong> take
+the lead in planning the annual day camp, fostering leadership and collaboration.</p>
+<p>In addition, our CCA members actively contribute to the community through <strong>Values in Action (VIA)</strong> projects,
+including <strong>PAssion Arts community sing-along sessions</strong> and <strong>beach clean-ups</strong>.
+We have also initiated our own VIA projects — notably hosting <strong>badminton mixed doubles tournaments</strong> for <strong>Yew Tee residents, Regent students, and alumni</strong>,
+strengthening our ties with the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton-Practice-Ahmad.jpg">
 </div>
