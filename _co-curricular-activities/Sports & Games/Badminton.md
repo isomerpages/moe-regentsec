@@ -21,11 +21,16 @@ for excellence in all badminton endeavours.</p>
 health — enabling all players to become physically fit, emotionally mature,
 mentally resilient, and morally upright through the sport of badminton.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Badminton%20Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Badminton%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_4.jpg">
 </div>
 <p>Our weekly badminton trainings are conducted at the school’s Indoor Sports
 Hall, where players receive coaching in a range of badminton techniques
@@ -43,18 +48,15 @@ including <strong>PAssion Arts community sing-along sessions</strong> and <stron
 We have also initiated our own VIA projects — notably hosting <strong>badminton mixed doubles tournaments</strong> for <strong>Yew Tee residents, Regent students, and alumni</strong>,
 strengthening our ties with the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton-Practice-Ahmad.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_5.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton-Practice-girls.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_6.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Seniors-Farewell-1024x724.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_7.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/SEP-Rock-Climbing-1024x768.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Zonals-B-Girls-1024x768.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_8.jpg">
 </div>
 <p></p>
