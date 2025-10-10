@@ -17,6 +17,12 @@ variant: tiptap
 <p>To be expressive and creative speakers with a passion for Drama</p>
 <h4>Mission</h4>
 <p>To create awareness of and spread meaningful ideas through productions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/English Drama/ELDA2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/English Drama/ELDA2025_2.jpg">
+</div>
 <h4>About Us</h4>
 <p>Regent’s English Drama aims to empower students with the skills to become
 expressive and creative speakers with a passion for the arts and drama.
