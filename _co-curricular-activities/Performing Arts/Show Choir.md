@@ -22,6 +22,7 @@ as passionate advocates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_2.jpg">
 </div>
@@ -37,6 +38,13 @@ the Certificate of Accomplishment and Certificate of Commendation at the <em>Sin
 and 2023), as well as multiple awards at the <em>B-Dazzled Music and Dance Festival</em>.
 As a six-time recipient of the Show Choir of the Year Award, Regent Revolution
 exemplifies dedication, discipline, and a commitment to performance excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_4.jpg">
+</div>
 <p>Under the guidance of our school leaders, dedicated teachers, and professional
 instructors- Mr John Khoo and Mr Joey, members of the Show Choir are provided
 with opportunities to refine their vocal and dance abilities while gaining
@@ -108,6 +116,14 @@ and passion.</p>
 <p>B-dazzled Music &amp; Dance Festival 2023</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_6.jpg">
+</div>
 <h4>Videos</h4>
 <p><a href="https://drive.google.com/file/d/1x_zLEgqbWvL9L-Pd95VN8VHiHhGWNfHw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Environmental Song</a>
 </p>
