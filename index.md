@@ -49,6 +49,15 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Secondary One Cohort Camp 2025
+          date: 13 October 2025
+          announcement: In September this year, our Secondary 1 students embarked on an
+            unforgettable four-day, three-night adventure at the MOE Changi
+            Coast Outdoor Adventure Learning Centre. The camp was designed to
+            challenge their limits, build resilience, and strengthen friendships
+            while having plenty of fun...
+          link_text: Read more about it here
+          link_url: /transformational-leaders/sec-1-basic-leadership-training/
         - title: Secondary 2 & 3 Cultural Immersion Trip to Surabaya, Indonesia 2025
           date: 18 September 2025
           announcement: From 3 to 6 June 2025, our Secondary 2 and 3 students travelled to
@@ -72,13 +81,6 @@ sections:
             located in the heart of Singapore’s civic district.
           link_text: Read more about it here
           link_url: /sec-1g3-regentstorians-acm-visit/
-        - title: Sec 2 National Museum Learning Journey 2025
-          date: 12 August 2025
-          announcement: On 31 July 2025, our Secondary Two students embarked on an
-            enriching museum-based learning journey to Singapore’s oldest
-            museum, the National Museum of Singapore.
-          link_text: Read more about it here
-          link_url: /sec-2-national-museum-learning-journey-2025/
         - title: Sec 3 MOE-OBS Camp
           date: 28 July 2025
           announcement: The MOE-OBS Challenge Programme was conducted from 14 to 18 July.

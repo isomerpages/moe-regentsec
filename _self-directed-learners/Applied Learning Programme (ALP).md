@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Developing GREEN Advocates</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_1.jpg">
+</div>
 <h3><strong>Applied Learning Programme (ALP)</strong></h3>
 <p>The Applied Learning Programme (ALP) helps students connect academic knowledge
 and skills with the real world. ALP is intended to help students appreciate
@@ -32,6 +35,7 @@ through participating in Inter-disciplinary Learning Journeys, e.g. to
 Marina Barrage, Gardens by the Bay, etc., to gain deeper and broadened
 understanding of ‘Go Green SG’ and Singapore’s efforts towards water and
 energy sustainability.</p>
+<p></p>
 <p><strong>(B) Learning by Doing and Applying through Culture, Community and within Campus</strong>
 </p>
 <p>Students will be able to apply what they have learnt through the Student-Initiated
@@ -53,28 +57,31 @@ school.</p>
 forums and competitions. With their beyond the school exposure and enhanced
 Awareness, they will also take lead to Amplify conservation efforts during
 Let's R.O.W!, Let's R.A.C.E! and Let's be G.R.E.EN!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied%20Learning%20Programme/ALPRscsSust2023-3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_1A.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_1B.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2025_4.jpg">
-</div>
 <p>To find out more about our Applied Learning Programmes, visit our website
 at: <a href="http://for.edu.sg/regentsustainability" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/regentsustainability</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_9.jpg">
+</div>
 <p></p>

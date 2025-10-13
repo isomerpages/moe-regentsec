@@ -14,72 +14,70 @@ variant: tiptap
 <h4>Mission</h4>
 <p>Developing each girl and officer to her fullest potential by equipping,
 empowering and enabling</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_10.jpg">
+</div>
 <h4>Vision</h4>
 <p>Every Girl a leader</p>
 <p>Every Officer a Servant Leader</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_2_Header.jpg">
-</div>
-<p>The 81st&nbsp;Girls’ Brigade @ Regent started in 2020 with 6 girls.&nbsp;
-This year, we have an additional 7 girls who joined us. The motto of Girls’
-Brigade is “Every girl a servant leader”. Girls are given the opportunities
-to take on leadership roles and explore their strengths and weaknesses.
-In Girls’ Brigade, we hope to develop girls who are strong in character
+<p>The 81st&nbsp;Girls’ Brigade at Regent Secondary School started in 2020
+with 6 girls.&nbsp; With the newest addition of our Secondary One girls,
+we currently have 18 girls. The company continues to undertake the task
+of developing our girls to be leaders through thoughtful lessons that help
+them explore their strengths and work on their weaknesses.&nbsp;&nbsp;In
+the Girls' Brigade, we hope to develop girls who are strong in character
 and have a willing heart to serve.</p>
-<p>Every Girl in the Explorer’s Programme will:</p>
-<ul data-tight="true" class="tight">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_2.jpg">
+</div>
+<p>Every Girl will experience a holistic- four fold program</p>
+<ul>
 <li>
-<p>Discover the World around around</p>
+<p>Spiritual- Girls will learn via Character Education lessons to better
+themselves and&nbsp;discover more about themselves.</p>
 </li>
 <li>
-<p>Discover their role in the World around them</p>
+<p>Physical- Girls will be exposed to various physical activities such as
+sports and outdoor adventure.&nbsp;</p>
 </li>
 <li>
-<p>Discover the needs of others</p>
+<p>Educational - Girls encounter a myriad&nbsp;of skills from crafting to
+terrarium building, growing their curiosity and mind.&nbsp;</p>
 </li>
 <li>
-<p>Discover themselves</p>
+<p>Social- Girls will have the opportunity to contribute to the society,
+seeing a bigger world than themselves.</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_3_Header.jpg">
-</div>
 <h4>Achievements &amp; Accolades</h4>
-<ul data-tight="true" class="tight">
+<ul>
+<li>
+<p>Pioneer Brigader Brooch 2025 (Angel Lim and Wong Jing Xuan)</p>
+</li>
+<li>
+<p>Drill Competition (2025)</p>
+</li>
+<li>
+<p>Company Silver Award (2024)</p>
+</li>
 <li>
 <p>Dr Low Guat Tin Challenge – Bronze (2024)</p>
 </li>
 <li>
 <p>Company Silver Award (2023)</p>
 </li>
-<li>
-<p>Music Drill Competition – Silver (2023)</p>
-</li>
-<li>
-<p>Company Gold Award (2022)</p>
-</li>
-<li>
-<p>Dr Low Guat Tin Challenge – Silver (2022)</p>
-</li>
-<li>
-<p>Pioneer Brigadier Brooch – SSGT Yuki Khoo (2022)</p>
-</li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_4.jpg">
 </div>
 <h4>Activities</h4>
 <p>Here are some activities that our girls are involved in:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Drill competition / Low Guat Tin Challenge</p>
+<p>Drill competition&nbsp;</p>
 </li>
 <li>
 <p>Leadership Conference &amp; NCO Camp</p>
@@ -100,7 +98,7 @@ and have a willing heart to serve.</p>
 <p>Expedition</p>
 </li>
 <li>
-<p>NE Events &amp; Parades – Total Defense Day, National Day</p>
+<p>NE Events &amp; Parades – Total Defence Day, National Day</p>
 </li>
 <li>
 <p>Enrolment &amp; Dedication Parade, Promotion Parade</p>
@@ -112,11 +110,38 @@ and have a willing heart to serve.</p>
 <p>Learning Journeys to Singapore Discovery Centre, Snow City, Museums, etc.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2025_7.jpg">
+</div>
 <p>Check out our Instagram page for updates (<a href="https://www.instagram.com/girlsbrigade81sg/" rel="noopener nofollow" target="_blank">@girlsbrigade81sg</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/GB-Instagram_QRCode.jpg">
 </div>
+<h4>Past Achievements &amp; Highlights</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>More</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_3_Header.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_15.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls Brigade/GB2024_3.jpg">
 </div>
@@ -168,7 +193,7 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB2023-10.png">
 </div>
-<hr>
+<p></p>
 <h4>Dr. Low Guat Tin Challenge</h4>
 <p><strong>LGT 2024 - Bronze</strong>
 </p>
@@ -196,9 +221,14 @@ and have a willing heart to serve.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/LGT-Trophy.png">
 </div>
-<hr>
+<p></p>
 <h4>Learning New Skills (Sign Language)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/sign-2-1024x683.png">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>

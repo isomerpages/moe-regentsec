@@ -20,32 +20,63 @@ of music and dance.</p>
 <p>Spread knowledge and appreciation of Show Choir to the school and community
 as passionate advocates.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_2A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_2.jpg">
+</div>
+<p>The Regent Revolution Show Choir has established itself as a distinguished
+performing arts group known for its exceptional showmanship and artistic
+excellence. From vibrant themed acts to futuristic robotic showcases, each
+production features a unique twist that surprises and delights. With a
+strong tradition of high-impact and innovative performances, the ensemble
+continually seeks to captivate audiences through creative storytelling
+and dynamic stagecraft.</p>
+<p>The Show Choir has received numerous accolades over the years, including
+the Certificate of Accomplishment and Certificate of Commendation at the <em>Singapore Youth Festival Arts Presentation</em> (2025
+and 2023), as well as multiple awards at the <em>B-Dazzled Music and Dance Festival</em>.
+As a six-time recipient of the Show Choir of the Year Award, Regent Revolution
+exemplifies dedication, discipline, and a commitment to performance excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2024_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_4.jpg">
 </div>
-<p></p>
-<p>Having consistently attained the Best Showmanship Award, Regent Revolution
-Show Choir never fails to mesmerise audiences with our high-impact productions.
-We have dazzled crowds, performed as circus clowns and robots, and we always
-look forward to incorporating an element of surprise and novelty in our
-performances.</p>
-<p>We have won numerous accolades, including the Certificate of Accomplishment
-and Certification of Commendation at the 2021 and 2023 Singapore Youth
-Festival Arts Presentation and numerous awards at the B-Dazzled Music and
-Dance Festival. As a five-time Show Choir of the Year awardee, Regent Revolution
-Show Choir maintains its commitment to delivering show-stopping musical
-performances that seek to delight audiences young and old.</p>
-<p>With the support and guidance of our school leaders, teachers, and professional
-instructors, Mr John Khoo and Ms Valerie, members of the Show Choir can
-look forward to honing their singing and dancing skills and to showcase
-their talents through various platforms.</p>
+<p>Under the guidance of our school leaders, dedicated teachers, and professional
+instructors- Mr John Khoo and Mr Joey, members of the Show Choir are provided
+with opportunities to refine their vocal and dance abilities while gaining
+valuable performance experience across various platforms. The choir continues
+to uphold Regent Secondary School’s pursuit of excellence in the performing
+arts, inspiring students to express themselves with confidence, creativity,
+and passion.</p>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Ceremony</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2025 (Accomplishment)</p>
+</li>
+<li>
+<p>Awards Day Regent25</p>
+</li>
+<li>
+<p>Environment Week @ Regent 2025</p>
+</li>
+<li>
+<p>National Day Celebration @ Regent 2025</p>
+</li>
+<li>
+<p>Limbang National Day Dinner 2025</p>
+</li>
+<li>
+<p>B-dazzled Music &amp; Dance Festival 2025 (upcoming in November 2025)</p>
+</li>
+</ul>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -62,7 +93,7 @@ their talents through various platforms.</p>
 <p>Limbang National Day Dinner 2024</p>
 </li>
 <li>
-<p>B-dazzled Music &amp; Dance Festival 2024 - <strong>Show Choir of the Year, Diamond Award, Best Choreography, Best Vocal &amp; Music Arrangement</strong>
+<p>B-dazzled Music &amp; Dance Festival 2024 -&nbsp;<strong>Show Choir of the Year, Diamond Award, Best Choreography, Best Vocal &amp; Music Arrangement</strong>
 </p>
 </li>
 </ul>
@@ -85,6 +116,23 @@ their talents through various platforms.</p>
 <p>B-dazzled Music &amp; Dance Festival 2023</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_6.jpg">
+</div>
+<h4>Videos</h4>
+<p>📹 <a href="https://drive.google.com/file/d/1x_zLEgqbWvL9L-Pd95VN8VHiHhGWNfHw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Environmental Song</a>
+</p>
+<p>📹 <a href="https://drive.google.com/file/d/1oKSsCV3XVWG61Uzy5qGcQ41tONIhzX0L/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Environmental Song - Our World, Our Fight</a>
+</p>
+<p>📹 <a href="https://www.youtube.com/watch?v=TQHGlcohczc" rel="noopener noreferrer nofollow" target="_blank">Regent Secondary School | Show Choir Of The Year | B-Dazzled 2024</a>
+</p>
+<p>📹 <a href="https://www.youtube.com/watch?v=7BPy5JrNjLE" rel="noopener noreferrer nofollow" target="_blank">B-dazzled 2023 - REGENT SECONDARY SCHOOL</a>
+</p>
 <hr>
 <h4>Past Activities &amp; Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">

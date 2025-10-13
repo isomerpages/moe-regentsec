@@ -22,10 +22,10 @@ of Singapore’s Red Cross Youth.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Red%20Cross%20Formal.jpg">
 </div>
 <h4>About Us</h4>
-<p>At Regent Red Cross Youth, we strive to instil a spirit of compassion
+<p>At Regent red cross youth, we strive to instil a spirit of compassion
 and dedication in our cadets, and to empower them to become confident leaders
 of tomorrow with a strong service ethos.</p>
-<p>Through their four years with the unit, cadets will:</p>
+<p>Through their four years with the unit, cadets will</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Acquire essential life-saving and disaster management skills</p>
@@ -34,8 +34,7 @@ of tomorrow with a strong service ethos.</p>
 <p>Develop key leadership competencies and organisational skills</p>
 </li>
 <li>
-<p>Engage in a wide range of local community service and overseas humanitarian
-projects</p>
+<p>Engage in a wide range of local community services</p>
 </li>
 </ul>
 <h4>Our Achievements</h4>
@@ -58,7 +57,7 @@ projects</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Excellent Unit Award (2018 – 2023) -&nbsp;<strong>Gold</strong>
+<p>Excellent Unit Award (2018 – <strong>2024</strong>) -&nbsp;<strong>Gold</strong>
 </p>
 </td>
 </tr>
@@ -67,7 +66,7 @@ projects</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Aid Championships (2024) - <strong>Gold</strong>
+<p>First Aid Championships (<strong>2025</strong>)<strong> - Bronze</strong>
 </p>
 </td>
 </tr>
@@ -76,7 +75,7 @@ projects</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ambassadors of Blood Donation Competition (2023) -&nbsp;<strong>Gold</strong>
+<p>First Aid Championships (2024) - <strong>Gold</strong>
 </p>
 </td>
 </tr>
@@ -85,7 +84,7 @@ projects</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Disaster Risk Reduction Championships (2023) -&nbsp;<strong>Bronze</strong>
+<p>Ambassadors of Blood Donation Competition (2023) -&nbsp;<strong>Gold</strong>
 </p>
 </td>
 </tr>
@@ -94,7 +93,7 @@ projects</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Aid Championships (2023) - <strong>Gold &amp; Bronze</strong>
+<p>Disaster Risk Reduction Championships (2023) -&nbsp;<strong>Bronze</strong>
 </p>
 </td>
 </tr>
@@ -103,7 +102,7 @@ projects</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ambassadors of Blood Donation Championship (2022) :&nbsp;<strong>Silver &amp; Bronze</strong>
+<p>First Aid Championships (2023) - <strong>Gold &amp; Bronze</strong>
 </p>
 </td>
 </tr>
@@ -112,7 +111,7 @@ projects</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Aid Championships (2022) - <strong>Gold &amp; Commendation Award</strong>
+<p>Ambassadors of Blood Donation Championship (2022) :&nbsp;<strong>Silver &amp; Bronze</strong>
 </p>
 </td>
 </tr>
@@ -121,7 +120,7 @@ projects</p>
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Trailblazers Championships (2022) -&nbsp;<strong>Silver, Bronze, &amp; Commendation Award</strong>
+<p>First Aid Championships (2022) - <strong>Gold &amp; Commendation Award</strong>
 </p>
 </td>
 </tr>
@@ -130,7 +129,7 @@ projects</p>
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ambassadors of Blood Donation Championship (2021) -&nbsp;<strong>Silver &amp; Bronze</strong>
+<p>Trailblazers Championships (2022) -&nbsp;<strong>Silver, Bronze, &amp; Commendation Award</strong>
 </p>
 </td>
 </tr>
@@ -139,7 +138,7 @@ projects</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Disaster Risk Reduction Championships (2021) -&nbsp;<strong>Silver</strong>
+<p>Ambassadors of Blood Donation Championship (2021) -&nbsp;<strong>Silver &amp; Bronze</strong>
 </p>
 </td>
 </tr>
@@ -148,13 +147,22 @@ projects</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Aid Championships (2021) -&nbsp;<strong>Silver</strong>
+<p>Disaster Risk Reduction Championships (2021) -&nbsp;<strong>Silver</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Championships (2021) -&nbsp;<strong>Silver</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>First Aid Championships (2020) -&nbsp;<strong>Silver</strong>
@@ -204,4 +212,5 @@ news and happenings in our unit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-10.jpeg">
 </div>
+<p></p>
 <p></p>
