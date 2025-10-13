@@ -20,8 +20,9 @@ for excellence in all badminton endeavours.</p>
 <p>To foster camaraderie, friendship, and the development of fitness and
 health — enabling all players to become physically fit, emotionally mature,
 mentally resilient, and morally upright through the sport of badminton.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_1A.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/BMT2025_2.jpg">
@@ -35,7 +36,7 @@ mentally resilient, and morally upright through the sport of badminton.</p>
 <p>Our weekly badminton trainings are conducted at the school’s Indoor Sports
 Hall, where players receive coaching in a range of badminton techniques
 and participate in physical conditioning sessions.</p>
-<p>Each year, the team takes part in the <strong>National School Games 2025 (‘B’ and ‘C’ Division, Boys and Girls)</strong>,
+<p>Each year, the team takes part in the <strong>National School Games (‘B’ and ‘C’ Division, Boys and Girls)</strong>,
 gaining valuable experience and sportsmanship from the competition. To
 further hone our players’ skills, we also engage in friendly matches with
 other schools.</p>
