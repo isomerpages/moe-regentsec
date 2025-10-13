@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Developing GREEN Advocates</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_1.jpg">
+</div>
 <h3><strong>Applied Learning Programme (ALP)</strong></h3>
 <p>The Applied Learning Programme (ALP) helps students connect academic knowledge
 and skills with the real world. ALP is intended to help students appreciate
@@ -13,9 +16,6 @@ and to develop stronger motivation and purpose to acquire knowledge and
 skills. ALP is non-examinable and its emphasis is on the application of
 knowledge and thinking skills, stretching the imagination and applying
 these to authentic settings in society and industries.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Programme/ALP2026_1.jpg">
-</div>
 <h3><strong>ALP – Resource Sustainability (from 2024)</strong></h3>
 <p>Increasing effects of climate change, urbanisation and resources depletions
 call for an urgency for all of us and especially for our country which
