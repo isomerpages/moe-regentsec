@@ -150,10 +150,6 @@ CCA, students develop a sense of identity and belonging to the school.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>CCA Highlights</strong></h3>
-<p>📹 Watch <strong><a href="https://youtu.be/_Xcdl-ea4dM" rel="noopener nofollow" target="_blank">CCA Highlights</a></strong>
+<p>📹 Watch <strong><a href="https://youtu.be/2t7OXydAvl8" rel="noopener nofollow" target="_blank">CCAs @ Regent</a></strong>
 </p>
-<p>📹 Watch <strong><a href="https://youtu.be/2qisNvThrmw" rel="noopener nofollow" target="_blank">CCAs of Regent</a></strong>
-</p>
-<p></p>
