@@ -15,6 +15,12 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
+  - infobar:
+      title: E-Open House 2026 Video
+      subtitle: School Programmes
+      id: infobar
+      button: Click here to watch the video
+      url: https://youtu.be/D1XfsUxk9Wc
   - infopic:
       title: Echoes of Regent
       subtitle: School Publication
