@@ -15,18 +15,6 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
-  - infobar:
-      title: School Virtual Tour
-      subtitle: E-Open House
-      id: infobar
-      button: Click to explore the virtual tour
-      url: https://kuula.co/share/collection/7Jn4m?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1
-  - infobar:
-      title: 2025 School Programme
-      subtitle: E-Open House
-      id: infobar
-      button: Click here to watch the video
-      url: https://youtu.be/Hqwky6Bsfj8
   - infopic:
       title: Echoes of Regent
       subtitle: School Publication
