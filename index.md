@@ -21,6 +21,12 @@ sections:
       id: infobar
       button: Click here to watch the video
       url: https://youtu.be/D1XfsUxk9Wc
+  - infobar:
+      title: CCAs at Regent
+      subtitle: E-Open House
+      id: infobar
+      button: Click here to watch the video
+      url: https://youtu.be/2t7OXydAvl8
   - infopic:
       title: Echoes of Regent
       subtitle: School Publication
