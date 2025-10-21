@@ -86,19 +86,19 @@ from 4 November 2024 to 17 December 2024. Refer to the following guides:</p>
 <h4>Booklist</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Regent_Secondary_2025_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (S2)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (S2)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Regent_Secondary_2025_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 (S3)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 (S3)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Regent_Secondary_2025_Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 (S4)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 (S4)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Regent_Secondary_2025_Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 (S5)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 (S5)</a>
 </p>
 </li>
 </ul>
