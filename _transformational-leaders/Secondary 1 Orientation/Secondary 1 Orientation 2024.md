@@ -24,17 +24,3 @@ their spirits and just like the fire that was ignited that night, we hope
 that all the Secondary One Regenites will continue living out our PRIDE
 values and blaze forth to glory as they start their new journey here.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2024_1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2024_2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2024_3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2024_4.jpeg">
-</div>
-<p></p>
-<p></p>
