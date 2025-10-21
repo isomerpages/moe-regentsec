@@ -23,9 +23,6 @@ more social resources.</p>
 peers to create a strong and supporting learning environment in the classrooms
 and beyond!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support Leaders/PSLLdr2024_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support Leaders/PSLLdr2024_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
