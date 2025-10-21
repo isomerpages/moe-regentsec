@@ -42,40 +42,4 @@ Festival, Singapore Junior Water Prize</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment Programmes/EnrichProg_SciLJ2024_2.jpg">
 </div>
-<hr>
-<h2><strong>Conversational Chinese and Malay Language (CCM) Programme</strong></h2>
-<p>Conversational Chinese and Malay Language (CCM) Programme &nbsp;aims to
-strengthen Singapore’s multiracial identity and expose students to a third
-language. &nbsp;Students will have an elementary understanding of a different
-mother tongue language and have the opportunity to explore cultural aspects
-of a particular ethnic group. Being able to communicate with others in
-a different mother tongue language will enable students to expand their
-cultural consciousness beyond their individual ethnic groups. &nbsp;At
-the end of the programme, students will be equipped with basic conversational
-skills to enable them to interact with native speakers confidently.</p>
-<p><strong>Content:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Introduction to basic vocabulary</p>
-</li>
-<li>
-<p>Ways of greetings</p>
-</li>
-<li>
-<p>Reading aloud</p>
-</li>
-<li>
-<p>Basic sentence formation</p>
-</li>
-<li>
-<p>Role-plays</p>
-</li>
-<li>
-<p>Introduction to festivals and culture</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment%20Programmes/EnrichmentProg_5_CCM.jpg">
-</div>
 <p></p>
