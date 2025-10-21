@@ -23,4 +23,21 @@ with a rousing rendition of the school song. The pouring rain did not dampen
 their spirits and just like the fire that was ignited that night, we hope
 that all the Secondary One Regenites will continue living out our PRIDE
 values and blaze forth to glory as they start their new journey here.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_5.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
