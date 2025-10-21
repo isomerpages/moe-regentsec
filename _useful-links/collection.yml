@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Books & Uniforms/.keep
-      - Books & Uniforms/Sales of Books and Uniforms (All Levels).md
+      - Books & Uniforms/Year End Sales of Books and Uniforms (for 2026 Sec 2 to
+        5).md
       - SLS Student Services.md
       - Safety Updates/.keep
       - Safety Updates/School Traffic Control.md
