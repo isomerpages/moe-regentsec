@@ -61,26 +61,20 @@ from 4 November 2024 to 17 December 2024. Refer to the following guides:</p>
     <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
-    <td class="tg-xwyw">18 to 22 November 2024</td>
+    <td class="tg-xwyw">24 to 28 November 2025</td>
     <td rowspan="8" class="tg-gfnm">0900 to 1500 hours</td>
   </tr>
   <tr>
-    <td class="tg-xwyw">25 to 29 November 2024</td>
+    <td class="tg-xwyw">1 to 5 December 2025</td>
   </tr>
 	<tr>
-    <td class="tg-xwyw">02 to 06 December 2024</td>
-  </tr>
-	<tr>
-		<td class="tg-xwyw"><span style="font-weight:bold">SECONDARY 5</span></td>
-  </tr>
-	<tr>
-    <td class="tg-xwyw">23, 26 &amp; 27 December 2024</td>
+    <td class="tg-xwyw">8 to 12 December 2025</td>
   </tr>
 	<tr>
 		<td class="tg-xwyw"><span style="font-weight:bold">ALL LEVELS</span></td>
   </tr>
 	<tr>
-    <td class="tg-xwyw">26 &amp; 27 December 2024</td>
+    <td class="tg-xwyw">23 &amp; 26 December 2025</td>
   </tr>
 </tbody>
 </table>
