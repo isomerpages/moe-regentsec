@@ -25,3 +25,24 @@ with a rousing rendition of the school song. The pouring rain did not dampen
 their spirits and just like the fire that was ignited that night, we hope
 that all the Secondary One Regenites will continue living out our PRIDE
 values and blaze forth to glory as they start their new journey here.</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WnKXoEu9hw8?si=SNT8RE4tZPsYehxu"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.regentsec.moe.edu.sg/images/Sec%201%20Orientation/Sec1Orient2024_1.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.regentsec.moe.edu.sg/images/Sec%201%20Orientation/Sec1Orient2024_2.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.regentsec.moe.edu.sg/images/Sec%201%20Orientation/Sec1Orient2024_3.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.regentsec.moe.edu.sg/images/Sec%201%20Orientation/Sec1Orient2024_4.jpeg">
+</div>
+<p></p>
+<p></p>
+<p><a href="https://www.regentsec.moe.edu.sg/transformational-leaders/sec-1-basic-leadership-training/" class="is-full is-right" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+</p>
+<p></p>
