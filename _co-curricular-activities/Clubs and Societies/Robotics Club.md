@@ -10,40 +10,47 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Mr Mark Chee Kong - IC
-<br>Ms Crystal Tay Yen Yen</p>
+<br>Ms Crystal Tay Yen Yen
+<br>Mr Andy Lee</p>
 <h4>Vision</h4>
-<p>To enrich and develop a group of dedicated individuals who display confidence,
-mental fitness and perseverance in adverse and challenging environments.</p>
+<p>To develop a community of dedicated individuals who demonstrate confidence,
+resilience, and perseverance when faced with challenges.</p>
 <h4>Mission</h4>
-<p>To nurture individuals to maximise their potential in the field of robotics
-and engineering.</p>
-<p>In Robotics, members learn basic and intermediate programming skills to
-control movements of LEGO Mindstorm/Spike. The students also develop an
-appreciation for the automation world.</p>
-<h4>Activities</h4>
+<p>To nurture students to realise their full potential in robotics and engineering
+through hands-on learning and innovation.</p>
+<h4>Overview</h4>
+<p>In Robotics, members learn to design, build, and program robots using
+LEGO Mindstorms and Spike platforms. They also explore drone programming
+and gain a deeper appreciation for automation and technology in everyday
+life.</p>
+<h4>Key Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hands-on skills involving construction of LEGO Mindstorm/Spike Robots.</p>
+<p><strong>Hands-on Robotics:</strong> Building and programming LEGO Mindstorms/Spike
+robots.</p>
 </li>
 <li>
-<p>Hands-on skills on Drone programming (DJI and Parrots).</p>
+<p><strong>Drone Programming:</strong> Learning to operate and code DJI and
+Parrot drones.</p>
 </li>
 <li>
-<p>Participated in FIRST LEGO League Singapore.</p>
+<p><strong>Competitions:</strong> Participation in <strong>FIRST LEGO League Singapore</strong> and <strong>Drone Odyssey</strong> (Singapore
+Science Centre).</p>
 </li>
 <li>
-<p>Participated in Drone Odyssey organised by the Singapore Science Centre</p>
+<p><strong>Community Service:</strong> Engaging residents at <strong>Bukit Batok Home for the Aged</strong> through
+meaningful outreach.</p>
 </li>
 <li>
-<p>Service learning and community involvement at Bukit Batok Home for the
-Aged.</p>
-</li>
-<li>
-<p>Combine camps in collaboration with other clubs and societies.</p>
+<p><strong>Collaborative Camps:</strong> Joint programmes with other clubs
+and societies to strengthen teamwork and creativity.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Robotics%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics Club/ROBOT2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics Club/ROBOT2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics%20Club/ROBOT-1.jpg">

@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Basic Leadership Training
-permalink: /transformational-leaders/sec-1-basic-leadership-training/
+title: Sec 1 Cohort Camp
+permalink: /transformational-leaders/sec-1-cohort-camp/
 description: ""
 variant: tiptap
 ---

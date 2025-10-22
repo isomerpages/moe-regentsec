@@ -86,8 +86,18 @@ them helpful.</p>
 </p>
 <p>3) <a href="/files/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for Talking to your Child on Device Usage</a>
 </p>
+<p>4) <a href="/files/MOE_Level_Up_Parent_Resources_Communciation.pdf" rel="noopener nofollow" target="_blank">MOE Level Up Parent Resources - Communciation</a>
+</p>
+<p>5) <a href="/files/MOE_Level_Up_Parent_Resources_Replacement_Activties.pdf" rel="noopener nofollow" target="_blank">MOE Level Up Parent Resources - Replacement Activties</a>
+</p>
 <p><em>(Links above downloads a PDF document)</em>
 </p>
+<p>You may also access more resources at Regent's Cyber Wellness microsite:
+<a href="https://go.gov.sg/rgtcyberwellness" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/rgtcyberwellness</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/QR_Code_https___go_gov_sg_rgtcyberwellness.png">
+</div>
 <h4>Cyber Wellness Resources by&nbsp;External Agencies</h4>
 <ul data-tight="true" class="tight">
 <li>

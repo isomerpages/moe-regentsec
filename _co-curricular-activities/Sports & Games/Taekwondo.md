@@ -20,11 +20,7 @@ and skill mastery</p>
 Taekwondo Team aspires to develop noble youths who encompass leadership
 qualities as they persevere as a student and a martial artist.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Taekwondo%20Formal.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Taekwondo%20Fun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_1.jpg">
 </div>
 <p>As a team, the members of Regent Taekwondo upholds the culture of respect
 to function and operate. The team participates in the annual National Inter-school
@@ -33,47 +29,38 @@ in both the ‘B’ and ‘C’ Divisions.</p>
 <h4>Key Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Taekwondo Poomsae &amp; Kyorugi Training – Twice a week. (Wednesday &amp;
+<p>Taekwondo Poomsae &amp; Kyorugi Training – Twice a week (Wednesday &amp;
 Friday)</p>
 </li>
 <li>
-<p>In-school Taekwondo Grading – 3 times per year.</p>
+<p>In-school Taekwondo Grading – 3 times per year</p>
 </li>
 <li>
-<p>Annual National Taekwondo Championship.</p>
+<p>Annual National Taekwondo Championship</p>
 </li>
 <li>
-<p>Annual Taekwondo Camp.</p>
+<p>Annual Sports Enrichment Programme (SEP)</p>
+</li>
+<li>
+<p>Annual Values in Action programme(VIA)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_5.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_6.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TKD-7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_7.jpg">
 </div>
 <p></p>

@@ -2,19 +2,15 @@ collections:
   transformational-leaders:
     output: true
     order:
-      - Secondary 1 Orientation/Secondary 1 Orientation 2024.md
+      - Secondary 1 Orientation/Secondary 1 Orientation 2025.md
       - Secondary 1 Orientation/.keep
-      - Sec 1 Basic Leadership Training.md
-      - Sec 2 Advanced Leadership Training.md
+      - Sec 1 Cohort Camp.md
       - Sec 3 Outward Bound Singapore.md
-      - Sec 4 & 5 Purposeful Pursuits/Purposeful Pursuits.md
-      - Sec 4 & 5 Purposeful Pursuits/.keep
-      - Sec 4 & 5 Purposeful Pursuits/Aspirations Day 2022.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Community Youth Leadership.md
+      - Learning for Life Programme/Peer Support Leaders.md
       - CCE/.keep
       - CCE/Aspirations Programme.md
       - CCE/Cyber Wellness Programme.md
       - CCE/Sexuality Education.md
       - CCE/National Education.md
-      - Peer Support Leaders.md
