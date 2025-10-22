@@ -58,7 +58,7 @@ from 4 November 2025 to 20 December 2025. Refer to the following guides:</p>
     <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
   </tr>
   <tr>
-    <td class="tg-xwyw">13 November to 14 December 2025</td>
+    <td class="tg-xwyw">13 to 14 November 2025</td>
     <td rowspan="8" class="tg-gfnm">0900 to 1500 hours</td>
   </tr>
     <tr>
