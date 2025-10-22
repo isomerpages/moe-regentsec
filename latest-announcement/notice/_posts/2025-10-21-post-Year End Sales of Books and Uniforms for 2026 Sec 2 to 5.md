@@ -33,9 +33,62 @@ with delivery is encouraged.</p>
 </ul>
 <p>3. For enquiries, please email to <a href="mailto:regent@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">regent@asencio.com.sg</a>
 </p>
-<p>4. Delivery Charges: $10 for books/ $6 for uniforms</p>
-<p>5. Walk-in purchases and self-collection at school's bookshop (near the
-canteen)</p>
+<p>4. Delivery Charges: $11.99 for textbooks &amp; uniforms / $6.54 for uniforms
+only</p>
+<h4>Walk-in Purchase/Collection in School [Canteen]</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>DATES OF SALES IN SCHOOL</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SECONDARY 2, 3 &amp; 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>OPERATING HOURS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 to 28 November 2025</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>0900 to 1500 hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 to 5 December 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 to 12 December 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ALL LEVELS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 &amp; 26 December 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Booklist</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -56,5 +109,5 @@ canteen)</p>
 </li>
 </ul>
 <h4>Size Chart for Uniforms</h4>
-<p>For sizing chart, please refer to <a href="https://asencio.com.sg/how-to-select-your-size/" rel="noopener nofollow" target="_blank">How to select your size - Asencio</a>
+<p>For sizing chart, please refer to <a href="https://asenciobookshop.sg/how-to-select-your-size/" rel="noopener nofollow" target="_blank">How to select your size - Asencio</a>
 </p>
