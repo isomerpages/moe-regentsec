@@ -96,5 +96,5 @@ from 4 November 2024 to 17 December 2024. Refer to the following guides:</p>
 </li>
 </ul>
 <h4>Size Chart for Uniforms</h4>
-<p>For sizing chart, please refer to <a href="https://asencio.com.sg/how-to-select-your-size/" rel="noopener noreferrer nofollow" target="_blank">How to select your size - Asencio</a>
+<p>For sizing chart, please refer to <a href="https://asenciobookshop.sg/how-to-select-your-size/" rel="noopener noreferrer nofollow" target="_blank">How to select your size - Asencio</a>
 </p>
