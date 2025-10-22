@@ -40,7 +40,7 @@ before start of school. Online orders with delivery is encouraged.</p>
 </p>
 <p>4. Delivery Charges: $11.99 for textbooks &amp; uniforms / $6.54 for uniforms
 only</p>
-<h4>Walk-in Purchase/Collection in School [Canteen]</h4>
+<h4>Walk-in Purchase/Collection in School <br>[Canteen]</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
