@@ -11,7 +11,6 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Ms Li Huilin Lydia - IC
 <br>Ms Sharanjeet Kaur Locham
-<br>Mr Md Ridhwan Bin Mohammad Muzaki
 <br>Mr Low Jun Hua</p>
 <h4>Vision</h4>
 <p>To become the best youth organisation in Singapore, one that actively
