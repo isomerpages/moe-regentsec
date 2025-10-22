@@ -44,7 +44,9 @@ teams effectively. One of the most important prerequisites of a good team
 player is the ability to be an effective communicator. Thus, a key focus
 of the programme is on public speaking and facilitation skills, which will
 better prepare them for group and project work in and beyond the classroom.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_1.jpg">
+</div>
 <p><strong>SEC 3: TEAM LEADERSHIP</strong>
 </p>
 <p>Our Sec 3 students are the ones who will take up the mantle of leadership
@@ -52,7 +54,9 @@ in school, whether in their respective Co-Curricular Activities or in their
 classes. The Sec 3 Leadership Programme focus on providing authentic scenarios
 for students to clarify their leadership styles and decision-making so
 that students will be better able to assume their leadership roles.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_2.jpg">
+</div>
 <p><strong>VALUES IN ACTION (VIA)</strong>
 </p>
 <p>Being a leader is nothing without contribution. Our CYL programmes aim
