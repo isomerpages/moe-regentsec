@@ -11,7 +11,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Ms Li Huilin Lydia - IC
 <br>Ms Sharanjeet Kaur Locham
-<br>Mr Low Jun Hua</p>
+<br>Mr Low Jun Hua
+<br>Ms Grace Tan</p>
 <h4>Vision</h4>
 <p>To become the best youth organisation in Singapore, one that actively
 helps to make Singapore the safest place in the world.</p>
@@ -19,9 +20,6 @@ helps to make Singapore the safest place in the world.</p>
 <p>To develop our members to be active citizens and community leaders, by
 working in partnership with the Singapore Police Force to fight crime and
 keep Singapore safe.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_1.jpg">
-</div>
 <p>In NPCC, we have a wide variety of exciting activities in store for our
 cadets. These include outdoor adventure camps, crime science investigation,
 shooting, campcraft and drills. Through these programmes, we emphasise
