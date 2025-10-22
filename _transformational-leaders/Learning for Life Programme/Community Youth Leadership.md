@@ -146,8 +146,6 @@ lead with courage, empathy, and conviction — living out the Regent spirit
 to serve, to lead and to transform.</p>
 <p></p>
 <p></p>
-<p><a href="https://drive.google.com/drive/u/0/folders/1qnvb1rA4779QZ1MHCaYHBNI743o_jh_X" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/drive/u/0/folders/1qnvb1rA4779QZ1MHCaYHBNI743o_jh_X</a>
-</p>
 <p>Introduction</p>
 <p>Youths are the future leaders and changemakers of society. Guided by the
 school’s mission of nurturing transformational leaders, the Learning for
