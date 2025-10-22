@@ -66,7 +66,15 @@ with VIA platforms and opportunities to take actions to reach out and make
 a difference in the school and community. This is done in a carefully scaffolded
 manner, culminating in student-initiated class VIA projects in Sec 1, Sec
 2 and Sec 3 with the Sec 4 students serving as mentors to them.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_4A.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_4.jpg">
+</div>
 <h4>Tier 2 Leadership – Class Committee</h4>
 <p><strong>CLASS COMMITTEE</strong>
 </p>
@@ -149,4 +157,5 @@ books.</p>
 <p>At the heart of their service, our Student Councillors and CCA Leaders
 lead with courage, empathy, and conviction — living out the Regent spirit
 to serve, to lead and to transform.</p>
+<p></p>
 <p></p>
