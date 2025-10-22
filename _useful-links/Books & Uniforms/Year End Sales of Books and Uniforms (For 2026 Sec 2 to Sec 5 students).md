@@ -12,6 +12,7 @@ third_nav_title: Books & Uniforms
 <br>Singapore 669594
 <br>Tel: 6764 3102
 <br>Online Portal: <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">Homepage - Asencio Bookshop</a>
+<br>Website: <a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Homepage - Asencio</a>
 </p>
 <h4>Instructions from School Uniform &amp; Bookshop Vendor</h4>
 <p>1. To ensure that the correct editions of the books are purchased, parents
