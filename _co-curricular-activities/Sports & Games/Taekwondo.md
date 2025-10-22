@@ -29,14 +29,14 @@ in both the ‘B’ and ‘C’ Divisions.</p>
 <h4>Key Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Taekwondo Poomsae &amp; Kyorugi Training – Twice a week. (Wednesday &amp;
+<p>Taekwondo Poomsae &amp; Kyorugi Training – Twice a week (Wednesday &amp;
 Friday)</p>
 </li>
 <li>
-<p>In-school Taekwondo Grading – 3 times per year.</p>
+<p>In-school Taekwondo Grading – 3 times per year</p>
 </li>
 <li>
-<p>Annual National Taekwondo Championship.</p>
+<p>Annual National Taekwondo Championship</p>
 </li>
 <li>
 <p>Annual Sports Enrichment Programme (SEP)</p>
