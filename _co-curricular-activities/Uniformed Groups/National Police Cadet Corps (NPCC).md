@@ -23,34 +23,36 @@ keep Singapore safe.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_1.jpg">
 </div>
 <p>In NPCC, we have a wide variety of exciting activities in store for our
-cadets! These include outdoor adventure camps, crime science investigation,
-shooting, campcraft and drills! Through these programs, we emphasize a
-lot on character building, instilling values such as discipline, integrity,
-loyalty and tenacity. Not only that! We also develop our cadets to become
+cadets. These include outdoor adventure camps, crime science investigation,
+shooting, campcraft and drills. Through these programmes, we emphasise
+a lot on character building and instilling values such as resilience, integrity,
+service and excellence. In addition, we also develop our cadets to become
 active contributors and citizens to our community, through educating the
-public on what they can do to help fight crime and keep Singapore safe.
-While learning all these, we also made sure our cadets bond with their
-peers through the regular physical trainings and games sessions.</p>
+public on what they can do to help fight crime and keep Singapore safe.</p>
 <h4>Activities</h4>
 <p>Our unit activities include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participation in parade segment of NDP and NPAP</p>
+<p>Participating&nbsp; in the Parade segment of the National Day Parade and
+the National Police Annual Parade</p>
 </li>
 <li>
-<p>Live firing of .22 revolver</p>
+<p>Live firing of .22 revolver (Sec 2 and Sec 3)</p>
 </li>
 <li>
 <p>Cadet Leadership Camp</p>
 </li>
 <li>
-<p>Adventure Training Camp (ATC)</p>
+<p>Unit Camp</p>
 </li>
 <li>
-<p>Community Safety and Security Program</p>
+<p>Adventure Training Camp (ATC) at Pulau Ubin</p>
 </li>
 <li>
-<p>Police Youth Ambassador</p>
+<p>Community Safety and Security Programme</p>
+</li>
+<li>
+<p>Police Youth Ambassador Programme</p>
 </li>
 <li>
 <p>Police Unarmed Tactics Course</p>
@@ -71,38 +73,20 @@ peers through the regular physical trainings and games sessions.</p>
 <p>Campcraft, pioneering and orienteering</p>
 </li>
 <li>
-<p>Civil Defence</p>
+<p>Civil Defence Course</p>
 </li>
 <li>
-<p>Total Defence</p>
+<p>Total Defence Course</p>
 </li>
 <li>
-<p>SANA (Singapore Anti-Narcotics Association)</p>
+<p>SANA Course (Singapore Anti-Narcotics Association)</p>
 </li>
 <li>
-<p>Enrichment programmes such as dragon boating, air-pistol course and etc.</p>
+<p>Enrichment programmes such as dragon boating, air-pistol course etc.</p>
 </li>
 <li>
 <p>Visit to Singapore Discovery Centre, K-9 Unit, Police Heritage Centre
-and etc.</p>
+etc.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC2024_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC-1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC-2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NPCC/NPCC-3.jpg">
-</div>
 <p></p>
