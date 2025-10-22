@@ -35,7 +35,7 @@ from 13 November 2025 to 14 December 2025 (Sec 2 to 4). Refer to the following g
 <p>3. For enquiries, please email to <a href="mailto:regent@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">regent@asencio.com.sg</a>
 </p>
 <p>4. Delivery Charges: $11.99 for textbooks &amp; uniforms / $6.54 for uniforms only</p>
-<h4>Walk-in Purchase/Collection in School <br>[Classrooms 1F3/1F4 &amp; 1G1/1G2]</h4>
+<h4>Walk-in Purchase/Collection in School <br>[Canteen]</h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
