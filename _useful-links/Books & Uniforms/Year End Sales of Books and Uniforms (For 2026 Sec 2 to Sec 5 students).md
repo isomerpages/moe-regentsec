@@ -66,7 +66,7 @@ from 4 November 2025 to 20 December 2025. Refer to the following guides:</p>
     <td class="tg-xwyw">17 to 21 November 2025</td>
   </tr>
 		<tr>
-    <td class="tg-xwyw">24 to 28 December 2025</td>
+    <td class="tg-xwyw">24 to 28 November 2025</td>
   </tr>
 	<tr>
     <td class="tg-xwyw">1 to 5 December 2025</td>
