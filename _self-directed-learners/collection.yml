@@ -2,7 +2,6 @@ collections:
   self-directed-learners:
     output: true
     order:
-      - Graduation Ceremony 2025.md
       - Academic Programmes.md
       - Personalised Digital Learning Programme (PDLP).md
       - Applied Learning Programme (ALP).md
