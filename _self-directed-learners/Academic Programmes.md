@@ -34,8 +34,17 @@ engaging and practical.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_Maths.jpg">
 </div>
-<p>Application of Trigononometic ratios in real world context- students uses
-an online AFL tool quiz to check for understanding in their learning</p>
+<h4>Application of Trigonometric Ratios in Real-World Context</h4>
+<p>Students apply trigonometric ratios to solve problems situated in authentic
+real-world contexts, such as determining the height of a structure, calculating
+the distance between two points, or finding angles of elevation and depression.
+Through these applications, students develop an appreciation of how trigonometry
+is used in fields such as engineering, architecture, and navigation.</p>
+<p>An <strong>online Assessment for Learning (AFL) tool</strong> is utilised
+to evaluate students’ understanding of trigonometric concepts. The quiz
+provides immediate feedback, enabling students to identify misconceptions,
+consolidate their learning, and demonstrate mastery of key skills in a
+self-directed manner.</p>
 <h3>Humanities Classroom</h3>
 <p>Our Humanities academic programmes in History, Social Studies, and Geography
 is dedicated to cultivating critical thinking by encouraging students to
