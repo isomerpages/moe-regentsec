@@ -19,7 +19,9 @@ and skill mastery</p>
 <p>To develop a culture of self-discipline and respect in the CCA. Regent
 Taekwondo Team aspires to develop noble youths who encompass leadership
 qualities as they persevere as a student and a martial artist.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_1.jpg">
+</div>
 <p>As a team, the members of Regent Taekwondo upholds the culture of respect
 to function and operate. The team participates in the annual National Inter-school
 Taekwondo Championship yearly and has since achieved various accomplishments
@@ -42,8 +44,23 @@ Friday)</p>
 <li>
 <p>Annual Values in Action programme(VIA)</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Taekwondo/TDK2025_7.jpg">
+</div>
 <p></p>
