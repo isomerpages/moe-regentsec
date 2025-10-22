@@ -17,11 +17,11 @@ third_nav_title: Books & Uniforms
 are <strong>strongly encouraged</strong> to purchase them through the school
 bookshop via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">Asencio's online portal</a>.
 You are required to register an account before proceeding with your online
-purchase. Parents who order online before 24 November 2025 (Sec 2 to 4)
+purchase. Parents who order online before 14 December 2025 (Sec 2 to 4)
 / 20 December 2025 (Sec 1 &amp; 5) will be able to receive their textbooks before
 start of school. Online orders with delivery is encouraged.</p>
 <p>2. Online ordering via online portal available
-from 4 November 2025 to 20 December 2025. Refer to the following guides:</p>
+from 13 November 2025 to 14 December 2025 (Sec 2 to 4). Refer to the following guides:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/uniforms%20online%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniforms</a>
