@@ -18,9 +18,14 @@ variant: tiptap
 </p>
 <h4>Instructions from School Uniform &amp; Bookshop Vendor</h4>
 <p>1. To ensure that the correct editions of the books are purchased, parents
-are to purchase the uniforms and textbooks via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">Asencio's online portal.</a> Online orders
-with delivery is encouraged.</p>
-<p>2. Online ordering via online portal, refer to the following guides:</p>
+are <strong>strongly encouraged</strong> to purchase them through the school
+bookshop via <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank"><u>Asencio's online portal</u></a>.
+You are required to register an account before proceeding with your online
+purchase. Parents who order online before 14 December 2025 (Sec 2 to 4)
+/ 20 December 2025 (Sec 1 &amp; 5) will be able to receive their textbooks
+before start of school. Online orders with delivery is encouraged.</p>
+<p>2. Online ordering via online portal available from 13 November 2025 to
+14 December 2025 (Sec 2 to 4). Refer to the following guides:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/uniforms online guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniforms</a>
