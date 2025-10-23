@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning for Life Programme
 variant: tiptap
 ---
-<h2>Learning for Life Programme - Community Youth Leadership (CYL)</h2>
+<h2><strong>Learning for Life Programme - Community Youth Leadership (CYL)</strong></h2>
 <h3>Introduction</h3>
 <p>Youths are the future leaders and changemakers of society. Guided by the
 school’s mission of nurturing transformational leaders, the Learning for
@@ -93,8 +93,9 @@ and service, while helping to build a vibrant and values-driven school
 community.</p>
 <p>In Regent, our Class Committee members embody what it means to serve,
 to lead and to transform — in their classes, their school, and beyond.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_7.jpg">
+</div>
 <p><strong>PEER SUPPORT LEADERS</strong>
 </p>
 <p>The school is a place where students develop strong friendships. Positive
@@ -131,8 +132,12 @@ and project management training to equip them with the confidence and skills
 to lead with purpose and empathy. Within their respective areas, the student
 leaders guide their peers, facilitate reflection sessions, and promote
 meaningful learning experiences, helping to build strong, supportive communities.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_9.jpg">
+</div>
 <p>Student Councillors and CCA Leaders play key roles in major school events
 such as Secondary One Orientation, Awards Day, Teachers’ Day Celebrations,
 and Sports Fiesta, taking on responsibilities from emceeing and ushering
@@ -143,6 +148,9 @@ on experiences such as Overseas Learning Journeys and the Limbang Mid-Autumn
 Festival. These opportunities allow them to exemplify the 4A approach of
 Awareness, Action, Amplification, and Application, strengthening student
 engagement and learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_10.jpg">
+</div>
 <p>Beyond the school, Student Councillors and CCA Leaders represent Regent
 at community events, such as the Limbang 10th Anniversary, Voices of Youth
 and Limbang Mid-Autumn Festival, fostering meaningful connections with
@@ -157,5 +165,10 @@ books.</p>
 <p>At the heart of their service, our Student Councillors and CCA Leaders
 lead with courage, empathy, and conviction — living out the Regent spirit
 to serve, to lead and to transform.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Youth Leadership/LLPCYL2025_12.jpg">
+</div>
 <p></p>
