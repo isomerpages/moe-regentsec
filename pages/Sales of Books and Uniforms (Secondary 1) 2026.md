@@ -28,7 +28,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 3\. For enquiries, please email to [regent@asencio.com.sg](mailto:regent@asencio.com.sg)
 
-4\. Delivery Charges: $10 for books/ $6 for uniforms
+4\. Delivery Charges: $11.99 for textbooks & uniforms / $6.54 for uniforms only
 
 5\. Self-collection and walk-in purchases at school's bookshop
 
@@ -36,4 +36,4 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 * Booklist for Year 2026 Secondary 1 _To be released_
 
 #### Size Chart for Uniforms
-For sizing chart, please refer to [How to select your size - Asencio](https://asencio.com.sg/how-to-select-your-size/)
+For sizing chart, please refer to [How to select your size - Asencio](https://asenciobookshop.sg/how-to-select-your-size/)
