@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Books & Uniforms/Sales of Books and Uniforms (All Levels).md
       - Books & Uniforms/.keep
       - SLS Student Services.md
       - Safety Updates/.keep
