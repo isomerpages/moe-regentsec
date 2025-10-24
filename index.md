@@ -51,7 +51,7 @@ sections:
       id: infobar
       description: Sec 2 to 5 students in 2026
       button: Click for more information
-      url: /2026-year-end-sales-of-books-and-uniforms-for-sec-2-to-5/
+      url: /2026-yes-of-books-and-uniforms-s2-to-s5/
   - announcements:
       title: Announcements & Highlights
       id: announcements
