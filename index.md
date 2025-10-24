@@ -49,7 +49,7 @@ sections:
       title: Year-End Sales of Books and Uniforms
       subtitle: For Year 2026
       id: infobar
-      description: Sec 2 to 5 students in 2026
+      description: Secondary 2 to 5 students in 2026
       button: Click for more information
       url: /2026-yes-of-books-and-uniforms-s2-to-s5/
   - announcements:
