@@ -83,8 +83,8 @@ from 13 November 2025 to 14 December 2025 (Sec 2 to 4). Refer to the following g
 </p>
 </li>
 <li>
-<p><a href="/files/Regent_Secondary_2026___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 (S3)</a>
-</p>
+<p><a href="/files/Regent_Secondary_2026___Sec_3_Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 (S3)</a>
+	</p>
 </li>
 <li>
 <p><a href="/files/Regent_Secondary_2026___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 (S4)</a>
