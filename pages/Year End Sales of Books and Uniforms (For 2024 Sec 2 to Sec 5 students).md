@@ -90,7 +90,7 @@ from 6 November 2023 to 15 December 2023. Refer to the following guides:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/S3%20(Booklist)%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 (S3)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_3_Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 (S3)</a>
 </p>
 </li>
 <li>

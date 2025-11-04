@@ -56,7 +56,7 @@ presentations, and the integration of ICT tools, our students experience
 a vibrant learning environment that enhances their skills and prepares
 them for the complexities of a globalized world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_HUM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes/AcadProg2025_HUM.jpg">
 </div>
 <h3>Lower Sec Science Classroom</h3>
 <p>Integrative Activities are infused into the curriculum as a culminating

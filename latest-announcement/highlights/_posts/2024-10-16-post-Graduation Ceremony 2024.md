@@ -1,8 +1,11 @@
 ---
 title: Graduation Ceremony 2024
 permalink: /graduation-ceremony-2024/
-variant: tiptap
+date: 2024-10-16
+layout: post
 description: ""
+image: ""
+variant: tiptap
 ---
 <p>The graduation ceremony for our Secondary Four students, themed "A New
 Chapter Begins," was a memorable celebration that marked a significant
