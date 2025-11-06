@@ -20,7 +20,7 @@ description: ""
 </p>
 <p>📌 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/secondary-2-cultural-immersion-programme-to-johore-and-malacca/" rel="noopener nofollow" target="_blank">Secondary 2 Cultural Immersion Programme to Johore and Malacca</a>
 </p>
-<p>📌 <a href="/overseas-cultural-immersion-trip-to-surabaya/" rel="noopener nofollow" target="_blank">Overseas Cultural Immersion Trip to Surabaya</a>
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/latest-announcement/highlights/overseas-cultural-immersion-trip-to-surabaya/" rel="noopener nofollow" target="_blank">Overseas Cultural Immersion Trip to Surabaya</a>
 </p>
 <p></p>
 <p><strong>2022</strong>
