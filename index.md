@@ -64,7 +64,7 @@ sections:
             challenge their limits, build resilience, and strengthen friendships
             while having plenty of fun...
           link_text: Read more about it here
-          link_url: /transformational-leaders/sec-1-basic-leadership-training/
+          link_url: /transformational-leaders/sec-1-cohort-camp/
         - title: Secondary 2 & 3 Cultural Immersion Trip to Surabaya, Indonesia 2025
           date: 18 September 2025
           announcement: From 3 to 6 June 2025, our Secondary 2 and 3 students travelled to
