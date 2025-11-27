@@ -74,7 +74,8 @@ and passion.</p>
 <p>Limbang National Day Dinner 2025</p>
 </li>
 <li>
-<p>B-dazzled Music &amp; Dance Festival 2025 (upcoming in November 2025)</p>
+<p>B-dazzled Music &amp; Dance Festival 2025 - Show Choir of The Year 2025,
+Diamond Award, Best Vocals and Best Vocals Arrangement.</p>
 </li>
 </ul>
 <p><strong>2024</strong>
@@ -116,6 +117,12 @@ and passion.</p>
 <p>B-dazzled Music &amp; Dance Festival 2023</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_9.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_5.jpg">
@@ -124,10 +131,15 @@ and passion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_6.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_7.jpg">
+</div>
+<p></p>
 <h4>Videos</h4>
-<p>📹 <a href="https://drive.google.com/file/d/1x_zLEgqbWvL9L-Pd95VN8VHiHhGWNfHw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Environmental Song</a>
-</p>
 <p>📹 <a href="https://drive.google.com/file/d/1oKSsCV3XVWG61Uzy5qGcQ41tONIhzX0L/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Environmental Song - Our World, Our Fight</a>
+</p>
+<p>📹 <a href="https://drive.google.com/file/d/1x_zLEgqbWvL9L-Pd95VN8VHiHhGWNfHw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Environmental Song</a>
 </p>
 <p>📹 <a href="https://www.youtube.com/watch?v=TQHGlcohczc" rel="noopener noreferrer nofollow" target="_blank">Regent Secondary School | Show Choir Of The Year | B-Dazzled 2024</a>
 </p>
