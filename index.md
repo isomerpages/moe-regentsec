@@ -24,10 +24,11 @@ sections:
       url: /2026-yes-of-books-and-uniforms-s2-to-s5/
   - infobar:
       title: E-Open House 2026 Video
-      subtitle: School Programmes
+      subtitle: E-Open House
       id: infobar
       button: Click here to watch the video
       url: https://youtu.be/D1XfsUxk9Wc
+      description: School Programmes
   - infobar:
       title: CCAs at Regent
       subtitle: E-Open House
