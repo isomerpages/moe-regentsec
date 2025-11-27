@@ -74,7 +74,8 @@ and passion.</p>
 <p>Limbang National Day Dinner 2025</p>
 </li>
 <li>
-<p>B-dazzled Music &amp; Dance Festival 2025 (upcoming in November 2025)</p>
+<p>B-dazzled Music &amp; Dance Festival 2025 - Show Choir of The Year 2025,
+Diamond Award, Best Vocals and Best Vocals Arrangement.</p>
 </li>
 </ul>
 <p><strong>2024</strong>
