@@ -117,6 +117,12 @@ Diamond Award, Best Vocals and Best Vocals Arrangement.</p>
 <p>B-dazzled Music &amp; Dance Festival 2023</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_9.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_5.jpg">
@@ -125,6 +131,11 @@ Diamond Award, Best Vocals and Best Vocals Arrangement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_6.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/SWCHR2025_7.jpg">
+</div>
+<p></p>
 <h4>Videos</h4>
 <p>📹 <a href="https://drive.google.com/file/d/1x_zLEgqbWvL9L-Pd95VN8VHiHhGWNfHw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Environmental Song</a>
 </p>
