@@ -771,11 +771,24 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Shi Han<a href="mailto:ng_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>HOD
+- Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_shi_han@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chew Hui Ching
-<br>HOD - Science</p>
+<br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
@@ -788,7 +801,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Ming Hwee
-<br>HOD - ICT</p>
+<br>HOD - Curriculum &amp; Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
