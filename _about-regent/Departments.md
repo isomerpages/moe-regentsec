@@ -4,7 +4,7 @@ permalink: /departments/
 variant: tiptap
 description: ""
 ---
-<h4>Craft &amp; Technology</h4>
+<h4>Craft &amp; Technology (2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,19 +68,6 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohammad Suhaimi B Mohd Salleh
-<br>(Art)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Fatima Binte Azmi (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +77,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Foo Mei Ling (Art)</p>
@@ -102,7 +89,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hong Jie Hui Sally (Art)</p>
@@ -114,7 +101,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Chan Chun Yan (Design &amp; Technology)</p>
@@ -126,7 +113,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Samsiyah Bte Sakoryah (Design &amp; Technology)</p>
@@ -138,7 +125,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Zahidah Binte A'Aidil Shari (Music)</p>
@@ -186,20 +173,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jasmine Murat Haider
-<br>HOD - Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><a href="mailto:jasmine_murat_haider@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_murat_haider@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,18 +209,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Siow Pei Tian Jillyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siow_pei_tian_jillyan@moe.edu.sg" rel="noopener nofollow" target="_blank">siow_pei_tian_jillyan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,11 +224,10 @@ description: ""
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Luqman Hakeem Bin Salim Bin Omar (English &amp; Social Studies)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:luqman_hakeem_salim@moe.edu.sg" rel="noopener nofollow" target="_blank">luqman_hakeem_salim@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -285,21 +245,8 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janaki D/O Ramasamy
-<br>HOD - Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Theresa Ong Hwee Fang
-<br>Subject Head - Humanities</p>
+<br>HOD - Humanities (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
@@ -308,20 +255,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jun Tian Terence
-<br>Subject Head - Student Management (Covering)</p>
+<p>Ms Goh Zhi Qing</p>
+<p>Subject Head - History (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
+<p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainab Banu Binte Hassan
@@ -334,13 +281,26 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Janaki D/O Ramasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bernice Liau Wei Ting&nbsp;</p>
+<p>Mr Tan Jun Tian Terence
+<br>Subject Head - Student Management (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bernice_liau_wei_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">bernice_liau_wei_ting@moe.edu.sg</a>
+<p><a href="mailto:tan_juntian_terence@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_juntian_terence@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -349,19 +309,8 @@ description: ""
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kesavan S/O Veerappen&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kesavan_veerappen@moe.edu.sg" rel="noopener nofollow" target="_blank">kesavan_veerappen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liew Yu Kun&nbsp;</p>
+<p>Ms Liew Yu Kun
+<br>Assistant Year Head (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liew_yu_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yu_kun@moe.edu.sg</a>
@@ -370,19 +319,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Suhaimi B Mohd Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_suhaimi_mohd_salleh@moe.edu.sg" rel="noopener nofollow" target="_blank">mohd_suhaimi_mohd_salleh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharanjeet Kaur Locham</p>
@@ -394,13 +331,37 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kesavan S/O Veerappen&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kesavan_veerappen@moe.edu.sg" rel="noopener nofollow" target="_blank">kesavan_veerappen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Bernice Liau Wei Ting&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bernice_liau_wei_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">bernice_liau_wei_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Zhi Qing (History &amp; Social Studies)</p>
+<p>Mr Luqman Hakeem Bin Salim Bin Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
+<p><a href="mailto:luqman_hakeem_salim@moe.edu.sg" rel="noopener nofollow" target="_blank">luqman_hakeem_salim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
