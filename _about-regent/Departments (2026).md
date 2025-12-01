@@ -605,11 +605,11 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Goh Poh Huat
-<br>School-Based Master Teacher - Chinese Language &amp; Literature</p>
+<p>Mr Muhammad Muslihuddin B Abdul Raza
+<br>Subject Head - Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_poh_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_poh_huat@moe.edu.sg</a>
+<p><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -618,11 +618,11 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Muslihuddin B Abdul Raza
-<br>Subject Head - Malay Language</p>
+<p>Dr Goh Poh Huat
+<br>School-Based Master Teacher - Chinese Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
+<p><a href="mailto:goh_poh_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_poh_huat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -643,28 +643,16 @@ description: ""
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kai Yik (CL)&nbsp;</p>
+<p>Mdm Dian Syahidah Binte Abdul Aziz (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kai_yik@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kai_yik@moe.edu.sg</a>
+<p><a href="mailto:dian_syahidah_abdul_aziz@moe.edu.sg" rel="noopener nofollow" target="_blank">dian_syahidah_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Zi Hyn Judith, Chen Zhixin (CL)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_zi_hyn_judith@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_zi_hyn_judith@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yunus Bin Mohamed (ML)</p>
@@ -676,13 +664,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kai Yik (CL)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kai_yik@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kai_yik@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dian Syahidah Binte Abdul Aziz (ML)</p>
+<p>Mdm Siti Nur Aishah Bte Suparjo (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dian_syahidah_abdul_aziz@moe.edu.sg" rel="noopener nofollow" target="_blank">dian_syahidah_abdul_aziz@moe.edu.sg</a>
+<p><a href="mailto:siti_nur_aishah_suparjo@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nur_aishah_suparjo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -691,10 +691,10 @@ description: ""
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nur Aishah Bte Suparjo (ML)</p>
+<p>Ms Tan Zi Hyn Judith, Chen Zhixin (CL)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nur_aishah_suparjo@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nur_aishah_suparjo@moe.edu.sg</a>
+<p><a href="mailto:tan_zi_hyn_judith@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_zi_hyn_judith@moe.edu.sg</a>
 </p>
 </td>
 </tr>
