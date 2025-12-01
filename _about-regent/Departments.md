@@ -395,12 +395,10 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Su Rui Yi
-<br>School Staff Developer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:su_rui_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">su_rui_yi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -444,11 +442,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Chai Hoon Annie
+<br>HOD - Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_chai_hoon_annie@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_chai_hoon_annie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karen Lee Chai Lin
-<br>Subject Head - Applied Learning</p>
+<br>Subject Head - Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:karen_lee_chai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">karen_lee_chai_lin@moe.edu.sg</a>
@@ -460,12 +471,11 @@ description: ""
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Chai Hoon Annie
-<br>Subject Head - Character &amp; Citizenship Education
-<br>Year Head - Upper Sec (Covering)</p>
+<p>Ms Tan Ching Hsia Julie
+<br>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_chai_hoon_annie@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_chai_hoon_annie@moe.edu.sg</a>
+<p><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ching_hsia_julie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -474,11 +484,11 @@ description: ""
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ching Hsia Julie
-<br>Assistant Year Head - Lower Sec (Covering)</p>
+<p>Mr Soo Ley Gio Sebastian
+<br>POA Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ching_hsia_julie@moe.edu.sg</a>
+<p><a href="mailto:soo_ley_gio_sebastian@moe.edu.sg" rel="noopener nofollow" target="_blank">soo_ley_gio_sebastian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -499,18 +509,6 @@ description: ""
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soo Ley Gio Sebastian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soo_ley_gio_sebastian@moe.edu.sg" rel="noopener nofollow" target="_blank">soo_ley_gio_sebastian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Teo Hock Siong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -520,10 +518,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zachary Wong Jiann Tsong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zachary_wong_jiann_tsong@moe.edu.sg" rel="noopener nofollow" target="_blank">zachary_wong_jiann_tsong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Foo Lim, Wisely (Math)</p>
+<p>Mr Koh Foo Lim, Wisely (FAJT - Math)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_foo_lim_a@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_foo_lim_a@moe.edu.sg</a>
@@ -535,7 +545,7 @@ description: ""
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kor Kwang Sing Lily (Math)</p>
+<p>Ms Kor Kwang Sing Lily (FAJT - Math)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kor_kwang_sing_lily@moe.edu.sg" rel="noopener nofollow" target="_blank">kor_kwang_sing_lily@moe.edu.sg</a>
@@ -547,7 +557,7 @@ description: ""
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chin Hock, Andy (Math)</p>
+<p>Mr Lee Chin Hock, Andy (FAJT - Math)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chin_hock@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chin_hock@moe.edu.sg</a>
@@ -559,7 +569,7 @@ description: ""
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Ai Tee (Math)</p>
+<p>Mdm Ng Ai Tee (FAJT - Math)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_ai_tee@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_ai_tee@moe.edu.sg</a>
@@ -571,11 +581,10 @@ description: ""
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zachary Wong Jiann Tsong (Math &amp; Computer Application)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zachary_wong_jiann_tsong@moe.edu.sg" rel="noopener nofollow" target="_blank">zachary_wong_jiann_tsong@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
