@@ -283,12 +283,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD - Humanities (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Theresa Ong Hwee Fang
 <br><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head - Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kian Hong
+<br><a href="mailto:kian_hong_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kian_hong_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -327,17 +346,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head - Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Kian Hong
-<br><a href="mailto:kian_hong_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kian_hong_ng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Level Head - English Language (Internal)</strong>
 </p>
 </td>
@@ -356,14 +364,6 @@ variant: tiptap
 <p>Mr Mark Chee Kong
 <br><a href="mailto:mark_chee_kong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_chee_kong@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
