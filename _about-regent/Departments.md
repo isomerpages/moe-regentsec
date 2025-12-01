@@ -173,31 +173,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Faith Ong Qi Rui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:faith_ong_qi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">faith_ong_qi_rui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Wen Chen&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_wen_chen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_wen_chen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Hidayah Binte Abu Mansor</p>
@@ -209,7 +185,31 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Wen Chen&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_wen_chen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_wen_chen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Faith Ong Qi Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:faith_ong_qi_rui@moe.edu.sg" rel="noopener nofollow" target="_blank">faith_ong_qi_rui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zulkiflie Abdul Razak&nbsp;</p>
@@ -217,17 +217,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
