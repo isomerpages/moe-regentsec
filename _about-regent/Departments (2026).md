@@ -259,8 +259,8 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Zhi Qing</p>
-<p>Subject Head - History (Internal)</p>
+<p>Ms Goh Zhi Qing
+<br>Subject Head - History (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
