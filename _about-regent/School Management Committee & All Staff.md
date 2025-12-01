@@ -195,38 +195,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Academic Curriculum Team (2026)</h4>
@@ -238,23 +206,23 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Master Teacher - Chinese Language</strong>
+<p><strong>School Staff Developer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Goh Poh Huat
-<br><a href="mailto:goh_poh_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_poh_huat@moe.edu.sg</a>
+<p>Ms Chew Hui Ching
+<br><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
+<p><strong>School-Based Master Teacher - Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Su Rui Yi
-<br><a href="mailto:su_rui_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">su_rui_yi@moe.edu.sg</a>
+<p>Dr Goh Poh Huat
+<br><a href="mailto:goh_poh_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_poh_huat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -271,18 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - Humanities</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Janaki D/O Ramasamy
-<br><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD - ICT</strong>
+<p><strong>HOD - Curriculum &amp; Innovation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,18 +276,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Hui Ching
-<br><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
+<p>Mr Ng Shi Han
+<br><a href="mailto:ng_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shi_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Applied Learning</strong>
+<p><strong>Subject Head - Malay Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Muslihuddin Bin Abdul Raza
+<br><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -342,6 +301,14 @@ variant: tiptap
 <p>Ms Theresa Ong Hwee Fang
 <br><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -379,13 +346,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Malay Language (Covering)</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Muslihuddin Bin Abdul Raza
-<br><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
