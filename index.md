@@ -25,6 +25,13 @@ sections:
       image: /images/Sec1Reg2026_infopicheader.png
       alt: Image alt text
   - infobar:
+      title: Sales of Books and Uniforms (Secondary 1) 2026
+      subtitle: For Year 2026
+      id: infobar
+      description: Secondary 1 students in 2026
+      button: Click for more information
+      url: /sales-of-books-and-uniforms-secondary-1-2026/
+  - infobar:
       title: Year-End Sales of Books and Uniforms
       subtitle: For Year 2026
       id: infobar
