@@ -77,19 +77,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hong Jie Hui Sally (Art)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hong_jie_hui_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hong_jie_hui_sally@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Chan Chun Yan (Design &amp; Technology)</p>
@@ -101,7 +89,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Zahidah Binte A'Aidil Shari (Music)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Samsiyah Bte Sakoryah (Design &amp; Technology)</p>
@@ -113,19 +113,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Zahidah Binte A'Aidil Shari (Music)</p>
+<p>Ms Hong Jie Hui Sally (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
+<p><a href="mailto:hong_jie_hui_sally@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hong_jie_hui_sally@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>English Language</h4>
+<h4>English Language (2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -209,7 +209,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Humanities</h4>
+<h4>Humanities (2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -344,7 +344,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Mathematics</h4>
+<h4>Mathematics (2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
