@@ -113,8 +113,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liew Yu Kun</p>
-<p><a href="mailto:liew_yu_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yu_kun@moe.edu.sg</a>
+<p>Ms Liew Yu Kun
+<br><a href="mailto:liew_yu_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yu_kun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -124,8 +124,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Jun Hua</p>
-<p><a href="mailto:low_jun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_hua@moe.edu.sg</a>
+<p>Mr Low Jun Hua
+<br><a href="mailto:low_jun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -320,8 +320,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Zhi Qing</p>
-<p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
+<p>Ms Goh Zhi Qing
+<br><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -331,8 +331,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hui Min, Vanessa</p>
-<p><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
+<p>Ms Lim Hui Min, Vanessa
+<br><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
