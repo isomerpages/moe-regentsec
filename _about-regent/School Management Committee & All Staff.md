@@ -283,6 +283,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HOD - Humanities (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Theresa Ong Hwee Fang
+<br><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head - Malay Language</strong>
 </p>
 </td>
@@ -294,21 +305,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head - Humanities</strong>
+<p><strong>Subject Head - Humanities (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Theresa Ong Hwee Fang
-<br><a href="mailto:theresa_ong_hwee_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_ong_hwee_fang@moe.edu.sg</a>
+<p>Ms Goh Zhi Qing</p>
+<p><a href="mailto:goh_zhi_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zhi_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Subject Head - Chemistry (Internal)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Hui Min, Vanessa</p>
+<p><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +338,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head - English Language (Covering)</strong>
+<p><strong>Level Head - English Language (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,7 +349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head - Mathematics (Covering)</strong>
+<p><strong>Level Head - Mathematics (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
