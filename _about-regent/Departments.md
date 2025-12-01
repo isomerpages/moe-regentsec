@@ -164,7 +164,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Wen Hao Joshua Augustine
-<br>Level Head - English Language (Covering)</p>
+<br>Level Head - English Language (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wenhao_joshua_augustine@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wenhao_joshua_augustine@moe.edu.sg</a>
