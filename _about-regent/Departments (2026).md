@@ -77,18 +77,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Foo Mei Ling (Art)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_mei_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
