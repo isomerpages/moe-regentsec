@@ -395,17 +395,6 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Yee Ying
 <br>Year Head - Lower Sec</p>
 </td>
@@ -416,7 +405,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lewin Sim Chin Heng
@@ -429,7 +418,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Rui Qi Adeline
@@ -442,7 +431,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Chai Hoon Annie
@@ -576,17 +565,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Mother Tongue</h4>
@@ -629,7 +607,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Muslihuddin B Abdul Raza
-<br>Subject Head - Malay Language (Covering)</p>
+<br>Subject Head - Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_muslihuddin_abdul_raza@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_muslihuddin_abdul_raza@moe.edu.sg</a>
@@ -641,18 +619,6 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dian Syahidah Binte Abdul Aziz (ML)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dian_syahidah_abdul_aziz@moe.edu.sg" rel="noopener nofollow" target="_blank">dian_syahidah_abdul_aziz@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Hap Guilian (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -662,19 +628,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nur Aishah Bte Suparjo (ML)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nur_aishah_suparjo@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nur_aishah_suparjo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kai Yik (CL)&nbsp;</p>
@@ -686,7 +640,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Zi Hyn Judith, Chen Zhixin (CL)&nbsp;</p>
@@ -698,13 +652,37 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yunus Bin Mohamed (CL)</p>
+<p>Mr Yunus Bin Mohamed (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yunus_b_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">yunus_b_mohamed@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Dian Syahidah Binte Abdul Aziz (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dian_syahidah_abdul_aziz@moe.edu.sg" rel="noopener nofollow" target="_blank">dian_syahidah_abdul_aziz@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nur Aishah Bte Suparjo (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nur_aishah_suparjo@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nur_aishah_suparjo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -724,7 +702,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kong Kok Heng Melvin
-<br>HOD - PE &amp; CCA</p>
+<br>Year Head - Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kong_kok_heng_melvin@moe.edu.sg" rel="noopener nofollow" target="_blank">kong_kok_heng_melvin@moe.edu.sg</a>
@@ -737,7 +715,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jiang Yuhang Isaac
-<br>Subject Head - CCA</p>
+<br>HOD - Co-Curricular Activities &amp; Physical Education (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
@@ -750,7 +728,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kwok Weng Meng Michael
-<br>Senior Teacher - PE</p>
+<br>Senior Teacher - Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwok_weng_meng_michael@moe.edu.sg" rel="noopener nofollow" target="_blank">kwok_weng_meng_michael@moe.edu.sg</a>
@@ -762,7 +740,7 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Tan (PE)</p>
+<p>Ms Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:grace_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">grace_tan@moe.edu.sg</a>
@@ -774,7 +752,7 @@ description: ""
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pek Yan Shan (PE)</p>
+<p>Ms Pek Yan Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pek_yan_shan_a@moe.edu.sg" rel="noopener nofollow" target="_blank">pek_yan_shan_a@moe.edu.sg</a>
