@@ -474,7 +474,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ching Hsia Julie
-<br>Assistant Year Head</p>
+<br>Assistant Year Head - Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ching_hsia_julie@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ching_hsia_julie@moe.edu.sg</a>
