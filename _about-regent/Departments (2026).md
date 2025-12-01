@@ -176,10 +176,10 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Wen Chen&nbsp;</p>
+<p>Mr Zulkiflie Abdul Razak&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_wen_chen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_wen_chen@moe.edu.sg</a>
+<p><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -200,10 +200,34 @@ description: ""
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zulkiflie Abdul Razak&nbsp;</p>
+<p>Ms Lee Wen Chen&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zulkiflie_abdul_razak@moe.edu.sg" rel="noopener nofollow" target="_blank">zulkiflie_abdul_razak@moe.edu.sg</a>
+<p><a href="mailto:lee_wen_chen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_wen_chen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Luqman Hakeem Bin Salim Bin Omar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:luqman_hakeem_salim@moe.edu.sg" rel="noopener nofollow" target="_blank">luqman_hakeem_salim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shachi Mehta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mehta_shachi_pranav_a@moe.edu.sg" rel="noopener nofollow" target="_blank">mehta_shachi_pranav_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
