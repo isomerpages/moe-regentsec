@@ -579,7 +579,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Mother Tongue</h4>
+<h4>Mother Tongue (2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -700,7 +700,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Physical Education</h4>
+<h4>Physical Education (2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -713,11 +713,11 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kong Kok Heng Melvin
-<br>Year Head - Upper Sec</p>
+<p>Mr Jiang Yuhang Isaac
+<br>HOD - Co-Curricular Activities &amp; Physical Education (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_kok_heng_melvin@moe.edu.sg" rel="noopener nofollow" target="_blank">kong_kok_heng_melvin@moe.edu.sg</a>
+<p><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -726,11 +726,11 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jiang Yuhang Isaac
-<br>HOD - Co-Curricular Activities &amp; Physical Education (Internal)</p>
+<p>Mr Kong Kok Heng Melvin
+<br>Year Head - Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener nofollow" target="_blank">isaac_jiang@moe.edu.sg</a>
+<p><a href="mailto:kong_kok_heng_melvin@moe.edu.sg" rel="noopener nofollow" target="_blank">kong_kok_heng_melvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
