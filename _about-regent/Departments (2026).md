@@ -285,7 +285,8 @@ description: ""
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janaki D/O Ramasamy</p>
+<p>Mdm Janaki D/O Ramasamy
+<br>HOD - Student Welfare</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:janaki_ramasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">janaki_ramasamy@moe.edu.sg</a>
@@ -359,10 +360,10 @@ description: ""
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Luqman Hakeem Bin Salim Bin Omar</p>
+<p>Ms Nur Lyana Binte Mohamad Zaky</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:luqman_hakeem_salim@moe.edu.sg" rel="noopener nofollow" target="_blank">luqman_hakeem_salim@moe.edu.sg</a>
+<p><a href="nur_lyana_mohamad_zaky@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_lyana_mohamad_zaky@moe.edu.sg</a>
 </p>
 </td>
 </tr>
