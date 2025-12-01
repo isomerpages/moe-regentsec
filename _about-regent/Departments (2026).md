@@ -773,7 +773,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Science</h4>
+<h4>Science (2026)</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -783,7 +783,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Shi Han<a href="mailto:ng_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>HOD
@@ -796,33 +796,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chew Hui Ching
-<br>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tham Ming Hwee
-<br>HOD - Curriculum &amp; Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Kian Hong
@@ -835,7 +809,33 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Hui Ching
+<br>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tham Ming Hwee
+<br>HOD - Curriculum &amp; Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_ming_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Huey Min
@@ -848,7 +848,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Rasidah Bte Mohd Salleh
@@ -861,25 +861,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Aisha Yasmin Binte Abdul Raman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:aisha_yasmin_abdul_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aisha_yasmin_abdul_raman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Jie An</p>
+<p>Ms Lim Hui Min Vanessa
+<br>Subject Head - Chemistry (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_jie_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_jie_an@moe.edu.sg</a>
+<p><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -888,10 +877,11 @@ description: ""
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Crystal Tay Yen Yen</p>
+<p>Mr Low Jun Hua
+<br>Assistant Year Head (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
+<p><a href="mailto:low_jun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -912,30 +902,6 @@ description: ""
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hui Min Vanessa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hui_min_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_min_vanessa@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Low Jun Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_jun_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_hua@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Fauzan Bin Sapuan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -945,34 +911,58 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aisha Yasmin Binte Abdul Raman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aisha_yasmin_abdul_raman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aisha_yasmin_abdul_raman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Crystal Tay Yen Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Ridhwan Bin Mohammad Muzaki&nbsp;</p>
+<p>Mr Chong Jie An</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_ridhwan_mohammad_muzaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ridhwan_mohammad_muzaki@moe.edu.sg</a>
+<p><a href="mailto:chong_jie_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_jie_an@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Ai Lin (Lower Sec Science &amp; Biology)</p>
+<p>Ms Yeo Jun Yi, Kyra Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ai_lin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_lin_a@moe.edu.sg</a>
+<p><a href="mailto:yeo_jun_yi_kyra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jun_yi_kyra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Naszry Bin Abdul Sany (Physics &amp; Computer Application)</p>
+<p>Mr Naszry Bin Abdul Sany</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:naszry_abdul_sany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naszry_abdul_sany@moe.edu.sg</a>
@@ -981,13 +971,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Jun Yi, Kyra Joyce (Biology &amp; Chemistry)</p>
+<p>Mdm Ng Ai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_jun_yi_kyra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jun_yi_kyra@moe.edu.sg</a>
+<p><a href="mailto:ng_ai_lin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_lin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
