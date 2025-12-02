@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - Character &amp; Citizenship Education</strong>
+<p><strong>HOD - Character &amp; Citizenship Education (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
