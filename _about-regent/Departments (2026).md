@@ -435,7 +435,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Chai Hoon Annie
-<br>HOD - Character &amp; Citizenship Education</p>
+<br>HOD - Character &amp; Citizenship Education (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_chai_hoon_annie@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_chai_hoon_annie@moe.edu.sg</a>
