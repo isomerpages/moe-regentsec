@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>PSG Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rozilawati Binte Ramdzan</p>
