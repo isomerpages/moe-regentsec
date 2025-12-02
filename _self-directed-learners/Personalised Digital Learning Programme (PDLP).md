@@ -99,11 +99,11 @@ necessary skills and competencies to thrive in the digital age.</p>
 </p>
 <p>3. Collaborative learners who <strong>Connect with peers to co-construct knowledge</strong>
 </p>
-<p>On 26 March 2024, all Secondary 1 students receive their ACER Chromebooks.
+<p>On 16 April 2025, all Secondary 1 students receive their ACER Chromebooks.
 With the students on-boarding programme completed, both students and teachers
 will enhance teaching and learning with the use of personal devices for
 more active, collaborative lessons based on sound e-pedagogical principles.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PLD2025.jpg">
 </div>
 <p></p>
