@@ -33,7 +33,6 @@ and career guidance. Secondary 4 Express (4E) and Secondary 5 Normal Academic
 <p>Customised career counselling</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAE/EAE2025_1.jpg">
 </div>
