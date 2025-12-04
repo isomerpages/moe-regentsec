@@ -34,12 +34,9 @@ and career guidance. Secondary 4 Express (4E) and Secondary 5 Normal Academic
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAE/eae-1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAE/EAE2025_1.jpg">
 </div>
-<p><em>EAE talk at NYP</em>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAE/eae2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAE/EAE2025_2.jpg">
 </div>
-<p><em>Course advising workshop at NYP</em>
-</p>
+<p></p>

@@ -14,9 +14,8 @@ using everyday objects. It is here that Science comes alive for our students,
 who experience first-hand just how powerful the subject is in undergirding
 all aspects of life!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment%20Programmes/EnrichmentProg_1-SciBuskers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrichment Programmes/EnrichProg_SciBuskers2025_1.jpg">
 </div>
-<p></p>
 <hr>
 <h2><strong>Science Learning Journeys</strong></h2>
 <p>Science Learning Journeys is a series of activities to enthuse our students

@@ -1,6 +1,6 @@
 ---
 title: School Management Committee & All Staff (2026)
-permalink: /about-regent/school-management-committee/
+permalink: /about-regent/school-management-committee-all-staff/
 description: ""
 variant: tiptap
 ---
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-principal (Administration)</strong>
+<p><strong>Vice-principal (Academic)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD - Character &amp; Citizenship Education</strong>
+<p><strong>HOD - Character &amp; Citizenship Education (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

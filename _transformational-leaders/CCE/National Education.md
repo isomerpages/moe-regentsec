@@ -44,7 +44,7 @@ ceremonies. However, the highlights for each year would be the NE Commemorative
 Days that are observed as a school. These are:</p>
 <h4>1) Total Defence Day (commemorated yearly on 15th&nbsp;February)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National%20Education/uniform-groups_total-defense-day-2021.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National Education/CCE_NE2025_TDD.jpg">
 </div>
 <p><em>Uniformed Group cadets putting up a parade to commemorate Total Defence Day</em>
 </p>
@@ -58,10 +58,8 @@ and psychological) and the core message of every Singaporean standing together,
 with each playing our part to protect Singapore and our shared way of life.</p>
 <h4>2) International Friendship Day (commemorated on the 3rd&nbsp;Friday of Term 2)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/National%20Education/international-bilateral-exchange-programme-2019-1152x1536.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National Education/CCE_NE2025_IFD.jpg">
 </div>
-<p><em>Regenites experiencing school together with friends from the Saeng Thong Vitthaya School, Thailand, during the International Bicultural Exchange Programme in 2019</em>
-</p>
 <p>Schools commemorate IFD for our students to reflect on the importance
 to Singapore of:</p>
 <ul data-tight="true" class="tight">
@@ -81,19 +79,17 @@ society.</p>
 </ul>
 <h4>3) Racial Harmony Day (commemorated yearly on 21st&nbsp;July)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/National%20Education/racial-harmony-day-2019.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National Education/CCE_NE2025_RHD.jpg">
 </div>
-<p><em>Students donning traditional costumes for Racial Harmony Day 2019</em>
-</p>
 <p>Racial Harmony Day (RHD) marks the anniversary of the 1964 racial riots.
 Schools commemorate RHD for our students to celebrate Singapore as a harmonious
 society built on a rich diversity of cultures, requiring collaborative
 efforts from all to promote social cohesion and harmony.</p>
 <h4>4) National Day (commemorated yearly on 9th&nbsp;August)</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/National%20Education/regent-uniform-group-cadets-w-state-flag.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National Education/CCE_NE2025_ND.jpg">
 </div>
-<p><em>Uniformed Group cadets proudly marching in the State Flag for the school’s National Day Observance Ceremony in 2020</em>
+<p><em>Uniformed Group cadets proudly marching in the State Flag for the school’s National Day Observance Ceremony in 2025</em>
 </p>
 <p>National Day marks our separation from Malaysia in 1965, and our emergence
 as an independent country in a community of nations. Since 1998, schools
