@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2><strong>PSG Bake &amp; Bond </strong></h2>
+<h2><strong>PSG Bake &amp; Bond</strong></h2>
 <p>To commemorate Mother's Day, on 13th May, three CCAs, namely the Boys'
 Brigade, Girls' Brigade, and Environmental Science Club and the Food &amp;
 Nutrition Unit partnered with our Parent Support Group to host a special
@@ -54,8 +54,5 @@ very happy Mother's Day!</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/PSG/PSGBakeBond2023-9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events/PSG/PSGBakeBond2023-10.png">
 </div>
 <p></p>
