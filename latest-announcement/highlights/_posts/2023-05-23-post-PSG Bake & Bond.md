@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2><strong>PSG Bake &amp; Bond</strong></h2>
 <p>To commemorate Mother's Day, on 13th May, three CCAs, namely the Boys'
 Brigade, Girls' Brigade, and Environmental Science Club and the Food &amp;
 Nutrition Unit partnered with our Parent Support Group to host a special
