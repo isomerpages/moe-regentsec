@@ -52,7 +52,8 @@ and lasting memories for all families involved.</p>
 <h4>Past PSG Events</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>More</summary>
+<summary><strong>More</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📰 <a href="https://www.regentsec.moe.edu.sg/psg-bake-bond/" rel="noopener nofollow" target="_blank">PSG Bake &amp; Bond</a>
 </p>
