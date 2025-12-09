@@ -32,15 +32,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOE Intranet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/Pages/Home.aspx</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>iCON Mail</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,6 +45,87 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SC Mobile</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://scmobile.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Intranet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/Pages/Home.aspx</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resource Booking Service (RBS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPAL 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.opal2.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HRP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg/hrp/#/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSOE2 Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://ssoe2.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://ssoe2.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>iEXAMS Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://iexams.seab.gov.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Gateway</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
 </p>
 </td>
 </tr>
@@ -90,69 +162,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://for.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HRP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg/hrp/#/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPAL 2.0</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.opal2.moe.edu.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEAB Exam Personnel Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://myexamduty.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">https://myexamduty.seab.gov.sg/auth/login</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SC Mobile</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://scmobile.moe.edu.sg/login</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parent Gateway</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Resource Booking Service (RBS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Learning Space (SLS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 </p>
 </td>
 </tr>
