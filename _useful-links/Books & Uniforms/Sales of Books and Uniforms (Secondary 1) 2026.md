@@ -29,9 +29,45 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 3\. For enquiries, please email to [regent@asencio.com.sg](mailto:regent@asencio.com.sg)
 
-4\. Delivery Charges: $11.99 for textbooks & uniforms / $6.54 for uniforms only
+4\. Delivery Charges: $11.99 for textbooks &amp; uniforms / $6.54 for uniforms only
 
-5\. Self-collection and walk-in purchases at school's bookshop
+<h4>Walk-in Purchase/Collection in School <br>[Canteen]</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-hspo{background-color:#000000;font-size:medium;text-align:center;vertical-align:middle}
+.tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-hspo"><span style="font-weight:bold;color:#FFF">DATES OF SALES IN SCHOOL</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xwyw"><span style="font-weight:bold">SECONDARY 1</span></td>
+    <td class="tg-gfnm"><span style="font-weight:bold">OPERATING HOURS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">19 &amp; 22 December 2025</td>
+    <td rowspan="7" class="tg-gfnm">0900 to 1500 hours</td>
+  </tr>
+	<tr>
+    <td class="tg-xwyw">29 December 2025</td>
+  </tr>
+	<tr>
+		<td class="tg-xwyw"><span style="font-weight:bold">ALL LEVELS</span></td>
+  </tr>
+	<tr>
+    <td class="tg-xwyw">23 &amp; 26 December 2025</td>
+  </tr>
+</tbody>
+</table>
 
 #### Booklist
 * [Booklist for Year 2026 Secondary 1](/files/Regent_Secondary_2026___Sec_1_Blue.pdf)
