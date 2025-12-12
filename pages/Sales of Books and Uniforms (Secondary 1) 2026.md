@@ -19,7 +19,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 #### Instructions from School Uniform &amp; Bookshop Vendor
 
-1\. To ensure that the correct editions of the books are purchased, parents are strongly encouraged to purchase them through the school bookshop [Asencio’s online portal](https://asenciobookshop.sg/). You are required to register an account before proceeding with your online purchase. Parents who order online before 21 December 2025 will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.
+1\. To ensure that the correct editions of the books are purchased, parents are strongly encouraged to purchase them through [Asencio’s online portal](https://asenciobookshop.sg/). You are required to register an account before proceeding with your online purchase. Parents who order online before 21 December 2025 will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.
 
 2\. Online ordering via online portal.  Refer to the following guides:
 
