@@ -19,7 +19,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 
 #### Instructions from School Uniform &amp; Bookshop Vendor
 
-1\. To ensure that the correct editions of the books are purchased, parents are to purchase the above from [Asencio’s online portal](https://asenciobookshop.sg/). Online orders with delivery is encouraged.
+1\. To ensure that the correct editions of the books are purchased, parents are strongly encouraged to purchase them through the school bookshop [Asencio’s online portal](https://asenciobookshop.sg/). You are required to register an account before proceeding with your online purchase. Parents who order online before 21 December 2025 will be able to receive their textbooks before start of school. Online orders with delivery is encouraged.
 
 2\. Online ordering via online portal.  Refer to the following guides:
 
@@ -33,7 +33,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
 5\. Self-collection and walk-in purchases at school's bookshop
 
 #### Booklist
-* Booklist for Year 2026 Secondary 1 _To be released_
+* [Booklist for Year 2026 Secondary 1](/files/Regent_Secondary_2026___Sec_1_Blue.pdf)
 
 #### Size Chart for Uniforms
 For sizing chart, please refer to [How to select your size - Asencio](https://asenciobookshop.sg/how-to-select-your-size/)
