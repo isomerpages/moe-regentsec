@@ -55,7 +55,7 @@ Online portal: [Homepage - Asencio Bookshop](https://asenciobookshop.sg/)
   </tr>
   <tr>
     <td class="tg-xwyw">19 &amp; 22 December 2025</td>
-    <td rowspan="5" class="tg-gfnm">0900 to 1500 hours</td>
+    <td rowspan="3" class="tg-gfnm">0900 to 1500 hours</td>
   </tr>
 	<tr>
     <td class="tg-xwyw">23 &amp; 26 December 2025 (All Levels)</td>
