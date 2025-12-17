@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental%20Science/ENVSCIBanner%20-%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCIBanner___2026_v2.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Ms Karen Lee Chai Lin - IC
