@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental%20Science/ENVSCIBanner%20-%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCIBanner___2026_v2.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Ms Karen Lee Chai Lin - IC
@@ -24,8 +24,8 @@ every member to be creative and innovative green leaders.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI_CCA2024.png">
 </div>
 <p></p>
-<p>We achieved the&nbsp;<strong>Yellow Flame Award</strong>&nbsp;at the School
-Green Awards 2024. Guided by our mission to equip all students and staff
+<p>We achieved the <strong>Vanda Miss Joaquim Award</strong>&nbsp;at the School
+Green Awards 2025. Guided by our mission to equip all students and staff
 to become responsible advocates of the environment, Regent's environmental
 programmes seek to promote good environmental habits and involve the wider
 community in environmental efforts. Our school’s project focused on upcycling
@@ -85,6 +85,8 @@ reducing food wastage)</p>
 <p>Limbang PassionArts 2024</p>
 </li>
 </ul>
+<p>To find out more about our Applied Learning Programmes, visit our website
+at: <a href="http://for.edu.sg/regentsustainability" rel="noopener noreferrer nofollow" target="_blank">for.edu.sg/regentsustainability</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental Science/ENVSCI2024_7.jpg">
 </div>

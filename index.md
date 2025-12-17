@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/regent webbanner 2023.jpg
+      background: /images/Regent_webbanner_2025_B.jpg
       key_highlights:
         - title: Self-Directed Learners
           description: ""
