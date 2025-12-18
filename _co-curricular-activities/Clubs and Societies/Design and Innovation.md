@@ -9,9 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design%20and%20Innovation/DESINVBanner%20-%202023.jpg">
 </div>
 <h4>Teachers-In-Charge</h4>
-<p>Mr Mohammad Suhaimi Bin Mohd Salleh - IC
-<br>Ms Aisha Yasmin Binte Abdul Raman
-<br>Mr Andrew Chan Chun Yan</p>
+<p>Ms Aisha Yasmin Binte Abdul Raman - IC
+<br>Mr Andrew Chan Chun Yan
+<br>Mdm Siti Fatima Binte Azmi</p>
 <h4>Vision</h4>
 <p>Moulding Entrepreneurs of Tomorrow</p>
 <h4>Mission</h4>
