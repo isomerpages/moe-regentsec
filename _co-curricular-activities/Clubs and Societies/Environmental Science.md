@@ -10,8 +10,10 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Ms Karen Lee Chai Lin - IC
-<br>Mdm Zainab Banu Binte Hassan
-<br>Ms Sally Hong</p>
+<br>Mdm Zainab Banu Binte Hassan <em>(IC from Jan to Apr 2026)</em>
+<br>Ms Sally Hong
+<br>Mdm Wang Wenxian - <em>Sem 1 2026</em>
+</p>
 <h4>Vision</h4>
 <p>Everyone in the community is an environment advocate</p>
 <h4>Mission</h4>

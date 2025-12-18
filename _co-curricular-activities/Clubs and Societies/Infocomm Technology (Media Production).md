@@ -6,11 +6,12 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Technology/INFOCOMBanner%20-%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/INFOCOMBanner___2026.jpg">
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Mdm Tan Ching Hsia Julie - IC
-<br>Mr Muhammad Fauzan Bin Sapuan</p>
+<br>Ms Lim Hui Min, Vanessa
+<br>Mdm Samsiyah Bte Sakoryah</p>
 <h4>Vision</h4>
 <p>To develop Regenites to be a future-ready and responsible digital learner.</p>
 <h4>Mission</h4>
