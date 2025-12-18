@@ -11,8 +11,8 @@ variant: tiptap
 <h4>Teachers-in-charge</h4>
 <p>Ms Hap Guilian - IC
 <br>Ms Tan Zi Hyn Judith
-<br>Ms Grace Tan
-<br>Mr Ng Kian Hong</p>
+<br>Mr Ng Kian Hong
+<br>Mr Muhammad Fauzan Bin Sapuan</p>
 <h4>Vision</h4>
 <p>To nurture strong character through positive competition and to strive
 for excellence in all badminton endeavours.</p>
