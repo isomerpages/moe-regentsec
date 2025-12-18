@@ -4,6 +4,22 @@ permalink: /self-directed-learners/academic-achievements/
 description: ""
 variant: tiptap
 ---
+<p><em>Congratulations to our 2025 'N' Level Examinations Top Performers!</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Achievements/GCEN_NT_TopPerformer_2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Achievements/GCEN_NA_TopPerformer_2025_1.jpg">
+</div>
+<p></p>
+<h4>Past Academic Achievements</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2024 Cohort</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><em>Congratulations to our 2024 'O' Level Examinations Top Performers!</em>
 </p>
 <div class="isomer-image-wrapper">
@@ -19,12 +35,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_16_at_14_51_03.jpg">
 </div>
-<h4>Past Academic Achievements</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
-<summary><strong>2024</strong>
+<summary><strong>2023 Cohort</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><em>Congratulations to our 2023 'O' Level Examinations Top Performers!</em>
 </p>
 <div class="isomer-image-wrapper">
@@ -34,7 +52,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2023</strong>
+<summary><strong>2022 Cohort</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
