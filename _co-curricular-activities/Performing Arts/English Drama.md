@@ -10,7 +10,6 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Mdm Nur Hidayah Abdul Mansor - IC
-<br>Ms Lim Hui Min, Vanessa
 <br>Ms Lee Wen Chen
 <br>Mr Zachary Wong Jiann Tsong</p>
 <h4>Vision</h4>
