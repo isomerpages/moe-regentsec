@@ -10,7 +10,6 @@ variant: tiptap
 </div>
 <h4>Teachers-in-charge</h4>
 <p>Ms Nur Zahidah Binte A'aidil Shari - IC
-<br>Ms Jillyan Siow Pei Tian
 <br>Mdm Nor Rasidah Bte Mohd Salleh
 <br>Mr Koh Foo Lim, Wisely</p>
 <h4>Vision</h4>
