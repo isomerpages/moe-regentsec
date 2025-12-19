@@ -123,4 +123,18 @@ sections:
       description: DSA-Sec
       button: Find out more here
       url: /direct-school-admission/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Sales of Books & Uniforms (Secondary 1) 2026
+      subtitle: For Year 2026
+      id: infobar
+      description: Secondary 1 students in 2026
+      button: Click for more information
+      url: /sales-of-books-and-uniforms-secondary-1-2026/
 ---
