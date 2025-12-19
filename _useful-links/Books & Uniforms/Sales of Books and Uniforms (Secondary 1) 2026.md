@@ -3,6 +3,7 @@ title: Sales of Books and Uniforms (Secondary 1) 2026
 permalink: /sales-of-books-and-uniforms-secondary-1-2026/
 variant: markdown
 description: ""
+third_nav_title: Books & Uniforms
 ---
 #### Financial Assistance Scheme (FAS)  
 **Online purchase will not be available for students on FAS.**  

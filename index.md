@@ -15,6 +15,28 @@ sections:
         - title: Transformational Leaders
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
+  - infopic:
+      title: Secondary 1 Registration
+      subtitle: For year 2026
+      id: infopic
+      description: FAQs on registration process and first day of school.
+      button: Click here to find out more
+      alt: Image alt text
+      url: https://sites.google.com/moe.edu.sg/rgt2026s1registration/home
+      image: /images/Sec1Reg2026_infopicheader.png
+  - infobar:
+      title: Sales of Books & Uniforms (Secondary 1) 2026
+      subtitle: For Year 2026
+      id: infobar
+      description: Secondary 1 students in 2026
+      button: Click for more information
+      url: /sales-of-books-and-uniforms-secondary-1-2026/
+  - infobar:
+      title: GCE N-Level Results
+      subtitle: "2025"
+      id: infobar
+      button: Find out more here
+      url: /self-directed-learners/academic-achievements/
   - infobar:
       title: Year-End Sales of Books and Uniforms
       subtitle: For Year 2026
