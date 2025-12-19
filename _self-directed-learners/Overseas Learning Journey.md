@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4>2025 Overseas Cultural Immersion Trip</h4>
+<p>📌 <a href="https://www.regentsec.moe.edu.sg/secondary-2-3-cultural-immersion-trip-to-ho-chi-minh-city-vietnam-2025/" rel="noopener nofollow" target="_blank">Secondary 2 &amp; 3 Cultural Immersion Trip to Ho Chi Minh City, Vietnam 2025</a>
+</p>
 <p>📌 <a href="https://www.regentsec.moe.edu.sg/secondary-2-3-cultural-immersion-trip-to-surabaya-indonesia-2025/" rel="noopener nofollow" target="_blank">Secondary 2 &amp; 3 Cultural Immersion Trip to Surabaya, Indonesia 2025</a>
 </p>
 <p><strong>Past Overseas Learning Journey</strong>
