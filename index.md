@@ -32,6 +32,12 @@ sections:
       button: Click for more information
       url: /sales-of-books-and-uniforms-secondary-1-2026/
   - infobar:
+      title: GCE N-Level Results
+      subtitle: "2025"
+      id: infobar
+      button: Find out more here
+      url: /self-directed-learners/academic-achievements/
+  - infobar:
       title: Year-End Sales of Books and Uniforms
       subtitle: For Year 2026
       id: infobar
