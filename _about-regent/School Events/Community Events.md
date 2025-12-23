@@ -53,6 +53,9 @@ more opportunities to bring joy, connection, and creativity to our community!</p
 </div>
 <hr>
 <h2><strong>Reduce @ North West</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Community Events/ReduceAtNorthWest2025_1.jpg">
+</div>
 <p>Our Student Councillors went beyond the school gates to become young advocates
 for sustainability as part of the Reduce@North West initiative. Taking
 learning into the community, they played an active role in promoting environmentally
@@ -79,7 +82,7 @@ their belief that young people can be effective agents of change.</p>
 leads to action, and action is amplified through advocacy, positive change
 becomes a shared community effort—one that begins with students who care
 and choose to lead.</p>
-<hr>
+<p></p>
 <h4>Past Highlights</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
