@@ -14,6 +14,9 @@ to ring toss and even a beanbag knockoutl station—was created completely
 from scratch. The councillors also made a conscious effort to use mostly
 recycled and repurposed materials, reflecting our commitment to sustainability
 and caring for the environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Community Events/Limbang_10th_1.png">
+</div>
 <p>On the day of the event, the hard work truly paid off. De La Salle was
 filled with laughter, excitement, and the bright smiles of children eagerly
 participating in the activities. Their enthusiasm brought each booth to
@@ -23,3 +26,7 @@ preparation worthwhile.</p>
 <p>The Student Council and CCA leaders are proud to have contributed to this
 milestone celebration, and we look forward to many more opportunities to
 serve and connect with our wider community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Community Events/Limbang_10th_2.png">
+</div>
+<p></p>
