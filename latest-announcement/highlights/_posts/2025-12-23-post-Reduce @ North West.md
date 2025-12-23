@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Community Events/ReduceAtNorthWest2025_1.jpg">
+</div>
 <p>Our Student Councillors went beyond the school gates to become young advocates
 for sustainability as part of the Reduce@North West initiative. Taking
 learning into the community, they played an active role in promoting environmentally
@@ -17,6 +20,9 @@ reached out to residents using thoughtfully designed posters to raise awareness
 about energy and water conservation and the reduction of food wastage.
 They translated sustainability messages into practical, everyday actions,
 making the information accessible and relevant to households.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/Community Events/ReduceAtNorthWest2025_2.jpg">
+</div>
 <p>Through brief yet purposeful interactions, the students encouraged residents
 to take action by signing up for the initiative, explaining the benefits
 of participation and the collective impact of individual choices. In doing
