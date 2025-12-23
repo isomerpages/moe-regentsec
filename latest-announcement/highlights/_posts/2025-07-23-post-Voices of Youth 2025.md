@@ -42,7 +42,6 @@ space for everyone to share their views.</p>
 <p>As the event wrapped up, the students left with a clearer understanding
 of the issues around them and a stronger appreciation for the impact their
 voices can make—no matter how big or small.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/CYL/Voices_of_Youth_2025_4.jpg">
 </div>
