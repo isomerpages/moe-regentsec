@@ -30,25 +30,30 @@ with delivery is encouraged.</p>
 </ul>
 <p>3. For enquiries, please email to <a href="mailto:regent@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">regent@asencio.com.sg</a>
 </p>
-<p>4. Delivery Charges: $10 for books/ $6 for uniforms</p>
+<p>4. Delivery Charges: $11.99 for textbooks &amp; uniforms / $6.54 for uniforms
+only</p>
 <p>5. Walk-in purchases and self-collection at school's bookshop (near the
 canteen)</p>
 <h4>Booklist</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Regent_Secondary_2026___Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (S2)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_1_Blue.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (S1) 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Regent_Secondary_2026___Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 (S3)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (S2) 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Regent_Secondary_2026___Sec_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4 (S4)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 (S3) 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Regent_Secondary_2026___Sec_5.pdf" rel="noopener nofollow" target="_blank">Secondary 5 (S5)</a>
+<p><a href="/files/Regent_Secondary_2026___Sec_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4 (S4) 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Regent_Secondary_2026___Sec_5.pdf" rel="noopener nofollow" target="_blank">Secondary 5 (S5) 2026</a>
 </p>
 </li>
 </ul>
