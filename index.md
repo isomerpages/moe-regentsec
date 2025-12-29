@@ -79,6 +79,13 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
+        - title: Secondary 2 & 3 Cultural Immersion Trip to Ho Chi Minh City, Vietnam 2025
+          date: 19 December 2025
+          announcement: From 28 to 31 October 2025, our Secondary 2 and 3 students
+            embarked on a four-day, three-night cultural immersion programme to
+            Ho Chi Minh City, the largest city in southern Vietnam.
+          link_text: Read more about it here
+          link_url: /secondary-2-3-cultural-immersion-trip-to-ho-chi-minh-city-vietnam-2025/
         - title: Secondary One Cohort Camp 2025
           date: 13 October 2025
           announcement: In September this year, our Secondary 1 students embarked on an
@@ -111,15 +118,6 @@ sections:
             located in the heart of Singapore’s civic district.
           link_text: Read more about it here
           link_url: /sec-1g3-regentstorians-acm-visit/
-        - title: Sec 3 MOE-OBS Camp
-          date: 28 July 2025
-          announcement: The MOE-OBS Challenge Programme was conducted from 14 to 18 July.
-            A total of 178 adventurous Secondary 3 students took part in the
-            5-day/4-night residential programme designed to foster resilience,
-            teamwork, and leadership. The programme was held across three
-            locations — OBS campuses...
-          link_text: Read more about it here
-          link_url: /sec-3-moe-obs-camp/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
