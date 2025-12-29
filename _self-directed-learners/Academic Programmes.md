@@ -5,16 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Student Sign-Up Learning (SSUL)</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes/AcadProg_SSUL2026_2.jpg">
+</div>
 <p>In Regent, one of the ways students demonstrate self-directedness is by
 taking pride in their learning and actively approaching their teachers
 for consultation sessions to clarify their doubts through the Student Sign-Up
 Learning (SSUL) approach. Students will take the initiative to ask questions
 and monitor their progress in learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_SSUL-1A.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Programmes/AcadProg_SSUL-2A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic Programmes/AcadProg_SSUL2026_1.jpg">
 </div>
 <hr>
 <h2><strong>Enhancing Student Learning Experiences</strong></h2>
