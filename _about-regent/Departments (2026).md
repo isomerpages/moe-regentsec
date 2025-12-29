@@ -798,8 +798,8 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Shi Han<a href="mailto:ng_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>HOD
-- Science</p>
+<p>Mr Ng Shi Han
+<br>HOD - Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_shi_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_shi_han@moe.edu.sg</u></a>
