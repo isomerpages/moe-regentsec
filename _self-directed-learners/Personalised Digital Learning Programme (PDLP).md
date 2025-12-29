@@ -36,7 +36,7 @@ as an effective way to visualize and apply computational thinking concepts,
 helping students understand the steps involved in solving mathematical
 problems.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_2-POA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_2_POA2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -53,6 +53,9 @@ to craft rich sensory descriptions to enliven their writing. Through the
 activity, students became more confident and adept users of the PLD, employing
 tools such as Google Docs and Google Sheets to jot down and share their
 ideas with their teachers and peers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_3_EL2025.jpg">
+</div>
 <h3><strong>Collaborating on Research using Google Slides in Science</strong></h3>
 <p>Researching and building a prototype in Science often requires much collaboration
 and our young scientists at Regent Secondary School have learnt to do just
@@ -63,7 +66,7 @@ tools to gather information for building their water filters. The project
 culminated in an enriching sharing session using the digital posters they
 created with Google Slides to synthesise their learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_5-SCI.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/PDLP_5_SCI2025.jpg">
 </div>
 <h3><strong>Learning and Perfecting Technique in Physical Education</strong></h3>
 <p>The use of a Blended Learning approach in PE lessons enables students
