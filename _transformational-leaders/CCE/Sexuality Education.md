@@ -5,9 +5,8 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
-<p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
@@ -18,57 +17,30 @@ encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are to:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-students in managing their physiological, social and emotional changes
-as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
-students to make wise, informed and responsible decisions on sexuality
-matters.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
-develop a moral compass and respect for themselves and others by having
-positive mainstream values and attitudes about sexuality that are premised
-on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+Sexuality Education are to:</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (a) &nbsp;&nbsp; Support students in managing
+their physiological, social and emotional changes as they grow up and develop
+safe and healthy relationships.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (b) &nbsp;&nbsp; Guide students to make wise,
+informed and responsible decisions on sexuality matters.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (c) Help students develop a moral compass and
+respect for themselves and others by having positive mainstream values
+and attitudes about sexuality that are premised on the family as the basic
+unit of society.</p>
+<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
-respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
-positive relationships based on love and respect (which are the foundation
-for strong families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
-before marriage is the best protection against STIs/HIV and unintended
-pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (a) &nbsp;&nbsp; Love and respect yourself as
+you love and respect others;</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (b) &nbsp;&nbsp; Build positive relationships
+based on love and respect (which are the foundation for strong families);</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (c) &nbsp;&nbsp; Make responsible decisions
+for yourself, your family and society; and</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (d) &nbsp;&nbsp; Abstinence before marriage
+is the best protection against STIs/HIV and unintended pregnancies. Casual
+sex can harm and hurt you and your loved ones.</p>
+<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
+on MOE Sexuality Education.</p>
 <p><strong>Overview of REGENT Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
@@ -79,8 +51,9 @@ Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel
 information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (a) &nbsp;&nbsp; Science</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp; (b)&nbsp;&nbsp;&nbsp; Character and Citizenship
+Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
@@ -103,9 +76,8 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sexuality Education/Slide1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/Slide1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality Education/Slide2.png">
@@ -148,14 +120,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (please insert hyperlink:
-<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/695239bc99b04bd50f24cd88</a>). The completed form
-is to be submitted by 09/01/2026.</p>
+of the year and is also available <a href="https://form.gov.sg/695239bc99b04bd50f24cd88" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 09/01/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also available <u>here</u> (please insert hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6953839a7ad0ef22e0a883dd</a>).
-&nbsp;The completed form is to be submitted by 090/01/2026.</p>
+the year and is also available <a href="https://form.gov.sg/6953839a7ad0ef22e0a883dd" rel="noopener nofollow" target="_blank">here</a> . &nbsp;The
+completed form is to be submitted by 090/01/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a>&nbsp;or 6765 3828 for discussion or to seek clarification
+<a href="regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a>&nbsp;or 6765 3828 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
