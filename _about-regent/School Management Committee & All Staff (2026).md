@@ -601,7 +601,7 @@ variant: tiptap
 <p>Mr Tan Kai Yik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:tan_kai_yik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kai_yik@moe.edu.sg</a>
+<p><a href="mailto:tan_kai_yik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kai_yik@moe.edu.sg</a>
 </p>
 </td>
 </tr>
