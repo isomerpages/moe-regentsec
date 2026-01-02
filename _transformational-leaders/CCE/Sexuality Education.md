@@ -117,16 +117,6 @@ which are of prime concern at this age.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong>Sexuality Education lessons</strong> need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <a href="https://form.gov.sg/695239bc99b04bd50f24cd88" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 09/01/2026.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em> programme</strong> need to complete an
-opt-out form. This form will be communicated to parents at the start of
-the year and is also available <a href="https://form.gov.sg/6953839a7ad0ef22e0a883dd" rel="noopener nofollow" target="_blank">here</a> . &nbsp;The
-completed form is to be submitted by 090/01/2026.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a href="regent_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">regent_ss@moe.edu.sg</a>&nbsp;or 6765 3828 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
