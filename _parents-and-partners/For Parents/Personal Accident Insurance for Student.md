@@ -5,8 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<p>Parents may download the <a href="/files/GPA_Product_Fact_Sheet_Year_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">GP</a><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">file</a>
-<a href="/files/GPA_Product_Fact_Sheet_Year_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">A Student Product Fact Sheet (Year</a><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">2026</a><a href="/files/GPA_Product_Fact_Sheet_Year_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<p>Parents may download the <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">GPA Student Product Fact Sheet (Year 2026)</a>
 </p>
 <p>Parents who wish to apply for personal accident insurance may submit their
 e-application by clicking on the link: <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>&nbsp;&nbsp;&nbsp;</p>
