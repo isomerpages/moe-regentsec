@@ -17,7 +17,6 @@ there may be more out-of-pocket expenses for parents/guardians as there
 are caps to the MOE GPA insurance.</p>
 <p><strong>Information factsheet</strong>
 </p>
-<p>&nbsp;</p>
 <p>For comprehensive details about the insurance plan, including claims procedures
 and frequently asked questions, please visit NTUC Income's&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p>You may also view the terms and conditions of the insurance coverage via
@@ -36,7 +35,6 @@ please contact the General Office at 6765 3828 (Ms Mashita).</p>
 through the portal.</p>
 </li>
 </ul>
-<p>Please note that all claims are subject to the policy terms and conditions.</p>
-<p>
+<p>Please note that all claims are subject to the policy terms and conditions.
 <br>If you require more information on the claimable items, please contact
 our Zone Representative, Ms Cary Pang at 96390136 or via email at <a rel="noopener noreferrer nofollow" target="_blank">cary.pang@income.com.sg</a>.</p>
