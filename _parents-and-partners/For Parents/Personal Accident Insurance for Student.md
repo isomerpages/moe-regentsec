@@ -26,7 +26,7 @@ and frequently asked questions, please visit NTUC Income's&nbsp;<a href="https:/
 <ul data-tight="true" class="tight">
 <li>
 <p>All accident insurance claims must be submitted electronically through
-the Student GPA Claims Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a> or
+the Student GPA Claims Portal&nbsp;<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a> or
 via the QR below. If you require clarification on claim submission steps,
 please contact the General Office at 6765 3828 (Ms Mashita).</p>
 </li>
