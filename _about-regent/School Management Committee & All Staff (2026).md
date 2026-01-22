@@ -546,17 +546,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Mehta Shachi Pranav</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>S1 Empathy</strong>
 </p>
 </td>
@@ -940,17 +929,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwok_weng_meng_michael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_weng_meng_michael@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Lyana Binti Mohamad Zaky</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
