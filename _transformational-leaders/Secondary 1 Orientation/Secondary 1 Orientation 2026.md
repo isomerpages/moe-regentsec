@@ -34,3 +34,20 @@ cheers and skits.</p>
 <p>Overall, the Secondary 1 Orientation Programme was a resounding success,
 laying a strong foundation for friendships, confidence and a shared sense
 of belonging as students begin their secondary school journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Picture1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Picture2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Picture3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Picture4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Picture5.jpg">
+</div>
+<p></p>
