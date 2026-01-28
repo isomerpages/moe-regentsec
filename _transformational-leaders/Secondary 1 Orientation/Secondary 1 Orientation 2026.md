@@ -5,39 +5,32 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary 1 Orientation
 ---
-<p>During the first week of school in January 2025, Regent Secondary School
-welcomed our newly minted Secondary One students into our midst. With a
-specially curated Orientation program designed to help break the ice and
-ease them into the new environment, the Secondary One students participated
-in a range of activities led by Student Councillors, as new inductees into
-the Regent Family.</p>
-<p>Across the four days, the students blossomed from shy and quiet individuals
-into confident young ladies and gentlemen as they discovered more about
-the school and classmates through activities such as the mass games and
-Amazing Race around the school. Despite their initial shyness, many rose
-to the occasion and displayed impressive resilience in completing the challenges
-throughout the orientation.</p>
-<p>To end the Orientation with aplomb, the Secondary Ones showcased their
-class cheers and dances in front of their parents and teachers and finished
-with a rousing rendition of the school song. The pouring rain did not dampen
-their spirits and just like the fire that was ignited that night, we hope
-that all the Secondary One Regenites will continue living out our PRIDE
-values and blaze forth to glory as they start their new journey here.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Orientation/Sec1Orient2025_5.jpg">
-</div>
-<p></p>
-<p></p>
-<p></p>
+<p><strong><u>Secondary 1 Orientation Programme 2026: A Joyful Beginning</u></strong>
+</p>
+<p>From 2 to 9 January, Regent Secondary School buzzed with excitement and
+youthful energy as our Secondary 1 students took part in the Secondary
+1 Orientation Programme 2026. Carefully designed to support a smooth transition
+into secondary school life, the programme provided a meaningful and memorable
+start to their journey at the school.</p>
+<p>This year’s orientation centred on the theme of Class Values, encouraging
+students to reflect on the qualities that would guide them throughout their
+secondary school years. Orientation Group Leaders thoughtfully selected
+movies that embodied their respective class values, using familiar stories
+and characters to spark discussion and connection. Through these shared
+experiences, students explored values such as resilience, teamwork, kindness
+and perseverance, while forming early bonds with their classmates in a
+relaxed and engaging setting.</p>
+<p>A key highlight of the programme was the Amazing Race, where students
+worked together to complete a series of challenges around the school. These
+activities tested not only their problem-solving skills, but also their
+ability to communicate, cooperate and support one another. It was heartening
+to see students encouraging their peers and celebrating small successes
+as a class.</p>
+<p>The energy continued during the Mass Games, where coordinated movements
+and spirited cheering fostered a strong sense of unity and school pride.
+The programme concluded on a high note with a lively Campfire Night, as
+classes showcased their creativity and class spirit through performances,
+cheers and skits.</p>
+<p>Overall, the Secondary 1 Orientation Programme was a resounding success,
+laying a strong foundation for friendships, confidence and a shared sense
+of belonging as students begin their secondary school journey.</p>
