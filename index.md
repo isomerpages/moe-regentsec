@@ -50,15 +50,15 @@ sections:
             Develop and Dream.
           link_text: Read more about it here
           link_url: /transformational-leaders/cce/aspirations-programme/
-        - title: Secondary One Cohort Camp 2025
-          date: 13 October 2025
-          announcement: In September this year, our Secondary 1 students embarked on an
-            unforgettable four-day, three-night adventure at the MOE Changi
-            Coast Outdoor Adventure Learning Centre. The camp was designed to
-            challenge their limits, build resilience, and strengthen friendships
-            while having plenty of fun...
+        - title: Secondary 1 Orientation Programme 2026
+          date: 02 January 2026
+          announcement: From 2 to 9 January, Regent Secondary School buzzed with
+            excitement and youthful energy as our Secondary 1 students took part
+            in the Secondary 1 Orientation Programme 2026. Carefully designed to
+            support a smooth transition into secondary school life, the
+            programme
           link_text: Read more about it here
-          link_url: /transformational-leaders/sec-1-cohort-camp/
+          link_url: transformational-leaders/secondary-1-orientation/secondary-1-orientation-2025/
         - title: Secondary 2 & 3 Cultural Immersion Trip to Surabaya, Indonesia 2025
           date: 18 September 2025
           announcement: From 3 to 6 June 2025, our Secondary 2 and 3 students travelled to
