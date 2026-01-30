@@ -59,29 +59,6 @@ sections:
             programme
           link_text: Read more about it here
           link_url: transformational-leaders/secondary-1-orientation/secondary-1-orientation-2025/
-        - title: Secondary 2 & 3 Cultural Immersion Trip to Surabaya, Indonesia 2025
-          date: 18 September 2025
-          announcement: From 3 to 6 June 2025, our Secondary 2 and 3 students travelled to
-            Surabaya, Indonesia’s second-largest city, for a 4-day, 3-night
-            cultural and immersion programme.
-          link_text: Read more about it here
-          link_url: /secondary-2-3-cultural-immersion-trip-to-surabaya-indonesia-2025/
-        - title: Racial Harmony Day 2025
-          date: 13 August 2025
-          announcement: On 22 July 2025, Regent Secondary School came alive with vibrant
-            performances, heartfelt stories, and the united spirit of our
-            multicultural community as we celebrated Racial Harmony Day. This
-            year’s theme, “Our People, Our Tapestry”, shone a spotlight on how
-            Singapore’s diverse cultural threads...
-          link_text: Read more about it here
-          link_url: /racial-harmony-day-2025/
-        - title: Sec 1G3 Regentstorians ACM Visit
-          date: 12 August 2025
-          announcement: On July 16th, the Secondary 1 Regentstorians embarked on a
-            meaningful learning journey to the Asian Civilisations Museum (ACM),
-            located in the heart of Singapore’s civic district.
-          link_text: Read more about it here
-          link_url: /sec-1g3-regentstorians-acm-visit/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
