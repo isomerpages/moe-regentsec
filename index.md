@@ -59,6 +59,11 @@ sections:
             programme
           link_text: Read more about it here
           link_url: transformational-leaders/secondary-1-orientation/secondary-1-orientation-2025/
+        - title: CNY 2026
+          date: 06 February 2026
+          announcement: CNY Inter-Class Domino challenge 2026
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
