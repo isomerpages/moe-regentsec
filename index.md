@@ -62,8 +62,8 @@ sections:
         - title: CNY 2026
           date: 06 February 2026
           announcement: CNY Inter-Class Domino challenge 2026
-          link_text: ""
-          link_url: ""
+          link_text: Read more about it here
+          link_url: /cny-celebrations-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
