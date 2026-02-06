@@ -23,3 +23,16 @@ recycled and reused materials into their designs, serving as a timely reminder
 of our shared environmental responsibility.</p>
 <p>The event was a joyful reminder that celebrating cultural traditions can
 also inspire teamwork, creativity, and greater environmental awareness.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_Domino_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_Domino_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_Domino_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_Domino_8.jpg">
+</div>
+<p></p>
