@@ -66,4 +66,3 @@ and career aspirations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Polytechnic_Open_House_2026_1.jpg">
 </div>
 <p></p>
-<p></p>
