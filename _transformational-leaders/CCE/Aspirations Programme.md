@@ -59,11 +59,10 @@ and career aspirations.</p>
 </div>
 <p>Industry Learning Journeys</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Industry_Learning_Journeys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Industry_Learning_Journeys_1.jpg">
 </div>
 <p>Polytechnic Open House 2026</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Polytechnic_Open_House_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Polytechnic_Open_House_2026_1.jpg">
 </div>
-<p></p>
 <p></p>
