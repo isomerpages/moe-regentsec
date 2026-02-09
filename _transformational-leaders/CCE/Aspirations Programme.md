@@ -49,54 +49,21 @@ and interacted directly with industry professionals.
 empowering students to take confident steps towards achieving their educational
 and career aspirations.</p>
 <p></p>
-<p>Sec 2 Career Life Design Game
-<br>
-</p>
+<p>Sec 2 Career Life Design Game</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Sec_2_Career_Life_Design_Game_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Sec_2_Career_Life_Design_Game_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Sec_2_Career_Life_Design_Game_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Sec_2_Career_Life_Design_Game_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_Career_Life_Design_Game.jpg">
 </div>
 <p>Industry Talks</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Talks_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Talks_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Talks_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Talks_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Industry_Talks.jpg">
 </div>
 <p>Industry Learning Journeys</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Learning_Journeys_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Learning_Journeys_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Learning_Journeys_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Industry_Learning_Journeys_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Industry_Learning_Journeys.jpg">
 </div>
 <p>Polytechnic Open House 2026</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Polytechnic_Open_House_2026_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aspirations Programme/Polytechnic_Open_House_2026_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Polytechnic_Open_House_2026.jpg">
 </div>
 <p></p>
 <p></p>
