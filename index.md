@@ -64,6 +64,11 @@ sections:
           announcement: CNY Inter-Class Domino challenge 2026
           link_text: Read more about it here
           link_url: /cny-celebrations-2026/
+        - title: Total Defence 2026
+          date: 12 February 2026
+          announcement: "Together We Keep Singapore Strong: Total Defence Day 2026"
+          link_text: Read more about it here
+          link_url: /total-defence-day-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
