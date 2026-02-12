@@ -68,7 +68,7 @@ sections:
           date: 12 February 2026
           announcement: "Together We Keep Singapore Strong: Total Defence Day 2026"
           link_text: Read more about it here
-          link_url: https://www.regentsec.moe.edu.sg/total-defence-day-2026/
+          link_url: /total-defence-day-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
