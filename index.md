@@ -69,6 +69,14 @@ sections:
           announcement: "Together We Keep Singapore Strong: Total Defence Day 2026"
           link_text: Read more about it here
           link_url: /total-defence-day-2026/
+        - title: "Safer Internet Day 2026: Empowering Students for a Better Digital
+            Future"
+          date: 16 February 2026
+          announcement: In celebration of Safer Internet Day on 10 February 2026, our
+            school organised an engaging and meaningful sharing session aimed at
+            promoting healthy, responsible digital habits among students.
+          link_text: Read more about it here
+          link_url: /safer-internet-day-2026-empowering-students-for-a-better-digital-future/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
