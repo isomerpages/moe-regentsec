@@ -50,15 +50,6 @@ sections:
             Develop and Dream.
           link_text: Read more about it here
           link_url: /transformational-leaders/cce/aspirations-programme/
-        - title: Secondary 1 Orientation Programme 2026
-          date: 02 January 2026
-          announcement: From 2 to 9 January, Regent Secondary School buzzed with
-            excitement and youthful energy as our Secondary 1 students took part
-            in the Secondary 1 Orientation Programme 2026. Carefully designed to
-            support a smooth transition into secondary school life, the
-            programme
-          link_text: Read more about it here
-          link_url: transformational-leaders/secondary-1-orientation/secondary-1-orientation-2025/
         - title: CNY 2026
           date: 06 February 2026
           announcement: CNY Inter-Class Domino challenge 2026
@@ -77,6 +68,15 @@ sections:
             promoting healthy, responsible digital habits among students.
           link_text: Read more about it here
           link_url: /safer-internet-day-2026-empowering-students-for-a-better-digital-future/
+        - title: Taiwan Immersion Programme 2025
+          date: 27 February 2026
+          announcement: From 28 to 31 October 2025, fourteen of our students, together
+            with three teachers, and our Principal, Mrs Sng, embarked on a
+            meaningful four-day Learning Journey to Taiwan, visiting Hsinchu and
+            Taipei. The trip provided valuable opportunities for cultural
+            exchange, innovation learning...
+          link_text: Read more about it here
+          link_url: /taiwan-immersion-programme-2025/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
