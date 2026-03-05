@@ -16,11 +16,10 @@ sections:
           description: ""
           url: /transformational-leaders/secondary-1-orientation/secondary-1-orientation-2024/
   - infobar:
-      title: CCAs at Regent
-      subtitle: E-Open House
+      title: Success Stories
       id: infobar
-      button: Click here to watch the video
-      url: https://youtu.be/2t7OXydAvl8
+      button: CLICK HERE TO READ MORE
+      url: /success-stories/
   - infopic:
       title: Echoes of Regent
       subtitle: School Publication
