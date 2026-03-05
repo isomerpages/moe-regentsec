@@ -19,7 +19,7 @@ sections:
       title: Success Stories
       id: infobar
       button: CLICK HERE TO READ MORE
-      url: /2025-top-o-level-and-n-level/
+      url: /success-stories/
   - infopic:
       title: Echoes of Regent
       subtitle: School Publication
