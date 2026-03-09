@@ -4,6 +4,9 @@ permalink: /self-directed-learners/pdlp/
 description: ""
 variant: tiptap
 ---
+<p>For more information on PLDs purchased in 2025 and before, please refer
+to the following <a href="/files/Student_Device_Information_Kit_For_PLDs_purchased_in_2025_and_before.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Student Device Information Kit</u></a>
+</p>
 <h2><strong>Enriching School Experience – Developing Digital Learners</strong></h2>
 <h3><strong>Gathering Information and Digital Preparation in Art</strong></h3>
 <p>The Personal Learning Device (PLD) has been invaluable in Art lessons
