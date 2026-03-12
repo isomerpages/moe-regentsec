@@ -49,11 +49,6 @@ sections:
             Develop and Dream.
           link_text: Read more about it here
           link_url: /transformational-leaders/cce/aspirations-programme/
-        - title: CNY 2026
-          date: 06 February 2026
-          announcement: CNY Inter-Class Domino challenge 2026
-          link_text: Read more about it here
-          link_url: /cny-celebrations-2026/
         - title: Total Defence 2026
           date: 12 February 2026
           announcement: "Together We Keep Singapore Strong: Total Defence Day 2026"
@@ -76,6 +71,11 @@ sections:
             exchange, innovation learning...
           link_text: Read more about it here
           link_url: /taiwan-immersion-programme-2025/
+        - title: School Canteen Application 2026
+          date: 12 March 2026
+          announcement: School Canteen Application
+          link_text: Read more about it here
+          link_url: /school-canteen-advertisement-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
