@@ -7,47 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Type of Stall</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Closing Date</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Requirements</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Halal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Dec 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Open to proposal</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -57,11 +16,8 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Application Form for individual stallholder</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form for individual
+stallholder</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
@@ -74,28 +30,21 @@ General Office.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For Individuals</p>
+<p>or Individuals</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Photocopy of the NRIC (front and back)</p>
-</li>
-<li>
-<p>List of proposed menu and pricing for all items</p>
-</li>
-<li>
-<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
-etc</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and
+back)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu and pricing
+for all items</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates
+such as Food Safety Course Level 1, etc</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
@@ -114,8 +63,7 @@ School’s General Office by the closing date.</p>
 </ul>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p><strong>How to get there?</strong>
+<p>&nbsp;<strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -125,9 +73,7 @@ School’s General Office by the closing date.</p>
 <p>Bus number: 307 and 979 - 2 minutes walk</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Interested applicants must meet the following criteria:</strong>
+<p><strong>&nbsp;Interested applicants must meet the following criteria:</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -177,9 +123,7 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Note to successful applicants:</strong>
+<p><strong>&nbsp;Note to successful applicants:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -195,8 +139,3 @@ Singapore Food Agency (SFA) to operate the stall.</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
 <p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
