@@ -7,6 +7,40 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Dec 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open to proposal</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
