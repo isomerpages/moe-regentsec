@@ -49,11 +49,6 @@ sections:
             Develop and Dream.
           link_text: Read more about it here
           link_url: /transformational-leaders/cce/aspirations-programme/
-        - title: Total Defence 2026
-          date: 12 February 2026
-          announcement: "Together We Keep Singapore Strong: Total Defence Day 2026"
-          link_text: Read more about it here
-          link_url: /total-defence-day-2026/
         - title: "Safer Internet Day 2026: Empowering Students for a Better Digital
             Future"
           date: 16 February 2026
@@ -76,6 +71,15 @@ sections:
           announcement: School Canteen Application
           link_text: Read more about it here
           link_url: /school-canteen-advertisement-2026/
+        - title: NUS Geography Challenge 2026
+          date: 24 March 2026
+          announcement: On 28 February 2026, four of our students – Annisa Nur
+            Khalifatunisa, Patsinee Sastryoungkul, Hadden Chai Zheng Zhe and
+            Chua Ying Xuan – proudly represented Regent Secondary School at the
+            NUS Geography Challenge 2026, organised by the Department of
+            Geography...
+          link_text: Read more about it here
+          link_url: /nus-geography-challenge-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
