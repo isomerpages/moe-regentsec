@@ -42,13 +42,6 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
-        - title: Aspiration Programme
-          date: 02 January 2026
-          announcement: Regent Secondary School’s Aspirations Programme is anchored on the
-            4-D Education and Career Guidance (ECG) approach — Discover, Decide,
-            Develop and Dream.
-          link_text: Read more about it here
-          link_url: /transformational-leaders/cce/aspirations-programme/
         - title: "Safer Internet Day 2026: Empowering Students for a Better Digital
             Future"
           date: 16 February 2026
@@ -80,6 +73,15 @@ sections:
             Geography...
           link_text: Read more about it here
           link_url: /nus-geography-challenge-2026/
+        - title: "CCE-CCA led Gratitude Challenge 2026: Cultivating a Culture of
+            Appreciation"
+          date: 24 March 2026
+          announcement: The final CCE lesson of Term 1 marked the launch of the CCE-CCA
+            led Gratitude Challenge, a school-wide initiative designed to
+            cultivate appreciation, strengthen relationships and provide
+            meaningful closure for our graduating students...
+          link_text: Read more about it here
+          link_url: /cce-cca-led-gratitude-challenge-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
