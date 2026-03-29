@@ -42,29 +42,11 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
-        - title: Taiwan Immersion Programme 2025
-          date: 27 February 2026
-          announcement: From 28 to 31 October 2025, fourteen of our students, together
-            with three teachers, and our Principal, Mrs Sng, embarked on a
-            meaningful four-day Learning Journey to Taiwan, visiting Hsinchu and
-            Taipei. The trip provided valuable opportunities for cultural
-            exchange, innovation learning...
-          link_text: Read more about it here
-          link_url: /taiwan-immersion-programme-2025/
         - title: School Canteen Application 2026
           date: 12 March 2026
           announcement: School Canteen Application
           link_text: Read more about it here
           link_url: /school-canteen-advertisement-2026/
-        - title: NUS Geography Challenge 2026
-          date: 24 March 2026
-          announcement: On 28 February 2026, four of our students – Annisa Nur
-            Khalifatunisa, Patsinee Sastryoungkul, Hadden Chai Zheng Zhe and
-            Chua Ying Xuan – proudly represented Regent Secondary School at the
-            NUS Geography Challenge 2026, organised by the Department of
-            Geography...
-          link_text: Read more about it here
-          link_url: /nus-geography-challenge-2026/
         - title: "CCE-CCA led Gratitude Challenge 2026: Cultivating a Culture of
             Appreciation"
           date: 24 March 2026
@@ -80,6 +62,22 @@ sections:
             West Zone.
           link_text: Read more about it here
           link_url: /congratulations-netball-b-division-team/
+        - title: "Mother Tongue Fortnight 2026: Celebrating Culture and Heritage"
+          date: 29 March 2026
+          announcement: From 2 to 13 March 2026, Regent Secondary School hosted its annual
+            Mother Tongue Fortnight, offering students meaningful opportunities
+            to explore and appreciate the richness of their Mother Tongue
+            languages and cultures.
+          link_text: Read more about it here
+          link_url: /mother-tongue-fortnight-2026-celebrating-culture-and-heritage/
+        - title: "New AnnouIntegration Programme 2026: Building Connections Across
+            Culturesncement"
+          date: 29 March 2026
+          announcement: On 5 March 2026, Regent Secondary School organised an integration
+            programme aimed at fostering connection, collaboration and a strong
+            sense of belonging among students from diverse cultural backgrounds.
+          link_text: Read more about it here
+          link_url: /integration-programme-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
