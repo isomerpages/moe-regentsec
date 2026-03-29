@@ -56,4 +56,27 @@ of purpose and motivation to acquire knowledge and skills of the subject.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied Learning Modules/ApLM2025_6.jpg">
 </div>
+<p><strong><u>Principles of Accounts Applied Learning Modules (ApLM)</u></strong>
+</p>
+<p>During the March school holidays, our Secondary 3 Principles of Accounts
+(POA) students participated in a three-day course, <em>“Marketing in Action,”</em> conducted
+by Ngee Ann Polytechnic. Equipped with knowledge of how businesses operate
+and are accounted for during their POA lessons in school (e.g. accounting
+for cash, receivables, and inventory), this course allowed students to
+take a step further by exploring an important front-end aspect of business
+management.</p>
+<p>Through the programme, they acquired a basic understanding of a key marketing
+concept—the “4 Ps”: Product, Place, Promotion, and Price—through various
+case studies and real-life fieldwork.</p>
+<p>The concept of the 4 Ps was further reinforced during a learning journey
+to JEM and Westgate shopping malls, where students conducted research on
+how different businesses market their products to customers. Thereafter,
+the students worked in groups to design their own marketing plans. Applying
+the marketing concepts they had learned, they were able to develop holistic
+plans that also incorporated accounting principles from their POA lessons.</p>
+<p>Overall, it was an enriching opportunity for students to broaden their
+understanding of the various aspects of running a business beyond POA.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/POA_ALPM_collage.jpg">
+</div>
 <p></p>
