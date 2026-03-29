@@ -42,14 +42,6 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
-        - title: "Safer Internet Day 2026: Empowering Students for a Better Digital
-            Future"
-          date: 16 February 2026
-          announcement: In celebration of Safer Internet Day on 10 February 2026, our
-            school organised an engaging and meaningful sharing session aimed at
-            promoting healthy, responsible digital habits among students.
-          link_text: Read more about it here
-          link_url: /safer-internet-day-2026-empowering-students-for-a-better-digital-future/
         - title: Taiwan Immersion Programme 2025
           date: 27 February 2026
           announcement: From 28 to 31 October 2025, fourteen of our students, together
@@ -82,6 +74,12 @@ sections:
             meaningful closure for our graduating students...
           link_text: Read more about it here
           link_url: /cce-cca-led-gratitude-challenge-2026/
+        - title: Regent Netball CCA
+          date: 29 March 2026
+          announcement: Congratulations! Third Place in the National School Games for the
+            West Zone.
+          link_text: Read more about it here
+          link_url: /congratulations-netball-b-division-team/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
