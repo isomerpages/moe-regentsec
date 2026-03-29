@@ -42,15 +42,6 @@ sections:
       title: Announcements & Highlights
       id: announcements
       announcement_items:
-        - title: Taiwan Immersion Programme 2025
-          date: 27 February 2026
-          announcement: From 28 to 31 October 2025, fourteen of our students, together
-            with three teachers, and our Principal, Mrs Sng, embarked on a
-            meaningful four-day Learning Journey to Taiwan, visiting Hsinchu and
-            Taipei. The trip provided valuable opportunities for cultural
-            exchange, innovation learning...
-          link_text: Read more about it here
-          link_url: /taiwan-immersion-programme-2025/
         - title: School Canteen Application 2026
           date: 12 March 2026
           announcement: School Canteen Application
@@ -80,6 +71,14 @@ sections:
             West Zone.
           link_text: Read more about it here
           link_url: /congratulations-netball-b-division-team/
+        - title: "Mother Tongue Fortnight 2026: Celebrating Culture and Heritage"
+          date: 29 March 2026
+          announcement: From 2 to 13 March 2026, Regent Secondary School hosted its annual
+            Mother Tongue Fortnight, offering students meaningful opportunities
+            to explore and appreciate the richness of their Mother Tongue
+            languages and cultures.
+          link_text: Read more about it here
+          link_url: /mother-tongue-fortnight-2026-celebrating-culture-and-heritage/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
