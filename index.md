@@ -70,8 +70,7 @@ sections:
             languages and cultures.
           link_text: Read more about it here
           link_url: /mother-tongue-fortnight-2026-celebrating-culture-and-heritage/
-        - title: "New AnnouIntegration Programme 2026: Building Connections Across
-            Culturesncement"
+        - title: "Integration Programme 2026: Building Connections Across Cultures"
           date: 29 March 2026
           announcement: On 5 March 2026, Regent Secondary School organised an integration
             programme aimed at fostering connection, collaboration and a strong
