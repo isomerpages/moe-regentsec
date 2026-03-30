@@ -63,12 +63,15 @@ sections:
             meaningful closure for our graduating students...
           link_text: Read more about it here
           link_url: /cce-cca-led-gratitude-challenge-2026/
-        - title: Regent Netball CCA
+        - title: NUS Geography Challenge 2026
           date: 29 March 2026
-          announcement: Congratulations! Third Place in the National School Games for the
-            West Zone.
+          announcement: On 28 February 2026, four of our students – Annisa Nur
+            Khalifatunisa, Patsinee Sastryoungkul, Hadden Chai Zheng Zhe and
+            Chua Ying Xuan – proudly represented Regent Secondary School at the
+            NUS Geography Challenge 2026, organised by the Department of
+            Geography at the National University of Singapore.
           link_text: Read more about it here
-          link_url: /congratulations-netball-b-division-team/
+          link_url: /nus-geography-challenge-2026/
         - title: "Mother Tongue Fortnight 2026: Celebrating Culture and Heritage"
           date: 29 March 2026
           announcement: From 2 to 13 March 2026, Regent Secondary School hosted its annual
