@@ -21,6 +21,13 @@ sections:
       button: CLICK HERE TO READ MORE
       url: /success-stories/
   - infopic:
+      title: Regent Netball B Division
+      subtitle: Congratulations
+      id: infopic
+      description: Winning Third Placing in the National School Games for the West Zone
+      image: /images/Congratulations_Netball_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Echoes of Regent
       subtitle: School Publication
       id: infopic
