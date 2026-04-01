@@ -2,10 +2,10 @@ collections:
   about-regent:
     output: true
     order:
-      - School Leader's Messages/Vice Principal 2.md
-      - School Leader's Messages/Vice Principal 1.md
-      - School Leader's Messages/School Leaders’ Messages.md
       - School Leader's Messages/.keep
+      - School Leader's Messages/School Leaders’ Messages.md
+      - School Leader's Messages/Vice Principal 1.md
+      - School Leader's Messages/Vice Principal 2.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Song.md
