@@ -4,7 +4,7 @@ permalink: /principal-s-address/
 variant: tiptap
 description: ""
 ---
-<p><strong>Principal’s Address</strong>
+<p><strong>Principal’s Message</strong>
 </p>
 <p>Welcome to Regent Secondary School! As you navigate our website, I hope
 you catch a glimpse of the vibrant energy and "blazing spirit" that defines
