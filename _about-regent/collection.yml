@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Leaders' Messages/.keep
-      - School Leaders' Messages/Principals’ Message.md
+      - School Leaders' Messages/Principal's Message.md
       - School Leaders' Messages/Vice Principal 1's Message.md
       - School Leaders' Messages/Vice Principal 2's Message.md
       - Vision, Mission & Values/.keep
