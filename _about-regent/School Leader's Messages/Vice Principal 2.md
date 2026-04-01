@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Leader's Messages
 ---
-<p><strong>Vice-Principal’s Address</strong>
+<p><strong>Vice-Principal’s Message</strong>
 <br>
 <br>In Regent Secondary School, every student is a unique story of growth
 and development to be told. Our commitment is to provide the inspiration
