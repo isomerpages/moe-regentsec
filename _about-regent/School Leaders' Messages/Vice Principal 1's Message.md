@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Leaders' Messages
 ---
-<p><strong>Vice-Principal’s Message</strong>
+<p><strong>Vice-Principal 1’s Message</strong>
 <br>
 <br><strong>“What will I be in the future?”</strong> Young minds often ask
 this question of their parents, teachers, and friends as they journey through
