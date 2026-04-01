@@ -2,10 +2,10 @@ collections:
   about-regent:
     output: true
     order:
+      - Principal’s Address.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Song.md
-      - Principal’s Address.md
       - School Advisory Committee.md
       - School Management Committee & All Staff (2026).md
       - Departments (2026).md
