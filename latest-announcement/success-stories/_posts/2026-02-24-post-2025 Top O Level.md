@@ -138,7 +138,7 @@ of 10, and I will be enrolling in Republic Polytechnic’s Environmental
 and Marine Science course. I am grateful for the opportunities and support
 I received throughout my time in Regent, which helped shape who I am today.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NORA_SAUNG__O_Level_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nora_Saung.jpg">
 </div>
 <p>I studied at Regent Secondary School from 2022 to 2025. As an international
 student who had not previously studied in Singapore, joining in Secondary
