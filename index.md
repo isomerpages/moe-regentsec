@@ -54,24 +54,6 @@ sections:
           announcement: School Canteen Application
           link_text: Read more about it here
           link_url: /school-canteen-advertisement-2026/
-        - title: "CCE-CCA led Gratitude Challenge 2026: Cultivating a Culture of
-            Appreciation"
-          date: 24 March 2026
-          announcement: The final CCE lesson of Term 1 marked the launch of the CCE-CCA
-            led Gratitude Challenge, a school-wide initiative designed to
-            cultivate appreciation, strengthen relationships and provide
-            meaningful closure for our graduating students...
-          link_text: Read more about it here
-          link_url: /cce-cca-led-gratitude-challenge-2026/
-        - title: NUS Geography Challenge 2026
-          date: 29 March 2026
-          announcement: On 28 February 2026, four of our students – Annisa Nur
-            Khalifatunisa, Patsinee Sastryoungkul, Hadden Chai Zheng Zhe and
-            Chua Ying Xuan – proudly represented Regent Secondary School at the
-            NUS Geography Challenge 2026, organised by the Department of
-            Geography at the National University of Singapore.
-          link_text: Read more about it here
-          link_url: /nus-geography-challenge-2026/
         - title: "Mother Tongue Fortnight 2026: Celebrating Culture and Heritage"
           date: 29 March 2026
           announcement: From 2 to 13 March 2026, Regent Secondary School hosted its annual
@@ -87,6 +69,21 @@ sections:
             sense of belonging among students from diverse cultural backgrounds.
           link_text: Read more about it here
           link_url: /integration-programme-2026/
+        - title: Education and Career Guidance (ECG) on the Move 2026
+          date: 20 April 2026
+          announcement: From 30 March 2026 to 2 April 2026, several Education and Career
+            Guidance (ECG) booths and panels were set up next to the canteen in
+            the school......
+          link_text: ""
+          link_url: ""
+        - title: "Let’s R.O.W. (Reduce Our Water): World Water Day 2026"
+          date: 20 April 2026
+          announcement: On 22 March 2026, Regent Secondary School marked World Water Day
+            with a vibrant line-up of activities designed to deepen awareness of
+            global water challenges and inspire action. Anchored in this year’s
+            theme, ...
+          link_text: Read more about it here
+          link_url: /world-water-day-2026/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
