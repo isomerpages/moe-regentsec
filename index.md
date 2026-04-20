@@ -54,15 +54,6 @@ sections:
           announcement: School Canteen Application
           link_text: Read more about it here
           link_url: /school-canteen-advertisement-2026/
-        - title: "CCE-CCA led Gratitude Challenge 2026: Cultivating a Culture of
-            Appreciation"
-          date: 24 March 2026
-          announcement: The final CCE lesson of Term 1 marked the launch of the CCE-CCA
-            led Gratitude Challenge, a school-wide initiative designed to
-            cultivate appreciation, strengthen relationships and provide
-            meaningful closure for our graduating students...
-          link_text: Read more about it here
-          link_url: /cce-cca-led-gratitude-challenge-2026/
         - title: NUS Geography Challenge 2026
           date: 29 March 2026
           announcement: On 28 February 2026, four of our students – Annisa Nur
@@ -87,6 +78,13 @@ sections:
             sense of belonging among students from diverse cultural backgrounds.
           link_text: Read more about it here
           link_url: /integration-programme-2026/
+        - title: Education and Career Guidance (ECG) on the Move 2026
+          date: 20 April 2026
+          announcement: From 30 March 2026 to 2 April 2026, several Education and Career
+            Guidance (ECG) booths and panels were set up next to the canteen in
+            the school......
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
