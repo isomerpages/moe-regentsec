@@ -54,14 +54,6 @@ sections:
           announcement: School Canteen Application
           link_text: Read more about it here
           link_url: /school-canteen-advertisement-2026/
-        - title: "Mother Tongue Fortnight 2026: Celebrating Culture and Heritage"
-          date: 29 March 2026
-          announcement: From 2 to 13 March 2026, Regent Secondary School hosted its annual
-            Mother Tongue Fortnight, offering students meaningful opportunities
-            to explore and appreciate the richness of their Mother Tongue
-            languages and cultures.
-          link_text: Read more about it here
-          link_url: /mother-tongue-fortnight-2026-celebrating-culture-and-heritage/
         - title: "Integration Programme 2026: Building Connections Across Cultures"
           date: 29 March 2026
           announcement: On 5 March 2026, Regent Secondary School organised an integration
@@ -84,6 +76,14 @@ sections:
             theme, ...
           link_text: Read more about it here
           link_url: /world-water-day-2026/
+        - title: "Hari Raya Celebrations 2026: Weaving Ties, Deepening Connections"
+          date: 20 April 2026
+          announcement: As the holy month of Ramadan came to a close, Regenites came
+            together to celebrate Hari Raya Aidilfitri, embracing the values of
+            gratitude, humility and togetherness while strengthening bonds
+            within the school community....
+          link_text: Read more about it here
+          link_url: /hari-raya-celebrations-2026-weaving-ties-deepening-connections/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
