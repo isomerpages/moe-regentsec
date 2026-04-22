@@ -54,13 +54,6 @@ sections:
           announcement: School Canteen Application
           link_text: Read more about it here
           link_url: /school-canteen-advertisement-2026/
-        - title: "Integration Programme 2026: Building Connections Across Cultures"
-          date: 29 March 2026
-          announcement: On 5 March 2026, Regent Secondary School organised an integration
-            programme aimed at fostering connection, collaboration and a strong
-            sense of belonging among students from diverse cultural backgrounds.
-          link_text: Read more about it here
-          link_url: /integration-programme-2026/
         - title: Education and Career Guidance (ECG) on the Move 2026
           date: 20 April 2026
           announcement: From 30 March 2026 to 2 April 2026, several Education and Career
@@ -84,6 +77,13 @@ sections:
             within the school community....
           link_text: Read more about it here
           link_url: /hari-raya-celebrations-2026-weaving-ties-deepening-connections/
+        - title: The Echoes of War
+          date: 22 April 2026
+          announcement: History came alive for our Secondary 2 students through The Echoes
+            of War Programme, an immersive learning journey to The Former Ford
+            Factory held on 24 March, 26 March, and 2 April...
+          link_text: Read more about it here
+          link_url: /the-echoes-of-war/
   - infopic:
       title: Singapore Book of Records
       subtitle: Highlights
