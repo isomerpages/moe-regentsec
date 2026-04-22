@@ -45,3 +45,8 @@ the lens of a historian and developed a deeper appreciation of the complexities
 of Singapore’s past. Ultimately, they gained more than just historical
 knowledge, as they also strengthened their sense of humanity, resilience
 and critical thinking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Echoes_of_War.jpg">
+</div>
+<p></p>
