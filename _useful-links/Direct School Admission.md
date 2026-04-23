@@ -1,10 +1,11 @@
 ---
 title: Direct School Admission
 permalink: /direct-school-admission/
-description: ""
 variant: tiptap
+description: ""
 ---
-<h3><strong>DSA application for Secondary One Admission in 2027 for Regent Secondary School.</strong></h3>
+<p><strong>DSA application for Secondary One Admission in 2027 for Regent Secondary School.</strong>
+</p>
 <p>We cordially invite eligible students in one of the following areas to
 apply:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership
@@ -14,6 +15,7 @@ apply:</p>
 <br>(Red Cross Youth, National Police Cadet Corps (NPCC), Boys’ Brigade and
 <br>Girls’ Brigade)</p>
 <p><strong>Students with these qualities should apply:</strong>
+<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -23,7 +25,7 @@ apply:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.regentsec.moe.edu.sg/transformational-leaders/learning-for-life-programme/community-youth-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership</a></strong>
+<p><strong>Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,12 +43,13 @@ and commitment to serve the peers, school and community</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have participated actively in community
 service activities</p>
 <p>3. Good character:</p>
-<p>Have obtained a Conduct Grade of at least 'Good' in Primary 5 and 6</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have obtained a Conduct Grade of
+at least 'Good' in Primary 5 and 6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a></strong>
+<p><strong>Concert Band</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,12 +62,13 @@ competition, festival or performance (e.g.: SYF, SIBF, SNYO, National Day
 Parade, Mosaic Music Festival)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participated in at least 2 performances
 to a live audience (e.g. school events/ public performance)</p>
-<p>Obtained any other outstanding achievement in relevant areas</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Obtained any other outstanding achievement
+in relevant areas</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Show Choir</a></strong>
+<p><strong>Show Choir</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,6 +79,7 @@ choir competition (e.g. B-Dazzled Show Choir Grand Festival, Singapore
 Youth Festival)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Obtained any other outstanding achievement
 in singing and dancing, preferably through a recognized event.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +88,9 @@ in singing and dancing, preferably through a recognized event.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Uniformed Groups consist of <u>Boys’ Brigade</u>, <u>Girls’ Brigade</u>, <u>NPCC</u> and <u>Red Cross Youth</u>
+<p>Our Uniformed Groups consist of <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/boys-brigade/" rel="noopener nofollow" target="_blank">Boys’ Brigade</a>,
+<a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/girls-brigade/" rel="noopener nofollow" target="_blank">Girls’ Brigade</a>, <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/npcc/" rel="noopener nofollow" target="_blank">NPCC</a> and
+<a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/red-cross-youth/" rel="noopener nofollow" target="_blank">Red Cross Youth</a>
 </p>
 <p>We are looking for applicants who exhibit all or some of the following
 qualities to join the school:</p>
@@ -92,13 +99,15 @@ qualities to join the school:</p>
 school (e.g. prefect, class monitor, sports leader)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good fitness level - Obtained at
 least a Silver Award in the Primary school NAPFA test</p>
-<p>Good character - Obtained a Conduct Grade of at least 'Good' in Primary
-5 and 6.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good character - Obtained a Conduct
+Grade of at least 'Good' in Primary 5 and 6</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>KEY DATES</strong></h4>
+<p><strong>KEY DATES</strong>
+</p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -113,14 +122,14 @@ least a Silver Award in the Primary school NAPFA test</p>
 <td rowspan="1" colspan="1">
 <p><strong>Application Opens</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
 <p>The DSA-Sec application is free-of-charge and can be submitted through
 the online DSA-Sec Portal*. &nbsp;For more details, please refer to MOE
 website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>.</p>
-<p></p>
+<p>&nbsp;</p>
 <p><em>*If you are a student studying in MOE mainstream primary school, you may login to the DSA-Sec Portal to apply via a parent’s Singpass <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-sec-application</u></a>. If you are unable to apply online, approach your Primary School for assistance.</em>
 </p>
-<p></p>
+<p>&nbsp;</p>
 <p><em>*If you are not from MOE mainstream primary school, you will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
 </td>
@@ -133,7 +142,7 @@ website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nof
 <td rowspan="1" colspan="1">
 <p><strong>Selection Period</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
 <p>You will receive notification from the school if your child has been shortlisted
 to undergo Direct School Admission (DSA) selection.</p>
 </td>
@@ -146,7 +155,7 @@ to undergo Direct School Admission (DSA) selection.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Preference Submission</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
 <p>Students who received offers through DSA-Sec should submit their preferred
 choice of schools through the DSA-Sec Portal.</p>
 </td>
@@ -159,13 +168,13 @@ choice of schools through the DSA-Sec Portal.</p>
 <td rowspan="1" colspan="1">
 <p><strong>DSA-Sec Allocation Results Release</strong>
 </p>
-<p></p>
+<p>&nbsp;</p>
 <p>Successful candidates studying in MOE mainstream school will receive their
 results together with their PSLE Results through their primary school.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>Candidates not studying in MOE mainstream schools will receive their DSA-Sec
 results via email.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>There are two possible allocation outcomes: successful or unsuccessful.</p>
 </td>
 </tr>
