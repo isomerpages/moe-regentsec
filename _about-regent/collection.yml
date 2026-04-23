@@ -2,7 +2,6 @@ collections:
   about-regent:
     output: true
     order:
-      - Highlights.md
       - School Leaders' Messages/.keep
       - School Leaders' Messages/Principal's Message.md
       - School Leaders' Messages/Vice Principal 1's Message.md
@@ -34,3 +33,4 @@ collections:
       - School Events/Science Department.md
       - School Events/Values In Action.md
       - School Calendar.md
+      - Highlights.md
