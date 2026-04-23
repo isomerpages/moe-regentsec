@@ -103,10 +103,16 @@ sections:
       url: /school-publication/
       image: /images/InfoPic Widget/InfoPic_School_Publication.png
   - infobar:
-      title: Direct School Admission for Secondary One in 2026
+      title: Direct School Admission for Secondary One in 2027
       subtitle: HIghlights
       id: infobar
       description: DSA-Sec
       button: Find out more here
       url: /direct-school-admission/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
