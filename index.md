@@ -111,7 +111,7 @@ sections:
       url: /direct-school-admission/
   - infobar:
       title: Infobar
-      subtitle: Add informational text
+      subtitle: HIGHLIGHTS
       id: infobar
       description: Infobar description
       button: Button Text
