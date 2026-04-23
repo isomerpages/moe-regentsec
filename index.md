@@ -110,9 +110,20 @@ sections:
       button: Find out more here
       url: /direct-school-admission/
   - infobar:
-      title: Infobar
+      title: An Afternoon with our Alumni
       subtitle: HIGHLIGHTS
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: An Afternoon with Our Alumni is a sharing session organised for our
+        Secondary 4 and 5 students to gain greater clarity on...
+      button: Find out more here
+      url: /an-afternoon-with-our-alumni/
+  - infobar:
+      title: International Friendship Day 2026
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: Our school celebrated International Friendship Day from 13 to15
+        April, with engaging activities centred on the theme “Forging
+        Friendships in a Complex World.”
+      button: Find out more here
+      url: /international-friendship-day-2026/
 ---
