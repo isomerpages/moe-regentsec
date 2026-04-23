@@ -9,8 +9,8 @@ description: ""
 <p>We cordially invite eligible students in one of the following areas to
 apply:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concert Band
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Show Choir
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/concert-band/" rel="noopener nofollow" target="_blank">Concert Band </a>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/choir/" rel="noopener nofollow" target="_blank">Show Choir </a>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uniformed Groups:
 <br>(Red Cross Youth, National Police Cadet Corps (NPCC), Boys’ Brigade and
 <br>Girls’ Brigade)</p>
@@ -49,7 +49,7 @@ at least 'Good' in Primary 5 and 6</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Concert Band</strong>
+<p><a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/concert-band/" rel="noopener nofollow" target="_blank">Concert Band</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ in relevant areas</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Show Choir</strong>
+<p><a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/choir/" rel="noopener nofollow" target="_blank">Show Choir</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
