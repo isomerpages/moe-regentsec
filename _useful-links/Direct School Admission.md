@@ -8,10 +8,10 @@ description: ""
 </p>
 <p>We cordially invite eligible students in one of the following areas to
 apply:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.regentsec.moe.edu.sg/transformational-leaders/learning-for-life-programme/community-youth-leadership/" rel="noopener nofollow" target="_blank">Leadership</a>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/concert-band/" rel="noopener nofollow" target="_blank">Concert Band </a>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/performing-arts/choir/" rel="noopener nofollow" target="_blank">Show Choir </a>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uniformed Groups:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.regentsec.moe.edu.sg/co-curricular-activities/uniformed-groups/boys-brigade/" rel="noopener nofollow" target="_blank">Uniformed Groups</a>:
 <br>(Red Cross Youth, National Police Cadet Corps (NPCC), Boys’ Brigade and
 <br>Girls’ Brigade)</p>
 <p><strong>Students with these qualities should apply:</strong>
