@@ -126,4 +126,12 @@ sections:
         Friendships in a Complex World.”
       button: Find out more here
       url: /international-friendship-day-2026/
+  - infobar:
+      title: "Gratitude in Action: Celebrating Our Families"
+      subtitle: Highlights
+      id: infobar
+      description: Infobar descriptionOn 27 April, Regent Secondary School conducted a
+        teacher-led Gratitude lesson aimed at helping students recognise...
+      button: Find out more here
+      url: /gratitude-in-action-celebrating-our-families/
 ---
