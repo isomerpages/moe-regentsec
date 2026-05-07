@@ -185,5 +185,9 @@ news and happenings in our unit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/World_Red_Cross_Day_First_Aid_Awards.jpg">
 </div>
-<p></p>
+<p><strong>Connect with us</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RedCross07052026.jpg">
+</div>
 <p></p>
