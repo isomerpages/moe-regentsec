@@ -57,7 +57,7 @@ of tomorrow with a strong service ethos.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Excellent Unit Award (2018 – <strong>2024</strong>) -&nbsp;<strong>Gold</strong>
+<p>Excellent Unit Award (2018 – <strong>2025</strong>) -&nbsp;<strong>Gold</strong>
 </p>
 </td>
 </tr>
@@ -133,33 +133,11 @@ of tomorrow with a strong service ethos.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Aid Championships (2025) -
-<br><strong>Bronze</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Connect With Us</h4>
 <p>Stay in touch with us on Instagram (<a href="https://www.instagram.com/regentrcy" rel="noopener noreferrer nofollow" target="_blank">@regentrcy</a>) for the latest
 news and happenings in our unit.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Red%20Cross%20Fun.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-3.jpeg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-4.jpeg">
 </div>
@@ -170,16 +148,7 @@ news and happenings in our unit.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-6.jpeg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-7.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-8.jpeg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-9.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red%20Cross%20Youth/RCY2023-10.jpeg">
 </div>
 <p><strong>World Red Cross Day Awards 2024</strong>
 </p>
@@ -216,5 +185,9 @@ news and happenings in our unit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/World_Red_Cross_Day_First_Aid_Awards.jpg">
 </div>
-<p></p>
+<p><strong>Connect with us</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RedCross07052026.jpg">
+</div>
 <p></p>
