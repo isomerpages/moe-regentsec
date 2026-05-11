@@ -24,64 +24,146 @@ community</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Concert%20Band%20Fun.jpg">
 </div>
-<p>Under the baton of Mr Nigel Leong and Ms Ng Siang Yee, the Regent Concert
-Band aims to provide a nurturing environment for our members to acquire
-good musical knowledge and proficiency in playing musical instruments.
-We nurture our students to be self-directed learners and confident leaders
-while they take on various responsibilities in the band. We also provide
-ample opportunities for our members to take on leadership roles and learn
-through competitions, camps, and exchanges with schools from Singapore
-and overseas.</p>
-<h4>Highlights and Achievements</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Under the baton of Mr Nigel Leong and Mr Bryan De Rozario, the Regent Concert Band aims to provide a nurturing environment for our members to acquire good musical knowledge and proficiency in playing musical instruments. We nurture our students to be self-directed learners and confident leaders while they take on various responsibilities in the band. We also provide ample opportunities for our members to take on leadership roles and learn through performances, camps, and exchanges with schools from Singapore and overseas.</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>2026</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Limbang Virtual Mid-Autumn Celebration Sep 2021</p>
+<p><strong>Regent Concert Band - OPUS XI 2026</strong>
+</p>
 </li>
 <li>
-<p>Inter-school collaboration with Pasir Ris Crest Secondary School January
-2021</p>
-</li>
-<li>
-<p>Singapore Youth Festival Arts Presentation April 2021- Certificate of
-Accomplishment</p>
-</li>
-<li>
-<p>North West Volunteers’ Appreciation March 2021</p>
-</li>
-<li>
-<p>National Day Virtual Performance August 2020</p>
-</li>
-<li>
-<p>Singapore Youth Festival (SYF) 2019- Certificate of Accomplishment</p>
-</li>
-<li>
-<p>Secondary 1 Orientation Performance</p>
-</li>
-<li>
-<p>School Band Exchange @ Raffles Institution</p>
-</li>
-<li>
-<p>Junior Bands in Concert @ The Republic Cultural Centre, Republic Polytechnic</p>
-</li>
-<li>
-<p>National Day Performance @ Yew Tee Hard Court</p>
-</li>
-<li>
-<p>Cultural Night @ Singapore Chinese Cultural Centre</p>
-</li>
-<li>
-<p>Exchange with Chisholm Catholic College, Perth, Australia in July 2019</p>
-</li>
-<li>
-<p>Euphonious 2019 – Includes combined performance with Chisholm Catholic
-College @ The Chinese Cultural Center.</p>
+<p><strong>Awards Day 2026</strong>
+</p>
 </li>
 </ul>
-<p><strong>To know more about us, follow us on our social medias!</strong>
+<p><strong>&nbsp;</strong>
 </p>
-<p><strong><em>Twitter: <a href="https://twitter.com/rgtwindsymphony" rel="noopener noreferrer nofollow" target="_blank">@rgtwindsymphony</a></em></strong>
-<br><strong><em>Youtube channel: <a href="https://www.youtube.com/@regentwindsymphony9217" rel="noopener noreferrer nofollow" target="_blank">rgtwindsymphony</a></em></strong>
+<p><strong>2025</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singapore Youth Festival Arts Presentation 2025 (Accomplishment)</strong>
+</p>
+</li>
+<li>
+<p><strong>Awards Day 2025</strong>
+</p>
+</li>
+<li>
+<p><strong>Regent National Day Celebrations Passing-out-parade 2025</strong>
+</p>
+</li>
+<li>
+<p><strong>Limbang National Day Dinner Celebrations 2025</strong>
+</p>
+</li>
+<li>
+<p><strong>Concert Band Exchange Programme @ Anglo-Chinese School (Barker Road)</strong>
+</p>
+</li>
+<li>
+<p><strong>Yamaha Band Workshop by Dr Emily Threinen 2025</strong>
+</p>
+</li>
+<li>
+<p><strong>SEP Omnikin Ball</strong>
+</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Regent Concert Band – OPUS X 2024</strong>
+</p>
+</li>
+<li>
+<p><strong>Awards Day 2024</strong>
+</p>
+</li>
+<li>
+<p><strong>Regent National Day Celebrations Passing-out-parade 2024</strong>
+</p>
+</li>
+<li>
+<p><strong>Limbang National Day Dinner Celebrations 2024</strong>
+</p>
+</li>
+<li>
+<p><strong>SEP Bowling</strong>
+</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singapore Youth Festival Arts Presentation 2023 (Accomplishment)</strong>
+</p>
+</li>
+<li>
+<p><strong>Awards Day 2023</strong>
+</p>
+</li>
+<li>
+<p><strong>Regent National Day Celebrations Passing-out-parade 2023</strong>
+</p>
+</li>
+<li>
+<p><strong>Limbang National Day Dinner Celebrations 2023</strong>
+</p>
+</li>
+<li>
+<p><strong>Regent Concert Band Family Concert 2023</strong>
+</p>
+</li>
+<li>
+<p><strong>Concert Band Exchange Programme @ Hwa Chong Instituion</strong>
+</p>
+</li>
+<li>
+<p><strong>Concert Band Exchange Programme @ St. Patrick’s School</strong>
+</p>
+</li>
+<li>
+<p><strong>Hosted a Band Exchange Programme with Pasir Ris Crest Secondary Concert Band</strong>
+</p>
+</li>
+<li>
+<p><strong>SEP Pool Ball</strong>
+</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>To know more about us, follow us on our social media!</strong>
+</p>
+<p><strong><em>Instagram: </em></strong><a href="https://www.instagram.com/rgtconcertband/" rel="noopener nofollow" target="_blank">@rgtconcertband</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/BAND-1.jpg">
 </div>
@@ -100,6 +182,6 @@ College @ The Chinese Cultural Center.</p>
 <hr>
 <h4>Regent Percussion Ensemble</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zj0nesKZooM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zj0nesKZooM"></iframe>
 </div>
 <p></p>
