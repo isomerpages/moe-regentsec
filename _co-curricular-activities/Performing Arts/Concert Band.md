@@ -17,13 +17,6 @@ variant: tiptap
 <h4>Mission</h4>
 <p>To advocate the love and appreciation for music within the school and
 community</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Concert%20Band%20Formal.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Concert%20Band%20Fun.jpg">
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -52,8 +45,25 @@ community</p>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opus_20261.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opus_20262.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opus_20263.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opus_20264.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards_day_2026.jpg">
+</div>
 <p><strong>2025</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -88,6 +98,25 @@ community</p>
 </ul>
 <p><strong>&nbsp;</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Limbang_National_Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACS_Exchange_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Emily_Threinen_2025.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEP_Omnikin_Ball.jpg">
+</div>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -112,8 +141,9 @@ community</p>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEP_BOWLING_2025.jpg">
+</div>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -154,8 +184,9 @@ community</p>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEP_PoolBall_2023.jpg">
+</div>
 <p><strong>To know more about us, follow us on our social media!</strong>
 </p>
 <p><strong><em>Instagram: </em></strong><a href="https://www.instagram.com/rgtconcertband/" rel="noopener nofollow" target="_blank">@rgtconcertband</a>
@@ -164,22 +195,6 @@ community</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/BAND-1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/BAND-2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/BAND-3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/BAND-4.jpg">
-</div>
-<hr>
 <h4>Regent Percussion Ensemble</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zj0nesKZooM"></iframe>
