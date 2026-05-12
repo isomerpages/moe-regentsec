@@ -18,9 +18,6 @@ variant: tiptap
 <h4>Mission</h4>
 <p>To uphold the values of compassion, passion, and professionalism as members
 of Singapore’s Red Cross Youth.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2022%20Red%20Cross%20Formal.jpg">
-</div>
 <h4>About Us</h4>
 <p>At Regent red cross youth, we strive to instil a spirit of compassion
 and dedication in our cadets, and to empower them to become confident leaders
