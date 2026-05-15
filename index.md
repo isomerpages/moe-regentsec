@@ -134,4 +134,12 @@ sections:
         teacher-led Gratitude lesson aimed at helping students recognise...
       button: Find out more here
       url: /gratitude-in-action-celebrating-our-families/
+  - infobar:
+      title: Awards Day 2026
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: Awards Day 2026, themed ‘In Pursuit of Excellence’, was a
+        meaningful celebration of the achievements, growth....
+      button: Find out more here
+      url: /awards-day-2026/
 ---
