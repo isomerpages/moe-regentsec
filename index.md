@@ -142,4 +142,11 @@ sections:
         meaningful celebration of the achievements, growth....
       button: Find out more here
       url: /awards-day-2026/
+  - infobar:
+      title: Bringing Literature to Life
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: Lower Secondary Literature Learning Journey
+      button: Find out more here
+      url: /bringing-literature-to-life-lower-secondary-literature-learning-journey/
 ---
