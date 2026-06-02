@@ -149,4 +149,11 @@ sections:
       description: Lower Secondary Literature Learning Journey
       button: Find out more here
       url: /bringing-literature-to-life-lower-secondary-literature-learning-journey/
+  - infobar:
+      title: "Student Leaders’ Investiture 2026:"
+      subtitle: Highlights
+      id: infobar
+      description: To Serve, To Lead, To Transform
+      button: Find out more here
+      url: /student-leaders-investiture-2026-to-serve-to-lead-to-transform/
 ---
