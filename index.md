@@ -156,4 +156,11 @@ sections:
       description: To Serve, To Lead, To Transform
       button: Find out more here
       url: /student-leaders-investiture-2026-to-serve-to-lead-to-transform/
+  - infobar:
+      title: Running As One Regent
+      subtitle: Highlights
+      id: infobar
+      description: Cross Country 2026
+      button: Find out more here
+      url: /running-as-one-regent/
 ---
