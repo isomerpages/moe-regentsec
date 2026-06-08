@@ -163,4 +163,11 @@ sections:
       description: Cross Country 2026
       button: Find out more here
       url: /running-as-one-regent/
+  - infobar:
+      title: E-Newsletter 2026 - Sem 1 Edition
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: ECHOES OF REGENT 2026 SEMESTER 1 EDITION
+      button: Find out more here
+      url: /e-newsletter-2026-sem-1-edition/
 ---
