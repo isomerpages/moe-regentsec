@@ -170,4 +170,11 @@ sections:
       description: ECHOES OF REGENT 2026 SEMESTER 1 EDITION
       button: Find out more here
       url: /e-newsletter-2026-sem-1-edition/
+  - infobar:
+      title: "Ray of Regent Sem 1:"
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: Celebrating Character in Action
+      button: Find out more here
+      url: /ray-of-regent-semester-1-celebrating-character-in-action/
 ---
