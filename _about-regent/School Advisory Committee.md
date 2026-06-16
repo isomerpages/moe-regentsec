@@ -39,14 +39,6 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Poon Joe Fai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Low Chin Kok, PBM</p>
 </td>
 </tr>
