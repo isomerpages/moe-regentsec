@@ -31,9 +31,9 @@ sections:
       title: Echoes of Regent
       subtitle: School Publication
       id: infopic
-      description: 2025 E-Newsletter
+      description: 2026 E-Newsletter  SEMESTER 1 EDITION
       button: Click here to view newsletter
-      url: /school-publication/
+      url: /e-newsletter-2026-sem-1-edition/
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
   - infopic:
@@ -163,13 +163,6 @@ sections:
       description: Cross Country 2026
       button: Find out more here
       url: /running-as-one-regent/
-  - infobar:
-      title: E-Newsletter 2026 - Sem 1 Edition
-      subtitle: HIGHLIGHTS
-      id: infobar
-      description: ECHOES OF REGENT 2026 SEMESTER 1 EDITION
-      button: Find out more here
-      url: /e-newsletter-2026-sem-1-edition/
   - infobar:
       title: "Ray of Regent Sem 1:"
       subtitle: HIGHLIGHTS
