@@ -31,9 +31,9 @@ sections:
       title: Echoes of Regent
       subtitle: School Publication
       id: infopic
-      description: 2025 E-Newsletter
+      description: 2026 E-Newsletter
       button: Click here to view newsletter
-      url: /school-publication/
+      url: /e-newsletter-2026-sem-1-edition/
       image: /images/InfoPic Widget/InfoPic_Echoes_of_Regent1.jpg
       alt: Image alt text
   - infopic:
