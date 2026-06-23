@@ -76,5 +76,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><em>(from June 2024)</em>
+<p><em>(from June 2026)</em>
 </p>
