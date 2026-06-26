@@ -40,15 +40,7 @@ of hurtful behaviours.</p>
 they don't mean. We help students understand the difference between occasional
 conflicts (which are normal) and persistent bullying behaviour, addressing
 each situation with care and appropriate support.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>How We Prevent Incidents</strong>
+<p><strong>&nbsp;How We Prevent Incidents</strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take
 a firm stance against hurtful behaviours and bullying</p>
@@ -86,17 +78,7 @@ support including school counselling, external referrals and community
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partnership
 with parents throughout the process, including informing parents at the
 earliest opportunity</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>How Parents Can Support</strong>
+<p><strong>&nbsp;How Parents Can Support</strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talk
 regularly with your child about school experiences and friendships</p>
