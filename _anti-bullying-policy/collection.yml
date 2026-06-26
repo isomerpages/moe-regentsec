@@ -1,0 +1,5 @@
+collections:
+  anti-bullying-policy:
+    output: true
+    order:
+      - Anti Bullying Policy.md
