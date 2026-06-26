@@ -546,6 +546,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mehta Shachi Pranav</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mehta_shachi_pranav_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mehta_shachi_pranav_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>S1 Empathy</strong>
 </p>
 </td>
@@ -625,10 +637,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Crystal Tay Yen Yen</p>
+<p>Ms Nur Zahidah Binte A'aidil Shari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:crystal_tay_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_tay_yen_yen@moe.edu.sg</a>
+<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -637,10 +649,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Zahidah Binte A'aidil Shari</p>
+<p>Jiang Yuhang Isaac</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zahidah_aaidil_shari_nur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahidah_aaidil_shari_nur@moe.edu.sg</a>
+<p><a href="mailto:isaac_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>isaac_jiang@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -871,6 +883,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chew Hui Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_hui_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_hui_ching@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>S3 Empathy</strong>
 </p>
 </td>
@@ -958,6 +982,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Lyana Binti Mohamad Zaky</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_lyana_mohamad_zaky@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_lyana_mohamad_zaky@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>S4 Pride</strong>
 </p>
 </td>
@@ -992,6 +1028,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hong_yang_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hong_yang_shawn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tong Wee Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tong_wee_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tong_wee_heng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1126,15 +1174,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sanmugam S/O Velandi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Adjt Operations Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ravisanker S/O Selvarajoo</p>
 </td>
 </tr>
 <tr>
