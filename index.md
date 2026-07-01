@@ -176,4 +176,10 @@ sections:
       id: infobar
       button: Find out more here
       url: /learning-journey-to-ite-college-west/
+  - infobar:
+      title: Let’s Be G.R.E.EN!
+      subtitle: HIGHLIGHTS
+      id: infobar
+      button: Find out more here
+      url: /let-s-be-g-r-e-e-n/
 ---
