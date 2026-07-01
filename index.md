@@ -170,4 +170,10 @@ sections:
       description: Celebrating Character in Action
       button: Find out more here
       url: /ray-of-regent-semester-1-celebrating-character-in-action/
+  - infobar:
+      title: Learning Journey to ITE College West
+      subtitle: HIGHLIGHTS
+      id: infobar
+      button: Find out more here
+      url: /learning-journey-to-ite-college-west/
 ---
