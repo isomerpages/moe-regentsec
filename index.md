@@ -182,4 +182,11 @@ sections:
       id: infobar
       button: Find out more here
       url: /let-s-be-g-r-e-e-n/
+  - infobar:
+      title: CCA Awards Presentation
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: Infobar description
+      button: Find out more here
+      url: /cca-awards-presentation/
 ---
