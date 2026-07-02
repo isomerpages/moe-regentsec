@@ -186,7 +186,6 @@ sections:
       title: CCA Awards Presentation
       subtitle: HIGHLIGHTS
       id: infobar
-      description: Infobar description
       button: Find out more here
       url: /cca-awards-presentation/
 ---
