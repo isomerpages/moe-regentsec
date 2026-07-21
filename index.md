@@ -188,4 +188,12 @@ sections:
       id: infobar
       button: Find out more here
       url: /cca-awards-presentation/
+  - infobar:
+      title: NorthWest Outstanding School Partner Award (Gold)
+      subtitle: Highlights
+      id: infobar
+      description: Regent Secondary School Receives NorthWest Outstanding School
+        Partner Award (Gold)
+      button: Find out more here
+      url: /regent-secondary-school-receives-northwest-outstanding-school-partner-award-gold/
 ---
