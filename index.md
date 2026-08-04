@@ -196,4 +196,11 @@ sections:
         Partner Award (Gold)
       button: Find out more here
       url: /regent-secondary-school-receives-northwest-outstanding-school-partner-award-gold/
+  - infobar:
+      title: Secondary 1 Cohort Camp 2026
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: Building Resilience Through Adventure
+      button: Find out more here
+      url: /secondary-1-cohort-camp-2026-building-resilience-through-adventure/
 ---
