@@ -203,4 +203,11 @@ sections:
       description: Building Resilience Through Adventure
       button: Find out more here
       url: /secondary-1-cohort-camp-2026-building-resilience-through-adventure/
+  - infobar:
+      title: Secondary 4 and 5 Ultimate Frisbee Sports Fiesta!
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: On 3 July, our Secondary 4 and 5 students...
+      button: Find out more here
+      url: /secondary-4-and-5-ultimate-frisbee-sports-fiesta/
 ---
