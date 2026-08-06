@@ -210,4 +210,11 @@ sections:
       description: On 3 July, our Secondary 4 and 5 students...
       button: Find out more here
       url: /secondary-4-and-5-ultimate-frisbee-sports-fiesta/
+  - infobar:
+      title: Racial Harmony Day 2026
+      subtitle: HIGHLIGHTS
+      id: infobar
+      description: As part of this year’s Racial Harmony Day ...
+      button: Find out more here
+      url: /racial-harmony-day-2026/
 ---
